@@ -1334,6 +1334,292 @@
       "Icon": "UIs/01_Common/40_Gear/Gear_Icon_20015",
       "LocalizeEtcId": 2395802552,
       "Tags": []
+    },
+    {
+      "Id": 203300,
+      "CharacterId": 10066,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 203301,
+      "RecipeId": 10066400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        9
+      ],
+      "MinStatValue": [
+        260
+      ],
+      "MaxStatValue": [
+        260
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_10066",
+      "LocalizeEtcId": 1620828120,
+      "Tags": []
+    },
+    {
+      "Id": 203301,
+      "CharacterId": 10066,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_10066",
+      "LocalizeEtcId": 1620828120,
+      "Tags": []
+    },
+    {
+      "Id": 203400,
+      "CharacterId": 10004,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 203401,
+      "RecipeId": 10004400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        50
+      ],
+      "MinStatValue": [
+        2000
+      ],
+      "MaxStatValue": [
+        2000
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_10004",
+      "LocalizeEtcId": 375503055,
+      "Tags": []
+    },
+    {
+      "Id": 203401,
+      "CharacterId": 10004,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_10004",
+      "LocalizeEtcId": 375503055,
+      "Tags": []
+    },
+    {
+      "Id": 203500,
+      "CharacterId": 10005,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 203501,
+      "RecipeId": 10005400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        27
+      ],
+      "MinStatValue": [
+        2000
+      ],
+      "MaxStatValue": [
+        2000
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_10005",
+      "LocalizeEtcId": 4285150101,
+      "Tags": []
+    },
+    {
+      "Id": 203501,
+      "CharacterId": 10005,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_10005",
+      "LocalizeEtcId": 4285150101,
+      "Tags": []
+    },
+    {
+      "Id": 203600,
+      "CharacterId": 13001,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 203601,
+      "RecipeId": 13001400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        3
+      ],
+      "MinStatValue": [
+        500
+      ],
+      "MaxStatValue": [
+        500
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_13001",
+      "LocalizeEtcId": 172883371,
+      "Tags": []
+    },
+    {
+      "Id": 203601,
+      "CharacterId": 13001,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_13001",
+      "LocalizeEtcId": 172883371,
+      "Tags": []
+    },
+    {
+      "Id": 999000,
+      "CharacterId": 19018,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 999001,
+      "RecipeId": 13004400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        3,
+        9
+      ],
+      "MinStatValue": [
+        800,
+        300
+      ],
+      "MaxStatValue": [
+        800,
+        300
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_19018",
+      "LocalizeEtcId": 397330875,
+      "Tags": []
+    },
+    {
+      "Id": 999001,
+      "CharacterId": 19018,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_19018",
+      "LocalizeEtcId": 397330875,
+      "Tags": []
+    },
+    {
+      "Id": 999100,
+      "CharacterId": 19019,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 999101,
+      "RecipeId": 10065400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        3,
+        30
+      ],
+      "MinStatValue": [
+        250,
+        40
+      ],
+      "MaxStatValue": [
+        250,
+        40
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_19019",
+      "LocalizeEtcId": 2793641215,
+      "Tags": []
+    },
+    {
+      "Id": 999101,
+      "CharacterId": 19019,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_19019",
+      "LocalizeEtcId": 2793641215,
+      "Tags": []
+    },
+    {
+      "Id": 999200,
+      "CharacterId": 19020,
+      "StatLevelUpType": 0,
+      "Tier": 1,
+      "NextTierEquipment": 999201,
+      "RecipeId": 10041400,
+      "OpenFavorLevel": 15,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "None",
+      "StatType": [
+        7
+      ],
+      "MinStatValue": [
+        500
+      ],
+      "MaxStatValue": [
+        500
+      ],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_19020",
+      "LocalizeEtcId": 2456104963,
+      "Tags": []
+    },
+    {
+      "Id": 999201,
+      "CharacterId": 19020,
+      "StatLevelUpType": 0,
+      "Tier": 2,
+      "NextTierEquipment": 0,
+      "RecipeId": 0,
+      "OpenFavorLevel": 20,
+      "MaxLevel": 1,
+      "LearnSkillSlot": "PublicSkill01",
+      "StatType": [],
+      "MinStatValue": [],
+      "MaxStatValue": [],
+      "Icon": "UIs/01_Common/40_Gear/Gear_Icon_19020",
+      "LocalizeEtcId": 2456104963,
+      "Tags": []
     }
   ]
 }

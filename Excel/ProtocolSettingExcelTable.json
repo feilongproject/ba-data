@@ -2148,6 +2148,27 @@
       "Currency": true,
       "Inventory": true,
       "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_DefenseGetInfo",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_DefenseEnterBattle",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_DefenseBattleResult",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     }
   ]
 }

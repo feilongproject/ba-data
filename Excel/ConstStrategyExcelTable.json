@@ -25,10 +25,11 @@
       "TacticSkipFramePerSecond": 1000,
       "ConquestEchelonCount": 4,
       "StoryEchelonCount": 4,
-      "MultiSweepPresetCount": 4,
-      "MultiSweepPresetNameMaxLength": 20,
-      "MultiSweepPresetSelectStageMaxCount": 1740152457,
-      "MultiSweepPresetMaxSweepCount": 1740152457
+      "MultiSweepPresetCount": 7,
+      "MultiSweepPresetNameMaxLength": 8,
+      "MultiSweepPresetSelectStageMaxCount": 20,
+      "MultiSweepPresetMaxSweepCount": 99,
+      "MultiSweepPresetSelectParcelMaxCount": 3
     }
   ]
 }

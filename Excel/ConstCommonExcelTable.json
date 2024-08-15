@@ -179,9 +179,9 @@
       "PotentialBonusStatMaxLevelAttackPower": 25,
       "PotentialBonusStatMaxLevelHealPower": 25,
       "PotentialOpenConditionCharacterLevel": 90,
-      "AssistStrangerMinLevel": 1076474163,
-      "AssistStrangerMaxLevel": 1076474163,
-      "MaxBlockedUserCount": 1076474163
+      "AssistStrangerMinLevel": 80,
+      "AssistStrangerMaxLevel": 90,
+      "MaxBlockedUserCount": 30
     }
   ]
 }

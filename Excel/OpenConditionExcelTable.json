@@ -1304,6 +1304,31 @@
       "CafeRank": 0,
       "ContentsOpenShow": true,
       "ContentsOpenShortcutUI": ""
+    },
+    {
+      "OpenConditionContentType": 56,
+      "LockUI": [],
+      "ShortcutPopupPriority": 52,
+      "ShortcutUIName": [
+        "UILobby",
+        "UIEventLobby"
+      ],
+      "ShortcutParam": 838,
+      "Scene": "Lobby",
+      "HideWhenLocked": true,
+      "AccountLevel": 1,
+      "ScenarioModeId": 0,
+      "CampaignStageId": 8381311,
+      "MultipleConditionCheckType": 0,
+      "OpenDayOfWeek": 7,
+      "OpenHour": 0,
+      "CloseDayOfWeek": 7,
+      "CloseHour": 24,
+      "OpenedCafeId": 0,
+      "CafeIdforCafeRank": 0,
+      "CafeRank": 0,
+      "ContentsOpenShow": true,
+      "ContentsOpenShortcutUI": ""
     }
   ]
 }

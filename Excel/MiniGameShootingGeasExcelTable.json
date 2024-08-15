@@ -129,6 +129,36 @@
       "GeasData": "Minigame/Shooting/Geas/Geas_Heal",
       "NeedGeasId": 0,
       "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 14,
+      "GeasType": 11,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_MoveUp",
+      "Probability": 1,
+      "MaxOverlapCount": 2,
+      "GeasData": "Minigame/Shooting/Geas/Geas_MoveSpeed",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 15,
+      "GeasType": 12,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_LifeSteal",
+      "Probability": 1,
+      "MaxOverlapCount": 2,
+      "GeasData": "Minigame/Shooting/Geas/Geas_LifeSteal",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 16,
+      "GeasType": 13,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Evasion",
+      "Probability": 1,
+      "MaxOverlapCount": 2,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Evasion",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
     }
   ]
 }

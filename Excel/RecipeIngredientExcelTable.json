@@ -1974,6 +1974,35 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 707,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        150000
+      ],
+      "IngredientParcelType": [
+        3,
+        3,
+        3
+      ],
+      "IngredientId": [
+        107008,
+        107006,
+        107005
+      ],
+      "IngredientAmount": [
+        50,
+        15,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 800,
       "RecipeType": 4,
       "CostParcelType": [
@@ -2162,6 +2191,35 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 807,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        150000
+      ],
+      "IngredientParcelType": [
+        3,
+        3,
+        3
+      ],
+      "IngredientId": [
+        108008,
+        108006,
+        108005
+      ],
+      "IngredientAmount": [
+        50,
+        15,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 900,
       "RecipeType": 4,
       "CostParcelType": [
@@ -2346,6 +2404,35 @@
         40,
         15,
         5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 907,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        150000
+      ],
+      "IngredientParcelType": [
+        3,
+        3,
+        3
+      ],
+      "IngredientId": [
+        109008,
+        109006,
+        109005
+      ],
+      "IngredientAmount": [
+        50,
+        15,
+        10
       ],
       "CostTimeInSecond": 0
     },
@@ -3540,6 +3627,74 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 10094,
+      "RecipeType": 1,
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095,
+      "RecipeType": 1,
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096,
+      "RecipeType": 1,
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097,
+      "RecipeType": 1,
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 13000,
       "RecipeType": 1,
       "CostParcelType": [],
@@ -4349,6 +4504,40 @@
       ],
       "IngredientId": [
         20035
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036,
+      "RecipeType": 1,
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037,
+      "RecipeType": 1,
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
       ],
       "IngredientAmount": [
         120
@@ -7329,6 +7518,35 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 10004400,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        5019,
+        180,
+        181
+      ],
+      "IngredientAmount": [
+        4,
+        80,
+        25
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 10005000,
       "RecipeType": 3,
       "CostParcelType": [
@@ -7857,6 +8075,35 @@
       ],
       "IngredientAmount": [
         1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10005400,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        5017,
+        100,
+        101
+      ],
+      "IngredientAmount": [
+        4,
+        80,
+        25
       ],
       "CostTimeInSecond": 0
     },
@@ -40777,6 +41024,35 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 10066400,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        5025,
+        130,
+        131
+      ],
+      "IngredientAmount": [
+        4,
+        80,
+        25
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 10067000,
       "RecipeType": 3,
       "CostParcelType": [
@@ -55213,6 +55489,4262 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 10094000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3050,
+        280
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3051,
+        3050,
+        281,
+        170
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        14,
+        32
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3052,
+        3051,
+        282,
+        171
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        10,
+        27
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3053,
+        3052,
+        283,
+        172
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        7,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4050
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4050
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4051,
+        4050,
+        280
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4051,
+        281,
+        170
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        12
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4052,
+        4051,
+        281,
+        170
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4052,
+        282,
+        171
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4053,
+        4052,
+        283,
+        172
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        11
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4053,
+        283,
+        172
+      ],
+      "IngredientAmount": [
+        12,
+        8,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10094303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10094
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3050,
+        110
+      ],
+      "IngredientAmount": [
+        12,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3051,
+        3050,
+        111,
+        260
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        31
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3052,
+        3051,
+        112,
+        261
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        10,
+        26
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3053,
+        3052,
+        113,
+        262
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        8,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4050
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4050
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4051,
+        4050,
+        110
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4051,
+        111,
+        260
+      ],
+      "IngredientAmount": [
+        8,
+        6,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4052,
+        4051,
+        111,
+        260
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        10,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4052,
+        112,
+        261
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4053,
+        4052,
+        113,
+        262
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4053,
+        113,
+        262
+      ],
+      "IngredientAmount": [
+        12,
+        8,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10095303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10095
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3080,
+        220
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3081,
+        3080,
+        221,
+        120
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        34
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3082,
+        3081,
+        222,
+        121
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        10,
+        24
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3083,
+        3082,
+        223,
+        122
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        9,
+        20
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        4080,
+        220
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        6
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        221,
+        120
+      ],
+      "IngredientAmount": [
+        8,
+        6,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        4081,
+        221,
+        120
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        8,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        222,
+        121
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        4082,
+        223,
+        122
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        223,
+        122
+      ],
+      "IngredientAmount": [
+        12,
+        6,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10096303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10096
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3080,
+        210
+      ],
+      "IngredientAmount": [
+        12,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3081,
+        3080,
+        211,
+        140
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        11,
+        32
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3082,
+        3081,
+        212,
+        141
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        11,
+        27
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3083,
+        3082,
+        213,
+        142
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        8,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        4080,
+        210
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        211,
+        140
+      ],
+      "IngredientAmount": [
+        8,
+        7,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        4081,
+        211,
+        140
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        212,
+        141
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        4082,
+        213,
+        142
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        11
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        213,
+        142
+      ],
+      "IngredientAmount": [
+        12,
+        8,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10097303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10097
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3040,
+        100
+      ],
+      "IngredientAmount": [
+        12,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3041,
+        3040,
+        101,
+        280
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        14,
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3042,
+        3041,
+        102,
+        281
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        11,
+        24
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3043,
+        3042,
+        103,
+        282
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        11,
+        20
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4040
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4040
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4041,
+        4040,
+        100
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        6
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4041,
+        101,
+        280
+      ],
+      "IngredientAmount": [
+        8,
+        7,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4042,
+        4041,
+        101,
+        280
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        8,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4042,
+        102,
+        281
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4043,
+        4042,
+        103,
+        282
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4043,
+        103,
+        282
+      ],
+      "IngredientAmount": [
+        12,
+        7,
+        12
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10098303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10098
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3040,
+        260
+      ],
+      "IngredientAmount": [
+        12,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3041,
+        3040,
+        261,
+        200
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        13,
+        33
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3042,
+        3041,
+        262,
+        201
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        14,
+        29
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3043,
+        3042,
+        263,
+        202
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        10,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4040
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4040
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4041,
+        4040,
+        260
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4041,
+        261,
+        200
+      ],
+      "IngredientAmount": [
+        8,
+        6,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4042,
+        4041,
+        261,
+        200
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4042,
+        262,
+        201
+      ],
+      "IngredientAmount": [
+        8,
+        2,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4043,
+        4042,
+        263,
+        202
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        6,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4043,
+        263,
+        202
+      ],
+      "IngredientAmount": [
+        12,
+        6,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10100303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10100
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3060,
+        250
+      ],
+      "IngredientAmount": [
+        12,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3061,
+        3060,
+        251,
+        210
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        13,
+        34
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3062,
+        3061,
+        252,
+        211
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        13,
+        24
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3063,
+        3062,
+        253,
+        212
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        11,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4060
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4060
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4061,
+        4060,
+        250
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4061,
+        251,
+        210
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4062,
+        4061,
+        251,
+        210
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        8,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4062,
+        252,
+        211
+      ],
+      "IngredientAmount": [
+        8,
+        2,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4063,
+        4062,
+        253,
+        212
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        7,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4063,
+        253,
+        212
+      ],
+      "IngredientAmount": [
+        12,
+        5,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10101303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10101
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3060,
+        190
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3061,
+        3060,
+        191,
+        240
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        16,
+        31
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3062,
+        3061,
+        192,
+        241
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        26
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3063,
+        3062,
+        193,
+        242
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        8,
+        25
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4060
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4060
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4061,
+        4060,
+        190
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4061,
+        191,
+        240
+      ],
+      "IngredientAmount": [
+        8,
+        6,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4062,
+        4061,
+        191,
+        240
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4062,
+        192,
+        241
+      ],
+      "IngredientAmount": [
+        8,
+        4,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4063,
+        4062,
+        193,
+        242
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        6,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4063,
+        193,
+        242
+      ],
+      "IngredientAmount": [
+        12,
+        6,
+        12
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10102303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        10102
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 13000000,
       "RecipeType": 3,
       "CostParcelType": [
@@ -56273,6 +60805,35 @@
       ],
       "IngredientAmount": [
         1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 13001400,
+      "RecipeType": 4,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        5023,
+        190,
+        191
+      ],
+      "IngredientAmount": [
+        4,
+        80,
+        25
       ],
       "CostTimeInSecond": 0
     },
@@ -90680,6 +95241,1070 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 20036000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3040,
+        160
+      ],
+      "IngredientAmount": [
+        12,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3041,
+        3040,
+        161,
+        230
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        13,
+        32
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3042,
+        3041,
+        162,
+        231
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        11,
+        24
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3043,
+        3042,
+        163,
+        232
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        11,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4040
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4040
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4041,
+        4040,
+        160
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4041,
+        161,
+        230
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4042,
+        4041,
+        161,
+        230
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4042,
+        162,
+        231
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4043,
+        4042,
+        163,
+        232
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4043,
+        163,
+        232
+      ],
+      "IngredientAmount": [
+        12,
+        7,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20036303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20036
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3080,
+        150
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3081,
+        3080,
+        151,
+        290
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        15,
+        33
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3082,
+        3081,
+        152,
+        291
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        22
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3083,
+        3082,
+        153,
+        292
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        11,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        4080,
+        150
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        151,
+        290
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        4081,
+        151,
+        290
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        152,
+        291
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        4082,
+        153,
+        292
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        153,
+        292
+      ],
+      "IngredientAmount": [
+        12,
+        6,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 20037303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        20037
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 23000000,
       "RecipeType": 3,
       "CostParcelType": [
@@ -101997,6 +107622,1070 @@
       ],
       "IngredientId": [
         26011
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3080,
+        270
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3081,
+        3080,
+        271,
+        130
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        14,
+        26
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3082,
+        3081,
+        272,
+        131
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        10,
+        27
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3083,
+        3082,
+        273,
+        132
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        10,
+        23
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4080
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        4080,
+        270
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        6
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4081,
+        271,
+        130
+      ],
+      "IngredientAmount": [
+        8,
+        6,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        4081,
+        271,
+        130
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4082,
+        272,
+        131
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        4082,
+        273,
+        132
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4083,
+        273,
+        132
+      ],
+      "IngredientAmount": [
+        12,
+        6,
+        11
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26012303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26012
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013000,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013001,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013002,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013003,
+      "RecipeType": 3,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013100,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        4,
+        4
+      ],
+      "IngredientId": [
+        3060,
+        160
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013101,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3061,
+        3060,
+        161,
+        270
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        28
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013102,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3062,
+        3061,
+        162,
+        271
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        25
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013103,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        3063,
+        3062,
+        163,
+        272
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        11,
+        21
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013200,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4060
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013201,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        4060
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013202,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4061,
+        4060,
+        160
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013203,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4061,
+        161,
+        270
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013204,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4062,
+        4061,
+        161,
+        270
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013205,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4062,
+        162,
+        271
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013206,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4063,
+        4062,
+        163,
+        272
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013207,
+      "RecipeType": 2,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        4,
+        4,
+        4
+      ],
+      "IngredientId": [
+        4063,
+        163,
+        272
+      ],
+      "IngredientAmount": [
+        12,
+        7,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013300,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013301,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        180
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013302,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2000000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
+      ],
+      "IngredientAmount": [
+        1
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26013303,
+      "RecipeType": 7,
+      "CostParcelType": [
+        2
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2500000
+      ],
+      "IngredientParcelType": [
+        4
+      ],
+      "IngredientId": [
+        26013
       ],
       "IngredientAmount": [
         1

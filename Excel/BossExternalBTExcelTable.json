@@ -80059,6 +80059,106 @@
       "BehaviorRate": 10000,
       "ExternalBehavior": 1,
       "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 7,
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 5,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 1,
+      "TriggerArgument": "1000000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "5"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "4",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "6",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "8",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "10",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "2"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "12",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "3"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "14",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "4"
+    },
+    {
+      "ExternalBTId": 795006901,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "0"
     }
   ]
 }

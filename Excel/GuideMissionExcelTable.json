@@ -21080,6 +21080,1402 @@
       ]
     },
     {
+      "SeasonId": 14,
+      "Id": 1001500,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 0,
+      "PreMissionId": [],
+      "Description": 1571451519,
+      "ToastDisplayType": 0,
+      "ToastImagePath": "",
+      "ShortcutUI": [],
+      "CompleteConditionType": 57,
+      "CompleteConditionCount": 100,
+      "CompleteConditionParameter": [
+        20000012
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4
+      ],
+      "MissionRewardParcelId": [
+        6999
+      ],
+      "MissionRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001510,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 1,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13080"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13080
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190000
+      ],
+      "MissionRewardAmount": [
+        6,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001511,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 1,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 600,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190020
+      ],
+      "MissionRewardAmount": [
+        3,
+        45
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001512,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 1,
+      "PreMissionId": [],
+      "Description": 2069937846,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIAcademyLobby"
+      ],
+      "CompleteConditionType": 31,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        1201
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        11
+      ],
+      "MissionRewardAmount": [
+        2,
+        40
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001513,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 1,
+      "PreMissionId": [],
+      "Description": 4193814424,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UICraftDurationList"
+      ],
+      "CompleteConditionType": 33,
+      "CompleteConditionCount": 2,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        2,
+        750000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001514,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 1,
+      "PreMissionId": [],
+      "Description": 3475540373,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 5,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        16
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190020
+      ],
+      "MissionRewardAmount": [
+        3,
+        20
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001515,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 1,
+      "PreMissionId": [],
+      "Description": 4023893746,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 10,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        19
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190010
+      ],
+      "MissionRewardAmount": [
+        3,
+        15
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001520,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 2,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13090"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13090
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190000
+      ],
+      "MissionRewardAmount": [
+        6,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001521,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 2,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 1200,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        3
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        3,
+        40
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001522,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 2,
+      "PreMissionId": [],
+      "Description": 3452893853,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 67,
+      "CompleteConditionCount": 40,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        11
+      ],
+      "MissionRewardAmount": [
+        2,
+        40
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001523,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 2,
+      "PreMissionId": [],
+      "Description": 4209844389,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 68,
+      "CompleteConditionCount": 3,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        3,
+        700000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001524,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 2,
+      "PreMissionId": [],
+      "Description": 4264426149,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 81,
+      "CompleteConditionCount": 30,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        183
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190020
+      ],
+      "MissionRewardAmount": [
+        3,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001525,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 2,
+      "PreMissionId": [],
+      "Description": 1545941897,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|WeekDungeon",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 100,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        17
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190010
+      ],
+      "MissionRewardAmount": [
+        3,
+        15
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001530,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 3,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13100"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13100
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190001
+      ],
+      "MissionRewardAmount": [
+        7,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001531,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 3,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 1800,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190021
+      ],
+      "MissionRewardAmount": [
+        3,
+        40
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001532,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 3,
+      "PreMissionId": [],
+      "Description": 433784219,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIAcademyLobby"
+      ],
+      "CompleteConditionType": 31,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        7201
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        11
+      ],
+      "MissionRewardAmount": [
+        2,
+        40
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001533,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 3,
+      "PreMissionId": [],
+      "Description": 2400906688,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UISchoolDungeonStageSelect|60101"
+      ],
+      "CompleteConditionType": 99,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        60101
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        2,
+        750000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001534,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 3,
+      "PreMissionId": [],
+      "Description": 3475540373,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 10,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        16
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        3
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        3,
+        50
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001535,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 3,
+      "PreMissionId": [],
+      "Description": 4023893746,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 20,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        19
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190011
+      ],
+      "MissionRewardAmount": [
+        3,
+        15
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001540,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 4,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13110"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13110
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190001
+      ],
+      "MissionRewardAmount": [
+        7,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001541,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 4,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 2400,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        3
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        2
+      ],
+      "MissionRewardAmount": [
+        3,
+        30
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001542,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 4,
+      "PreMissionId": [],
+      "Description": 3452893853,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 67,
+      "CompleteConditionCount": 80,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        12
+      ],
+      "MissionRewardAmount": [
+        2,
+        50
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001543,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 4,
+      "PreMissionId": [],
+      "Description": 4209844389,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 68,
+      "CompleteConditionCount": 6,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        3,
+        650000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001544,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 4,
+      "PreMissionId": [],
+      "Description": 4264426149,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 81,
+      "CompleteConditionCount": 50,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        183
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190021
+      ],
+      "MissionRewardAmount": [
+        3,
+        40
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001545,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 4,
+      "PreMissionId": [],
+      "Description": 1217015170,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIShop"
+      ],
+      "CompleteConditionType": 81,
+      "CompleteConditionCount": 30,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        340
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190011
+      ],
+      "MissionRewardAmount": [
+        3,
+        15
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001550,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 5,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13120"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13120
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190002
+      ],
+      "MissionRewardAmount": [
+        7,
+        13
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001551,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 5,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 3000,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190022
+      ],
+      "MissionRewardAmount": [
+        3,
+        10
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001552,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 5,
+      "PreMissionId": [],
+      "Description": 4261231844,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIAcademyLobby"
+      ],
+      "CompleteConditionType": 31,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        173001
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        12
+      ],
+      "MissionRewardAmount": [
+        2,
+        50
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001553,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 5,
+      "PreMissionId": [],
+      "Description": 2400906688,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UISchoolDungeonStageSelect|60201"
+      ],
+      "CompleteConditionType": 99,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        60201
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        2,
+        750000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001554,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 5,
+      "PreMissionId": [],
+      "Description": 3475540373,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 15,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        16
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190022
+      ],
+      "MissionRewardAmount": [
+        3,
+        10
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001555,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 5,
+      "PreMissionId": [],
+      "Description": 4023893746,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 30,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        19
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        3
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        2
+      ],
+      "MissionRewardAmount": [
+        3,
+        45
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001560,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 6,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13140"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13140
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190002
+      ],
+      "MissionRewardAmount": [
+        8,
+        13
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001561,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 6,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 3600,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        3
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        3
+      ],
+      "MissionRewardAmount": [
+        4,
+        30
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001562,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 6,
+      "PreMissionId": [],
+      "Description": 3452893853,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 67,
+      "CompleteConditionCount": 100,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        13
+      ],
+      "MissionRewardAmount": [
+        2,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001563,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 6,
+      "PreMissionId": [],
+      "Description": 4209844389,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 68,
+      "CompleteConditionCount": 9,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        4,
+        700000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001564,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 6,
+      "PreMissionId": [],
+      "Description": 4264426149,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 81,
+      "CompleteConditionCount": 70,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        183
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190022
+      ],
+      "MissionRewardAmount": [
+        4,
+        10
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001565,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 6,
+      "PreMissionId": [],
+      "Description": 3085211015,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UISchoolDungeonLobby",
+        "UIShop"
+      ],
+      "CompleteConditionType": 81,
+      "CompleteConditionCount": 50,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        341
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190012
+      ],
+      "MissionRewardAmount": [
+        4,
+        6
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001570,
+      "Category": 4,
+      "IsLegacy": false,
+      "TabNumber": 7,
+      "PreMissionId": [],
+      "Description": 2597267329,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIScenarioMode_Volume|13160"
+      ],
+      "CompleteConditionType": 56,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        13160
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        3
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        3
+      ],
+      "MissionRewardAmount": [
+        8,
+        30
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001571,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 7,
+      "PreMissionId": [],
+      "Description": 1282336120,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIStageSelect"
+      ],
+      "CompleteConditionType": 96,
+      "CompleteConditionCount": 4200,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190022
+      ],
+      "MissionRewardAmount": [
+        4,
+        15
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001572,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 7,
+      "PreMissionId": [],
+      "Description": 3588207920,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIAcademyLobby"
+      ],
+      "CompleteConditionType": 31,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        12301
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        13
+      ],
+      "MissionRewardAmount": [
+        2,
+        25
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001573,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 7,
+      "PreMissionId": [],
+      "Description": 2400906688,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UISchoolDungeonStageSelect|60301"
+      ],
+      "CompleteConditionType": 99,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        60301
+      ],
+      "CompleteConditionParameterTag": [],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        2
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        1
+      ],
+      "MissionRewardAmount": [
+        2,
+        700000
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001574,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 7,
+      "PreMissionId": [],
+      "Description": 3475540373,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 20,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        16
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190022
+      ],
+      "MissionRewardAmount": [
+        4,
+        15
+      ]
+    },
+    {
+      "SeasonId": 14,
+      "Id": 1001575,
+      "Category": 4,
+      "IsLegacy": true,
+      "TabNumber": 7,
+      "PreMissionId": [],
+      "Description": 4023893746,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ShortcutUI": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "CompleteConditionType": 79,
+      "CompleteConditionCount": 40,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [
+        19
+      ],
+      "IsAutoClearForScenario": true,
+      "MissionRewardParcelType": [
+        4,
+        4
+      ],
+      "MissionRewardParcelId": [
+        20000012,
+        190012
+      ],
+      "MissionRewardAmount": [
+        4,
+        6
+      ]
+    },
+    {
       "SeasonId": 1001,
       "Id": 1001300,
       "Category": 4,
@@ -21206,7 +22602,7 @@
       "SeasonId": 1001,
       "Id": 1001313,
       "Category": 4,
-      "IsLegacy": false,
+      "IsLegacy": true,
       "TabNumber": 1,
       "PreMissionId": [],
       "Description": 3993341962,
@@ -21221,7 +22617,7 @@
         1042101
       ],
       "CompleteConditionParameterTag": [],
-      "IsAutoClearForScenario": false,
+      "IsAutoClearForScenario": true,
       "MissionRewardParcelType": [
         4,
         4
@@ -21660,7 +23056,7 @@
       "SeasonId": 1001,
       "Id": 1001333,
       "Category": 4,
-      "IsLegacy": true,
+      "IsLegacy": false,
       "TabNumber": 3,
       "PreMissionId": [],
       "Description": 3993341962,
@@ -21675,7 +23071,7 @@
         1052101
       ],
       "CompleteConditionParameterTag": [],
-      "IsAutoClearForScenario": true,
+      "IsAutoClearForScenario": false,
       "MissionRewardParcelType": [
         4,
         4

@@ -138,7 +138,21 @@ enum Club : int {
     LaborParty,
     KnowledgeLiberationFront,
     Hyakkayouran,
-    ShinySparkleSociety
+    ShinySparkleSociety,
+    AbydosStudentCouncil
+}
+enum CollectionUnlockType : int {
+    None,
+    ClearSpecificEventStage,
+    ClearSpecificEventScenario,
+    ClearSpecificEventMission,
+    PurchaseSpecificItemCount,
+    SpecificEventLocationRank,
+    DiceRaceConsumeDiceCount,
+    MinigameTBGThemaClear,
+    MinigameEnter,
+    MinigameDreamMakerParameter,
+    ClearSpecificScenario
 }
 enum ConquestEnemyType : int {
     None,
@@ -204,7 +218,8 @@ enum ContentType : int {
     EliminateRaid,
     Chaser,
     FieldContentStage,
-    MultiFloorRaid
+    MultiFloorRaid,
+    MinigameDefense
 }
 enum CraftNodeTier : int {
     Base,
@@ -334,7 +349,8 @@ enum DialogCategory : int {
     UIAttendanceEvent16,
     UIEventTreasure,
     UIMultiFloorRaid,
-    UIEventMiniGameDreamMaker
+    UIEventMiniGameDreamMaker,
+    UIAttendanceEvent17
 }
 enum Difficulty : int {
     Normal,
@@ -374,7 +390,8 @@ enum EchelonType : int {
     EliminateRaid02,
     EliminateRaid03,
     Field,
-    MultiFloorRaid
+    MultiFloorRaid,
+    MinigameDefense
 }
 enum EffectBone : int {
     None,
@@ -444,18 +461,6 @@ enum EquipmentCategory : int {
 enum EventChangeType : int {
     MainSub,
     SubMain
-}
-enum EventCollectionUnlockType : int {
-    None,
-    ClearSpecificEventStage,
-    ClearSpecificEventScenario,
-    ClearSpecificEventMission,
-    PurchaseSpecificItemCount,
-    SpecificEventLocationRank,
-    DiceRaceConsumeDiceCount,
-    MinigameTBGThemaClear,
-    MinigameEnter,
-    MinigameDreamMakerParameter
 }
 enum EventContentBuffFindRule : int {
     None,
@@ -546,7 +551,8 @@ enum EventContentType : int {
     Treasure,
     Field,
     MultiFloorRaid,
-    MinigameDreamMaker
+    MinigameDreamMaker,
+    MiniGameDefense
 }
 enum EventTargetType : int {
     WeekDungeon,
@@ -854,7 +860,9 @@ enum MailType : int {
     Temp_2,
     Temp_3,
     CouponCompleteReward,
-    BirthdayMail
+    BirthdayMail,
+    FromCS,
+    ExpiryChangeCurrency
 }
 enum MeetupConditionPrintType : int {
     None,
@@ -1050,7 +1058,11 @@ enum MissionCompleteConditionType : int {
     Reset_DreamGetScheduleCount,
     Reset_DreamGetEndingCount,
     Reset_DreamGetSpecificEndingCount,
-    Reset_DreamGetCollectionScenarioCount
+    Reset_DreamGetCollectionScenarioCount,
+    Reset_ClearCountDefense,
+    Reset_ClearSpecificDefenseStage,
+    Reset_ClearCharacterLimitDefense,
+    Reset_ClearTimeLimitDefenseFromSecond
 }
 enum MissionResetType : int {
     None,
@@ -1123,7 +1135,8 @@ enum OpenConditionContent : int {
     Cafe_Invite_2,
     MultiFloorRaid,
     StrategySkip,
-    MinigameDreamMaker
+    MinigameDreamMaker,
+    MiniGameDefense
 }
 enum ParcelType : int {
     None,
@@ -4653,7 +4666,8 @@ enum WeaponType : int {
     Binah,
     MT,
     Relic,
-    FT
+    FT,
+    Akemi
 }
 enum WeekDay : int {
     Sunday,
@@ -4899,12 +4913,13 @@ table CharacterSkillListExcel {
     FormIndex: int;
     IsRootMotion: bool;
     IsMoveLeftRight: bool;
-    UseRandomAnimation: bool;
+    UseRandomExSkillTimeline: bool;
     TSAInteractionId: long;
     NormalSkillGroupId: [string];
     NormalSkillTimeLineIndex: [int];
     ExSkillGroupId: [string];
-    ExSkillTimeLineIndex: [int];
+    ExSkillCutInTimeLineIndex: [string];
+    ExSkillLevelTimeLineIndex: [string];
     PublicSkillGroupId: [string];
     PublicSkillTimeLineIndex: [int];
     PassiveSkillGroupId: [string];
@@ -4926,6 +4941,7 @@ table CharacterTranscendenceExcel {
     RecipeId: [long];
     SkillSlotA: [string];
     SkillSlotB: [string];
+    SkillSlotC: [string];
     MaxlevelStar: [int];
 }
 table CharacterVictoryInteractionExcel {
@@ -5773,6 +5789,12 @@ table ObstacleStatExcel {
     Dodge: long;
     CanNotStandRange: long;
     HighlightFloaterHeight: float;
+    EnhanceLightArmorRate: long;
+    EnhanceHeavyArmorRate: long;
+    EnhanceUnarmedRate: long;
+    EnhanceElasticArmorRate: long;
+    EnhanceStructureRate: long;
+    EnhanceNormalArmorRate: long;
 }
 table PersonalityExcel {
     Id: long;
@@ -6112,6 +6134,13 @@ table ArenaSeasonCloseRewardExcelTable {
 }
 table ArenaSeasonExcelTable {
     DataList: [ArenaSeasonExcel];
+}
+table AssistEchelonTypeConvertExcel {
+    Contents: EchelonType;
+    ConvertTo: EchelonType;
+}
+table AssistEchelonTypeConvertExcelTable {
+    DataList: [AssistEchelonTypeConvertExcel];
 }
 table AttendanceExcel {
     Id: long;
@@ -7116,6 +7145,7 @@ table ConstStrategyExcel {
     MultiSweepPresetNameMaxLength: int;
     MultiSweepPresetSelectStageMaxCount: int;
     MultiSweepPresetMaxSweepCount: int;
+    MultiSweepPresetSelectParcelMaxCount: int;
 }
 table ConstStrategyExcelTable {
     DataList: [ConstStrategyExcel];
@@ -7164,6 +7194,7 @@ table CostumeExcel {
     TextureDir: string;
     CollectionTexturePath: string;
     CollectionBGTexturePath: string;
+    CombatStyleTexturePath: string;
     UseObjectHPBAR: bool;
     TextureBoss: string;
     TextureSkillCard: [string];
@@ -7172,6 +7203,7 @@ table CostumeExcel {
     EnterStrategyAnimationName: string;
     AnimationValidator: bool;
     CharacterVoiceGroupId: long;
+    ShowObjectHpStatus: bool;
 }
 table CostumeExcelTable {
     DataList: [CostumeExcel];
@@ -7203,6 +7235,11 @@ table CurrencyExcel {
     DailyRefillType: DailyRefillType;
     DailyRefillAmount: long;
     DailyRefillTime: [long];
+    ExpirationDateTime: string;
+    ExpirationNotifyDateIn: int;
+    ExpiryChangeParcelType: ParcelType;
+    ExpiryChangeId: long;
+    ExpiryChangeAmount: long;
 }
 table CurrencyExcelTable {
     DataList: [CurrencyExcel];
@@ -7488,11 +7525,12 @@ table EventContentCollectionExcel {
     Id: long;
     EventContentId: long;
     GroupId: long;
-    UnlockConditionType: EventCollectionUnlockType;
+    UnlockConditionType: CollectionUnlockType;
     UnlockConditionParameter: [long];
     MultipleConditionCheckType: MultipleConditionCheckType;
     UnlockConditionCount: long;
     IsObject: bool;
+    IsObjectOnFullResource: bool;
     IsHorizon: bool;
     EmblemResource: string;
     ThumbResource: string;
@@ -8239,6 +8277,7 @@ table GroundExcel {
     BeforeVictoryTimelinePath: string;
     SkipBattleEnd: bool;
     HideNPCWhenBattleEnd: bool;
+    CoverPointOff: bool;
     UIHpScale: float;
     UIEmojiScale: float;
     UISkillMainLogScale: float;
@@ -8643,6 +8682,8 @@ table MinigameTBGSeasonExcel {
     MaxHp: int;
     MapImagePath: string;
     MapNameLocalize: string;
+    StartThemaIndex: int;
+    LoopThemaIndex: int;
 }
 table MinigameTBGSeasonExcelTable {
     DataList: [MinigameTBGSeasonExcel];
@@ -8662,6 +8703,7 @@ table MinigameTBGThemaExcel {
     ThemaLeaderId: long;
     ThemaGoalLocalize: string;
     InstantClearCostAmount: long;
+    IsTutorial: bool;
 }
 table MinigameTBGThemaExcelTable {
     DataList: [MinigameTBGThemaExcel];
@@ -8854,6 +8896,7 @@ table ProductMonthlyExcel {
     PriceReference: string;
     ProductTagType: ProductTagType;
     MonthlyDays: long;
+    UseMonthlyProductCheck: bool;
     ParcelType: [int];
     ParcelId: [long];
     ParcelAmount: [long];
@@ -9321,6 +9364,8 @@ table TacticDamageSimulatorSettingExcel {
     OverrideOutdoorAdaptation: TerrainAdaptationStat;
     OverrideIndoorAdaptation: TerrainAdaptationStat;
     ApplyOverrideAdaptation: bool;
+    OverrideFavorLevel: int;
+    ApplyOverrideFavorLevel: bool;
     GroundId: long;
     FixedCharacter: [long];
 }

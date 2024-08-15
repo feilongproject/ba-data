@@ -1982,6 +1982,34 @@
       "DamageFactorGroupId": ""
     },
     {
+      "EquipmentId": 7008,
+      "StatLevelUpType": 0,
+      "StatType": [
+        25,
+        27,
+        9
+      ],
+      "MinStat": [
+        385,
+        2500,
+        210
+      ],
+      "MaxStat": [
+        400,
+        2700,
+        250
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": 1,
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": 0,
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 65,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": ""
+    },
+    {
       "EquipmentId": 8000,
       "StatLevelUpType": 0,
       "StatType": [
@@ -2181,6 +2209,34 @@
       "EquipmentCategory": 0,
       "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 60,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": ""
+    },
+    {
+      "EquipmentId": 8008,
+      "StatLevelUpType": 0,
+      "StatType": [
+        9,
+        12,
+        2
+      ],
+      "MinStat": [
+        410,
+        2450,
+        1150
+      ],
+      "MaxStat": [
+        440,
+        2500,
+        1300
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": 1,
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": 0,
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 65,
       "TranscendenceMax": 1,
       "DamageFactorGroupId": ""
     },
@@ -2393,6 +2449,34 @@
       "EquipmentCategory": 0,
       "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 60,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": ""
+    },
+    {
+      "EquipmentId": 9008,
+      "StatLevelUpType": 0,
+      "StatType": [
+        8,
+        31,
+        4
+      ],
+      "MinStat": [
+        3900,
+        3800,
+        1100
+      ],
+      "MaxStat": [
+        4000,
+        3800,
+        1400
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": 1,
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": 0,
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 65,
       "TranscendenceMax": 1,
       "DamageFactorGroupId": ""
     },
@@ -3607,6 +3691,28 @@
       "DamageFactorGroupId": ""
     },
     {
+      "EquipmentId": 107008,
+      "StatLevelUpType": 0,
+      "StatType": [
+        3
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 175,
+      "LevelUpFeedCostCurrency": 1,
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": 0,
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": ""
+    },
+    {
       "EquipmentId": 108001,
       "StatLevelUpType": 0,
       "StatType": [
@@ -3761,6 +3867,28 @@
       "DamageFactorGroupId": ""
     },
     {
+      "EquipmentId": 108008,
+      "StatLevelUpType": 0,
+      "StatType": [
+        3
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 175,
+      "LevelUpFeedCostCurrency": 1,
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": 0,
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": ""
+    },
+    {
       "EquipmentId": 109001,
       "StatLevelUpType": 0,
       "StatType": [
@@ -3906,6 +4034,28 @@
       ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 150,
+      "LevelUpFeedCostCurrency": 1,
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": 0,
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": ""
+    },
+    {
+      "EquipmentId": 109008,
+      "StatLevelUpType": 0,
+      "StatType": [
+        3
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 175,
       "LevelUpFeedCostCurrency": 1,
       "LevelUpFeedCostAmount": 50,
       "EquipmentCategory": 0,
