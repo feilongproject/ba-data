@@ -1,4 +1,4 @@
-name: Clone, Build, and Run C# Project
+name: Clone, Build, Run, and Upload JP-Tables
 
 on:
   push:
