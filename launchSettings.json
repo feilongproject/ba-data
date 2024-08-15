@@ -1,0 +1,31 @@
+{
+  "profiles": {
+    "Division": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\a\\ba-data\\extData -r JP -a"
+    },
+    "dump": {
+      "commandName": "Project",
+      "commandLineArgs": "dump -a \"E:\\dev\\app\\ba\\com.YostarJP.BlueArchive.apk\""
+    },
+    "extract": {
+      "commandName": "Project",
+      "commandLineArgs": "extract-static -d \"E:\\dev\\app\\ba\\Bluearchive_1_1\\assets\\bin\\Data\" -o \"E:\\dev\\app\\ba\\Bluearchive_1_1_export\\dataPath\""
+    },
+    "data-url": {
+      "commandName": "Project",
+      "commandLineArgs": "data-url -f \"E:\\dev\\3rdproject\\bluearchive_io\\ba-assets-extractor\\data\\output\\obb.201226\\GameMainConfig.bytes\""
+    },
+    "generate": {
+      "commandName": "Project",
+      "commandLineArgs": "generate"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    },
+    "Division-CN": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\temp\\ba\\cn -r CN"
+    }
+  }
+}
