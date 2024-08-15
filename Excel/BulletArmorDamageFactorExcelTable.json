@@ -1,0 +1,424 @@
+{
+  "DataList": [
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 0,
+      "ArmorType": 0,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 0,
+      "ArmorType": 1,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 0,
+      "ArmorType": 2,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 0,
+      "ArmorType": 3,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 0,
+      "ArmorType": 5,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 2,
+      "ArmorType": 0,
+      "DamageRate": 20000,
+      "DamageAttribute": 2,
+      "MinDamageRate": 15000,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 2,
+      "ArmorType": 1,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 2,
+      "ArmorType": 2,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 2,
+      "ArmorType": 3,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 2,
+      "ArmorType": 5,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 1,
+      "ArmorType": 0,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 1,
+      "ArmorType": 1,
+      "DamageRate": 20000,
+      "DamageAttribute": 2,
+      "MinDamageRate": 15000,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 1,
+      "ArmorType": 2,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 1,
+      "ArmorType": 3,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 1,
+      "ArmorType": 5,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 4,
+      "ArmorType": 0,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 4,
+      "ArmorType": 1,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 4,
+      "ArmorType": 2,
+      "DamageRate": 20000,
+      "DamageAttribute": 2,
+      "MinDamageRate": 15000,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 4,
+      "ArmorType": 3,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 4,
+      "ArmorType": 5,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 3,
+      "ArmorType": 0,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 3,
+      "ArmorType": 1,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 3,
+      "ArmorType": 2,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 3,
+      "ArmorType": 3,
+      "DamageRate": 20000,
+      "DamageAttribute": 2,
+      "MinDamageRate": 15000,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 3,
+      "ArmorType": 5,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 6,
+      "ArmorType": 0,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 6,
+      "ArmorType": 1,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 6,
+      "ArmorType": 2,
+      "DamageRate": 15000,
+      "DamageAttribute": 3,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 6,
+      "ArmorType": 3,
+      "DamageRate": 5000,
+      "DamageAttribute": 0,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 6,
+      "ArmorType": 5,
+      "DamageRate": 20000,
+      "DamageAttribute": 2,
+      "MinDamageRate": 15000,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 5,
+      "ArmorType": 0,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 5,
+      "ArmorType": 1,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 5,
+      "ArmorType": 2,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 5,
+      "ArmorType": 3,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 5,
+      "ArmorType": 5,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 0,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 2,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 1,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 4,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 3,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 6,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": 5,
+      "ArmorType": 4,
+      "DamageRate": 10000,
+      "DamageAttribute": 1,
+      "MinDamageRate": 0,
+      "MaxDamageRate": 50000,
+      "ShowHighlightFloater": true
+    }
+  ]
+}

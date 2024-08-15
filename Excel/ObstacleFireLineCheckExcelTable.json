@@ -1,0 +1,10 @@
+{
+  "DataList": [
+    {
+      "MyObstacleFireLineCheck": true,
+      "AllyObstacleFireLineCheck": true,
+      "EnemyObstacleFireLineCheck": true,
+      "EmptyObstacleFireLineCheck": true
+    }
+  ]
+}

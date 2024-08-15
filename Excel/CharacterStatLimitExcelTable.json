@@ -1,0 +1,1768 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "TacticEntityType": 1,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 2,
+      "TacticEntityType": 1,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 3,
+      "TacticEntityType": 1,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 4,
+      "TacticEntityType": 1,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 5,
+      "TacticEntityType": 1,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 6,
+      "TacticEntityType": 1,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 7,
+      "TacticEntityType": 1,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 8,
+      "TacticEntityType": 1,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 9,
+      "TacticEntityType": 1,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 10,
+      "TacticEntityType": 1,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 11,
+      "TacticEntityType": 1,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 12,
+      "TacticEntityType": 1,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 13,
+      "TacticEntityType": 1,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 14,
+      "TacticEntityType": 1,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 16,
+      "TacticEntityType": 1,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 17,
+      "TacticEntityType": 1,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 18,
+      "TacticEntityType": 1,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 19,
+      "TacticEntityType": 1,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 20,
+      "TacticEntityType": 1,
+      "StatType": 38,
+      "StatMinValue": 2000,
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 21,
+      "TacticEntityType": 1,
+      "StatType": 39,
+      "StatMinValue": 2000,
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 22,
+      "TacticEntityType": 1,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 23,
+      "TacticEntityType": 1,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 24,
+      "TacticEntityType": 1,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 25,
+      "TacticEntityType": 1,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 26,
+      "TacticEntityType": 1,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 27,
+      "TacticEntityType": 1,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 28,
+      "TacticEntityType": 1,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 29,
+      "TacticEntityType": 1,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 101,
+      "TacticEntityType": 2,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 102,
+      "TacticEntityType": 2,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 103,
+      "TacticEntityType": 2,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 104,
+      "TacticEntityType": 2,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 105,
+      "TacticEntityType": 2,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 106,
+      "TacticEntityType": 2,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 107,
+      "TacticEntityType": 2,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 108,
+      "TacticEntityType": 2,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 109,
+      "TacticEntityType": 2,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 110,
+      "TacticEntityType": 2,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 111,
+      "TacticEntityType": 2,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 112,
+      "TacticEntityType": 2,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 113,
+      "TacticEntityType": 2,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 114,
+      "TacticEntityType": 2,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 116,
+      "TacticEntityType": 2,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 117,
+      "TacticEntityType": 2,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 118,
+      "TacticEntityType": 2,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 119,
+      "TacticEntityType": 2,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 120,
+      "TacticEntityType": 2,
+      "StatType": 38,
+      "StatMinValue": -50000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 121,
+      "TacticEntityType": 2,
+      "StatType": 39,
+      "StatMinValue": -50000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 122,
+      "TacticEntityType": 2,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 123,
+      "TacticEntityType": 2,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 124,
+      "TacticEntityType": 2,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 125,
+      "TacticEntityType": 2,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 126,
+      "TacticEntityType": 2,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 127,
+      "TacticEntityType": 2,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 128,
+      "TacticEntityType": 2,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 129,
+      "TacticEntityType": 2,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 201,
+      "TacticEntityType": 4,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 202,
+      "TacticEntityType": 4,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 203,
+      "TacticEntityType": 4,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 204,
+      "TacticEntityType": 4,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 205,
+      "TacticEntityType": 4,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 206,
+      "TacticEntityType": 4,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 207,
+      "TacticEntityType": 4,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 208,
+      "TacticEntityType": 4,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 209,
+      "TacticEntityType": 4,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 210,
+      "TacticEntityType": 4,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 211,
+      "TacticEntityType": 4,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 212,
+      "TacticEntityType": 4,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 213,
+      "TacticEntityType": 4,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 214,
+      "TacticEntityType": 4,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 216,
+      "TacticEntityType": 4,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 217,
+      "TacticEntityType": 4,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 218,
+      "TacticEntityType": 4,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 219,
+      "TacticEntityType": 4,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 220,
+      "TacticEntityType": 4,
+      "StatType": 38,
+      "StatMinValue": -50000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 221,
+      "TacticEntityType": 4,
+      "StatType": 39,
+      "StatMinValue": -50000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 222,
+      "TacticEntityType": 4,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 223,
+      "TacticEntityType": 4,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 224,
+      "TacticEntityType": 4,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 225,
+      "TacticEntityType": 4,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 226,
+      "TacticEntityType": 4,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 227,
+      "TacticEntityType": 4,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 228,
+      "TacticEntityType": 4,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 229,
+      "TacticEntityType": 4,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 301,
+      "TacticEntityType": 8,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 302,
+      "TacticEntityType": 8,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 303,
+      "TacticEntityType": 8,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 304,
+      "TacticEntityType": 8,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 305,
+      "TacticEntityType": 8,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 306,
+      "TacticEntityType": 8,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 307,
+      "TacticEntityType": 8,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 308,
+      "TacticEntityType": 8,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 309,
+      "TacticEntityType": 8,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 310,
+      "TacticEntityType": 8,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 311,
+      "TacticEntityType": 8,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 312,
+      "TacticEntityType": 8,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 313,
+      "TacticEntityType": 8,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 314,
+      "TacticEntityType": 8,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 316,
+      "TacticEntityType": 8,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 317,
+      "TacticEntityType": 8,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 318,
+      "TacticEntityType": 8,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 319,
+      "TacticEntityType": 8,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 320,
+      "TacticEntityType": 8,
+      "StatType": 38,
+      "StatMinValue": -50000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 321,
+      "TacticEntityType": 8,
+      "StatType": 39,
+      "StatMinValue": -50000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 322,
+      "TacticEntityType": 8,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 323,
+      "TacticEntityType": 8,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 324,
+      "TacticEntityType": 8,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 325,
+      "TacticEntityType": 8,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 326,
+      "TacticEntityType": 8,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 327,
+      "TacticEntityType": 8,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 328,
+      "TacticEntityType": 8,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 329,
+      "TacticEntityType": 8,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 401,
+      "TacticEntityType": 16,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 402,
+      "TacticEntityType": 16,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 403,
+      "TacticEntityType": 16,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 404,
+      "TacticEntityType": 16,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 405,
+      "TacticEntityType": 16,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 406,
+      "TacticEntityType": 16,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 407,
+      "TacticEntityType": 16,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 408,
+      "TacticEntityType": 16,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 409,
+      "TacticEntityType": 16,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 410,
+      "TacticEntityType": 16,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 411,
+      "TacticEntityType": 16,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 412,
+      "TacticEntityType": 16,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 413,
+      "TacticEntityType": 16,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 414,
+      "TacticEntityType": 16,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 416,
+      "TacticEntityType": 16,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 417,
+      "TacticEntityType": 16,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 418,
+      "TacticEntityType": 16,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 419,
+      "TacticEntityType": 16,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 420,
+      "TacticEntityType": 16,
+      "StatType": 38,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 421,
+      "TacticEntityType": 16,
+      "StatType": 39,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 422,
+      "TacticEntityType": 16,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 423,
+      "TacticEntityType": 16,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 424,
+      "TacticEntityType": 16,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 425,
+      "TacticEntityType": 16,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 426,
+      "TacticEntityType": 16,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 427,
+      "TacticEntityType": 16,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 428,
+      "TacticEntityType": 16,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 429,
+      "TacticEntityType": 16,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 501,
+      "TacticEntityType": 256,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 502,
+      "TacticEntityType": 256,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 503,
+      "TacticEntityType": 256,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 504,
+      "TacticEntityType": 256,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 505,
+      "TacticEntityType": 256,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 506,
+      "TacticEntityType": 256,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 507,
+      "TacticEntityType": 256,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 508,
+      "TacticEntityType": 256,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 509,
+      "TacticEntityType": 256,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 510,
+      "TacticEntityType": 256,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 511,
+      "TacticEntityType": 256,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 512,
+      "TacticEntityType": 256,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 513,
+      "TacticEntityType": 256,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 514,
+      "TacticEntityType": 256,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 516,
+      "TacticEntityType": 256,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 517,
+      "TacticEntityType": 256,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 518,
+      "TacticEntityType": 256,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 519,
+      "TacticEntityType": 256,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 520,
+      "TacticEntityType": 256,
+      "StatType": 38,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 521,
+      "TacticEntityType": 256,
+      "StatType": 39,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 522,
+      "TacticEntityType": 256,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 523,
+      "TacticEntityType": 256,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 524,
+      "TacticEntityType": 256,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 525,
+      "TacticEntityType": 256,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 526,
+      "TacticEntityType": 256,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 527,
+      "TacticEntityType": 256,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 528,
+      "TacticEntityType": 256,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 529,
+      "TacticEntityType": 256,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 601,
+      "TacticEntityType": 32,
+      "StatType": 1,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 602,
+      "TacticEntityType": 32,
+      "StatType": 2,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 603,
+      "TacticEntityType": 32,
+      "StatType": 3,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 604,
+      "TacticEntityType": 32,
+      "StatType": 4,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 605,
+      "TacticEntityType": 32,
+      "StatType": 5,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 606,
+      "TacticEntityType": 32,
+      "StatType": 6,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 607,
+      "TacticEntityType": 32,
+      "StatType": 7,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 608,
+      "TacticEntityType": 32,
+      "StatType": 8,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 609,
+      "TacticEntityType": 32,
+      "StatType": 9,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 610,
+      "TacticEntityType": 32,
+      "StatType": 10,
+      "StatMinValue": -8000,
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 611,
+      "TacticEntityType": 32,
+      "StatType": 12,
+      "StatMinValue": 10000,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 612,
+      "TacticEntityType": 32,
+      "StatType": 13,
+      "StatMinValue": 40,
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 613,
+      "TacticEntityType": 32,
+      "StatType": 16,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 614,
+      "TacticEntityType": 32,
+      "StatType": 17,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 616,
+      "TacticEntityType": 32,
+      "StatType": 30,
+      "StatMinValue": 2000,
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 617,
+      "TacticEntityType": 32,
+      "StatType": 31,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 618,
+      "TacticEntityType": 32,
+      "StatType": 32,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 619,
+      "TacticEntityType": 32,
+      "StatType": 34,
+      "StatMinValue": 2000,
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 620,
+      "TacticEntityType": 32,
+      "StatType": 38,
+      "StatMinValue": 2000,
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 621,
+      "TacticEntityType": 32,
+      "StatType": 39,
+      "StatMinValue": 2000,
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 622,
+      "TacticEntityType": 32,
+      "StatType": 40,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 623,
+      "TacticEntityType": 32,
+      "StatType": 41,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 624,
+      "TacticEntityType": 32,
+      "StatType": 42,
+      "StatMinValue": 0,
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 625,
+      "TacticEntityType": 32,
+      "StatType": 44,
+      "StatMinValue": 0,
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 626,
+      "TacticEntityType": 32,
+      "StatType": 59,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 627,
+      "TacticEntityType": 32,
+      "StatType": 60,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 628,
+      "TacticEntityType": 32,
+      "StatType": 61,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 629,
+      "TacticEntityType": 32,
+      "StatType": 62,
+      "StatMinValue": 10000,
+      "StatMaxValue": 100000,
+      "StatRatioMinValue": 0,
+      "StatRatioMaxValue": 100000
+    }
+  ]
+}

@@ -1,0 +1,1939 @@
+{
+  "DataList": [
+    {
+      "ConquestBonusId": 81511,
+      "School": [
+        1,
+        5,
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81512,
+      "School": [
+        1,
+        5,
+        6
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81513,
+      "School": [
+        1,
+        5,
+        3
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81521,
+      "School": [
+        1,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81522,
+      "School": [
+        1,
+        5,
+        3
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81523,
+      "School": [
+        1,
+        5,
+        11,
+        2
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81531,
+      "School": [
+        1,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81532,
+      "School": [
+        1,
+        5,
+        8,
+        7
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81533,
+      "School": [
+        1,
+        5,
+        6
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81541,
+      "School": [
+        1,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81542,
+      "School": [
+        1,
+        5,
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 81543,
+      "School": [
+        1,
+        5,
+        9,
+        2
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80130,
+        80131,
+        80132,
+        80133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82211,
+      "School": [
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82212,
+      "School": [
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82213,
+      "School": [
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82221,
+      "School": [
+        3
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82222,
+      "School": [
+        7,
+        2
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82223,
+      "School": [
+        1
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82231,
+      "School": [
+        6
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82232,
+      "School": [
+        3
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82233,
+      "School": [
+        9,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82241,
+      "School": [
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82242,
+      "School": [
+        11,
+        8
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 82243,
+      "School": [
+        6
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        80200,
+        80201,
+        80202
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081511,
+      "School": [
+        1,
+        5,
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081512,
+      "School": [
+        1,
+        5,
+        6
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081513,
+      "School": [
+        1,
+        5,
+        3
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081521,
+      "School": [
+        1,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081522,
+      "School": [
+        1,
+        5,
+        3
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081523,
+      "School": [
+        1,
+        5,
+        11,
+        2
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081531,
+      "School": [
+        1,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081532,
+      "School": [
+        1,
+        5,
+        8,
+        7
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081533,
+      "School": [
+        1,
+        5,
+        6
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081541,
+      "School": [
+        1,
+        5
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081542,
+      "School": [
+        1,
+        5,
+        4
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    },
+    {
+      "ConquestBonusId": 1081543,
+      "School": [
+        1,
+        5,
+        9,
+        2
+      ],
+      "RecommandLocalizeEtcId": 0,
+      "BonusParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusId": [
+        85130,
+        85131,
+        85132,
+        85133
+      ],
+      "BonusCharacterCount1": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "BonusPercentage1": [
+        4000,
+        4000,
+        4000,
+        4000
+      ],
+      "BonusCharacterCount2": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "BonusPercentage2": [
+        8000,
+        8000,
+        8000,
+        8000
+      ],
+      "BonusCharacterCount3": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "BonusPercentage3": [
+        12000,
+        12000,
+        12000,
+        12000
+      ]
+    }
+  ]
+}

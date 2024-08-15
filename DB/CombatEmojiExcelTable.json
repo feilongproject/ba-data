@@ -1,0 +1,294 @@
+{
+  "DataList": [
+    {
+      "EmojiEvent": "Nice",
+      "UniqueId": 0,
+      "OrderOfPriority": 21,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Reload",
+      "UniqueId": 1,
+      "OrderOfPriority": 22,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Run",
+      "UniqueId": 2,
+      "OrderOfPriority": 20,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "TerrainAdaptionS",
+      "UniqueId": 3,
+      "OrderOfPriority": 2,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "TerrainAdaptionA",
+      "UniqueId": 4,
+      "OrderOfPriority": 3,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "TerrainAdaptionB",
+      "UniqueId": 5,
+      "OrderOfPriority": 4,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "TerrainAdaptionC",
+      "UniqueId": 6,
+      "OrderOfPriority": 5,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "TerrainAdaptionD",
+      "UniqueId": 7,
+      "OrderOfPriority": 6,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "TerrainAdaptionSS",
+      "UniqueId": 8,
+      "OrderOfPriority": 1,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Dot",
+      "UniqueId": 9,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Angry",
+      "UniqueId": 10,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Bulb",
+      "UniqueId": 11,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Exclaim",
+      "UniqueId": 12,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Surprise",
+      "UniqueId": 13,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Sad",
+      "UniqueId": 14,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Sigh",
+      "UniqueId": 15,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Steam",
+      "UniqueId": 16,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Upset",
+      "UniqueId": 17,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Respond",
+      "UniqueId": 18,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Question",
+      "UniqueId": 19,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Sweat",
+      "UniqueId": 20,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Music",
+      "UniqueId": 21,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Chat",
+      "UniqueId": 22,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Twinkle",
+      "UniqueId": 23,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Zzz",
+      "UniqueId": 24,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Tear",
+      "UniqueId": 25,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    },
+    {
+      "EmojiEvent": "Heart",
+      "UniqueId": 26,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Shy",
+      "UniqueId": 27,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": true
+    },
+    {
+      "EmojiEvent": "Think",
+      "UniqueId": 28,
+      "OrderOfPriority": 23,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0,
+      "ShowDefaultBG": false
+    }
+  ]
+}

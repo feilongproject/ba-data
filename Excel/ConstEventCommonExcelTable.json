@@ -1,0 +1,19 @@
+{
+  "DataList": [
+    {
+      "EventContentHardStageCount": 0,
+      "EventStrategyPlayTimeLimitInSeconds": 86400,
+      "SubEventChangeLimitSeconds": 3600,
+      "SubEventInstantClear": true,
+      "CardShopProbWeightCount": 99999999,
+      "CardShopProbWeightRarity": 3,
+      "MeetupScenarioReplayResource": "Uis/01_Common/27_EventContent/Enter_Parcel/Event_Replay_Meetup",
+      "MeetupScenarioReplayTitleLocalize": "Event_Title_810_Meetup",
+      "SpecialOperactionCollectionGroupId": 70101,
+      "TreasureNormalVariationAmount": 300,
+      "TreasureLoopVariationAmount": 2000,
+      "TreasureLimitVariationLoopCount": 250,
+      "TreasureLimitVariationClearLoopCount": 20
+    }
+  ]
+}

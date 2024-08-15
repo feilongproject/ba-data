@@ -1,0 +1,47 @@
+{
+  "DataList": [
+    {
+      "GroupId": 10002,
+      "IsWhiteList": true,
+      "CharacterId": [],
+      "PersonalityId": [],
+      "WeaponType": 2,
+      "School": 0,
+      "Club": 0,
+      "Role": 0
+    },
+    {
+      "GroupId": 10002,
+      "IsWhiteList": true,
+      "CharacterId": [],
+      "PersonalityId": [],
+      "WeaponType": 1,
+      "School": 0,
+      "Club": 0,
+      "Role": 0
+    },
+    {
+      "GroupId": 10003,
+      "IsWhiteList": true,
+      "CharacterId": [],
+      "PersonalityId": [],
+      "WeaponType": 0,
+      "School": 0,
+      "Club": 0,
+      "Role": 2
+    },
+    {
+      "GroupId": 99999,
+      "IsWhiteList": true,
+      "CharacterId": [
+        13010,
+        13003
+      ],
+      "PersonalityId": [],
+      "WeaponType": 0,
+      "School": 0,
+      "Club": 0,
+      "Role": 0
+    }
+  ]
+}

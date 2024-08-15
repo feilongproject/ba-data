@@ -1,0 +1,472 @@
+{
+  "DataList": [
+    {
+      "StageId": 60101,
+      "DungeonType": 0,
+      "Difficulty": 1,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        10
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 601000001,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 1,
+      "RecommandLevel": 15,
+      "StageRewardId": 60101,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60102,
+      "DungeonType": 0,
+      "Difficulty": 2,
+      "BattleDuration": 180000,
+      "PrevStageId": 60101,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 601000002,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 1,
+      "RecommandLevel": 50,
+      "StageRewardId": 60102,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60103,
+      "DungeonType": 0,
+      "Difficulty": 3,
+      "BattleDuration": 180000,
+      "PrevStageId": 60102,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 601000003,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 1,
+      "RecommandLevel": 85,
+      "StageRewardId": 60103,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60104,
+      "DungeonType": 0,
+      "Difficulty": 4,
+      "BattleDuration": 180000,
+      "PrevStageId": 60103,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 601000004,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 1,
+      "RecommandLevel": 95,
+      "StageRewardId": 60104,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60201,
+      "DungeonType": 1,
+      "Difficulty": 1,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        10
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 602000001,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 0,
+      "RecommandLevel": 15,
+      "StageRewardId": 60201,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60202,
+      "DungeonType": 1,
+      "Difficulty": 2,
+      "BattleDuration": 180000,
+      "PrevStageId": 60201,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 602000002,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 0,
+      "RecommandLevel": 50,
+      "StageRewardId": 60202,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60203,
+      "DungeonType": 1,
+      "Difficulty": 3,
+      "BattleDuration": 180000,
+      "PrevStageId": 60202,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 602000003,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 0,
+      "RecommandLevel": 85,
+      "StageRewardId": 60203,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60204,
+      "DungeonType": 1,
+      "Difficulty": 4,
+      "BattleDuration": 180000,
+      "PrevStageId": 60203,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 602000004,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 0,
+      "RecommandLevel": 95,
+      "StageRewardId": 60204,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60301,
+      "DungeonType": 2,
+      "Difficulty": 1,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        10
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 603000001,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 2,
+      "RecommandLevel": 15,
+      "StageRewardId": 60301,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60302,
+      "DungeonType": 2,
+      "Difficulty": 2,
+      "BattleDuration": 180000,
+      "PrevStageId": 60301,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 603000002,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 2,
+      "RecommandLevel": 50,
+      "StageRewardId": 60302,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60303,
+      "DungeonType": 2,
+      "Difficulty": 3,
+      "BattleDuration": 180000,
+      "PrevStageId": 60302,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 603000003,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 2,
+      "RecommandLevel": 85,
+      "StageRewardId": 60303,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    },
+    {
+      "StageId": 60304,
+      "DungeonType": 2,
+      "Difficulty": 4,
+      "BattleDuration": 180000,
+      "PrevStageId": 60303,
+      "StageEnterCostType": [
+        2,
+        2
+      ],
+      "StageEnterCostId": [
+        23,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "StageEnterCostMinimumAmount": [
+        1,
+        0
+      ],
+      "GroundId": 603000004,
+      "StarGoal": [
+        2,
+        1,
+        4
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": 2,
+      "RecommandLevel": 95,
+      "StageRewardId": 60304,
+      "PlayTimeLimitInSeconds": 86400,
+      "EchelonExtensionType": 0
+    }
+  ]
+}

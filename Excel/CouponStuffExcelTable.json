@@ -1,0 +1,319 @@
+{
+  "DataList": [
+    {
+      "StuffId": 1,
+      "ParcelType": 2,
+      "ParcelId": 1,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 2,
+      "ParcelType": 2,
+      "ParcelId": 2,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 3,
+      "ParcelType": 2,
+      "ParcelId": 3,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 4,
+      "ParcelType": 2,
+      "ParcelId": 4,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 5,
+      "ParcelType": 2,
+      "ParcelId": 5,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 6,
+      "ParcelType": 2,
+      "ParcelId": 6,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 7,
+      "ParcelType": 2,
+      "ParcelId": 7,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 8,
+      "ParcelType": 2,
+      "ParcelId": 8,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 9,
+      "ParcelType": 2,
+      "ParcelId": 9,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 10,
+      "ParcelType": 2,
+      "ParcelId": 10,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 11,
+      "ParcelType": 2,
+      "ParcelId": 11,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 12,
+      "ParcelType": 2,
+      "ParcelId": 12,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 13,
+      "ParcelType": 13,
+      "ParcelId": 203301,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 14,
+      "ParcelType": 13,
+      "ParcelId": 206301,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 15,
+      "ParcelType": 4,
+      "ParcelId": 3020,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 16,
+      "ParcelType": 4,
+      "ParcelId": 3021,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 17,
+      "ParcelType": 4,
+      "ParcelId": 3022,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 18,
+      "ParcelType": 4,
+      "ParcelId": 100001,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 19,
+      "ParcelType": 13,
+      "ParcelId": 207311,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 20,
+      "ParcelType": 4,
+      "ParcelId": 3080,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 21,
+      "ParcelType": 4,
+      "ParcelId": 3081,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 22,
+      "ParcelType": 4,
+      "ParcelId": 4080,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 23,
+      "ParcelType": 4,
+      "ParcelId": 4081,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 24,
+      "ParcelType": 4,
+      "ParcelId": 12,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 25,
+      "ParcelType": 13,
+      "ParcelId": 210312,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 26,
+      "ParcelType": 4,
+      "ParcelId": 6004,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 27,
+      "ParcelType": 4,
+      "ParcelId": 23,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 28,
+      "ParcelType": 4,
+      "ParcelId": 11,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 29,
+      "ParcelType": 4,
+      "ParcelId": 13,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 30,
+      "ParcelType": 3,
+      "ParcelId": 2,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 31,
+      "ParcelType": 3,
+      "ParcelId": 3,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 32,
+      "ParcelType": 3,
+      "ParcelId": 4,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 33,
+      "ParcelType": 4,
+      "ParcelId": 150000,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 34,
+      "ParcelType": 4,
+      "ParcelId": 150001,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 35,
+      "ParcelType": 4,
+      "ParcelId": 150002,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 36,
+      "ParcelType": 4,
+      "ParcelId": 150004,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 37,
+      "ParcelType": 4,
+      "ParcelId": 150005,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 38,
+      "ParcelType": 4,
+      "ParcelId": 150006,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 39,
+      "ParcelType": 4,
+      "ParcelId": 9999,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 40,
+      "ParcelType": 13,
+      "ParcelId": 210332,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 41,
+      "ParcelType": 4,
+      "ParcelId": 150008,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 42,
+      "ParcelType": 4,
+      "ParcelId": 150009,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 43,
+      "ParcelType": 4,
+      "ParcelId": 150010,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 44,
+      "ParcelType": 4,
+      "ParcelId": 150011,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 45,
+      "ParcelType": 4,
+      "ParcelId": 5015,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    }
+  ]
+}

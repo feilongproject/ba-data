@@ -1,0 +1,100 @@
+{
+  "DataList": [
+    {
+      "TransSupportStats": 1,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 1000,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 2,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 1000,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 3,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 500,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 4,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 500,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 1,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 3500,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 2,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 2000,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 3,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 5000,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 4,
+      "EchelonExtensionType": 0,
+      "TransSupportStatsFactor": 1000,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 1,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 500,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 2,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 500,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 3,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 500,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 4,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 500,
+      "StatTransType": 0
+    },
+    {
+      "TransSupportStats": 1,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 3500,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 2,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 2000,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 3,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 5000,
+      "StatTransType": 1
+    },
+    {
+      "TransSupportStats": 4,
+      "EchelonExtensionType": 1,
+      "TransSupportStatsFactor": 1000,
+      "StatTransType": 1
+    }
+  ]
+}

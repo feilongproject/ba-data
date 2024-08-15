@@ -1,0 +1,1452 @@
+{
+  "DataList": [
+    {
+      "Id": 10000,
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 7.99,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10001,
+      "CharacterBodyCenterX": 7.9,
+      "CharacterBodyCenterY": 8.85,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10002,
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 6.73,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10003,
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 6.27,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10004,
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 6.94,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10005,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.14,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10006,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10007,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10008,
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 6.94,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10009,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.25,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10010,
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10011,
+      "CharacterBodyCenterX": 5.5,
+      "CharacterBodyCenterY": 7.18,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10012,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10013,
+      "CharacterBodyCenterX": 9.5,
+      "CharacterBodyCenterY": 7.29,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10014,
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 7.32,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10015,
+      "CharacterBodyCenterX": 7.89,
+      "CharacterBodyCenterY": 7.43,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10016,
+      "CharacterBodyCenterX": 7.92,
+      "CharacterBodyCenterY": 6.9,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10017,
+      "CharacterBodyCenterX": 9.04,
+      "CharacterBodyCenterY": 7.52,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10018,
+      "CharacterBodyCenterX": 8.68,
+      "CharacterBodyCenterY": 8.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10019,
+      "CharacterBodyCenterX": 8.1,
+      "CharacterBodyCenterY": 7.88,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10020,
+      "CharacterBodyCenterX": 8.59,
+      "CharacterBodyCenterY": 7.01,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10021,
+      "CharacterBodyCenterX": 10.21,
+      "CharacterBodyCenterY": 7.29,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10022,
+      "CharacterBodyCenterX": 9.21,
+      "CharacterBodyCenterY": 6.94,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10023,
+      "CharacterBodyCenterX": 8.01,
+      "CharacterBodyCenterY": 8.05,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10024,
+      "CharacterBodyCenterX": 9.55,
+      "CharacterBodyCenterY": 5.83,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10025,
+      "CharacterBodyCenterX": 9.96,
+      "CharacterBodyCenterY": 6.2199,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10026,
+      "CharacterBodyCenterX": 8.95,
+      "CharacterBodyCenterY": 8.32,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10027,
+      "CharacterBodyCenterX": 8.45,
+      "CharacterBodyCenterY": 7.19,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10028,
+      "CharacterBodyCenterX": 7.48,
+      "CharacterBodyCenterY": 8.04,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10029,
+      "CharacterBodyCenterX": 8.26,
+      "CharacterBodyCenterY": 7.13,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10030,
+      "CharacterBodyCenterX": 9.02,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10031,
+      "CharacterBodyCenterX": 7.73,
+      "CharacterBodyCenterY": 7.25,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10032,
+      "CharacterBodyCenterX": 8.05,
+      "CharacterBodyCenterY": 7.29,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10033,
+      "CharacterBodyCenterX": 8.52,
+      "CharacterBodyCenterY": 7.04,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10034,
+      "CharacterBodyCenterX": 7.18,
+      "CharacterBodyCenterY": 7.4,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10035,
+      "CharacterBodyCenterX": 7.25,
+      "CharacterBodyCenterY": 6.73,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10036,
+      "CharacterBodyCenterX": 7.41,
+      "CharacterBodyCenterY": 7.88,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10037,
+      "CharacterBodyCenterX": 7.51,
+      "CharacterBodyCenterY": 6.37,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10038,
+      "CharacterBodyCenterX": 7.9,
+      "CharacterBodyCenterY": 6.84,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10039,
+      "CharacterBodyCenterX": 7.31,
+      "CharacterBodyCenterY": 6.91,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10040,
+      "CharacterBodyCenterX": 9.57,
+      "CharacterBodyCenterY": 5.82,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10041,
+      "CharacterBodyCenterX": 6.99,
+      "CharacterBodyCenterY": 7.42,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10042,
+      "CharacterBodyCenterX": 7.26,
+      "CharacterBodyCenterY": 6.14,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10043,
+      "CharacterBodyCenterX": 8.22,
+      "CharacterBodyCenterY": 7.87,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10044,
+      "CharacterBodyCenterX": 7.95,
+      "CharacterBodyCenterY": 7.43,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10045,
+      "CharacterBodyCenterX": 8.49,
+      "CharacterBodyCenterY": 7.14,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10046,
+      "CharacterBodyCenterX": 7.56,
+      "CharacterBodyCenterY": 6.57,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10047,
+      "CharacterBodyCenterX": 7.92,
+      "CharacterBodyCenterY": 7.19,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10048,
+      "CharacterBodyCenterX": 6.73,
+      "CharacterBodyCenterY": 7.58,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10049,
+      "CharacterBodyCenterX": 6.85,
+      "CharacterBodyCenterY": 7.45,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10050,
+      "CharacterBodyCenterX": 8.31,
+      "CharacterBodyCenterY": 7.14,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10051,
+      "CharacterBodyCenterX": 7.41,
+      "CharacterBodyCenterY": 7.02,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10052,
+      "CharacterBodyCenterX": 7.91,
+      "CharacterBodyCenterY": 6.88,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10053,
+      "CharacterBodyCenterX": 7.68,
+      "CharacterBodyCenterY": 6.75,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10054,
+      "CharacterBodyCenterX": 6.86,
+      "CharacterBodyCenterY": 7.47,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10055,
+      "CharacterBodyCenterX": 9.57,
+      "CharacterBodyCenterY": 7.38,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10056,
+      "CharacterBodyCenterX": 7.52,
+      "CharacterBodyCenterY": 8.13,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10057,
+      "CharacterBodyCenterX": 7.54,
+      "CharacterBodyCenterY": 7.93,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10058,
+      "CharacterBodyCenterX": 6.84,
+      "CharacterBodyCenterY": 7.65,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10059,
+      "CharacterBodyCenterX": 7.77,
+      "CharacterBodyCenterY": 7.82,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10060,
+      "CharacterBodyCenterX": 10.18,
+      "CharacterBodyCenterY": 6.3,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10061,
+      "CharacterBodyCenterX": 6.05,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10062,
+      "CharacterBodyCenterX": 6.28,
+      "CharacterBodyCenterY": 6.54,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10063,
+      "CharacterBodyCenterX": 8.38,
+      "CharacterBodyCenterY": 7.84,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10064,
+      "CharacterBodyCenterX": 7.57,
+      "CharacterBodyCenterY": 7.28,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10065,
+      "CharacterBodyCenterX": 8.07,
+      "CharacterBodyCenterY": 6.94,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10066,
+      "CharacterBodyCenterX": 8.07,
+      "CharacterBodyCenterY": 8.12,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10067,
+      "CharacterBodyCenterX": 6.93,
+      "CharacterBodyCenterY": 8.12,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10068,
+      "CharacterBodyCenterX": 9.06,
+      "CharacterBodyCenterY": 7.48,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10069,
+      "CharacterBodyCenterX": 7.57,
+      "CharacterBodyCenterY": 7.68,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10070,
+      "CharacterBodyCenterX": 6.76,
+      "CharacterBodyCenterY": 7.97,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10071,
+      "CharacterBodyCenterX": 7.25,
+      "CharacterBodyCenterY": 8,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10072,
+      "CharacterBodyCenterX": 7.66,
+      "CharacterBodyCenterY": 7.33,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10073,
+      "CharacterBodyCenterX": 7.66,
+      "CharacterBodyCenterY": 7.56,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10074,
+      "CharacterBodyCenterX": 7.47,
+      "CharacterBodyCenterY": 7.66,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10075,
+      "CharacterBodyCenterX": 10.4,
+      "CharacterBodyCenterY": 6.35,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10076,
+      "CharacterBodyCenterX": 8.82,
+      "CharacterBodyCenterY": 7.65,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10077,
+      "CharacterBodyCenterX": 6.74,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10078,
+      "CharacterBodyCenterX": 7.65,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10079,
+      "CharacterBodyCenterX": 7.65,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10080,
+      "CharacterBodyCenterX": 7.65,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10081,
+      "CharacterBodyCenterX": 7.65,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10082,
+      "CharacterBodyCenterX": 7.69,
+      "CharacterBodyCenterY": 7.7,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10083,
+      "CharacterBodyCenterX": 7.69,
+      "CharacterBodyCenterY": 7.31,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10084,
+      "CharacterBodyCenterX": 7.27,
+      "CharacterBodyCenterY": 7.1,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10085,
+      "CharacterBodyCenterX": 7.74,
+      "CharacterBodyCenterY": 7.15,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10086,
+      "CharacterBodyCenterX": 8.11,
+      "CharacterBodyCenterY": 7.57,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10087,
+      "CharacterBodyCenterX": 7.97,
+      "CharacterBodyCenterY": 8.18,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10088,
+      "CharacterBodyCenterX": 7.71,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10089,
+      "CharacterBodyCenterX": 6.77,
+      "CharacterBodyCenterY": 7.6,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10090,
+      "CharacterBodyCenterX": 6.88,
+      "CharacterBodyCenterY": 7.56,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10091,
+      "CharacterBodyCenterX": 6.69,
+      "CharacterBodyCenterY": 7.74,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10092,
+      "CharacterBodyCenterX": 7.33,
+      "CharacterBodyCenterY": 7.46,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10093,
+      "CharacterBodyCenterX": 8.18,
+      "CharacterBodyCenterY": 7.83,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13000,
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 6.75,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13001,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13002,
+      "CharacterBodyCenterX": 5.7,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13003,
+      "CharacterBodyCenterX": 6.2,
+      "CharacterBodyCenterY": 7.05,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13004,
+      "CharacterBodyCenterX": 8.2,
+      "CharacterBodyCenterY": 6.52,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13005,
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13006,
+      "CharacterBodyCenterX": 9,
+      "CharacterBodyCenterY": 6.35,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13007,
+      "CharacterBodyCenterX": 9,
+      "CharacterBodyCenterY": 6.18,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13008,
+      "CharacterBodyCenterX": 8,
+      "CharacterBodyCenterY": 7.3,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13009,
+      "CharacterBodyCenterX": 10.2,
+      "CharacterBodyCenterY": 6.63,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13010,
+      "CharacterBodyCenterX": 8.2,
+      "CharacterBodyCenterY": 7.4,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13011,
+      "CharacterBodyCenterX": 7.92,
+      "CharacterBodyCenterY": 7.6,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13012,
+      "CharacterBodyCenterX": 7.92,
+      "CharacterBodyCenterY": 7.51,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13013,
+      "CharacterBodyCenterX": 9.27,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16000,
+      "CharacterBodyCenterX": 9.2,
+      "CharacterBodyCenterY": 7.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16001,
+      "CharacterBodyCenterX": 9,
+      "CharacterBodyCenterY": 6.69,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16002,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16003,
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.7,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16004,
+      "CharacterBodyCenterX": 7.9,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16005,
+      "CharacterBodyCenterX": 9.47,
+      "CharacterBodyCenterY": 7.99,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16006,
+      "CharacterBodyCenterX": 11.83,
+      "CharacterBodyCenterY": 7.98,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16007,
+      "CharacterBodyCenterX": 7.99,
+      "CharacterBodyCenterY": 7.46,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16008,
+      "CharacterBodyCenterX": 8.09,
+      "CharacterBodyCenterY": 6.87,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16009,
+      "CharacterBodyCenterX": 8.92,
+      "CharacterBodyCenterY": 8.15,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16010,
+      "CharacterBodyCenterX": 8.97,
+      "CharacterBodyCenterY": 7.11,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16011,
+      "CharacterBodyCenterX": 6.62,
+      "CharacterBodyCenterY": 7.18,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16012,
+      "CharacterBodyCenterX": 8.64,
+      "CharacterBodyCenterY": 6.75,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16013,
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 7.47,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16014,
+      "CharacterBodyCenterX": 9.12,
+      "CharacterBodyCenterY": 7.56,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16015,
+      "CharacterBodyCenterX": 7,
+      "CharacterBodyCenterY": 7.69,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20000,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20001,
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20002,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.4,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20003,
+      "CharacterBodyCenterX": 10.6,
+      "CharacterBodyCenterY": 7.98,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20004,
+      "CharacterBodyCenterX": 9.7,
+      "CharacterBodyCenterY": 7.76,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20005,
+      "CharacterBodyCenterX": 7.75,
+      "CharacterBodyCenterY": 7.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20006,
+      "CharacterBodyCenterX": 9.47,
+      "CharacterBodyCenterY": 6.33,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20007,
+      "CharacterBodyCenterX": 8.61,
+      "CharacterBodyCenterY": 6.71,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20008,
+      "CharacterBodyCenterX": 8.7299,
+      "CharacterBodyCenterY": 7.35,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20009,
+      "CharacterBodyCenterX": 8.82,
+      "CharacterBodyCenterY": 8.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20010,
+      "CharacterBodyCenterX": 7.81,
+      "CharacterBodyCenterY": 7.57,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20011,
+      "CharacterBodyCenterX": 7.85,
+      "CharacterBodyCenterY": 7.43,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20012,
+      "CharacterBodyCenterX": 7.74,
+      "CharacterBodyCenterY": 7.81,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20013,
+      "CharacterBodyCenterX": 7.78,
+      "CharacterBodyCenterY": 8.07,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20014,
+      "CharacterBodyCenterX": 8.17,
+      "CharacterBodyCenterY": 7.44,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20015,
+      "CharacterBodyCenterX": 9.52,
+      "CharacterBodyCenterY": 5.92,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20016,
+      "CharacterBodyCenterX": 7.74,
+      "CharacterBodyCenterY": 7.41,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20017,
+      "CharacterBodyCenterX": 8.09,
+      "CharacterBodyCenterY": 7.14,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20018,
+      "CharacterBodyCenterX": 9.75,
+      "CharacterBodyCenterY": 6.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20019,
+      "CharacterBodyCenterX": 8.37,
+      "CharacterBodyCenterY": 7.23,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20020,
+      "CharacterBodyCenterX": 8.18,
+      "CharacterBodyCenterY": 9.26,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20021,
+      "CharacterBodyCenterX": 8.43,
+      "CharacterBodyCenterY": 7.73,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20022,
+      "CharacterBodyCenterX": 8.2299,
+      "CharacterBodyCenterY": 7.58,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20023,
+      "CharacterBodyCenterX": 7.68,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20024,
+      "CharacterBodyCenterX": 7.82,
+      "CharacterBodyCenterY": 7.87,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20025,
+      "CharacterBodyCenterX": 8.33,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20026,
+      "CharacterBodyCenterX": 7.25,
+      "CharacterBodyCenterY": 7.83,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20027,
+      "CharacterBodyCenterX": 7.32,
+      "CharacterBodyCenterY": 7.45,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20028,
+      "CharacterBodyCenterX": 8.16,
+      "CharacterBodyCenterY": 7.35,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20029,
+      "CharacterBodyCenterX": 11.37,
+      "CharacterBodyCenterY": 7.26,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20030,
+      "CharacterBodyCenterX": 7.51,
+      "CharacterBodyCenterY": 7.89,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20031,
+      "CharacterBodyCenterX": 7.32,
+      "CharacterBodyCenterY": 7.04,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20032,
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 8.83,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20033,
+      "CharacterBodyCenterX": 7.16,
+      "CharacterBodyCenterY": 7.65,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20034,
+      "CharacterBodyCenterX": 7.39,
+      "CharacterBodyCenterY": 7.69,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20035,
+      "CharacterBodyCenterX": 7.42,
+      "CharacterBodyCenterY": 7.21,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23000,
+      "CharacterBodyCenterX": 8,
+      "CharacterBodyCenterY": 7.15,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23001,
+      "CharacterBodyCenterX": 8,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23002,
+      "CharacterBodyCenterX": 9.2,
+      "CharacterBodyCenterY": 6.4899,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23003,
+      "CharacterBodyCenterX": 8.2,
+      "CharacterBodyCenterY": 7.96,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23004,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23005,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.3,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23006,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23007,
+      "CharacterBodyCenterX": 7.93,
+      "CharacterBodyCenterY": 7.06,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23008,
+      "CharacterBodyCenterX": 7.59,
+      "CharacterBodyCenterY": 8.34,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26000,
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.93,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26001,
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.3,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26002,
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 6.77,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26003,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26004,
+      "CharacterBodyCenterX": 9.2,
+      "CharacterBodyCenterY": 5.9,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26005,
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26006,
+      "CharacterBodyCenterX": 9.01,
+      "CharacterBodyCenterY": 6.26,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26007,
+      "CharacterBodyCenterX": 7.69,
+      "CharacterBodyCenterY": 6.67,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26008,
+      "CharacterBodyCenterX": 8.33,
+      "CharacterBodyCenterY": 7.83,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26009,
+      "CharacterBodyCenterX": 9.27,
+      "CharacterBodyCenterY": 7.74,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26010,
+      "CharacterBodyCenterX": 7.44,
+      "CharacterBodyCenterY": 7.77,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26011,
+      "CharacterBodyCenterX": 7.44,
+      "CharacterBodyCenterY": 7.77,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "DataList": [
+    {
+      "VoiceEvent": "OnTSA",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "FormationPickUp",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "CampaignResultDefeat",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "CampaignResultVictory",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "CharacterLevelUp",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "CharacterTranscendence",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "SkillLevelUp",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "Formation",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "CampaignCharacterSpawn",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "BattleStartTimeline",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "BattleVictoryTimeline",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "CharacterFavor",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "BattleMiss",
+      "Rate": 300,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "BattleCover",
+      "Rate": 2000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "BattleMove",
+      "Rate": 2000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "BattleMoveToForamtionBeacon",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkill",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkill2",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkill3",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkill4",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkillLevel",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkillLevel2",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkillLevel3",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "EXSkillLevel4",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "MGS_GameStart",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "MGS_CharacterSelect",
+      "Rate": 10000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "MGS_Attacking",
+      "Rate": 1000,
+      "VoiceHash": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "MGS_GeasGet",
+      "Rate": 5000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "PublicSkill01",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "PublicSkill02",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "InteractionPublicSkill01",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
+    },
+    {
+      "VoiceEvent": "InteractionPublicSkill02",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "DataList": [
+    {
+      "Id": 0,
+      "TacticEntityType": 1,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 1,
+      "TacticEntityType": 2,
+      "FloaterOffsetPosX": -1,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 2,
+      "TacticEntityType": 4,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 3,
+      "TacticEntityType": 8,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 4,
+      "TacticEntityType": 16,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 5,
+      "TacticEntityType": 32,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 6,
+      "TacticEntityType": 64,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 7,
+      "TacticEntityType": 128,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 8,
+      "TacticEntityType": 256,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 9,
+      "TacticEntityType": 512,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 10,
+      "TacticEntityType": 1024,
+      "FloaterOffsetPosX": 0,
+      "FloaterOffsetPosY": 0,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    }
+  ]
+}

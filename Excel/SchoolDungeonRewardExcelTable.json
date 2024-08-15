@@ -1,0 +1,814 @@
+{
+  "DataList": [
+    {
+      "GroupId": 60101,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 10,
+      "RewardParcelAmount": 20,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60101,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 11,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60101,
+      "DungeonType": 0,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60101,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 10,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60101,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 11,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60101,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10000,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60102,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 11,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60102,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 12,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60102,
+      "DungeonType": 0,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60102,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 11,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60102,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 12,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 750,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60102,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 12,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 13,
+      "RewardParcelAmount": 10,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 10,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 11,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 12,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 13,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60103,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 12,
+      "RewardParcelAmount": 20,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 13,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 11,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 12,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 2000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 13,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60104,
+      "DungeonType": 0,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60201,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 20,
+      "RewardParcelAmount": 20,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60201,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 21,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60201,
+      "DungeonType": 1,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60201,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 20,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60201,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 21,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60201,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10000,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60202,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 21,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60202,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 22,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60202,
+      "DungeonType": 1,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60202,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 21,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60202,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 22,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 750,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60202,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 22,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 23,
+      "RewardParcelAmount": 10,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 20,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 21,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 22,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 23,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60203,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 22,
+      "RewardParcelAmount": 20,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 23,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 21,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 22,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 2000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 23,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60204,
+      "DungeonType": 1,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60301,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 30,
+      "RewardParcelAmount": 20,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60301,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 31,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60301,
+      "DungeonType": 2,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60301,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 30,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60301,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 31,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60301,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10000,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60302,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 31,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60302,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 32,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60302,
+      "DungeonType": 2,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60302,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 31,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60302,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 32,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 750,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60302,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 32,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 33,
+      "RewardParcelAmount": 10,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 30,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 31,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 32,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 33,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60303,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 32,
+      "RewardParcelAmount": 20,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 1,
+      "RewardParcelType": 3,
+      "RewardParcelId": 33,
+      "RewardParcelAmount": 15,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 4,
+      "RewardParcelType": 2,
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 30,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 31,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 32,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 2000,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 3,
+      "RewardParcelId": 33,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 60304,
+      "DungeonType": 2,
+      "RewardTag": 0,
+      "RewardParcelType": 5,
+      "RewardParcelId": 10001,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10000,
+      "IsDisplayed": true
+    }
+  ]
+}

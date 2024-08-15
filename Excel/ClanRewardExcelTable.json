@@ -1,0 +1,60 @@
+{
+  "DataList": [
+    {
+      "ClanRewardType": 3,
+      "EchelonType": 0,
+      "RewardParcelType": 2,
+      "RewardParcelId": 5,
+      "RewardParcelAmount": 10
+    },
+    {
+      "ClanRewardType": 1,
+      "EchelonType": 2,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 20
+    },
+    {
+      "ClanRewardType": 2,
+      "EchelonType": 2,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 50000
+    },
+    {
+      "ClanRewardType": 1,
+      "EchelonType": 15,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 20
+    },
+    {
+      "ClanRewardType": 2,
+      "EchelonType": 15,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 50000
+    },
+    {
+      "ClanRewardType": 1,
+      "EchelonType": 11,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 20
+    },
+    {
+      "ClanRewardType": 2,
+      "EchelonType": 11,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 50000
+    },
+    {
+      "ClanRewardType": 1,
+      "EchelonType": 24,
+      "RewardParcelType": 2,
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 20
+    }
+  ]
+}

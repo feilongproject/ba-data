@@ -1,0 +1,1050 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "EventContentId": 810,
+      "CharacterId": 19900002,
+      "ConditionScenarioGroupId": 80000001,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 2,
+      "EventContentId": 810,
+      "CharacterId": 19900003,
+      "ConditionScenarioGroupId": 80000002,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 3,
+      "EventContentId": 810,
+      "CharacterId": 19900001,
+      "ConditionScenarioGroupId": 80000003,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 4,
+      "EventContentId": 810,
+      "CharacterId": 19900000,
+      "ConditionScenarioGroupId": 80000004,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 5,
+      "EventContentId": 810,
+      "CharacterId": 10003,
+      "ConditionScenarioGroupId": 80000005,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 6,
+      "EventContentId": 810,
+      "CharacterId": 20003,
+      "ConditionScenarioGroupId": 80000006,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 7,
+      "EventContentId": 810,
+      "CharacterId": 23002,
+      "ConditionScenarioGroupId": 80000007,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 8,
+      "EventContentId": 810,
+      "CharacterId": 10006,
+      "ConditionScenarioGroupId": 80000008,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 9,
+      "EventContentId": 810,
+      "CharacterId": 13002,
+      "ConditionScenarioGroupId": 80000009,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 10,
+      "EventContentId": 810,
+      "CharacterId": 13007,
+      "ConditionScenarioGroupId": 80000010,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 11,
+      "EventContentId": 810,
+      "CharacterId": 13005,
+      "ConditionScenarioGroupId": 80000011,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 12,
+      "EventContentId": 810,
+      "CharacterId": 10010,
+      "ConditionScenarioGroupId": 80000012,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 13,
+      "EventContentId": 810,
+      "CharacterId": 10005,
+      "ConditionScenarioGroupId": 80000013,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 14,
+      "EventContentId": 810,
+      "CharacterId": 23005,
+      "ConditionScenarioGroupId": 80000014,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 15,
+      "EventContentId": 810,
+      "CharacterId": 10001,
+      "ConditionScenarioGroupId": 80000015,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 16,
+      "EventContentId": 810,
+      "CharacterId": 26001,
+      "ConditionScenarioGroupId": 80000016,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 17,
+      "EventContentId": 810,
+      "CharacterId": 20013,
+      "ConditionScenarioGroupId": 80000017,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 18,
+      "EventContentId": 810,
+      "CharacterId": 13010,
+      "ConditionScenarioGroupId": 80000018,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 19,
+      "EventContentId": 810,
+      "CharacterId": 10018,
+      "ConditionScenarioGroupId": 80000019,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 20,
+      "EventContentId": 810,
+      "CharacterId": 10015,
+      "ConditionScenarioGroupId": 80000020,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 21,
+      "EventContentId": 810,
+      "CharacterId": 23003,
+      "ConditionScenarioGroupId": 80000021,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 22,
+      "EventContentId": 810,
+      "CharacterId": 10007,
+      "ConditionScenarioGroupId": 80000022,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 23,
+      "EventContentId": 810,
+      "CharacterId": 20000,
+      "ConditionScenarioGroupId": 80000023,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 24,
+      "EventContentId": 810,
+      "CharacterId": 23004,
+      "ConditionScenarioGroupId": 80000024,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 25,
+      "EventContentId": 810,
+      "CharacterId": 10017,
+      "ConditionScenarioGroupId": 80000025,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 26,
+      "EventContentId": 810,
+      "CharacterId": 16007,
+      "ConditionScenarioGroupId": 80000026,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 27,
+      "EventContentId": 810,
+      "CharacterId": 26006,
+      "ConditionScenarioGroupId": 80000027,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 28,
+      "EventContentId": 810,
+      "CharacterId": 20002,
+      "ConditionScenarioGroupId": 80000028,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 29,
+      "EventContentId": 810,
+      "CharacterId": 10011,
+      "ConditionScenarioGroupId": 80000029,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 30,
+      "EventContentId": 810,
+      "CharacterId": 13012,
+      "ConditionScenarioGroupId": 80000030,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 31,
+      "EventContentId": 810,
+      "CharacterId": 16008,
+      "ConditionScenarioGroupId": 80000031,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 32,
+      "EventContentId": 810,
+      "CharacterId": 23007,
+      "ConditionScenarioGroupId": 80000032,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 33,
+      "EventContentId": 810,
+      "CharacterId": 13003,
+      "ConditionScenarioGroupId": 80000033,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 34,
+      "EventContentId": 810,
+      "CharacterId": 10004,
+      "ConditionScenarioGroupId": 80000034,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 35,
+      "EventContentId": 810,
+      "CharacterId": 20008,
+      "ConditionScenarioGroupId": 80000035,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 36,
+      "EventContentId": 810,
+      "CharacterId": 10009,
+      "ConditionScenarioGroupId": 80000036,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 37,
+      "EventContentId": 810,
+      "CharacterId": 10000,
+      "ConditionScenarioGroupId": 80000037,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 38,
+      "EventContentId": 810,
+      "CharacterId": 13006,
+      "ConditionScenarioGroupId": 80000038,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 39,
+      "EventContentId": 810,
+      "CharacterId": 23001,
+      "ConditionScenarioGroupId": 80000039,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 40,
+      "EventContentId": 810,
+      "CharacterId": 26002,
+      "ConditionScenarioGroupId": 80000040,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 41,
+      "EventContentId": 810,
+      "CharacterId": 13008,
+      "ConditionScenarioGroupId": 80000041,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 42,
+      "EventContentId": 810,
+      "CharacterId": 13004,
+      "ConditionScenarioGroupId": 80000042,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 43,
+      "EventContentId": 810,
+      "CharacterId": 10012,
+      "ConditionScenarioGroupId": 80000043,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 44,
+      "EventContentId": 810,
+      "CharacterId": 13011,
+      "ConditionScenarioGroupId": 80000044,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 45,
+      "EventContentId": 810,
+      "CharacterId": 10016,
+      "ConditionScenarioGroupId": 80000045,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 46,
+      "EventContentId": 810,
+      "CharacterId": 13001,
+      "ConditionScenarioGroupId": 80000046,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 47,
+      "EventContentId": 810,
+      "CharacterId": 23006,
+      "ConditionScenarioGroupId": 80000047,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 48,
+      "EventContentId": 810,
+      "CharacterId": 10014,
+      "ConditionScenarioGroupId": 80000048,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 49,
+      "EventContentId": 810,
+      "CharacterId": 13009,
+      "ConditionScenarioGroupId": 80000049,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 50,
+      "EventContentId": 810,
+      "CharacterId": 10033,
+      "ConditionScenarioGroupId": 80000050,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 51,
+      "EventContentId": 810,
+      "CharacterId": 10002,
+      "ConditionScenarioGroupId": 80000051,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 52,
+      "EventContentId": 810,
+      "CharacterId": 10019,
+      "ConditionScenarioGroupId": 80000052,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 53,
+      "EventContentId": 810,
+      "CharacterId": 10020,
+      "ConditionScenarioGroupId": 80000053,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 54,
+      "EventContentId": 810,
+      "CharacterId": 16003,
+      "ConditionScenarioGroupId": 80000054,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 55,
+      "EventContentId": 810,
+      "CharacterId": 23008,
+      "ConditionScenarioGroupId": 80000055,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 56,
+      "EventContentId": 810,
+      "CharacterId": 26004,
+      "ConditionScenarioGroupId": 80000056,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 57,
+      "EventContentId": 810,
+      "CharacterId": 26003,
+      "ConditionScenarioGroupId": 80000057,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 58,
+      "EventContentId": 810,
+      "CharacterId": 23000,
+      "ConditionScenarioGroupId": 80000058,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 59,
+      "EventContentId": 810,
+      "CharacterId": 26005,
+      "ConditionScenarioGroupId": 80000059,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 60,
+      "EventContentId": 810,
+      "CharacterId": 10029,
+      "ConditionScenarioGroupId": 80000060,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 61,
+      "EventContentId": 810,
+      "CharacterId": 26000,
+      "ConditionScenarioGroupId": 80000061,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 62,
+      "EventContentId": 810,
+      "CharacterId": 20012,
+      "ConditionScenarioGroupId": 80000062,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 63,
+      "EventContentId": 810,
+      "CharacterId": 16000,
+      "ConditionScenarioGroupId": 80000063,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 64,
+      "EventContentId": 810,
+      "CharacterId": 16001,
+      "ConditionScenarioGroupId": 80000064,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 65,
+      "EventContentId": 810,
+      "CharacterId": 13000,
+      "ConditionScenarioGroupId": 80000065,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 66,
+      "EventContentId": 810,
+      "CharacterId": 20001,
+      "ConditionScenarioGroupId": 80000066,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 67,
+      "EventContentId": 810,
+      "CharacterId": 10008,
+      "ConditionScenarioGroupId": 80000067,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 68,
+      "EventContentId": 810,
+      "CharacterId": 16002,
+      "ConditionScenarioGroupId": 80000068,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 69,
+      "EventContentId": 810,
+      "CharacterId": 16004,
+      "ConditionScenarioGroupId": 80000069,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 70,
+      "EventContentId": 810,
+      "CharacterId": 10013,
+      "ConditionScenarioGroupId": 80000070,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 71,
+      "EventContentId": 810,
+      "CharacterId": 10050,
+      "ConditionScenarioGroupId": 80000071,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 72,
+      "EventContentId": 810,
+      "CharacterId": 10036,
+      "ConditionScenarioGroupId": 80000072,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 73,
+      "EventContentId": 810,
+      "CharacterId": 10035,
+      "ConditionScenarioGroupId": 80000073,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 74,
+      "EventContentId": 810,
+      "CharacterId": 10049,
+      "ConditionScenarioGroupId": 80000074,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 75,
+      "EventContentId": 810,
+      "CharacterId": 20017,
+      "ConditionScenarioGroupId": 80000075,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 76,
+      "EventContentId": 810,
+      "CharacterId": 10041,
+      "ConditionScenarioGroupId": 80000076,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 77,
+      "EventContentId": 810,
+      "CharacterId": 10042,
+      "ConditionScenarioGroupId": 80000077,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 78,
+      "EventContentId": 810,
+      "CharacterId": 10048,
+      "ConditionScenarioGroupId": 80000078,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 79,
+      "EventContentId": 810,
+      "CharacterId": 10034,
+      "ConditionScenarioGroupId": 80000079,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 80,
+      "EventContentId": 810,
+      "CharacterId": 20015,
+      "ConditionScenarioGroupId": 80000080,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 81,
+      "EventContentId": 810,
+      "CharacterId": 10040,
+      "ConditionScenarioGroupId": 80000081,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 82,
+      "EventContentId": 810,
+      "CharacterId": 20020,
+      "ConditionScenarioGroupId": 80000082,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 83,
+      "EventContentId": 810,
+      "CharacterId": 20016,
+      "ConditionScenarioGroupId": 80000083,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 84,
+      "EventContentId": 810,
+      "CharacterId": 16009,
+      "ConditionScenarioGroupId": 80000084,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 85,
+      "EventContentId": 810,
+      "CharacterId": 10038,
+      "ConditionScenarioGroupId": 80000085,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 86,
+      "EventContentId": 810,
+      "CharacterId": 20018,
+      "ConditionScenarioGroupId": 80000086,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 87,
+      "EventContentId": 810,
+      "CharacterId": 20014,
+      "ConditionScenarioGroupId": 80000087,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 88,
+      "EventContentId": 810,
+      "CharacterId": 10039,
+      "ConditionScenarioGroupId": 80000088,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 89,
+      "EventContentId": 810,
+      "CharacterId": 10052,
+      "ConditionScenarioGroupId": 80000089,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 90,
+      "EventContentId": 810,
+      "CharacterId": 10037,
+      "ConditionScenarioGroupId": 80000090,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 91,
+      "EventContentId": 810,
+      "CharacterId": 10055,
+      "ConditionScenarioGroupId": 80000091,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 92,
+      "EventContentId": 810,
+      "CharacterId": 10058,
+      "ConditionScenarioGroupId": 80000092,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 93,
+      "EventContentId": 810,
+      "CharacterId": 19900004,
+      "ConditionScenarioGroupId": 80000093,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 94,
+      "EventContentId": 834,
+      "CharacterId": 10077,
+      "ConditionScenarioGroupId": 80000094,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 95,
+      "EventContentId": 834,
+      "CharacterId": 10078,
+      "ConditionScenarioGroupId": 80000095,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 96,
+      "EventContentId": 834,
+      "CharacterId": 10063,
+      "ConditionScenarioGroupId": 80000096,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 97,
+      "EventContentId": 834,
+      "CharacterId": 10061,
+      "ConditionScenarioGroupId": 80000097,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 98,
+      "EventContentId": 834,
+      "CharacterId": 10068,
+      "ConditionScenarioGroupId": 80000098,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 99,
+      "EventContentId": 834,
+      "CharacterId": 10060,
+      "ConditionScenarioGroupId": 80000099,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 100,
+      "EventContentId": 834,
+      "CharacterId": 10069,
+      "ConditionScenarioGroupId": 80000100,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 101,
+      "EventContentId": 834,
+      "CharacterId": 10070,
+      "ConditionScenarioGroupId": 80000101,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 102,
+      "EventContentId": 834,
+      "CharacterId": 13013,
+      "ConditionScenarioGroupId": 80000102,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 103,
+      "EventContentId": 834,
+      "CharacterId": 20024,
+      "ConditionScenarioGroupId": 80000103,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 104,
+      "EventContentId": 834,
+      "CharacterId": 20026,
+      "ConditionScenarioGroupId": 80000104,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 105,
+      "EventContentId": 834,
+      "CharacterId": 19900005,
+      "ConditionScenarioGroupId": 80000105,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 106,
+      "EventContentId": 834,
+      "CharacterId": 19900006,
+      "ConditionScenarioGroupId": 80000106,
+      "ConditionType": 2,
+      "ConditionParameter": [
+        104120
+      ],
+      "ConditionPrintType": 2
+    },
+    {
+      "Id": 107,
+      "EventContentId": 834,
+      "CharacterId": 10075,
+      "ConditionScenarioGroupId": 80000107,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 108,
+      "EventContentId": 834,
+      "CharacterId": 10062,
+      "ConditionScenarioGroupId": 80000108,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 109,
+      "EventContentId": 834,
+      "CharacterId": 10065,
+      "ConditionScenarioGroupId": 80000109,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 110,
+      "EventContentId": 834,
+      "CharacterId": 20023,
+      "ConditionScenarioGroupId": 80000110,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 111,
+      "EventContentId": 834,
+      "CharacterId": 10082,
+      "ConditionScenarioGroupId": 80000111,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 112,
+      "EventContentId": 834,
+      "CharacterId": 10083,
+      "ConditionScenarioGroupId": 80000112,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 113,
+      "EventContentId": 834,
+      "CharacterId": 10081,
+      "ConditionScenarioGroupId": 80000113,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 114,
+      "EventContentId": 834,
+      "CharacterId": 16014,
+      "ConditionScenarioGroupId": 80000114,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 115,
+      "EventContentId": 834,
+      "CharacterId": 10059,
+      "ConditionScenarioGroupId": 80000115,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 116,
+      "EventContentId": 834,
+      "CharacterId": 20033,
+      "ConditionScenarioGroupId": 80000116,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    }
+  ]
+}

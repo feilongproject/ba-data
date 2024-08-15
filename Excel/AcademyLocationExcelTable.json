@@ -1,0 +1,146 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "LocalizeEtcId": 1895832836,
+      "PrefabPath": "Academy/Location_SchaleOffice",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_01",
+      "OpenCondition": [
+        0
+      ],
+      "OpenConditionCount": [
+        0
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 60000,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 7,
+      "LocalizeEtcId": 4231969254,
+      "PrefabPath": "Academy/Location_SchaleResidence",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_07",
+      "OpenCondition": [],
+      "OpenConditionCount": [],
+      "RewardParcelType": 4,
+      "RewardParcelId": 60004,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 11,
+      "LocalizeEtcId": 3125409229,
+      "PrefabPath": "Academy/Location_Gehenna",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_11",
+      "OpenCondition": [
+        4
+      ],
+      "OpenConditionCount": [
+        8
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4030,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 12,
+      "LocalizeEtcId": 110094030,
+      "PrefabPath": "Academy/Location_Abydos",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_12",
+      "OpenCondition": [
+        5
+      ],
+      "OpenConditionCount": [
+        3
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4040,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 13,
+      "LocalizeEtcId": 1111616358,
+      "PrefabPath": "Academy/Location_Millennium",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_13",
+      "OpenCondition": [
+        6
+      ],
+      "OpenConditionCount": [
+        10
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4050,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 14,
+      "LocalizeEtcId": 481812794,
+      "PrefabPath": "Academy/Location_Trinity",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_14",
+      "OpenCondition": [
+        3
+      ],
+      "OpenConditionCount": [
+        11
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4020,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 15,
+      "LocalizeEtcId": 1466521158,
+      "PrefabPath": "Academy/Location_RedWinter",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_15",
+      "OpenCondition": [
+        2
+      ],
+      "OpenConditionCount": [
+        2
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4010,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 16,
+      "LocalizeEtcId": 1428109633,
+      "PrefabPath": "Academy/Location_Hyakkiyako",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_16",
+      "OpenCondition": [
+        1
+      ],
+      "OpenConditionCount": [
+        5
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4000,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 17,
+      "LocalizeEtcId": 4267333592,
+      "PrefabPath": "Academy/Location_DU_Shiratori",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_17",
+      "OpenCondition": [],
+      "OpenConditionCount": [],
+      "RewardParcelType": 4,
+      "RewardParcelId": 60018,
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 18,
+      "LocalizeEtcId": 2447543586,
+      "PrefabPath": "Academy/Location_Shanhaijing",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_18",
+      "OpenCondition": [
+        8
+      ],
+      "OpenConditionCount": [
+        2
+      ],
+      "RewardParcelType": 4,
+      "RewardParcelId": 4070,
+      "OpenTeacherRank": 1
+    }
+  ]
+}

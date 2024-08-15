@@ -1,0 +1,23 @@
+{
+  "DataList": [
+    {
+      "NormalStageId": 1000,
+      "NormalSectionCount": 10,
+      "HardStageId": 2000,
+      "HardSectionCount": 10,
+      "FreeStageId": 3000,
+      "FreeSectionCount": 30,
+      "PlayerCharacterId": [
+        1,
+        4,
+        5,
+        2
+      ],
+      "HiddenPlayerCharacterId": 3,
+      "CameraSmoothTime": 0.12,
+      "SpawnEffectPath": "Effect/FX_MGS_Enemy_Spawn_Variant",
+      "WaitTimeAfterSpawn": 1,
+      "FreeGearInterval": 1097711526
+    }
+  ]
+}

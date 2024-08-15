@@ -1,0 +1,152 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 822,
+      "Id": 82200,
+      "ErosionType": 1,
+      "Phase": 0,
+      "PhaseAlarm": true,
+      "StepIndex": 0,
+      "PhaseStartConditionType": [],
+      "PhaseStartConditionParameter": [],
+      "PhaseBeforeExposeConditionType": [],
+      "PhaseBeforeExposeConditionParameter": [],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    },
+    {
+      "EventContentId": 822,
+      "Id": 82201,
+      "ErosionType": 1,
+      "Phase": 0,
+      "PhaseAlarm": true,
+      "StepIndex": 1,
+      "PhaseStartConditionType": [],
+      "PhaseStartConditionParameter": [],
+      "PhaseBeforeExposeConditionType": [],
+      "PhaseBeforeExposeConditionParameter": [],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    },
+    {
+      "EventContentId": 822,
+      "Id": 82202,
+      "ErosionType": 1,
+      "Phase": 0,
+      "PhaseAlarm": true,
+      "StepIndex": 2,
+      "PhaseStartConditionType": [],
+      "PhaseStartConditionParameter": [],
+      "PhaseBeforeExposeConditionType": [],
+      "PhaseBeforeExposeConditionParameter": [],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    },
+    {
+      "EventContentId": 822,
+      "Id": 82203,
+      "ErosionType": 1,
+      "Phase": 0,
+      "PhaseAlarm": true,
+      "StepIndex": 3,
+      "PhaseStartConditionType": [],
+      "PhaseStartConditionParameter": [],
+      "PhaseBeforeExposeConditionType": [],
+      "PhaseBeforeExposeConditionParameter": [],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    },
+    {
+      "EventContentId": 822,
+      "Id": 82204,
+      "ErosionType": 2,
+      "Phase": 1,
+      "PhaseAlarm": true,
+      "StepIndex": 1,
+      "PhaseStartConditionType": [
+        1,
+        3
+      ],
+      "PhaseStartConditionParameter": [
+        "4",
+        "Currency;5;4000"
+      ],
+      "PhaseBeforeExposeConditionType": [
+        1,
+        3
+      ],
+      "PhaseBeforeExposeConditionParameter": [
+        "2",
+        "Currency;5;3000"
+      ],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    },
+    {
+      "EventContentId": 822,
+      "Id": 82205,
+      "ErosionType": 2,
+      "Phase": 2,
+      "PhaseAlarm": true,
+      "StepIndex": 2,
+      "PhaseStartConditionType": [
+        1,
+        3
+      ],
+      "PhaseStartConditionParameter": [
+        "7",
+        "Currency;5;7000"
+      ],
+      "PhaseBeforeExposeConditionType": [
+        1,
+        3
+      ],
+      "PhaseBeforeExposeConditionParameter": [
+        "5",
+        "Currency;5;6000"
+      ],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    },
+    {
+      "EventContentId": 822,
+      "Id": 82206,
+      "ErosionType": 2,
+      "Phase": 3,
+      "PhaseAlarm": true,
+      "StepIndex": 3,
+      "PhaseStartConditionType": [
+        1,
+        3
+      ],
+      "PhaseStartConditionParameter": [
+        "10",
+        "Currency;5;10000"
+      ],
+      "PhaseBeforeExposeConditionType": [
+        1,
+        3
+      ],
+      "PhaseBeforeExposeConditionParameter": [
+        "8",
+        "Currency;5;9000"
+      ],
+      "ErosionBattleConditionParcelType": 2,
+      "ErosionBattleConditionParcelUniqueId": 5,
+      "ErosionBattleConditionParcelAmount": 20,
+      "ConquestRewardId": 0
+    }
+  ]
+}

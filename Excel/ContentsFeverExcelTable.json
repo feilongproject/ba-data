@@ -1,0 +1,32 @@
+{
+  "DataList": [
+    {
+      "ConditionContent": 0,
+      "SkillFeverCheckCondition": 0,
+      "SkillCostFever": 20000,
+      "FeverStartTime": 0,
+      "FeverDurationTime": 0
+    },
+    {
+      "ConditionContent": 1,
+      "SkillFeverCheckCondition": 0,
+      "SkillCostFever": 20000,
+      "FeverStartTime": 0,
+      "FeverDurationTime": 0
+    },
+    {
+      "ConditionContent": 2,
+      "SkillFeverCheckCondition": 0,
+      "SkillCostFever": 20000,
+      "FeverStartTime": 0,
+      "FeverDurationTime": 0
+    },
+    {
+      "ConditionContent": 3,
+      "SkillFeverCheckCondition": 2,
+      "SkillCostFever": 25000,
+      "FeverStartTime": 120000,
+      "FeverDurationTime": 60000
+    }
+  ]
+}

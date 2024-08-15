@@ -1,0 +1,100 @@
+{
+  "DataList": [
+    {
+      "FarmingDungeonLocationId": 1,
+      "ContentType": 19,
+      "WeekDungeonType": 1,
+      "SchoolDungeonType": 3,
+      "Order": 1,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_ChaserA",
+      "LocalizeCodeTitle": 1953921643,
+      "LocalizeCodeInfo": 3275880241
+    },
+    {
+      "FarmingDungeonLocationId": 2,
+      "ContentType": 19,
+      "WeekDungeonType": 2,
+      "SchoolDungeonType": 3,
+      "Order": 2,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_ChaserB",
+      "LocalizeCodeTitle": 3764546318,
+      "LocalizeCodeInfo": 2488149824
+    },
+    {
+      "FarmingDungeonLocationId": 3,
+      "ContentType": 19,
+      "WeekDungeonType": 3,
+      "SchoolDungeonType": 3,
+      "Order": 3,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_ChaserC",
+      "LocalizeCodeTitle": 1957685256,
+      "LocalizeCodeInfo": 1122368372
+    },
+    {
+      "FarmingDungeonLocationId": 5,
+      "ContentType": 3,
+      "WeekDungeonType": 5,
+      "SchoolDungeonType": 3,
+      "Order": 1,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_Blood",
+      "LocalizeCodeTitle": 1604106108,
+      "LocalizeCodeInfo": 3075768180
+    },
+    {
+      "FarmingDungeonLocationId": 6,
+      "ContentType": 3,
+      "WeekDungeonType": 4,
+      "SchoolDungeonType": 3,
+      "Order": 2,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_FindGift",
+      "LocalizeCodeTitle": 879385865,
+      "LocalizeCodeInfo": 155620261
+    },
+    {
+      "FarmingDungeonLocationId": 7,
+      "ContentType": 8,
+      "WeekDungeonType": 0,
+      "SchoolDungeonType": 0,
+      "Order": 1,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_SchoolA",
+      "LocalizeCodeTitle": 2335204640,
+      "LocalizeCodeInfo": 93498621
+    },
+    {
+      "FarmingDungeonLocationId": 8,
+      "ContentType": 8,
+      "WeekDungeonType": 0,
+      "SchoolDungeonType": 1,
+      "Order": 2,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_SchoolB",
+      "LocalizeCodeTitle": 1105486500,
+      "LocalizeCodeInfo": 1201181175
+    },
+    {
+      "FarmingDungeonLocationId": 9,
+      "ContentType": 8,
+      "WeekDungeonType": 0,
+      "SchoolDungeonType": 2,
+      "Order": 3,
+      "OpenStartDateTime": "2021-02-01 03:59:59",
+      "OpenEndDateTime": "2999-12-31 03:59:59",
+      "LocationButtonImagePath": "UIs/00_Images/BigBtn/Contents_Image_SchoolC",
+      "LocalizeCodeTitle": 3030580903,
+      "LocalizeCodeInfo": 1660588794
+    }
+  ]
+}

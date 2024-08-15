@@ -1,0 +1,788 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        123,
+        122,
+        121,
+        120
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        173,
+        172,
+        171,
+        170
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        223,
+        222,
+        221,
+        220
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        263,
+        262,
+        261,
+        260
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        123,
+        122,
+        121,
+        120
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        173,
+        172,
+        171,
+        170
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        223,
+        222,
+        221,
+        220
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        263,
+        262,
+        261,
+        260
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 2,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        123,
+        122,
+        121,
+        120
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        173,
+        172,
+        171,
+        170
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        223,
+        222,
+        221,
+        220
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        263,
+        262,
+        261,
+        260
+      ],
+      "RewardParcelAmount": [
+        10,
+        2000000,
+        2,
+        4,
+        6,
+        20
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 3,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        123,
+        122,
+        121,
+        120
+      ],
+      "RewardParcelAmount": [
+        5,
+        1000000,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        173,
+        172,
+        171,
+        170
+      ],
+      "RewardParcelAmount": [
+        5,
+        1000000,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        223,
+        222,
+        221,
+        220
+      ],
+      "RewardParcelAmount": [
+        5,
+        1000000,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 0,
+      "RewardParcelType": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "RewardParcelId": [
+        16013,
+        1,
+        263,
+        262,
+        261,
+        260
+      ],
+      "RewardParcelAmount": [
+        5,
+        1000000,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82800,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82810,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82820,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 4,
+      "ThemaUniqueId": 82830,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 1,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        150000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82811,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 2,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        1500000
+      ]
+    },
+    {
+      "EventContentId": 828,
+      "ThemaRound": 1,
+      "ThemaUniqueId": 82831,
+      "IsLoop": true,
+      "MiniGameTBGThemaRewardType": 2,
+      "RewardParcelType": [
+        2
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        1500000
+      ]
+    }
+  ]
+}

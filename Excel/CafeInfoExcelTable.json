@@ -1,0 +1,16 @@
+{
+  "DataList": [
+    {
+      "CafeId": 1,
+      "IsDefault": true,
+      "OpenConditionCafeId": 4,
+      "OpenConditionCafeInvite": 38
+    },
+    {
+      "CafeId": 2,
+      "IsDefault": true,
+      "OpenConditionCafeId": 51,
+      "OpenConditionCafeInvite": 52
+    }
+  ]
+}

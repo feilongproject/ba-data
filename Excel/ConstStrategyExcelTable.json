@@ -1,0 +1,34 @@
+{
+  "DataList": [
+    {
+      "HexaMapBoundaryOffset": 0.7,
+      "HexaMapStartCameraOffset": 0.5,
+      "CameraZoomMax": 7.5,
+      "CameraZoomMin": 6,
+      "CameraZoomDefault": 6,
+      "HealCostType": 3,
+      "HealCostAmount": [
+        0,
+        10,
+        40,
+        100
+      ],
+      "CanHealHpRate": 8000,
+      "PlayTimeLimitInSeconds": 86400,
+      "AdventureEchelonCount": 4,
+      "RaidEchelonCount": 4,
+      "DefaultEchelonCount": 1,
+      "EventContentEchelonCount": 4,
+      "TimeAttackDungeonEchelonCount": 4,
+      "WorldRaidEchelonCount": 4,
+      "TacticSkipClearTimeSeconds": 90,
+      "TacticSkipFramePerSecond": 1000,
+      "ConquestEchelonCount": 4,
+      "StoryEchelonCount": 4,
+      "MultiSweepPresetCount": 4,
+      "MultiSweepPresetNameMaxLength": 20,
+      "MultiSweepPresetSelectStageMaxCount": 1740152457,
+      "MultiSweepPresetMaxSweepCount": 1740152457
+    }
+  ]
+}

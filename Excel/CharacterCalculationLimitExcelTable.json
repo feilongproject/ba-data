@@ -1,0 +1,158 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "TacticEntityType": 1,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 2,
+      "TacticEntityType": 1,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 3,
+      "TacticEntityType": 2,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 4,
+      "TacticEntityType": 2,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 5,
+      "TacticEntityType": 4,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 6,
+      "TacticEntityType": 4,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 7,
+      "TacticEntityType": 8,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 8,
+      "TacticEntityType": 8,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 9,
+      "TacticEntityType": 16,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 10,
+      "TacticEntityType": 16,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 11,
+      "TacticEntityType": 32,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 12,
+      "TacticEntityType": 32,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 13,
+      "TacticEntityType": 64,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 14,
+      "TacticEntityType": 64,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 15,
+      "TacticEntityType": 128,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 16,
+      "TacticEntityType": 128,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 17,
+      "TacticEntityType": 256,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 18,
+      "TacticEntityType": 256,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 19,
+      "TacticEntityType": 512,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 20,
+      "TacticEntityType": 512,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "Id": 21,
+      "TacticEntityType": 1024,
+      "CalculationValue": 0,
+      "MinValue": 1,
+      "MaxValue": 4000000
+    },
+    {
+      "Id": 22,
+      "TacticEntityType": 1024,
+      "CalculationValue": 1,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    }
+  ]
+}

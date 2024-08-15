@@ -1,0 +1,233 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 0,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_1",
+      "VoiceId": [
+        4066719943
+      ]
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 1,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_2",
+      "VoiceId": [
+        3025780981
+      ]
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 2,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_3",
+      "VoiceId": [
+        1319153887
+      ]
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 3,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_4",
+      "VoiceId": [
+        1007118439
+      ]
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 4,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_5",
+      "VoiceId": [
+        2524506241
+      ]
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 5,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_6",
+      "VoiceId": [
+        2391997834
+      ]
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 6,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 7,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    },
+    {
+      "EventContentId": 818,
+      "EventContentDiceRaceResultType": 8,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 0,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_1",
+      "VoiceId": [
+        407847451
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 1,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_2",
+      "VoiceId": [
+        1845294127
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 2,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_3",
+      "VoiceId": [
+        2760328232
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 3,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_4",
+      "VoiceId": [
+        1426376701
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 4,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_5",
+      "VoiceId": [
+        239942477
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 5,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_6",
+      "VoiceId": [
+        3548676221
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 6,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 7,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": [
+        1127530808
+      ]
+    },
+    {
+      "EventContentId": 827,
+      "EventContentDiceRaceResultType": 15,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": [
+        64125046
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 0,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_1",
+      "VoiceId": [
+        4066719943
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 1,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_2",
+      "VoiceId": [
+        3025780981
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 2,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_3",
+      "VoiceId": [
+        1319153887
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 3,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_4",
+      "VoiceId": [
+        1007118439
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 4,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_5",
+      "VoiceId": [
+        2524506241
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 5,
+      "IsDiceResult": true,
+      "AniClip": "FX_UI_DiceThrow_6",
+      "VoiceId": [
+        2391997834
+      ]
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 6,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 7,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    },
+    {
+      "EventContentId": 10818,
+      "EventContentDiceRaceResultType": 8,
+      "IsDiceResult": true,
+      "AniClip": "",
+      "VoiceId": []
+    }
+  ]
+}

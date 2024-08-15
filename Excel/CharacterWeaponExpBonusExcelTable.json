@@ -1,0 +1,81 @@
+{
+  "DataList": [
+    {
+      "WeaponType": 1,
+      "WeaponExpGrowthA": 15000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 2,
+      "WeaponExpGrowthA": 15000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 5,
+      "WeaponExpGrowthA": 15000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 4,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 15000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 3,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 15000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 6,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 15000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 15,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 15000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 7,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 15000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 9,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 15000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 17,
+      "WeaponExpGrowthA": 10000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 15000,
+      "WeaponExpGrowthZ": 15000
+    },
+    {
+      "WeaponType": 19,
+      "WeaponExpGrowthA": 15000,
+      "WeaponExpGrowthB": 10000,
+      "WeaponExpGrowthC": 10000,
+      "WeaponExpGrowthZ": 15000
+    }
+  ]
+}

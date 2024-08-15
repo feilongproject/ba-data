@@ -1,0 +1,124 @@
+{
+  "DataList": [
+    {
+      "SlotId": 0,
+      "EchelonType": 2,
+      "SlotNumber": 0,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500867197702761
+    },
+    {
+      "SlotId": 1,
+      "EchelonType": 2,
+      "SlotNumber": 1,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500867197702761
+    },
+    {
+      "SlotId": 2,
+      "EchelonType": 15,
+      "SlotNumber": 0,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500849347915193
+    },
+    {
+      "SlotId": 3,
+      "EchelonType": 15,
+      "SlotNumber": 1,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500849347915073
+    },
+    {
+      "SlotId": 4,
+      "EchelonType": 11,
+      "SlotNumber": 0,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500832168045945
+    },
+    {
+      "SlotId": 5,
+      "EchelonType": 11,
+      "SlotNumber": 1,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500832168045745
+    },
+    {
+      "SlotId": 100,
+      "EchelonType": 2,
+      "SlotNumber": 2,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500870822751465
+    },
+    {
+      "SlotId": 110,
+      "EchelonType": 15,
+      "SlotNumber": 2,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500849347914785
+    },
+    {
+      "SlotId": 120,
+      "EchelonType": 11,
+      "SlotNumber": 2,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 40000,
+      "AssistRentalFeeAmountStranger": 8234500832168045657
+    },
+    {
+      "SlotId": 130,
+      "EchelonType": 24,
+      "SlotNumber": 0,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 0,
+      "AssistRentalFeeAmountStranger": 8234500913772425105
+    },
+    {
+      "SlotId": 131,
+      "EchelonType": 24,
+      "SlotNumber": 1,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 0,
+      "AssistRentalFeeAmountStranger": 8234500913772425161
+    },
+    {
+      "SlotId": 132,
+      "EchelonType": 24,
+      "SlotNumber": 2,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistRewardLimit": 1000000000,
+      "AssistRentRewardDailyMaxCount": 20,
+      "AssistRentalFeeAmount": 0,
+      "AssistRentalFeeAmountStranger": 8234500913772424961
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "DataList": [
+    {
+      "UniqueId": 1,
+      "GeasType": 0,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Forward",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_ForwardProjectile01",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 2,
+      "GeasType": 0,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Forward",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_ForwardProjectile02",
+      "NeedGeasId": 1,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 3,
+      "GeasType": 1,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Diagonal",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_DiagonalProjectile01",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 4,
+      "GeasType": 1,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Diagonal",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_DiagonalProjectile02",
+      "NeedGeasId": 3,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 5,
+      "GeasType": 2,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Aspect",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_SideProjectile01",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 6,
+      "GeasType": 3,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Pierce",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Pierce",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 7,
+      "GeasType": 4,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_WallReflection",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Reflect",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 8,
+      "GeasType": 5,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Burn",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Burn",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 9,
+      "GeasType": 6,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Chill",
+      "Probability": 1,
+      "MaxOverlapCount": 1,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Chill",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 10,
+      "GeasType": 7,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_AtkUp",
+      "Probability": 1,
+      "MaxOverlapCount": 4,
+      "GeasData": "Minigame/Shooting/Geas/Geas_AttackPower",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 11,
+      "GeasType": 8,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_AsUp",
+      "Probability": 1,
+      "MaxOverlapCount": 4,
+      "GeasData": "Minigame/Shooting/Geas/Geas_AttackSpeed",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 12,
+      "GeasType": 9,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_CriUp",
+      "Probability": 1,
+      "MaxOverlapCount": 4,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Critical",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    },
+    {
+      "UniqueId": 13,
+      "GeasType": 10,
+      "Icon": "UIs/01_Common/34_MiniGame/Shooting/MinigameShootingGeas_Heal",
+      "Probability": 1,
+      "MaxOverlapCount": 10000,
+      "GeasData": "Minigame/Shooting/Geas/Geas_Heal",
+      "NeedGeasId": 0,
+      "HideInPausePopup": true
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "DetailShowStats": [
+        1,
+        2
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 2,
+      "DetailShowStats": [
+        3,
+        4
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 3,
+      "DetailShowStats": [
+        5,
+        7
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 4,
+      "DetailShowStats": [
+        9,
+        12
+      ],
+      "IsStatsPercent": [
+        false,
+        true
+      ]
+    },
+    {
+      "Id": 5,
+      "DetailShowStats": [
+        44,
+        16
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 6,
+      "DetailShowStats": [
+        21,
+        42
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7,
+      "DetailShowStats": [
+        40,
+        41
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 8,
+      "DetailShowStats": [
+        27,
+        28
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 9,
+      "DetailShowStats": [
+        29
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
+    }
+  ]
+}

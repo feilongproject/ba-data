@@ -1,0 +1,344 @@
+{
+  "DataList": [
+    {
+      "Id": 100,
+      "ProductId": "com.yostarjp.bluearchive.monthlypass980",
+      "StoreType": 1,
+      "Price": 980,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        392
+      ],
+      "EnterCostReduceGroupId": 0,
+      "DailyParcelType": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        40,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "Id": 101,
+      "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
+      "StoreType": 1,
+      "Price": 490,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        196
+      ],
+      "EnterCostReduceGroupId": 0,
+      "DailyParcelType": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        20,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 102,
+      "ProductId": "com.yostarjp.bluearchive.twoweekappass490",
+      "StoreType": 1,
+      "Price": 480,
+      "PriceReference": "",
+      "ProductTagType": 2,
+      "MonthlyDays": 14,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        192
+      ],
+      "EnterCostReduceGroupId": 0,
+      "DailyParcelType": [
+        2
+      ],
+      "DailyParcelId": [
+        5
+      ],
+      "DailyParcelAmount": [
+        150
+      ]
+    },
+    {
+      "Id": 103,
+      "ProductId": "com.yostarjp.bluearchive.newmonthlypass980",
+      "StoreType": 1,
+      "Price": 1000,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        400
+      ],
+      "EnterCostReduceGroupId": 100,
+      "DailyParcelType": [
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        22,
+        23
+      ],
+      "DailyParcelAmount": [
+        40,
+        6,
+        6
+      ]
+    },
+    {
+      "Id": 104,
+      "ProductId": "com.yostarjp.bluearchive.newmonthlypasshalf490",
+      "StoreType": 1,
+      "Price": 480,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        192
+      ],
+      "EnterCostReduceGroupId": 101,
+      "DailyParcelType": [
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        22,
+        23
+      ],
+      "DailyParcelAmount": [
+        20,
+        3,
+        3
+      ]
+    },
+    {
+      "Id": 500,
+      "ProductId": "com.yostarjp.bluearchive.monthlypass980",
+      "StoreType": 2,
+      "Price": 980,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        392
+      ],
+      "EnterCostReduceGroupId": 0,
+      "DailyParcelType": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        40,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "Id": 501,
+      "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
+      "StoreType": 2,
+      "Price": 490,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        196
+      ],
+      "EnterCostReduceGroupId": 0,
+      "DailyParcelType": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        20,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 502,
+      "ProductId": "com.yostarjp.bluearchive.twoweekappass490",
+      "StoreType": 2,
+      "Price": 480,
+      "PriceReference": "",
+      "ProductTagType": 2,
+      "MonthlyDays": 14,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        192
+      ],
+      "EnterCostReduceGroupId": 0,
+      "DailyParcelType": [
+        2
+      ],
+      "DailyParcelId": [
+        5
+      ],
+      "DailyParcelAmount": [
+        150
+      ]
+    },
+    {
+      "Id": 503,
+      "ProductId": "com.yostarjp.bluearchive.newmonthlypass980",
+      "StoreType": 2,
+      "Price": 1000,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        400
+      ],
+      "EnterCostReduceGroupId": 100,
+      "DailyParcelType": [
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        22,
+        23
+      ],
+      "DailyParcelAmount": [
+        40,
+        6,
+        6
+      ]
+    },
+    {
+      "Id": 504,
+      "ProductId": "com.yostarjp.bluearchive.newmonthlypasshalf490",
+      "StoreType": 2,
+      "Price": 480,
+      "PriceReference": "",
+      "ProductTagType": 0,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        192
+      ],
+      "EnterCostReduceGroupId": 101,
+      "DailyParcelType": [
+        2,
+        2,
+        2
+      ],
+      "DailyParcelId": [
+        3,
+        22,
+        23
+      ],
+      "DailyParcelAmount": [
+        20,
+        3,
+        3
+      ]
+    }
+  ]
+}

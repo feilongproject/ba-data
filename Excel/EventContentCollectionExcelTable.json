@@ -1,0 +1,2072 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": 2,
+      "UnlockConditionParameter": [
+        9002
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 2,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": 3,
+      "UnlockConditionParameter": [
+        8
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 3,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        3011101
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 4,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80000
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 100,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 5,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031105
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_01_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 6,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031101
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_02_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 7,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_03_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 8,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031102
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_04_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 9,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031104
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_05_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031105
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_06_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 11,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031103
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_07_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 12,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031302
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_08",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_08_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 13,
+      "EventContentId": 803,
+      "GroupId": 80301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8031301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_09",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_09_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 14,
+      "EventContentId": 803,
+      "GroupId": 80302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80024
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_00_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 15,
+      "EventContentId": 803,
+      "GroupId": 80302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80025
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_01_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 16,
+      "EventContentId": 803,
+      "GroupId": 80302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80026
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_02_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 17,
+      "EventContentId": 803,
+      "GroupId": 80302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80027
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_03_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 18,
+      "EventContentId": 803,
+      "GroupId": 80302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80028
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_04_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 19,
+      "EventContentId": 803,
+      "GroupId": 80302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        80029
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_05_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 20,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_01_Full",
+      "LocalizeEtcId": 404292254,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 21,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 3,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_04_Full",
+      "LocalizeEtcId": 3950044430,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 22,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 5,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_03_Full",
+      "LocalizeEtcId": 1774361412,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 23,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 6,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_05_Full",
+      "LocalizeEtcId": 999560012,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 24,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 8,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_02_Full",
+      "LocalizeEtcId": 4035745238,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 25,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8081301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_06_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 26,
+      "EventContentId": 808,
+      "GroupId": 80800,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8081307
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_07_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 27,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 28,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 3,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 29,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 4,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 30,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 5,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 31,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 6,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 32,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 7,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 33,
+      "EventContentId": 10001,
+      "GroupId": 1001,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        1
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 8,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 34,
+      "EventContentId": 817,
+      "GroupId": 81700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_03_Full",
+      "LocalizeEtcId": 374407097,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 35,
+      "EventContentId": 817,
+      "GroupId": 81700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 3,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_01_Full",
+      "LocalizeEtcId": 1094144720,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 36,
+      "EventContentId": 817,
+      "GroupId": 81700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 4,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_02_Full",
+      "LocalizeEtcId": 2809976808,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 37,
+      "EventContentId": 817,
+      "GroupId": 81700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 6,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_04_Full",
+      "LocalizeEtcId": 1521840386,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 38,
+      "EventContentId": 817,
+      "GroupId": 81700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 8,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_05_Full",
+      "LocalizeEtcId": 3558610679,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 39,
+      "EventContentId": 817,
+      "GroupId": 81700,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8171303
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_06_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 40,
+      "EventContentId": 818,
+      "GroupId": 81800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 10,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_01_Full",
+      "LocalizeEtcId": 317946005,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 41,
+      "EventContentId": 818,
+      "GroupId": 81800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 20,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_02_Full",
+      "LocalizeEtcId": 543266597,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 42,
+      "EventContentId": 818,
+      "GroupId": 81800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 30,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_03_Full",
+      "LocalizeEtcId": 860818406,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 43,
+      "EventContentId": 818,
+      "GroupId": 81800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 40,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_04_Full",
+      "LocalizeEtcId": 3205226752,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 44,
+      "EventContentId": 824,
+      "GroupId": 82400,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        824
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_01_Full",
+      "LocalizeEtcId": 2479371781,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 45,
+      "EventContentId": 824,
+      "GroupId": 82400,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        824
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 4,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_02_Full",
+      "LocalizeEtcId": 2720792911,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 46,
+      "EventContentId": 824,
+      "GroupId": 82400,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        824
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 5,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_03_Full",
+      "LocalizeEtcId": 1248524252,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 47,
+      "EventContentId": 824,
+      "GroupId": 82400,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        824
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 8,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_04_Full",
+      "LocalizeEtcId": 2076555680,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 48,
+      "EventContentId": 824,
+      "GroupId": 82400,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8242301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_824_05_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 49,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 7,
+      "UnlockConditionParameter": [
+        82800
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_01_Full",
+      "LocalizeEtcId": 2282918223,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 50,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 7,
+      "UnlockConditionParameter": [
+        82810
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_02_Full",
+      "LocalizeEtcId": 2182173966,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 51,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 7,
+      "UnlockConditionParameter": [
+        82811
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_03_Full",
+      "LocalizeEtcId": 742766755,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 52,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 7,
+      "UnlockConditionParameter": [
+        82820
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_04_Full",
+      "LocalizeEtcId": 2756625307,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 53,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 7,
+      "UnlockConditionParameter": [
+        82831
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_05_Full",
+      "LocalizeEtcId": 1354203676,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 54,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 7,
+      "UnlockConditionParameter": [
+        82830
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_06_Full",
+      "LocalizeEtcId": 3510482019,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 55,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 8,
+      "UnlockConditionParameter": [
+        828
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_07_Full",
+      "LocalizeEtcId": 1430929184,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 56,
+      "EventContentId": 828,
+      "GroupId": 82800,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        8281301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_828_08",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 57,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        100
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1000,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_05_Full",
+      "LocalizeEtcId": 1612527987,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 58,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        100
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1850,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_01_Full",
+      "LocalizeEtcId": 405568906,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 59,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        200
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1000,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_06_Full",
+      "LocalizeEtcId": 494840872,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 60,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        200
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1850,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_02_Full",
+      "LocalizeEtcId": 1618456696,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 61,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        300
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1000,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_07_Full",
+      "LocalizeEtcId": 2983071558,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 62,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        300
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1850,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_03_Full",
+      "LocalizeEtcId": 1033649487,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 63,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        400
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 150,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_08",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_08_Full",
+      "LocalizeEtcId": 3761469925,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 64,
+      "EventContentId": 836,
+      "GroupId": 83600,
+      "UnlockConditionType": 9,
+      "UnlockConditionParameter": [
+        400
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 200,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_836_04_Full",
+      "LocalizeEtcId": 1161323409,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 5,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031105
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_01_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 6,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031101
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_02_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 7,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_03_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 8,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031102
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_04_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 9,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031104
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_05_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031105
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_06_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 11,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031103
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_07_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 12,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031302
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_08",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_08_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 13,
+      "EventContentId": 10803,
+      "GroupId": 1080301,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108031301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_09",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_09_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 14,
+      "EventContentId": 10803,
+      "GroupId": 1080302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        85024
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_00_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 15,
+      "EventContentId": 10803,
+      "GroupId": 1080302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        85025
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_01_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 16,
+      "EventContentId": 10803,
+      "GroupId": 1080302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        85026
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_02_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 17,
+      "EventContentId": 10803,
+      "GroupId": 1080302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        85027
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_03_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 18,
+      "EventContentId": 10803,
+      "GroupId": 1080302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        85028
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_04_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 19,
+      "EventContentId": 10803,
+      "GroupId": 1080302,
+      "UnlockConditionType": 4,
+      "UnlockConditionParameter": [
+        85029
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_05_S6",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 20,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_01_Full",
+      "LocalizeEtcId": 404292254,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 21,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 3,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_04_Full",
+      "LocalizeEtcId": 3950044430,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 22,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 5,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_03_Full",
+      "LocalizeEtcId": 1774361412,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 23,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 6,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_05_Full",
+      "LocalizeEtcId": 999560012,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 24,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10808
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 8,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_02_Full",
+      "LocalizeEtcId": 4035745238,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 25,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108081301
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_06_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 26,
+      "EventContentId": 10808,
+      "GroupId": 1080800,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108081307
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_808_07_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 34,
+      "EventContentId": 10817,
+      "GroupId": 1081700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_03_Full",
+      "LocalizeEtcId": 374407097,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 35,
+      "EventContentId": 10817,
+      "GroupId": 1081700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 3,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_01_Full",
+      "LocalizeEtcId": 1094144720,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 36,
+      "EventContentId": 10817,
+      "GroupId": 1081700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 4,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_02_Full",
+      "LocalizeEtcId": 2809976808,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 37,
+      "EventContentId": 10817,
+      "GroupId": 1081700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 6,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_04_Full",
+      "LocalizeEtcId": 1521840386,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 38,
+      "EventContentId": 10817,
+      "GroupId": 1081700,
+      "UnlockConditionType": 5,
+      "UnlockConditionParameter": [
+        10817
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 8,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_05_Full",
+      "LocalizeEtcId": 3558610679,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 39,
+      "EventContentId": 10817,
+      "GroupId": 1081700,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        108171303
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_817_06_Full",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 40,
+      "EventContentId": 10818,
+      "GroupId": 1081800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        10818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 10,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_01_Full",
+      "LocalizeEtcId": 317946005,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 41,
+      "EventContentId": 10818,
+      "GroupId": 1081800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        10818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 20,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_02_Full",
+      "LocalizeEtcId": 543266597,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 42,
+      "EventContentId": 10818,
+      "GroupId": 1081800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        10818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 30,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_03_Full",
+      "LocalizeEtcId": 860818406,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 43,
+      "EventContentId": 10818,
+      "GroupId": 1081800,
+      "UnlockConditionType": 6,
+      "UnlockConditionParameter": [
+        10818
+      ],
+      "MultipleConditionCheckType": 0,
+      "UnlockConditionCount": 40,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "",
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_818_04_Full",
+      "LocalizeEtcId": 3205226752,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10000,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011309
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_01",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_01",
+      "FullResource": "UIs/01_Common/36_SpecialOperation/Portrait/Collection_Portrait_Kether",
+      "LocalizeEtcId": 2539375741,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Kether"
+    },
+    {
+      "Id": 10001,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_02",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10002,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011304
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_03",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_03",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "LocalizeEtcId": 537637411,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Binah"
+    },
+    {
+      "Id": 10003,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011306
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_04",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_04",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Chesed_Lobby",
+      "LocalizeEtcId": 1367499131,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Chesed"
+    },
+    {
+      "Id": 10004,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_05",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10005,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_06",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10006,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_07",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10007,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011313
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_08",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_08",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hod_Lobby",
+      "LocalizeEtcId": 3359469350,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Hod"
+    },
+    {
+      "Id": 10008,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_09",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10009,
+      "EventContentId": 701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_10",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10000,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011309,
+        9007011309
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_01",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_01",
+      "FullResource": "UIs/01_Common/36_SpecialOperation/Portrait/Collection_Portrait_Kether",
+      "LocalizeEtcId": 2539375741,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Kether"
+    },
+    {
+      "Id": 10001,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_02",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10002,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011304,
+        9007011304
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_03",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_03",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "LocalizeEtcId": 537637411,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Binah"
+    },
+    {
+      "Id": 10003,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011306,
+        9007011306
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_04",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_04",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Chesed_Lobby",
+      "LocalizeEtcId": 1367499131,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Chesed"
+    },
+    {
+      "Id": 10004,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_05",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10005,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_06",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10006,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_07",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10007,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 1,
+      "UnlockConditionParameter": [
+        7011313,
+        9007011313
+      ],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_08",
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_08",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hod_Lobby",
+      "LocalizeEtcId": 3359469350,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Hod"
+    },
+    {
+      "Id": 10008,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_09",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    },
+    {
+      "Id": 10009,
+      "EventContentId": 900701,
+      "GroupId": 70101,
+      "UnlockConditionType": 0,
+      "UnlockConditionParameter": [],
+      "MultipleConditionCheckType": 1,
+      "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": true,
+      "EmblemResource": "Special_Operation_Icon_Sephira_10",
+      "ThumbResource": "",
+      "FullResource": "",
+      "LocalizeEtcId": 0,
+      "SubNameLocalizeCodeId": ""
+    }
+  ]
+}

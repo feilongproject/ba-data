@@ -1,0 +1,170 @@
+{
+  "DataList": [
+    {
+      "SeasonId": 814,
+      "EventContentId": 814,
+      "EnterTicket": 19,
+      "WorldRaidLobbyScene": "UI/Location_WorldRaid_814",
+      "WorldRaidLobbyBanner": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "WorldRaidLobbyBG": "UIs/01_Common/38_WorldRaid/Location_WorldRaid_BG_814",
+      "WorldRaidLobbyBannerShow": true,
+      "SeasonOpenCondition": 814,
+      "WorldRaidLobbyEnterScenario": 0,
+      "CanPlayNotSeasonTime": true,
+      "WorldRaidUniqueThemeLobbyUI": true,
+      "WorldRaidUniqueThemeName": "",
+      "CanWorldRaidGemEnter": true,
+      "HideWorldRaidTicketUI": true,
+      "UseWorldRaidCommonToast": true,
+      "OpenRaidBossGroupId": [
+        814000,
+        814100
+      ],
+      "BossSpawnTime": [
+        "2022-06-23 04:00:00",
+        "2022-06-23 04:00:00"
+      ],
+      "EliminateTime": [
+        "2022-07-06 10:59:59",
+        "2022-07-06 10:59:59"
+      ],
+      "ScenarioOutputConditionId": [],
+      "ConditionScenarioGroupid": [],
+      "WorldRaidMapEnterOperator": "",
+      "UseFavorRankBuff": true
+    },
+    {
+      "SeasonId": 821,
+      "EventContentId": 821,
+      "EnterTicket": 20,
+      "WorldRaidLobbyScene": "UI/Location_WorldRaid_821",
+      "WorldRaidLobbyBanner": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "WorldRaidLobbyBG": "UIs/01_Common/38_WorldRaid/Location_WorldRaid_BG_821",
+      "WorldRaidLobbyBannerShow": true,
+      "SeasonOpenCondition": 0,
+      "WorldRaidLobbyEnterScenario": 0,
+      "CanPlayNotSeasonTime": true,
+      "WorldRaidUniqueThemeLobbyUI": true,
+      "WorldRaidUniqueThemeName": "Season_821",
+      "CanWorldRaidGemEnter": true,
+      "HideWorldRaidTicketUI": true,
+      "UseWorldRaidCommonToast": true,
+      "OpenRaidBossGroupId": [
+        821000,
+        821200,
+        821300,
+        821100,
+        821400,
+        821001,
+        821201,
+        821301,
+        821101,
+        821401,
+        821501,
+        821602
+      ],
+      "BossSpawnTime": [
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00",
+        "2023-01-25 11:00:00"
+      ],
+      "EliminateTime": [
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59",
+        "2023-02-08 10:59:59"
+      ],
+      "ScenarioOutputConditionId": [
+        821001
+      ],
+      "ConditionScenarioGroupid": [
+        370
+      ],
+      "WorldRaidMapEnterOperator": "",
+      "UseFavorRankBuff": true
+    },
+    {
+      "SeasonId": 823,
+      "EventContentId": 823,
+      "EnterTicket": 21,
+      "WorldRaidLobbyScene": "UI/Location_WorldRaid_823",
+      "WorldRaidLobbyBanner": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "WorldRaidLobbyBG": "UIs/01_Common/38_WorldRaid/Location_WorldRaid_BG_821",
+      "WorldRaidLobbyBannerShow": true,
+      "SeasonOpenCondition": 0,
+      "WorldRaidLobbyEnterScenario": 0,
+      "CanPlayNotSeasonTime": true,
+      "WorldRaidUniqueThemeLobbyUI": true,
+      "WorldRaidUniqueThemeName": "Season_821",
+      "CanWorldRaidGemEnter": true,
+      "HideWorldRaidTicketUI": true,
+      "UseWorldRaidCommonToast": true,
+      "OpenRaidBossGroupId": [
+        823000,
+        823100
+      ],
+      "BossSpawnTime": [
+        "2023-03-09 11:00:00",
+        "2023-03-09 11:00:00"
+      ],
+      "EliminateTime": [
+        "2023-03-15 10:59:59",
+        "2023-03-15 10:59:59"
+      ],
+      "ScenarioOutputConditionId": [],
+      "ConditionScenarioGroupid": [],
+      "WorldRaidMapEnterOperator": "823_WorldRaidEnter_01",
+      "UseFavorRankBuff": true
+    },
+    {
+      "SeasonId": 10814,
+      "EventContentId": 10814,
+      "EnterTicket": 19,
+      "WorldRaidLobbyScene": "UI/Location_WorldRaid_814",
+      "WorldRaidLobbyBanner": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "WorldRaidLobbyBG": "UIs/01_Common/38_WorldRaid/Location_WorldRaid_BG_814",
+      "WorldRaidLobbyBannerShow": true,
+      "SeasonOpenCondition": 814,
+      "WorldRaidLobbyEnterScenario": 0,
+      "CanPlayNotSeasonTime": true,
+      "WorldRaidUniqueThemeLobbyUI": true,
+      "WorldRaidUniqueThemeName": "",
+      "CanWorldRaidGemEnter": true,
+      "HideWorldRaidTicketUI": true,
+      "UseWorldRaidCommonToast": true,
+      "OpenRaidBossGroupId": [
+        10814000,
+        10814100
+      ],
+      "BossSpawnTime": [
+        "2023-07-18 11:00:00",
+        "2023-07-18 11:00:00"
+      ],
+      "EliminateTime": [
+        "2023-07-24 10:59:59",
+        "2023-07-24 10:59:59"
+      ],
+      "ScenarioOutputConditionId": [],
+      "ConditionScenarioGroupid": [],
+      "WorldRaidMapEnterOperator": "",
+      "UseFavorRankBuff": true
+    }
+  ]
+}

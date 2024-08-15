@@ -1,0 +1,202 @@
+{
+  "DataList": [
+    {
+      "RequireParcelType": 4,
+      "RequireParcelId": 10,
+      "RequireParcelAmount": 10,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 4,
+      "ResultParcelId": 11,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 4,
+      "RequireParcelId": 11,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 4,
+      "ResultParcelId": 12,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 4,
+      "RequireParcelId": 12,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 4,
+      "ResultParcelId": 13,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 2,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 3,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 3,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 4,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 10,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 11,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 11,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 12,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 12,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 13,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 20,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 21,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 21,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 22,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 22,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 23,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 30,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 31,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 31,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 32,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 32,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 33,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 40,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 41,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 41,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 42,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": 3,
+      "RequireParcelId": 42,
+      "RequireParcelAmount": 5,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": true,
+      "ResultParcelType": 3,
+      "ResultParcelId": 43,
+      "ResultParcelAmount": 1
+    }
+  ]
+}

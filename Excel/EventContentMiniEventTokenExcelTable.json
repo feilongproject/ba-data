@@ -1,0 +1,39 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 60001,
+      "ItemUniqueId": 80250,
+      "MaximumAmount": 30000
+    },
+    {
+      "EventContentId": 60002,
+      "ItemUniqueId": 80280,
+      "MaximumAmount": 28000
+    },
+    {
+      "EventContentId": 60003,
+      "ItemUniqueId": 80320,
+      "MaximumAmount": 29000
+    },
+    {
+      "EventContentId": 60004,
+      "ItemUniqueId": 80340,
+      "MaximumAmount": 31000
+    },
+    {
+      "EventContentId": 60005,
+      "ItemUniqueId": 80350,
+      "MaximumAmount": 30000
+    },
+    {
+      "EventContentId": 60006,
+      "ItemUniqueId": 80370,
+      "MaximumAmount": 30000
+    },
+    {
+      "EventContentId": 60007,
+      "ItemUniqueId": 80410,
+      "MaximumAmount": 30000
+    }
+  ]
+}

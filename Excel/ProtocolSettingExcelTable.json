@@ -1,0 +1,2153 @@
+{
+  "DataList": [
+    {
+      "Protocol": "Account_Create",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_Nickname",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_Auth",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_CurrencySync",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_SetRepresentCharacterAndComment",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_GetTutorial",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_SetTutorial",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_PassCheck",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_VerifyForYostar",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_CheckYostar",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_CallName",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_BirthDay",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_Auth2",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_LinkReward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_ReportXignCodeCheater",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_DismissRepurchasablePopup",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_InvalidateToken",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Account_LoginSync",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_Transcendence",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_ExpGrowth",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_FavorGrowth",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_UpdateSkillLevel",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_UnlockWeapon",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_WeaponExpGrowth",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_WeaponTranscendence",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Character_SetFavorites",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_Sell",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_Equip",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_LevelUp",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_TierUp",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_Lock",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Equipment_BatchGrowth",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_Sell",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_Consume",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_Lock",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_BulkConsume",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_SelectTicket",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Echelon_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Echelon_Save",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_EnterMainStage",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_ConfirmMainStage",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_DeployEchelon",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_WithdrawEchelon",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_MapMove",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_EndTurn",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_EnterTactic",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_TacticResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_Retreat",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_ChapterClearReward",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_Heal",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_EnterSubStage",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_SubStageResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_Portal",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_ConfirmTutorialStage",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_PurchasePlayCountHardStage",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_EnterTutorialStage",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_TutorialStageResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_RestartMainStage",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_EnterMainStageStrategySkip",
+      "OpenConditionContent": 28,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_MainStageStrategySkipResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mail_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mail_Check",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mail_Receive",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_Reward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_MultipleReward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_GuideReward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_MultipleGuideReward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_Sync",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Attendance_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Attendance_Check",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Attendance_Reward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyMerchandise",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyGacha",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_Refresh",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyEligma",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyGacha2",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyGacha3",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_GachaRecruitList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyRefreshMerchandise",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyAP",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Recipe_Craft",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MemoryLobby_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MemoryLobby_SetMain",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MemoryLobby_UpdateLobbyMode",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MemoryLobby_Interact",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "CumulativeTimeReward_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "CumulativeTimeReward_Reward",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "OpenCondition_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "OpenCondition_EventList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Toast_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_List",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_CompleteList",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Detail",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Search",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_CreateBattle",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_EnterBattle",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_BattleUpdate",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_EndBattle",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Reward",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_SeasonReward",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Lobby",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_GiveUp",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_OpponentList",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_RankingReward",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Login",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Sweep",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_GetBestTeam",
+      "OpenConditionContent": 3,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "SkipHistory_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "SkipHistory_Save",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_List",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_Clear",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_GroupHistoryUpdate",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_Skip",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_Select",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_AccountStudentChange",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_LobbyStudentChange",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_SpecialLobbyChange",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Scenario_Enter",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_Get",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_Ack",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_Deploy",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_Relocate",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_Remove",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_RemoveAll",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_Interact",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_ListPreset",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_RenamePreset",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_ClearPreset",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_UpdatePresetFurniture",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_ApplyPreset",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_RankUp",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_ReceiveCurrency",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_GiveGift",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_SummonCharacter",
+      "OpenConditionContent": 38,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_TrophyHistory",
+      "OpenConditionContent": 4,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_SelectNode",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_UpdateNodeLevel",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_BeginProcess",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_CompleteProcess",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_Reward",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_HistoryList",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_ShiftingBeginProcess",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_ShiftingCompleteProcess",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_ShiftingReward",
+      "OpenConditionContent": 23,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_EnterLobby",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_Login",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_SettingChange",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_OpponentList",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_EnterBattle",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_EnterBattlePart1",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_EnterBattlePart2",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_BattleResult",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_CumulativeTimeReward",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_DailyReward",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_RankList",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_History",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_RecordSync",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_TicketPurchase",
+      "OpenConditionContent": 8,
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_DamageReport",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_CheckSeasonCloseReward",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_SyncEchelonSettingTime",
+      "OpenConditionContent": 8,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WeekDungeon_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WeekDungeon_EnterBattle",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WeekDungeon_BattleResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WeekDungeon_Retreat",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Academy_GetInfo",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Academy_AttendSchedule",
+      "OpenConditionContent": 9,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Event_GetList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Event_GetImage",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Event_UseCoupon",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Event_RewardIncrease",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "ContentSave_Get",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "ContentSave_Discard",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "ContentSweep_Request",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Lobby",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Login",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Search",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Create",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Member",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Applicant",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Join",
+      "OpenConditionContent": 26,
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Quit",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Permit",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Kick",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Setting",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Confer",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Dismiss",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_AutoJoin",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_MemberList",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_CancelApply",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_AssistList",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_SetAssist",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_ReceiveTermReward",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_ReceiveRentReward",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_ChatLog",
+      "OpenConditionContent": 26,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_Check",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_AllAssistList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Billing_TransactionStartByYostar",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Billing_TransactionEndByYostar",
+      "OpenConditionContent": 34,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Billing_PurchaseListByYostar",
+      "OpenConditionContent": 34,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_AdventureList",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterMainStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ConfirmMainStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterTactic",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_TacticResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterSubStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_SubStageResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_DeployEchelon",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_WithdrawEchelon",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_MapMove",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EndTurn",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_Retreat",
+      "OpenConditionContent": 21,
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_Portal",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_PurchasePlayCountHardStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ShopList",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ShopRefresh",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ReceiveStageTotalReward",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterMainGroundStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_MainGroundStageResult",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ShopBuyMerchandise",
+      "OpenConditionContent": 0,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_BoxGachaShopList",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_BoxGachaShopPurchase",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_BoxGachaShopRefresh",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_CollectionList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_CollectionForMission",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterStoryStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_StoryStageResult",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_DiceRaceLobby",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_DiceRaceRoll",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_DiceRaceLapReward",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TTS_GetFile",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "ContentLog_UIOpenStatistics",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MomoTalk_OutLine",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MomoTalk_MessageList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MomoTalk_Read",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MomoTalk_FavorSchedule",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "ClearDeck_List",
+      "OpenConditionContent": 21,
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Queuing_GetTicket",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_StageList",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_EnterStage",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_Result",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_MissionList",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_MissionReward",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_MissionMultipleReward",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Notification_LobbyCheck",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Notification_EventContentReddotCheck",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "SchoolDungeon_List",
+      "OpenConditionContent": 40,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "SchoolDungeon_EnterBattle",
+      "OpenConditionContent": 40,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "SchoolDungeon_BattleResult",
+      "OpenConditionContent": 40,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "SchoolDungeon_Retreat",
+      "OpenConditionContent": 40,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_Lobby",
+      "OpenConditionContent": 41,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_CreateBattle",
+      "OpenConditionContent": 41,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_EnterBattle",
+      "OpenConditionContent": 41,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_EndBattle",
+      "OpenConditionContent": 41,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_Sweep",
+      "OpenConditionContent": 41,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_GiveUp",
+      "OpenConditionContent": 41,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "TimeAttackDungeon_Login",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WorldRaid_Lobby",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WorldRaid_BossList",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WorldRaid_EnterBattle",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WorldRaid_BattleResult",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WorldRaid_ReceiveReward",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_GetInfo",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_Conquer",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_ConquerWithBattleStart",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_ConquerWithBattleResult",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_DeployEchelon",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_ManageBase",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_UpgradeBase",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_TakeEventObject",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_EventObjectBattleStart",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_EventObjectBattleResult",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_ReceiveCalculateRewards",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_NormalizeEchelon",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Conquest_Check",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_Remove",
+      "OpenConditionContent": 21,
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Friend_GetFriendDetailedInfo",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_GetIdCard",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_SetIdCard",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_Search",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_SendFriendRequest",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_AcceptFriendRequest",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_DeclineFriendRequest",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_CancelFriendRequest",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Friend_Check",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "CharacterGear_List",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "CharacterGear_Unlock",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "CharacterGear_TierUp",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Eliminate_Login",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Eliminate_Lobby",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_OpponentList",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_GetBestTeam",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_CreateBattle",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_EnterBattle",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_EndBattle",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_GiveUp",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_Sweep",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_SeasonReward",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EliminateRaid_RankingReward",
+      "OpenConditionContent": 50,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "DataList": [
+    {
+      "SoundUniqueId": "BUTTON_CLICK",
+      "ID": 1,
+      "Path": "Audio/SFX_UI/UI_Button_Touch"
+    },
+    {
+      "SoundUniqueId": "BACK_BUTTON_CLICK",
+      "ID": 2,
+      "Path": "Audio/SFX_UI/UI_Button_Back"
+    },
+    {
+      "SoundUniqueId": "BUTTON_MUTE",
+      "ID": 3,
+      "Path": "Audio/SFX_Common/Mute"
+    },
+    {
+      "SoundUniqueId": "BUTTON_WOOD",
+      "ID": 4,
+      "Path": "Audio/SFX_UI/UI_Button_Wood"
+    },
+    {
+      "SoundUniqueId": "BUTTON_MUS",
+      "ID": 5,
+      "Path": "Audio/SFX_UI/UI_Button_Mus"
+    }
+  ]
+}
