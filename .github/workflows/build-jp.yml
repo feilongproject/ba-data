@@ -81,6 +81,15 @@ jobs:
           $commitMessage = Get-Content -Path "D:/a/ba-data/extData/commit.txt" -Raw
           echo "::set-output name=commit_message::$commitMessage"
 
+      - name: Check for changes
+        run: |
+          if (git status --porcelain) {
+            Write-Host "Changes detected. Proceeding with commit."
+          } else {
+            Write-Host "No changes detected. Exiting."
+            exit 0
+          }
+
       - name: Commit changes with message from commit.txt
         run: |
           git config --global user.name "GitHub Actions"
