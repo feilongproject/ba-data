@@ -68,6 +68,7 @@ jobs:
 
       - name: Overwrite files from extData/output/table to current directory
         run: |
+          del -Exclude .git,README.txt -Force * -Recurse
           cp -Recurse -Force -Path "D:/a/ba-data/extData/output/table/*" -Destination "."
 
       # - name: List directories after overwriting files
