@@ -66,11 +66,15 @@ jobs:
       #     dir D:/a/ba-data/ba-data
       #     dir D:/a/ba-data/extData/output/table
 
+      - name: Delete unless file
+        run: |
+          del -Include *.bytes,*.bytes.d -Recurse *
+        working-directory: D:/a/ba-data/extData/output/table
+
       - name: Overwrite files from extData/output/table to current directory
         run: |
           del -Exclude .git,README.txt -Recurse *
           cp -Recurse -Force -Path "D:/a/ba-data/extData/output/table/*" -Destination "."
-          del -Exclude .git,README.txt -Include *.bytes,*.bytes.d -Recurse *
 
       # - name: List directories after overwriting files
       #   run: |
