@@ -2,8 +2,8 @@ name: Clone, Build, Run, and Upload JP-Tables
 
 on:
   push:
-    # branches:
-    #   - main
+    branches:
+      - main
   schedule:
     # - cron: "0 10,19,23 * * *" # UTC+8
     - cron: "0 2,11,15 * * *"
