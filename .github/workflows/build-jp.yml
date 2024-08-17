@@ -1,0 +1,116 @@
+name: Clone, Build, Run, and Upload JP-Tables
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # - cron: "0 10,19,23 * * *" # UTC+8
+    - cron: "0 2,11,15 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout the main branch of the repository
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Install SSH key for private repository access
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          if_key_exists: replace
+
+      - name: Clone the private repository
+        run: git clone ${{ secrets.PRIVATE_REPO_URL }} cloned-repo --recurse-submodules
+        env:
+          PRIVATE_REPO_URL: ${{ secrets.PRIVATE_REPO_URL }}
+
+      - name: Create extData directory and copy configuration files
+        run: |
+          mkdir extData
+          cp launchSettings.json cloned-repo/Division/Properties/launchSettings.json
+          cp appsettings.json cloned-repo/Division/appsettings.json
+
+      - name: Set up .NET environment
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore project dependencies
+        run: dotnet restore
+        working-directory: cloned-repo/Division
+
+      - name: Build the project in Debug mode
+        run: dotnet build --property WarningLevel=0 --configuration Debug --no-restore
+        working-directory: cloned-repo/Division
+
+      - name: Run the project executable
+        run: dotnet run --property WarningLevel=0 --configuration Debug
+        working-directory: cloned-repo/Division
+
+      - name: Checkout JP branch of the repository
+        uses: actions/checkout@v3
+        with:
+          ref: JP
+
+      # - name: List directories before overwriting files
+      #   run: |
+      #     dir D:/a/
+      #     dir D:/a/ba-data
+      #     dir D:/a/ba-data/ba-data
+      #     dir D:/a/ba-data/extData/output/table
+
+      - name: Delete unless file
+        run: |
+          del -Include *.bytes,*.bytes.d -Recurse *
+        working-directory: D:/a/ba-data/extData/output/table
+
+      - name: Overwrite files from extData/output/table to current directory
+        run: |
+          del -Exclude .git,workflows,build-jp.yml,README.txt -Recurse *
+          cp -Recurse -Force -Path "D:/a/ba-data/extData/output/table/*" -Destination "."
+
+      # - name: List directories after overwriting files
+      #   run: |
+      #     dir D:/a/
+      #     dir D:/a/ba-data
+      #     dir D:/a/ba-data/ba-data
+      #     dir D:/a/ba-data/extData/output/table
+
+      - name: Read commit message from commit.txt
+        id: get_commit_message
+        run: |
+          $commitMessage = Get-Content -Path "D:/a/ba-data/extData/commit.txt" -Raw
+          echo "COMMIT_MESSAGE=$commitMessage" >> $env:GITHUB_OUTPUT
+
+      - name: Commit changes with message from commit.txt
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          if (git status --porcelain) {
+            Write-Host "Changes detected. Proceeding with commit."
+            git add .
+            git commit -m "${{ steps.get_commit_message.outputs.COMMIT_MESSAGE }}"
+          } else {
+            Write-Host "No changes detected. Exiting."
+            exit 0
+          }
+
+      - name: Upload Tables(decoded) artifact
+        uses: actions/upload-artifact@v4
+        with:
+          path: D:/a/ba-data/extData/output/table
+          name: tables-${{ steps.get_commit_message.outputs.commit_message }}
+
+      - name: Push changes to JP branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: JP
