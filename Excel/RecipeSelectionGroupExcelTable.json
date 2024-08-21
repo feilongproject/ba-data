@@ -11081,6 +11081,22 @@
       "ResultAmountMax": 1
     },
     {
+      "RecipeSelectionGroupId": 1001993,
+      "RecipeSelectionGroupComponentId": 133,
+      "ParcelType": 13,
+      "ParcelId": 210330,
+      "ResultAmountMin": 1,
+      "ResultAmountMax": 1
+    },
+    {
+      "RecipeSelectionGroupId": 1001993,
+      "RecipeSelectionGroupComponentId": 134,
+      "ParcelType": 13,
+      "ParcelId": 210331,
+      "ResultAmountMin": 1,
+      "ResultAmountMax": 1
+    },
+    {
       "RecipeSelectionGroupId": 1001999,
       "RecipeSelectionGroupComponentId": 1,
       "ParcelType": 13,
@@ -11461,6 +11477,22 @@
       "RecipeSelectionGroupComponentId": 48,
       "ParcelType": 13,
       "ParcelId": 210329,
+      "ResultAmountMin": 1,
+      "ResultAmountMax": 1
+    },
+    {
+      "RecipeSelectionGroupId": 1001999,
+      "RecipeSelectionGroupComponentId": 49,
+      "ParcelType": 13,
+      "ParcelId": 210330,
+      "ResultAmountMin": 1,
+      "ResultAmountMax": 1
+    },
+    {
+      "RecipeSelectionGroupId": 1001999,
+      "RecipeSelectionGroupComponentId": 50,
+      "ParcelType": 13,
+      "ParcelId": 210331,
       "ResultAmountMin": 1,
       "ResultAmountMax": 1
     },

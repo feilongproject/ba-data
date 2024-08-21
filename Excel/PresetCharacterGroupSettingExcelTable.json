@@ -2216,6 +2216,13 @@
       ]
     },
     {
+      "CharacterId": 10099,
+      "ArenaSimulatorFixed": true,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
       "CharacterId": 10100,
       "ArenaSimulatorFixed": true,
       "PresetType": [
@@ -2238,6 +2245,20 @@
     },
     {
       "CharacterId": 26013,
+      "ArenaSimulatorFixed": true,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 10103,
+      "ArenaSimulatorFixed": true,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 20038,
       "ArenaSimulatorFixed": true,
       "PresetType": [
         "AllCharacter"

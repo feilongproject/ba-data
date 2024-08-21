@@ -552,7 +552,8 @@ enum EventContentType : int {
     Field,
     MultiFloorRaid,
     MinigameDreamMaker,
-    MiniGameDefense
+    MiniGameDefense,
+    OpenWebView
 }
 enum EventTargetType : int {
     WeekDungeon,
@@ -8637,6 +8638,7 @@ table MinigameTBGItemExcel {
     BuffIcon: string;
     EncounterCount: int;
     DiceEffectAniClip: string;
+    BuffIconHUDVisible: bool;
 }
 table MinigameTBGItemExcelTable {
     DataList: [MinigameTBGItemExcel];
@@ -8684,6 +8686,7 @@ table MinigameTBGSeasonExcel {
     MapNameLocalize: string;
     StartThemaIndex: int;
     LoopThemaIndex: int;
+    MaxDicePlus: int;
 }
 table MinigameTBGSeasonExcelTable {
     DataList: [MinigameTBGSeasonExcel];

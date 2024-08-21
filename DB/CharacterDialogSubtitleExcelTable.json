@@ -12361,6 +12361,134 @@
       "LocalizeJP": "私も、少しは強くなったかな？\nうん、これならみんなの力になれる。"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루 아카이브.",
+      "LocalizeJP": "ブルーアーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아비도스 대책위원회 2학년\n스나오오카미 시로코야. 잘 부탁해.",
+      "LocalizeJP": "アビドス対策委員会２年生\n砂狼シロコ。よろしく。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음… 제법 넓은 곳이네.\n적당히 운동하기에\n충분하겠어.",
+      "LocalizeJP": "へぇ…。\nまあまあ広い所だね。\n適度な運動をするには\n十分だ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음….",
+      "LocalizeJP": "ふむ…。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음 라이딩은\n어디로 가지?",
+      "LocalizeJP": "次のライディングは\nどこに行こうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님은 방과 후엔\n무슨 일을 할까…?",
+      "LocalizeJP": "先生は放課後は\n何の仕事を\nしてるのかな…？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그러고 보니\n총기 점검 시간이네.",
+      "LocalizeJP": "そういえば銃器の\n点検時間だったね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나는 이제 조금 더 강해진 거겠지?\n음. 이걸로 모두의 힘이 될 수 있다면",
+      "LocalizeJP": "私も、少しは強くなったかな？\nうん、これならみんなの力になれる。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루 아카이브.",
+      "LocalizeJP": "ブルーアーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아비도스 대책위원회 2학년\n스나오오카미 시로코야. 잘 부탁해.",
+      "LocalizeJP": "アビドス対策委員会２年生\n砂狼シロコ。よろしく。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음… 제법 넓은 곳이네.\n적당히 운동하기에\n충분하겠어.",
+      "LocalizeJP": "へぇ…。\nまあまあ広い所だね。\n適度な運動をするには\n十分だ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음….",
+      "LocalizeJP": "ふむ…。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음 라이딩은\n어디로 가지?",
+      "LocalizeJP": "次のライディングは\nどこに行こうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님은 방과 후엔\n무슨 일을 할까…?",
+      "LocalizeJP": "先生は放課後は\n何の仕事を\nしてるのかな…？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그러고 보니\n총기 점검 시간이네.",
+      "LocalizeJP": "そういえば銃器の\n点検時間だったね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나는 이제 조금 더 강해진 거겠지?\n음. 이걸로 모두의 힘이 될 수 있다면",
+      "LocalizeJP": "私も、少しは強くなったかな？\nうん、これならみんなの力になれる。"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,
@@ -14213,7 +14341,7 @@
       "CharacterId": 10028,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "두근두근두근두근~!",
+      "LocalizeKR": "두근두근두근두근두근~!",
       "LocalizeJP": "ドキドキしてきた～！"
     },
     {
@@ -17285,7 +17413,7 @@
       "CharacterId": 10028,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "두근두근두근두근~!",
+      "LocalizeKR": "두근두근두근두근두근~!",
       "LocalizeJP": "ドキドキしてきた～！"
     },
     {
@@ -23917,7 +24045,7 @@
       "CharacterId": 10028,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "두근두근두근두근~!",
+      "LocalizeKR": "두근두근두근두근두근~!",
       "LocalizeJP": "ドキドキしてきた～！"
     },
     {
@@ -25541,7 +25669,7 @@
       "CharacterId": 10028,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "두근두근두근두근~!",
+      "LocalizeKR": "두근두근두근두근두근~!",
       "LocalizeJP": "ドキドキしてきた～！"
     },
     {
@@ -25549,7 +25677,7 @@
       "CharacterId": 10028,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "두근두근두근두근~!",
+      "LocalizeKR": "두근두근두근두근두근~!",
       "LocalizeJP": "ドキドキしてきた～！"
     },
     {
@@ -28813,7 +28941,7 @@
       "CharacterId": 10028,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "두근두근두근두근~!",
+      "LocalizeKR": "두근두근두근두근두근~!",
       "LocalizeJP": "ドキドキしてきた～！"
     },
     {
@@ -30655,6 +30783,662 @@
       "Separate": false,
       "LocalizeKR": "그…… 감사합니다.\n선생님.",
       "LocalizeJP": "その……\nありがとうございます。\n先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제예요! 주군!\n자, 어디부터 놀러 가볼까요?",
+      "LocalizeJP": "お祭りですよ、主殿！\nさあ、どこから遊びに\n行きましょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제예요! 주군!\n자, 어디부터 놀러 가볼까요?",
+      "LocalizeJP": "お祭りですよ、主殿！\nさあ、どこから遊びに\n行きましょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "벌써 축제도\n이렇게나 무르익었네요.",
+      "LocalizeJP": "お祭りがどんどん盛り\n上がってきましたね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "벌써 축제도\n이렇게나 무르익었네요.",
+      "LocalizeJP": "お祭りがどんどん盛り\n上がってきましたね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "백야앵제는\n끝나버렸지만….",
+      "LocalizeJP": "百夜ノ春ノ桜花祭は、\n終わって\nしまいましたが……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "백야앵제는\n끝나버렸지만….",
+      "LocalizeJP": "百夜ノ春ノ桜花祭は、\n終わって\nしまいましたが……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥~ 흥흥흥~ 흥♪\n이즈나이즈나 캥캥~♪",
+      "LocalizeJP": "ふん～ふふん～\nふんふん～♪\nイズナこんこん、\nこんここ～ん♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥~ 흥흥흥~ 흥♪\n이즈나이즈나 캥캥~♪",
+      "LocalizeJP": "ふん～ふふん～\nふんふん～♪\nイズナこんこん、\nこんここ～ん♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경단, 센베이,\n오코노미야키…!",
+      "LocalizeJP": "お団子、おせんべい、\nお好み焼き……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경단, 센베이,\n오코노미야키…!",
+      "LocalizeJP": "お団子、おせんべい、\nお好み焼き……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈나, 준비 만전!\n주군을 지켜드리면서,\n축제를 안내하겠습니다! 닌닌!",
+      "LocalizeJP": "イズナ、準備万端です！\n主殿のことをお守りしつつ、\nお祭りをご案内します！\nニンニン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈나, 준비 만전!\n주군을 지켜드리면서,\n축제를 안내하겠습니다! 닌닌!",
+      "LocalizeJP": "イズナ、準備万端です！\n主殿のことをお守りしつつ、\nお祭りをご案内します！\nニンニン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈나, 준비 만전!\n주군을 지켜드리면서,\n축제를 안내하겠습니다! 닌닌!",
+      "LocalizeJP": "イズナ、準備万端です！\n主殿のことをお守りしつつ、\nお祭りをご案内します！\nニンニン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈나, 준비 만전!\n주군을 지켜드리면서,\n축제를 안내하겠습니다! 닌닌!",
+      "LocalizeJP": "イズナ、準備万端です！\n主殿のことをお守りしつつ、\nお祭りをご案内します！\nニンニン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제예요! 주군!\n자, 어디부터 놀러 가볼까요?",
+      "LocalizeJP": "お祭りですよ、主殿！\nさあ、どこから遊びに\n行きましょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제예요! 주군!\n자, 어디부터 놀러 가볼까요?",
+      "LocalizeJP": "お祭りですよ、主殿！\nさあ、どこから遊びに\n行きましょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주군! 주군! 축제가\n정말 기대되네요!",
+      "LocalizeJP": "主殿主殿、\nお祭りとっても\n楽しみですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "벌써 축제도\n이렇게나 무르익었네요.",
+      "LocalizeJP": "お祭りがどんどん盛り\n上がってきましたね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "벌써 축제도\n이렇게나 무르익었네요.",
+      "LocalizeJP": "お祭りがどんどん盛り\n上がってきましたね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…. 축제도 이제\n금방 끝나버리는 건가요….",
+      "LocalizeJP": "お祭り、\nもうすぐ終わって\nしまいますね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "백야앵제는\n끝나버렸지만….",
+      "LocalizeJP": "百夜ノ春ノ桜花祭は、\n終わって\nしまいましたが……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "백야앵제는\n끝나버렸지만….",
+      "LocalizeJP": "百夜ノ春ノ桜花祭は、\n終わって\nしまいましたが……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥~ 흥흥흥~ 흥♪\n이즈나이즈나 캥캥~♪",
+      "LocalizeJP": "ふん～ふふん～\nふんふん～♪\nイズナこんこん、\nこんここ～ん♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥~ 흥흥흥~ 흥♪\n이즈나이즈나 캥캥~♪",
+      "LocalizeJP": "ふん～ふふん～\nふんふん～♪\nイズナこんこん、\nこんここ～ん♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥~ 흥흥흥~ 흥♪\n이즈나이즈나 캥캥~♪",
+      "LocalizeJP": "ふん～ふふん～\nふんふん～♪\nイズナこんこん、\nこんここ～ん♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥~ 흥흥흥~ 흥♪\n이즈나이즈나 캥캥~♪",
+      "LocalizeJP": "ふん～ふふん～\nふんふん～♪\nイズナこんこん、\nこんここ～ん♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗? 이 기척은…\n주군이네요!",
+      "LocalizeJP": "むっ、この気配は……\n主殿ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경단, 센베이,\n오코노미야키…!",
+      "LocalizeJP": "お団子、おせんべい、\nお好み焼き……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경단, 센베이,\n오코노미야키…!",
+      "LocalizeJP": "お団子、おせんべい、\nお好み焼き……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈나, 준비 만전!\n주군을 지켜드리면서,\n축제를 안내하겠습니다! 닌닌!",
+      "LocalizeJP": "イズナ、準備万端です！\n主殿のことをお守りしつつ、\nお祭りをご案内します！\nニンニン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈나, 준비 만전!\n주군을 지켜드리면서,\n축제를 안내하겠습니다! 닌닌!",
+      "LocalizeJP": "イズナ、準備万端です！\n主殿のことをお守りしつつ、\nお祭りをご案内します！\nニンニン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "백야당의 출장 판매예요!\n자아, 주인님.\n필요한 물건은 무엇인가요?",
+      "LocalizeJP": "百夜堂の出張販売です！\nさあご主人様、\n必要な物は何でしょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아~ 선생님.\n어서 오세요~",
+      "LocalizeJP": "あ、先生！\nいらっしゃいませ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아~ 선생님.\n어서 오세요~",
+      "LocalizeJP": "あ、先生！\nいらっしゃいませ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제는 끝나버렸지만,\n아직 영업 중이랍니다.",
+      "LocalizeJP": "お祭りは終わって\nしまいましたが、\nまだまだ営業中です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제가 열려도\n백야당은 멈추지 않는다!",
+      "LocalizeJP": "お祭りでも、\nいえお祭りだからこそ、\n百夜堂は止まりませんよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋았어. 여기에선…\n모에모에… 큥!",
+      "LocalizeJP": "よし、ここは……\n萌え萌え～、キュン♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy1",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗, 그거…! 아, 아뇨아뇨, 자자.\n딱히 남는 건 가져가야겠다던가,\n그런 생각을 한 적 없으니까…!",
+      "LocalizeJP": "あっ、それ…！い、いえいえ、\nどうぞどうぞ。別に余ったら\n貰おうとか思っていたわけではなく…！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy2",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그걸 선택하다니,\n역시 선생님!\n안목이 있으시다니까요!",
+      "LocalizeJP": "それを選ぶとは、\nさすが先生！\nお目が高いです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy3",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "매번 구매 감사드립니다~\n주인님~!",
+      "LocalizeJP": "お買い上げ\nありがとうございます、\nご主人様♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy4",
+      "CharacterId": 23006,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그 물건, 제법 괜찮죠?\n에헤헷.",
+      "LocalizeJP": "あ、それやっぱり良い品だと\n思いますよね？えへへっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter1",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "붉은겨울 학원 사무국에\n오신 것을 환영합니다,\n선생님.",
+      "LocalizeJP": "レッドウィンター事務局へ\nようこそ、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter2",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "학원 부지에서 체리노\n회장님의 특제 마트료시카를\n찾으셨나요?",
+      "LocalizeJP": "学園の敷地内にある会長を\n模したマトリョーシカは、\nもう見つけられましたか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter3",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제는\n즐겁게 즐기고 계신가요?",
+      "LocalizeJP": "お祭り、楽しんで\nいらっしゃいますか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter3",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축제는\n즐겁게 즐기고 계신가요?",
+      "LocalizeJP": "お祭り、楽しんで\nいらっしゃいますか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle1",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그 회장님 모양의\n마트료시카는 제가\n디자인했답니다.",
+      "LocalizeJP": "その会長の形をした\nマトリョーシカは、私が\nデザインしたんですよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle1",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그 회장님 모양의\n마트료시카는 제가\n디자인했답니다.",
+      "LocalizeJP": "その会長の形をした\nマトリョーシカは、私が\nデザインしたんですよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle2",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "귀여운 마트료시카가\n쪼개지는 모습을\n보고 있노라면…",
+      "LocalizeJP": "こんなにも可愛い\nマトリョーシカを手放さ\nないといけないなんて……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle2",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "귀여운 마트료시카가\n쪼개지는 모습을\n보고 있노라면…",
+      "LocalizeJP": "こんなにも可愛い\nマトリョーシカを手放さ\nないといけないなんて……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle2",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "귀여운 마트료시카가\n쪼개지는 모습을\n보고 있노라면…",
+      "LocalizeJP": "こんなにも可愛い\nマトリョーシカを手放さ\nないといけないなんて……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize1",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "당첨입니다!\n축하드려요!",
+      "LocalizeJP": "当たりです！\nおめでとうございます！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize2",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어머나, 당첨이네요!\n선생님도 운이 좋으시네요.",
+      "LocalizeJP": "あら、当たりですよ！\n先生は運が良いですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize3",
+      "CharacterId": 16007,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 좋은 물건을 뽑으셨네요.\n소중하게 사용해주세요!",
+      "LocalizeJP": "ふふ、良い物が当たりましたね。\nぜひ大切に使ってください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaFinish1",
+      "CharacterId": 10079,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이걸로 대충 마무리인가.\n수고했어, 선생님!",
+      "LocalizeJP": "これで大体終了かな。\nお疲れ様、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaFinish1",
+      "CharacterId": 10079,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이걸로 대충 마무리인가.\n수고했어, 선생님!",
+      "LocalizeJP": "これで大体終了かな。\nお疲れ様、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter1",
+      "CharacterId": 20004,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "임무도, 휴식도,\n제대로 하겠습니다.",
+      "LocalizeJP": "任務も休息も、\nしっかりとやります。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+      "CharacterId": 10026,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자아, 빨리 시작하자고!",
+      "LocalizeJP": "さあ、早く始めようぜっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+      "CharacterId": 20004,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "설마, 이런 곳에서도 분란을\n일으키려는 문제 학생은 없겠지요?",
+      "LocalizeJP": "まさか、こんなところで\n問題を起こそうとする\n問題児はいませんよね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 20004,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "휴양지에서도\n방심은 금물입니다.",
+      "LocalizeJP": "リゾート地でも、\n油断は禁物です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10022,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제대로 합숙의 효과가\n나타나는 것 같네.",
+      "LocalizeJP": "ちゃんと合宿の\n効果があったみたい。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy2",
+      "CharacterId": 10025,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후. 감사합니다,\n선생님.",
+      "LocalizeJP": "ふふ。ありがとう\nございます、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+      "CharacterId": 10022,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "작전 성공. 간단했어.\n다만 훈련으로는\n부족할지도…….",
+      "LocalizeJP": "作戦成功……でも、\n少し簡単すぎ。トレーニングに\nしては物足りない……。"
     },
     {
       "LocalizeCVGroup": "CVGroup_UISpecialOperationLobby_Enter1",

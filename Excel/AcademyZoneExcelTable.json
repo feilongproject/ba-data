@@ -1276,6 +1276,136 @@
         59,
         268
       ]
+    },
+    {
+      "Id": 110,
+      "LocationId": 19,
+      "LocationRankForUnlock": 1,
+      "LocalizeEtcId": 95106171,
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": 190001,
+      "Tags": [
+        656,
+        246
+      ]
+    },
+    {
+      "Id": 111,
+      "LocationId": 19,
+      "LocationRankForUnlock": 1,
+      "LocalizeEtcId": 3931861101,
+      "StudentVisitProb": [
+        10000
+      ],
+      "RewardGroupId": 191001,
+      "Tags": [
+        656,
+        48,
+        6
+      ]
+    },
+    {
+      "Id": 112,
+      "LocationId": 19,
+      "LocationRankForUnlock": 2,
+      "LocalizeEtcId": 1008014939,
+      "StudentVisitProb": [
+        10000,
+        10000,
+        10000
+      ],
+      "RewardGroupId": 192001,
+      "Tags": [
+        656,
+        4,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 113,
+      "LocationId": 19,
+      "LocationRankForUnlock": 3,
+      "LocalizeEtcId": 981882419,
+      "StudentVisitProb": [
+        10000,
+        10000,
+        10000
+      ],
+      "RewardGroupId": 193001,
+      "Tags": [
+        656,
+        51,
+        61
+      ]
+    },
+    {
+      "Id": 114,
+      "LocationId": 19,
+      "LocationRankForUnlock": 5,
+      "LocalizeEtcId": 3346155995,
+      "StudentVisitProb": [
+        10000
+      ],
+      "RewardGroupId": 194001,
+      "Tags": [
+        656,
+        10,
+        5,
+        14
+      ]
+    },
+    {
+      "Id": 115,
+      "LocationId": 19,
+      "LocationRankForUnlock": 6,
+      "LocalizeEtcId": 1706322617,
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": 195001,
+      "Tags": [
+        656,
+        61,
+        8
+      ]
+    },
+    {
+      "Id": 116,
+      "LocationId": 19,
+      "LocationRankForUnlock": 8,
+      "LocalizeEtcId": 1644926853,
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": 196001,
+      "Tags": [
+        656,
+        1,
+        10,
+        14
+      ]
+    },
+    {
+      "Id": 117,
+      "LocationId": 19,
+      "LocationRankForUnlock": 9,
+      "LocalizeEtcId": 434019223,
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": 197001,
+      "Tags": [
+        656,
+        48,
+        8
+      ]
     }
   ]
 }
