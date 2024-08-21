@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # - cron: "0 10,19,23 * * *" # UTC+8
-    - cron: "0 2,11,15 * * *"
+    # - cron: "0 17,18,23 * * *" # UTC+8
+    - cron: "0 9,10,15 * * *"
   workflow_dispatch:
 
 jobs:
