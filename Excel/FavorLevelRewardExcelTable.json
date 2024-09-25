@@ -76613,6 +76613,750 @@
       ]
     },
     {
+      "CharacterId": 10104,
+      "FavorLevel": 2,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 3,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 4,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 5,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 6,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 7,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 8,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 9,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 10,
+      "StatType": [
+        3
+      ],
+      "StatValue": [
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 11,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        8,
+        48
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 12,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        8,
+        48
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 13,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        8,
+        48
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 14,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        8,
+        48
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 15,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        8,
+        48
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 16,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        10,
+        57
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 17,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        10,
+        57
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 18,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        10,
+        57
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 19,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        10,
+        57
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 20,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        10,
+        57
+      ],
+      "RewardParcelType": [
+        20
+      ],
+      "RewardParcelId": [
+        5101041
+      ],
+      "RewardAmount": [
+        1
+      ]
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 21,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 22,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 23,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 24,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 25,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 26,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 27,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 28,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 29,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 30,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        2,
+        9
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 31,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 32,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 33,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 34,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 35,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 36,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 37,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 38,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 39,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 40,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        4,
+        14
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 41,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 42,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 43,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 44,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 45,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 46,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 47,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 48,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 49,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 50,
+      "StatType": [
+        3,
+        1
+      ],
+      "StatValue": [
+        6,
+        24
+      ],
+      "RewardParcelType": [
+        20
+      ],
+      "RewardParcelId": [
+        5101042
+      ],
+      "RewardAmount": [
+        1
+      ]
+    },
+    {
+      "CharacterId": 10104,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": [],
+      "RewardParcelType": [
+        20
+      ],
+      "RewardParcelId": [
+        5101043
+      ],
+      "RewardAmount": [
+        1
+      ]
+    },
+    {
       "CharacterId": 13000,
       "FavorLevel": 2,
       "StatType": [
@@ -127943,6 +128687,750 @@
       ],
       "RewardParcelId": [
         5200383
+      ],
+      "RewardAmount": [
+        1
+      ]
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 2,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 3,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 4,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 5,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 6,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        8
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 7,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        8
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 8,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        8
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 9,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        8
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 10,
+      "StatType": [
+        7
+      ],
+      "StatValue": [
+        8
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 11,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        10,
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 12,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        10,
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 13,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        10,
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 14,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        10,
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 15,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        10,
+        6
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 16,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        13,
+        7
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 17,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        13,
+        7
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 18,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        13,
+        7
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 19,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        13,
+        7
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 20,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        13,
+        7
+      ],
+      "RewardParcelType": [
+        20
+      ],
+      "RewardParcelId": [
+        5200391
+      ],
+      "RewardAmount": [
+        1
+      ]
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 21,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 22,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 23,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 24,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 25,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 26,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 27,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 28,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 29,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 30,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        3,
+        1
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 31,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 32,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 33,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 34,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 35,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 36,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 37,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 38,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 39,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 40,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        5,
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 41,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 42,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 43,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 44,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 45,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 46,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 47,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 48,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 49,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 50,
+      "StatType": [
+        7,
+        3
+      ],
+      "StatValue": [
+        8,
+        3
+      ],
+      "RewardParcelType": [
+        20
+      ],
+      "RewardParcelId": [
+        5200392
+      ],
+      "RewardAmount": [
+        1
+      ]
+    },
+    {
+      "CharacterId": 20039,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": [],
+      "RewardParcelType": [
+        20
+      ],
+      "RewardParcelId": [
+        5200393
       ],
       "RewardAmount": [
         1

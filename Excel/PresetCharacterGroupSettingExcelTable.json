@@ -2263,6 +2263,20 @@
       "PresetType": [
         "AllCharacter"
       ]
+    },
+    {
+      "CharacterId": 10104,
+      "ArenaSimulatorFixed": true,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 20039,
+      "ArenaSimulatorFixed": true,
+      "PresetType": [
+        "AllCharacter"
+      ]
     }
   ]
 }

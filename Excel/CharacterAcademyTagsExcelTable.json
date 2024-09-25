@@ -1888,6 +1888,25 @@
       "ZoneWhiteListTags": []
     },
     {
+      "Id": 10104,
+      "FavorTags": [
+        659,
+        36,
+        8,
+        59
+      ],
+      "FavorItemTags": [
+        71,
+        94
+      ],
+      "FavorItemUniqueTags": [
+        659,
+        660
+      ],
+      "ForbiddenTags": [],
+      "ZoneWhiteListTags": []
+    },
+    {
       "Id": 13000,
       "FavorTags": [
         124,
@@ -3149,6 +3168,25 @@
       "FavorItemUniqueTags": [
         654,
         655
+      ],
+      "ForbiddenTags": [],
+      "ZoneWhiteListTags": []
+    },
+    {
+      "Id": 20039,
+      "FavorTags": [
+        661,
+        36,
+        62,
+        9
+      ],
+      "FavorItemTags": [
+        106,
+        95
+      ],
+      "FavorItemUniqueTags": [
+        661,
+        662
       ],
       "ForbiddenTags": [],
       "ZoneWhiteListTags": []

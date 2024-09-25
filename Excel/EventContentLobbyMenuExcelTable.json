@@ -144,7 +144,7 @@
       "EventContentId": -1,
       "EventContentType": 28,
       "IconSpriteName": "Event_Icon_Treasure",
-      "ButtonText": "Event_Button_Treasure",
+      "ButtonText": "Event_Button_Treasure_60000",
       "DisplayOrder": 15,
       "IconOffsetX": 23860.929422222222222222222222,
       "IconOffsetY": 23860.929422222222222222222222,
@@ -168,6 +168,26 @@
       "DisplayOrder": 17,
       "IconOffsetX": 23860.929422222222222222222222,
       "IconOffsetY": 3,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": -1,
+      "EventContentType": 36,
+      "IconSpriteName": "Event_Button_DiceRace",
+      "ButtonText": "Event_Button_Story2",
+      "DisplayOrder": 18,
+      "IconOffsetX": 23860.929422222222222222222222,
+      "IconOffsetY": -0.8,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": 840,
+      "EventContentType": 28,
+      "IconSpriteName": "Event_Icon_Treasure_840",
+      "ButtonText": "Event_Button_Treasure",
+      "DisplayOrder": 19,
+      "IconOffsetX": 23860.929422222222222222222222,
+      "IconOffsetY": 23860.929422222222222222222222,
       "ReddotSpriteName": "Common_Icon_Reddot2"
     }
   ]

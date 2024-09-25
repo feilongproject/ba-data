@@ -553,7 +553,10 @@ enum EventContentType : int {
     MultiFloorRaid,
     MinigameDreamMaker,
     MiniGameDefense,
-    OpenWebView
+    OpenWebView,
+    SpecialMiniEvent,
+    ScenarioCollection,
+    ScenarioShortcut
 }
 enum EventTargetType : int {
     WeekDungeon,
@@ -1063,7 +1066,8 @@ enum MissionCompleteConditionType : int {
     Reset_ClearCountDefense,
     Reset_ClearSpecificDefenseStage,
     Reset_ClearCharacterLimitDefense,
-    Reset_ClearTimeLimitDefenseFromSecond
+    Reset_ClearTimeLimitDefenseFromSecond,
+    Reset_JoinMultiFloorRaidCount
 }
 enum MissionResetType : int {
     None,
@@ -1478,6 +1482,19 @@ enum StatType : int {
     EnhanceElasticArmorRate,
     ExDamagedRatioIncrease,
     ExDamagedRatioDecrease,
+    EnhanceExDamageRate,
+    ReduceExDamagedRate,
+    HealRate,
+    HealLightArmorRate,
+    HealHeavyArmorRate,
+    HealUnarmedRate,
+    HealElasticArmorRate,
+    HealNormalArmorRate,
+    HealedExplosionRate,
+    HealedPierceRate,
+    HealedMysticRate,
+    HealedSonicRate,
+    HealedNormalRate,
     Max
 }
 enum StickerCheckPassType : int {
@@ -5449,6 +5466,12 @@ table FavorLevelRewardExcel {
     RewardParcelId: [long];
     RewardAmount: [long];
 }
+table FieldCurtainCallFreeModeExcel {
+    UniqueId: long;
+    OpenDate: long;
+    SetFieldDateID: long;
+    SetFieldQuestOpenDate: long;
+}
 table FieldEvidenceExcel {
     UniqueId: long;
     NameLocalizeKey: string;
@@ -5666,13 +5689,6 @@ table LocalizeCharProfileExcel {
     CharacterSSRNewKr: string;
     CharacterSSRNewJp: string;
 }
-table LocalizeEtcExcel {
-    Key: uint;
-    NameKr: string;
-    DescriptionKr: string;
-    NameJp: string;
-    DescriptionJp: string;
-}
 table LocalizeFieldExcel {
     Key: uint;
     Kr: string;
@@ -5796,6 +5812,7 @@ table ObstacleStatExcel {
     EnhanceElasticArmorRate: long;
     EnhanceStructureRate: long;
     EnhanceNormalArmorRate: long;
+    ReduceExDamagedRate: long;
 }
 table PersonalityExcel {
     Id: long;
@@ -6552,6 +6569,19 @@ table CharacterStatExcel {
     DamagedRatio2Decrease: long;
     ExDamagedRatioIncrease: long;
     ExDamagedRatioDecrease: long;
+    EnhanceExDamageRate: long;
+    ReduceExDamagedRate: long;
+    HealRate: long;
+    HealLightArmorRate: long;
+    HealHeavyArmorRate: long;
+    HealUnarmedRate: long;
+    HealElasticArmorRate: long;
+    HealNormalArmorRate: long;
+    HealedExplosionRate: long;
+    HealedPierceRate: long;
+    HealedMysticRate: long;
+    HealedSonicRate: long;
+    HealedNormalRate: long;
     StreetBattleAdaptation: TerrainAdaptationStat;
     OutdoorBattleAdaptation: TerrainAdaptationStat;
     IndoorBattleAdaptation: TerrainAdaptationStat;
@@ -7764,6 +7794,7 @@ table EventContentSeasonExcel {
     EventContentStageRewardIdPermanent: long;
     RewardTagPermanent: RewardTag;
     MiniEventShortCutScenarioModeId: long;
+    ScenarioContentCollectionGroupId: long;
 }
 table EventContentSeasonExcelTable {
     DataList: [EventContentSeasonExcel];
@@ -7958,6 +7989,9 @@ table FieldContentStageRewardExcel {
 }
 table FieldContentStageRewardExcelTable {
     DataList: [FieldContentStageRewardExcel];
+}
+table FieldCurtainCallFreeModeExcelTable {
+    DataList: [FieldCurtainCallFreeModeExcel];
 }
 table FieldDateExcel {
     UniqueId: long;
@@ -8455,9 +8489,6 @@ table LimitedStageSeasonExcelTable {
 }
 table LocalizeCharProfileExcelTable {
     DataList: [LocalizeCharProfileExcel];
-}
-table LocalizeEtcExcelTable {
-    DataList: [LocalizeEtcExcel];
 }
 table LocalizeFieldExcelTable {
     DataList: [LocalizeFieldExcel];

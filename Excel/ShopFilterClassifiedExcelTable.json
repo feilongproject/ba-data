@@ -4457,6 +4457,22 @@
       "GoodsId": 20195
     },
     {
+      "Id": 20196,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 22,
+      "GoodsId": 20196
+    },
+    {
+      "Id": 20197,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 22,
+      "GoodsId": 20197
+    },
+    {
       "Id": 50000,
       "CategoryType": 21,
       "ConsumeParcelType": 4,
