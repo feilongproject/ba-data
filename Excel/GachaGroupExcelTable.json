@@ -91,6 +91,66 @@
       "GroupType": 1
     },
     {
+      "ID": 60,
+      "NameKr": "2차 일반 가챠",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 61,
+      "NameKr": "2차 일반 가챠 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 62,
+      "NameKr": "2차 일반 가챠 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 63,
+      "NameKr": "2차 일반 가챠 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 69,
+      "NameKr": "2차 일반 가챠 SSR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 70,
+      "NameKr": "3차 일반 가챠",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 71,
+      "NameKr": "3차 일반 가챠 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 72,
+      "NameKr": "3차 일반 가챠 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 73,
+      "NameKr": "3차 일반 가챠 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 79,
+      "NameKr": "3차 일반 가챠 SSR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
       "ID": 100,
       "NameKr": "N 활동 보고서",
       "IsRecursive": true,
@@ -1461,6 +1521,258 @@
     {
       "ID": 100083,
       "NameKr": "1_4차 픽업 SSR 사야(사복)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110010,
+      "NameKr": "2_1차 픽업",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110011,
+      "NameKr": "2_1차 픽업 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110012,
+      "NameKr": "2_1차 픽업 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110013,
+      "NameKr": "2_1차 픽업 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110019,
+      "NameKr": "2_1차 픽업 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110022,
+      "NameKr": "2_1차 픽업 SR 더미",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110023,
+      "NameKr": "2_1차 픽업 SSR 한정_아즈사(수영복)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110030,
+      "NameKr": "2_2차 픽업",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110031,
+      "NameKr": "2_2차 픽업 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110032,
+      "NameKr": "2_2차 픽업 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110033,
+      "NameKr": "2_2차 픽업 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110039,
+      "NameKr": "2_2차 픽업 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110042,
+      "NameKr": "2_2차 픽업 SR 더미",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110043,
+      "NameKr": "2_2차 픽업 SSR 한정_마시로(수영복)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110050,
+      "NameKr": "2_3차 픽업",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110051,
+      "NameKr": "2_3차 픽업 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110052,
+      "NameKr": "2_3차 픽업 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110053,
+      "NameKr": "2_3차 픽업 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110059,
+      "NameKr": "2_3차 픽업 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110062,
+      "NameKr": "2_3차 픽업 SR 더미",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 110063,
+      "NameKr": "2_3차 픽업 SSR 히후미(수영복)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120010,
+      "NameKr": "3_1차 픽업",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120011,
+      "NameKr": "3_1차 픽업 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120012,
+      "NameKr": "3_1차 픽업 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120013,
+      "NameKr": "3_1차 픽업 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120019,
+      "NameKr": "3_1차 픽업 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120022,
+      "NameKr": "3_1차 픽업 SR 더미",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120023,
+      "NameKr": "3_1차 픽업 SSR 유카리",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120030,
+      "NameKr": "3_2차 픽업",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120031,
+      "NameKr": "3_2차 픽업 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120032,
+      "NameKr": "3_2차 픽업 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120033,
+      "NameKr": "3_2차 픽업 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120039,
+      "NameKr": "3_2차 픽업 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120042,
+      "NameKr": "3_2차 픽업 SR 더미",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120043,
+      "NameKr": "3_2차 픽업 SSR 렌게",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120050,
+      "NameKr": "3_3차 픽업",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120051,
+      "NameKr": "3_3차 픽업 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120052,
+      "NameKr": "3_3차 픽업 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120053,
+      "NameKr": "3_3차 픽업 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120059,
+      "NameKr": "3_3차 픽업 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120062,
+      "NameKr": "3_3차 픽업 SR 더미",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 120063,
+      "NameKr": "3_3차 픽업 SSR 키쿄",
       "IsRecursive": true,
       "GroupType": 1
     },
@@ -6615,6 +6927,66 @@
     {
       "ID": 700021,
       "NameKr": "1차_3성 모집 상점 확정 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700030,
+      "NameKr": "2차_3성 모집 상점 기본",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700031,
+      "NameKr": "2차_3성 모집 상점 기본 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700032,
+      "NameKr": "2차_3성 모집 상점 기본 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700033,
+      "NameKr": "2차_3성 모집 상점 기본 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700041,
+      "NameKr": "2차_3성 모집 상점 확정 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700050,
+      "NameKr": "3차_3성 모집 상점 기본",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700051,
+      "NameKr": "3차_3성 모집 상점 기본 R",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700052,
+      "NameKr": "3차_3성 모집 상점 기본 SR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700053,
+      "NameKr": "3차_3성 모집 상점 기본 SSR",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 700061,
+      "NameKr": "3차_3성 모집 상점 확정 SSR",
       "IsRecursive": true,
       "GroupType": 1
     },
