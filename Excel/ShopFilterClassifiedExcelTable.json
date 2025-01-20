@@ -1721,6 +1721,14 @@
       "GoodsId": 5012
     },
     {
+      "Id": 5013,
+      "CategoryType": 33,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 70,
+      "ShopFilterType": 1,
+      "GoodsId": 5013
+    },
+    {
       "Id": 5100,
       "CategoryType": 33,
       "ConsumeParcelType": 4,
@@ -2319,6 +2327,14 @@
       "ConsumeParcelId": 71,
       "ShopFilterType": 1,
       "GoodsId": 6011
+    },
+    {
+      "Id": 6012,
+      "CategoryType": 33,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 71,
+      "ShopFilterType": 1,
+      "GoodsId": 6012
     },
     {
       "Id": 6200,
@@ -4473,6 +4489,102 @@
       "GoodsId": 20197
     },
     {
+      "Id": 20198,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 17,
+      "GoodsId": 20198
+    },
+    {
+      "Id": 20199,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 17,
+      "GoodsId": 20199
+    },
+    {
+      "Id": 20200,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 17,
+      "GoodsId": 20200
+    },
+    {
+      "Id": 20201,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 18,
+      "GoodsId": 20201
+    },
+    {
+      "Id": 20202,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 18,
+      "GoodsId": 20202
+    },
+    {
+      "Id": 20203,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20203
+    },
+    {
+      "Id": 20204,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20204
+    },
+    {
+      "Id": 20205,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 18,
+      "GoodsId": 20205
+    },
+    {
+      "Id": 20206,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20206
+    },
+    {
+      "Id": 20207,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20207
+    },
+    {
+      "Id": 20208,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20208
+    },
+    {
+      "Id": 20209,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20209
+    },
+    {
       "Id": 50000,
       "CategoryType": 21,
       "ConsumeParcelType": 4,
@@ -5735,6 +5847,70 @@
       "ConsumeParcelId": 18,
       "ShopFilterType": 1,
       "GoodsId": 80045
+    },
+    {
+      "Id": 80046,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80046
+    },
+    {
+      "Id": 80047,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80047
+    },
+    {
+      "Id": 80048,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 9,
+      "GoodsId": 80048
+    },
+    {
+      "Id": 80049,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80049
+    },
+    {
+      "Id": 80050,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80050
+    },
+    {
+      "Id": 80051,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80051
+    },
+    {
+      "Id": 80052,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80052
+    },
+    {
+      "Id": 80053,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80053
     },
     {
       "Id": 90000,

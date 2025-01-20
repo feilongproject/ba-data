@@ -1045,6 +1045,87 @@
       "ConditionType": 0,
       "ConditionParameter": [],
       "ConditionPrintType": 0
+    },
+    {
+      "Id": 117,
+      "EventContentId": 80000,
+      "CharacterId": 10090,
+      "ConditionScenarioGroupId": 80000117,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 118,
+      "EventContentId": 80000,
+      "CharacterId": 10093,
+      "ConditionScenarioGroupId": 80000118,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 119,
+      "EventContentId": 80000,
+      "CharacterId": 10100,
+      "ConditionScenarioGroupId": 80000119,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 120,
+      "EventContentId": 80000,
+      "CharacterId": 20039,
+      "ConditionScenarioGroupId": 80000120,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 121,
+      "EventContentId": 80000,
+      "CharacterId": 10104,
+      "ConditionScenarioGroupId": 80000121,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 122,
+      "EventContentId": 80000,
+      "CharacterId": 20040,
+      "ConditionScenarioGroupId": 80000122,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 123,
+      "EventContentId": 80000,
+      "CharacterId": 10107,
+      "ConditionScenarioGroupId": 80000123,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 124,
+      "EventContentId": 80000,
+      "CharacterId": 10110,
+      "ConditionScenarioGroupId": 80000124,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
+    },
+    {
+      "Id": 125,
+      "EventContentId": 80000,
+      "CharacterId": 20041,
+      "ConditionScenarioGroupId": 80000125,
+      "ConditionType": 0,
+      "ConditionParameter": [],
+      "ConditionPrintType": 0
     }
   ]
 }

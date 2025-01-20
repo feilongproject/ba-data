@@ -698,6 +698,24 @@
         {}
       ],
       "VoiceId": 0
+    },
+    {
+      "LogicEffectNameHash": 3006478383,
+      "Self": false,
+      "Priority": 95,
+      "VoiceHash": [
+        {}
+      ],
+      "VoiceId": 0
+    },
+    {
+      "LogicEffectNameHash": 3006478383,
+      "Self": false,
+      "Priority": 95,
+      "VoiceHash": [
+        {}
+      ],
+      "VoiceId": 0
     }
   ]
 }

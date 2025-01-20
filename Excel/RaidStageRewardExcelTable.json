@@ -1088,6 +1088,123 @@
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "RaidCoin",
       "ClearStageRewardAmount": 160
+    },
+    {
+      "GroupId": 1200,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 40
+    },
+    {
+      "GroupId": 1201,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 60
+    },
+    {
+      "GroupId": 1202,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 80
+    },
+    {
+      "GroupId": 1203,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "GroupId": 1203,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 100
+    },
+    {
+      "GroupId": 1204,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "GroupId": 1204,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 120
+    },
+    {
+      "GroupId": 1205,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 40
+    },
+    {
+      "GroupId": 1205,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 140
+    },
+    {
+      "GroupId": 1206,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 60
+    },
+    {
+      "GroupId": 1206,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 160
+    },
+    {
+      "GroupId": 1207,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 80
+    },
+    {
+      "GroupId": 1207,
+      "IsClearStageRewardHideInfo": true,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": 4,
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "RaidCoin",
+      "ClearStageRewardAmount": 180
     }
   ]
 }

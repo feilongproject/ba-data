@@ -173,8 +173,8 @@
     {
       "EventContentId": -1,
       "EventContentType": 36,
-      "IconSpriteName": "Event_Button_DiceRace",
-      "ButtonText": "Event_Button_Story2",
+      "IconSpriteName": "Event_Icon_Story",
+      "ButtonText": "Event_Button_Story",
       "DisplayOrder": 18,
       "IconOffsetX": 23860.929422222222222222222222,
       "IconOffsetY": -0.8,
@@ -186,6 +186,26 @@
       "IconSpriteName": "Event_Icon_Treasure_840",
       "ButtonText": "Event_Button_Treasure",
       "DisplayOrder": 19,
+      "IconOffsetX": 23860.929422222222222222222222,
+      "IconOffsetY": 23860.929422222222222222222222,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": 842,
+      "EventContentType": 28,
+      "IconSpriteName": "Event_Icon_Treasure_842",
+      "ButtonText": "Event_Button_Treasure",
+      "DisplayOrder": 20,
+      "IconOffsetX": 23860.929422222222222222222222,
+      "IconOffsetY": 23860.929422222222222222222222,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": 10832,
+      "EventContentType": 13,
+      "IconSpriteName": "Event_Icon_FortuneGachaShop_832",
+      "ButtonText": "Event_Button_FortuneGachaShop_832",
+      "DisplayOrder": 14,
       "IconOffsetX": 23860.929422222222222222222222,
       "IconOffsetY": 23860.929422222222222222222222,
       "ReddotSpriteName": "Common_Icon_Reddot2"

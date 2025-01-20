@@ -24,6 +24,11 @@
       "SoundUniqueId": "BUTTON_MUS",
       "ID": 5,
       "Path": "Audio/SFX_UI/UI_Button_Mus"
+    },
+    {
+      "SoundUniqueId": "UI_BUTTON_FIELD_M",
+      "ID": 6,
+      "Path": "Audio/SFX_UI/UI_Button_Field_M"
     }
   ]
 }

@@ -271,6 +271,13 @@
         {},
         {}
       ]
+    },
+    {
+      "VoiceEvent": "BattleInteractionVictoryTimeline",
+      "Rate": 10000,
+      "VoiceHash": [
+        {}
+      ]
     }
   ]
 }

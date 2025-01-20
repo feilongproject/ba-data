@@ -4009,6 +4009,786 @@
       ]
     },
     {
+      "Id": 1597,
+      "ProductId": "com.yostarjp.bluearchive.r73_welcome_package_1time",
+      "StoreType": 1,
+      "Price": 60,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        2
+      ],
+      "ParcelId": [
+        3,
+        5997,
+        10,
+        1
+      ],
+      "ParcelAmount": [
+        120,
+        1,
+        250,
+        200000
+      ]
+    },
+    {
+      "Id": 1598,
+      "ProductId": "com.yostarjp.bluearchive.r73_report_package_1time",
+      "StoreType": 1,
+      "Price": 60,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        250,
+        150,
+        50,
+        10
+      ]
+    },
+    {
+      "Id": 1599,
+      "ProductId": "com.yostarjp.bluearchive.r73_skill_grow_1time",
+      "StoreType": 1,
+      "Price": 120,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        150000,
+        150001,
+        150002,
+        150003
+      ],
+      "ParcelAmount": [
+        50,
+        30,
+        5,
+        3
+      ]
+    },
+    {
+      "Id": 1600,
+      "ProductId": "com.yostarjp.bluearchive.r73_exskill_grow_1time",
+      "StoreType": 1,
+      "Price": 120,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        150004,
+        150005,
+        150006,
+        150007
+      ],
+      "ParcelAmount": [
+        10,
+        5,
+        3,
+        1
+      ]
+    },
+    {
+      "Id": 1601,
+      "ProductId": "com.yostarjp.bluearchive.r73_craftpackage",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 2,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        80,
+        81,
+        82,
+        83,
+        90,
+        91,
+        92
+      ],
+      "ParcelAmount": [
+        1200,
+        20,
+        25,
+        25,
+        25,
+        2,
+        25,
+        20,
+        15
+      ]
+    },
+    {
+      "Id": 1602,
+      "ProductId": "com.yostarjp.bluearchive.r73_trinity_3000",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4020,
+        4021,
+        4022,
+        4023,
+        3020,
+        3021,
+        3022,
+        3023,
+        150,
+        151,
+        152,
+        153,
+        260,
+        261,
+        262,
+        263
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 1603,
+      "ProductId": "com.yostarjp.bluearchive.r73_gehenna_3000",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4030,
+        4031,
+        4032,
+        4033,
+        3030,
+        3031,
+        3032,
+        3033,
+        140,
+        141,
+        142,
+        143,
+        250,
+        251,
+        252,
+        253
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 1604,
+      "ProductId": "com.yostarjp.bluearchive.r73_millennium_3000",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4050,
+        4051,
+        4052,
+        4053,
+        3050,
+        3051,
+        3052,
+        3053,
+        200,
+        201,
+        202,
+        203,
+        280,
+        281,
+        282,
+        283
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 1605,
+      "ProductId": "com.yostarjp.bluearchive.r73_hyakkiyako_3000",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4000,
+        4001,
+        4002,
+        4003,
+        3000,
+        3001,
+        3002,
+        3003,
+        180,
+        181,
+        182,
+        183,
+        230,
+        231,
+        232,
+        233
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 1606,
+      "ProductId": "com.yostarjp.bluearchive.r73_weapon_grow",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        3,
+        2
+      ],
+      "ParcelId": [
+        2,
+        3,
+        23,
+        43,
+        1
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        50,
+        20,
+        8000000
+      ]
+    },
+    {
+      "Id": 1607,
+      "ProductId": "com.yostarjp.bluearchive.r73_equipmentgrowth",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        40,
+        45,
+        50,
+        55,
+        55,
+        40,
+        40
+      ]
+    },
+    {
+      "Id": 1608,
+      "ProductId": "com.yostarjp.bluearchive.r75_newyear2024",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        4,
+        3,
+        4,
+        4
+      ],
+      "ParcelId": [
+        1,
+        6107,
+        3,
+        12,
+        100008
+      ],
+      "ParcelAmount": [
+        5000000,
+        1,
+        200,
+        200,
+        15
+      ]
+    },
+    {
+      "Id": 1609,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_report_package_2000",
+      "StoreType": 1,
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        800,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "Id": 1610,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_creditpackage_2000",
+      "StoreType": 1,
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        2,
+        2
+      ],
+      "ParcelId": [
+        2,
+        1
+      ],
+      "ParcelAmount": [
+        800,
+        20000000
+      ]
+    },
+    {
+      "Id": 1611,
+      "ProductId": "com.yostarjp.bluearchive.r76_equipmentgrowth_3000",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        40,
+        45,
+        50,
+        55,
+        55,
+        40,
+        40
+      ]
+    },
+    {
+      "Id": 1612,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_presentpackage_2000",
+      "StoreType": 1,
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        100008,
+        5997
+      ],
+      "ParcelAmount": [
+        800,
+        5,
+        5
+      ]
+    },
+    {
+      "Id": 1613,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_threestar_by_atktype_3000",
+      "StoreType": 1,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        6801,
+        8100
+      ],
+      "ParcelAmount": [
+        1200,
+        55,
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 1614,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_skill_grow_4900",
+      "StoreType": 1,
+      "Price": 4900,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "ParcelAmount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "Id": 1615,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_exskill_grow_4900",
+      "StoreType": 1,
+      "Price": 4900,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "ParcelAmount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "Id": 1616,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_ap_160",
+      "StoreType": 1,
+      "Price": 160,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        5
+      ],
+      "ParcelAmount": [
+        280
+      ]
+    },
+    {
+      "Id": 1617,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_ap_480",
+      "StoreType": 1,
+      "Price": 480,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        5
+      ],
+      "ParcelAmount": [
+        900
+      ]
+    },
+    {
       "Id": 5000,
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": 2,
@@ -8001,6 +8781,786 @@
     {
       "Id": 5596,
       "ProductId": "com.yostarjp.bluearchive.r70_ap_480",
+      "StoreType": 2,
+      "Price": 480,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        5
+      ],
+      "ParcelAmount": [
+        900
+      ]
+    },
+    {
+      "Id": 5597,
+      "ProductId": "com.yostarjp.bluearchive.r73_welcome_package_1time",
+      "StoreType": 2,
+      "Price": 60,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        2
+      ],
+      "ParcelId": [
+        3,
+        5997,
+        10,
+        1
+      ],
+      "ParcelAmount": [
+        120,
+        1,
+        250,
+        200000
+      ]
+    },
+    {
+      "Id": 5598,
+      "ProductId": "com.yostarjp.bluearchive.r73_report_package_1time",
+      "StoreType": 2,
+      "Price": 60,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        250,
+        150,
+        50,
+        10
+      ]
+    },
+    {
+      "Id": 5599,
+      "ProductId": "com.yostarjp.bluearchive.r73_skill_grow_1time",
+      "StoreType": 2,
+      "Price": 120,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        150000,
+        150001,
+        150002,
+        150003
+      ],
+      "ParcelAmount": [
+        50,
+        30,
+        5,
+        3
+      ]
+    },
+    {
+      "Id": 5600,
+      "ProductId": "com.yostarjp.bluearchive.r73_exskill_grow_1time",
+      "StoreType": 2,
+      "Price": 120,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        150004,
+        150005,
+        150006,
+        150007
+      ],
+      "ParcelAmount": [
+        10,
+        5,
+        3,
+        1
+      ]
+    },
+    {
+      "Id": 5601,
+      "ProductId": "com.yostarjp.bluearchive.r73_craftpackage",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 2,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        80,
+        81,
+        82,
+        83,
+        90,
+        91,
+        92
+      ],
+      "ParcelAmount": [
+        1200,
+        20,
+        25,
+        25,
+        25,
+        2,
+        25,
+        20,
+        15
+      ]
+    },
+    {
+      "Id": 5602,
+      "ProductId": "com.yostarjp.bluearchive.r73_trinity_3000",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4020,
+        4021,
+        4022,
+        4023,
+        3020,
+        3021,
+        3022,
+        3023,
+        150,
+        151,
+        152,
+        153,
+        260,
+        261,
+        262,
+        263
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 5603,
+      "ProductId": "com.yostarjp.bluearchive.r73_gehenna_3000",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4030,
+        4031,
+        4032,
+        4033,
+        3030,
+        3031,
+        3032,
+        3033,
+        140,
+        141,
+        142,
+        143,
+        250,
+        251,
+        252,
+        253
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 5604,
+      "ProductId": "com.yostarjp.bluearchive.r73_millennium_3000",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4050,
+        4051,
+        4052,
+        4053,
+        3050,
+        3051,
+        3052,
+        3053,
+        200,
+        201,
+        202,
+        203,
+        280,
+        281,
+        282,
+        283
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 5605,
+      "ProductId": "com.yostarjp.bluearchive.r73_hyakkiyako_3000",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        3,
+        4000,
+        4001,
+        4002,
+        4003,
+        3000,
+        3001,
+        3002,
+        3003,
+        180,
+        181,
+        182,
+        183,
+        230,
+        231,
+        232,
+        233
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 5606,
+      "ProductId": "com.yostarjp.bluearchive.r73_weapon_grow",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        3,
+        2
+      ],
+      "ParcelId": [
+        2,
+        3,
+        23,
+        43,
+        1
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        50,
+        20,
+        8000000
+      ]
+    },
+    {
+      "Id": 5607,
+      "ProductId": "com.yostarjp.bluearchive.r73_equipmentgrowth",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        40,
+        45,
+        50,
+        55,
+        55,
+        40,
+        40
+      ]
+    },
+    {
+      "Id": 5608,
+      "ProductId": "com.yostarjp.bluearchive.r75_newyear2024",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        4,
+        3,
+        4,
+        4
+      ],
+      "ParcelId": [
+        1,
+        6107,
+        3,
+        12,
+        100008
+      ],
+      "ParcelAmount": [
+        5000000,
+        1,
+        200,
+        200,
+        15
+      ]
+    },
+    {
+      "Id": 5609,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_report_package_2000",
+      "StoreType": 2,
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        800,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "Id": 5610,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_creditpackage_2000",
+      "StoreType": 2,
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        2,
+        2
+      ],
+      "ParcelId": [
+        2,
+        1
+      ],
+      "ParcelAmount": [
+        800,
+        20000000
+      ]
+    },
+    {
+      "Id": 5611,
+      "ProductId": "com.yostarjp.bluearchive.r76_equipmentgrowth_3000",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        40,
+        45,
+        50,
+        55,
+        55,
+        40,
+        40
+      ]
+    },
+    {
+      "Id": 5612,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_presentpackage_2000",
+      "StoreType": 2,
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        100008,
+        5997
+      ],
+      "ParcelAmount": [
+        800,
+        5,
+        5
+      ]
+    },
+    {
+      "Id": 5613,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_threestar_by_atktype_3000",
+      "StoreType": 2,
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        6801,
+        8100
+      ],
+      "ParcelAmount": [
+        1200,
+        55,
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 5614,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_skill_grow_4900",
+      "StoreType": 2,
+      "Price": 4900,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "ParcelAmount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "Id": 5615,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_exskill_grow_4900",
+      "StoreType": 2,
+      "Price": 4900,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ParcelId": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "ParcelAmount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "Id": 5616,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_ap_160",
+      "StoreType": 2,
+      "Price": 160,
+      "PriceReference": "",
+      "PurchasePeriodType": 0,
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        2
+      ],
+      "ParcelId": [
+        5
+      ],
+      "ParcelAmount": [
+        280
+      ]
+    },
+    {
+      "Id": 5617,
+      "ProductId": "com.yostarjp.bluearchive.r76_4th_ap_480",
       "StoreType": 2,
       "Price": 480,
       "PriceReference": "",

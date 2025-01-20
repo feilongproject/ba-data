@@ -3095,6 +3095,234 @@
       "ParticleApplySocket": 0,
       "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 3005422857,
+      "IconSpriteName": "Combat_Icon_Special_EN0009_Object_B_Energy",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 2898560826,
+      "IconSpriteName": "Combat_Icon_Special_EN0009_UnstableFlame",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 476467461,
+      "IconSpriteName": "Combat_Icon_Debuff_DamagedRatio",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 4208843343,
+      "IconSpriteName": "Combat_Icon_Special_CH0273_ExtraPassive",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 4067280937,
+      "IconSpriteName": "Combat_Icon_Special_CH0275_Public",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 1912550387,
+      "IconSpriteName": "Combat_Icon_Special_CH0285_Public",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 1820124411,
+      "IconSpriteName": "Combat_Icon_Special_ExSkillCardRedrawStackDummy",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 2145429086,
+      "IconSpriteName": "Combat_Icon_Special_Mashiro_default_GearPublic",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 653738187,
+      "IconSpriteName": "Combat_Icon_Special_CH0280_Ex_01",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 1096852934,
+      "IconSpriteName": "Combat_Icon_Special_CH0280_Ex_02",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 2453659090,
+      "IconSpriteName": "Combat_Icon_Special_CH0280_Ex_03",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
+    },
+    {
+      "StringID": 2227296549,
+      "IconSpriteName": "Combat_Icon_Special_ChangeSkillCardToCopiedCard",
+      "IconDispelColor": [
+        1,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": 0,
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": 0,
+      "ParticleEndPath": "",
+      "ParticleEndSocket": 0,
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": 0,
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": 0
     }
   ]
 }

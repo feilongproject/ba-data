@@ -1,51 +1,6 @@
 {
   "DataList": [
     {
-      "Id": 3791809063,
-      "LocalizeId": 3821130563,
-      "DisplayOrder": 100,
-      "ScenarioContentType": "Prologue",
-      "ScenarioGroupId": [
-        {}
-      ]
-    },
-    {
-      "Id": 4294189136,
-      "LocalizeId": 600682470,
-      "DisplayOrder": 101,
-      "ScenarioContentType": "Prologue",
-      "ScenarioGroupId": [
-        {}
-      ]
-    },
-    {
-      "Id": 1777967474,
-      "LocalizeId": 2662423598,
-      "DisplayOrder": 102,
-      "ScenarioContentType": "Prologue",
-      "ScenarioGroupId": [
-        {}
-      ]
-    },
-    {
-      "Id": 2058890777,
-      "LocalizeId": 2886227642,
-      "DisplayOrder": 103,
-      "ScenarioContentType": "Prologue",
-      "ScenarioGroupId": [
-        {}
-      ]
-    },
-    {
-      "Id": 4061438793,
-      "LocalizeId": 1131242135,
-      "DisplayOrder": 104,
-      "ScenarioContentType": "Prologue",
-      "ScenarioGroupId": [
-        {}
-      ]
-    },
-    {
       "Id": 3836164447,
       "LocalizeId": 3441692335,
       "DisplayOrder": 200,
@@ -199,6 +154,15 @@
       ]
     },
     {
+      "Id": 487701333,
+      "LocalizeId": 1923638615,
+      "DisplayOrder": 512,
+      "ScenarioContentType": "Raid",
+      "ScenarioGroupId": [
+        {}
+      ]
+    },
+    {
       "Id": 685792696,
       "LocalizeId": 2949835467,
       "DisplayOrder": 600,
@@ -256,6 +220,15 @@
       "Id": 121582915,
       "LocalizeId": 3013588104,
       "DisplayOrder": 1200,
+      "ScenarioContentType": "MultiFloorRaid",
+      "ScenarioGroupId": [
+        {}
+      ]
+    },
+    {
+      "Id": 242141529,
+      "LocalizeId": 2066459655,
+      "DisplayOrder": 1300,
       "ScenarioContentType": "MultiFloorRaid",
       "ScenarioGroupId": [
         {}

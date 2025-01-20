@@ -20,17 +20,19 @@
     {
       "Id": 10001,
       "GroupId": 1,
-      "UnlockConditionType": "None",
-      "UnlockConditionParameter": null,
+      "UnlockConditionType": "ClearSpecificScenario",
+      "UnlockConditionParameter": [
+        {}
+      ],
       "MultipleConditionCheckType": "Or",
       "UnlockConditionCount": 1,
       "IsObject": true,
       "IsHorizon": false,
       "EmblemResource": "Special_Operation_Icon_Sephira_02",
-      "ThumbResource": "",
-      "FullResource": "",
-      "LocalizeEtcId": 0,
-      "SubNameLocalizeCodeId": ""
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_02",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Chokmah_Lobby",
+      "LocalizeEtcId": 1769839732,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Chokmah"
     },
     {
       "Id": 10002,
@@ -69,17 +71,19 @@
     {
       "Id": 10004,
       "GroupId": 1,
-      "UnlockConditionType": "None",
-      "UnlockConditionParameter": null,
+      "UnlockConditionType": "ClearSpecificScenario",
+      "UnlockConditionParameter": [
+        {}
+      ],
       "MultipleConditionCheckType": "Or",
       "UnlockConditionCount": 1,
       "IsObject": true,
       "IsHorizon": false,
       "EmblemResource": "Special_Operation_Icon_Sephira_05",
-      "ThumbResource": "",
-      "FullResource": "",
-      "LocalizeEtcId": 0,
-      "SubNameLocalizeCodeId": ""
+      "ThumbResource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_05",
+      "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Geburah_Lobby",
+      "LocalizeEtcId": 3284843262,
+      "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Geburah"
     },
     {
       "Id": 10005,
