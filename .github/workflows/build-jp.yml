@@ -107,11 +107,17 @@ jobs:
             exit 0
           }
 
-      - name: Upload Tables(decoded) artifact
+      - name: Upload  artifact (Table)
         uses: actions/upload-artifact@v4
         with:
           path: D:/a/ba-data/extData/output/table
           name: tables-${{ steps.get_commit_message.outputs.commit_message }}
+          
+      - name: Upload  artifact (Character UI)
+        uses: actions/upload-artifact@v4
+        with:
+          path: D:/a/ba-data/extData/output/bundle_ab/Assets/_MX/AddressableAsset/UIs/01_Common/01_Character
+          name: 01_Character-${{ steps.get_commit_message.outputs.commit_message }}
 
       - name: Push changes to JP branch
         uses: ad-m/github-push-action@master
