@@ -8429,7 +8429,8 @@
         354,
         75,
         99,
-        161
+        161,
+        689
       ],
       "CraftQualityTier0": 20,
       "CraftQualityTier1": 20,
@@ -9403,7 +9404,9 @@
         652,
         653,
         667,
-        668
+        668,
+        689,
+        695
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -19061,7 +19064,7 @@
       "LocalizeEtcId": 2147391974,
       "ItemCategory": 2,
       "Quality": 9,
-      "Icon": "",
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0235",
       "SpriteName": "",
       "StackableMax": 99999,
       "StackableFunction": 0,
@@ -33935,7 +33938,7 @@
       "MailType": 10,
       "ExpiryChangeParcelType": 2,
       "ExpiryChangeId": 1,
-      "ExpiryChangeAmount": 60000,
+      "ExpiryChangeAmount": 400000,
       "CanTierUpgrade": true,
       "TierUpgradeRecipeCraftId": 0,
       "Tags": [],

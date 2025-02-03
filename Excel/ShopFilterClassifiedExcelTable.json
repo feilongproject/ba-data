@@ -4549,7 +4549,7 @@
       "CategoryType": 1,
       "ConsumeParcelType": 4,
       "ConsumeParcelId": 23,
-      "ShopFilterType": 18,
+      "ShopFilterType": 17,
       "GoodsId": 20205
     },
     {
@@ -4583,6 +4583,14 @@
       "ConsumeParcelId": 23,
       "ShopFilterType": 20,
       "GoodsId": 20209
+    },
+    {
+      "Id": 20210,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20210
     },
     {
       "Id": 50000,

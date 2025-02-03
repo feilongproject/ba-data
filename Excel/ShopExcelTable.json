@@ -121276,6 +121276,47 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 10472,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": 12,
+      "IsLegacy": true,
+      "GoodsId": [
+        10715,
+        10716
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": 0,
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": true,
+      "DisplayTag": 0,
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 10473,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": 12,
+      "IsLegacy": true,
+      "GoodsId": [
+        10717,
+        10718,
+        10719
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": 0,
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": true,
+      "DisplayTag": 0,
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 19999,
       "LocalizeEtcId": 3308377822,
       "CategoryType": 12,
@@ -125253,6 +125294,25 @@
       "IsLegacy": true,
       "GoodsId": [
         20209
+      ],
+      "DisplayOrder": 999,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 700,
+      "PurchaseCountResetType": 0,
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": true,
+      "DisplayTag": 0,
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 20210,
+      "LocalizeEtcId": 2147391974,
+      "CategoryType": 1,
+      "IsLegacy": true,
+      "GoodsId": [
+        20210
       ],
       "DisplayOrder": 999,
       "SalePeriodFrom": "",

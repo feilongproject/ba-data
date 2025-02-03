@@ -1505,7 +1505,7 @@
       "TextureSkillCard": [
         "UIs/02_Tactics/01_Character/Skill_Portrait_Misaki"
       ],
-      "InformationPacel": "",
+      "InformationPacel": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Misaki_RL",
       "AnimationSSR": "UIAni_Gacha_Confirm_Misaki",
       "EnterStrategyAnimationName": "Reload",
       "AnimationValidator": true,
@@ -7517,7 +7517,7 @@
       "AnimationSSR": "UIAni_Gacha_Confirm_CH0235",
       "EnterStrategyAnimationName": "Reload",
       "AnimationValidator": true,
-      "CharacterVoiceGroupId": 0,
+      "CharacterVoiceGroupId": 20042,
       "ShowObjectHpStatus": true
     },
     {
@@ -67993,7 +67993,7 @@
       "AnimationSSR": "",
       "EnterStrategyAnimationName": "Reload",
       "AnimationValidator": true,
-      "CharacterVoiceGroupId": 0,
+      "CharacterVoiceGroupId": 20042,
       "ShowObjectHpStatus": true
     },
     {
