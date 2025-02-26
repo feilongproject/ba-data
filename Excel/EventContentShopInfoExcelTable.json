@@ -2262,6 +2262,63 @@
       "ShopProductUpdateDate": ""
     },
     {
+      "EventContentId": 844,
+      "CategoryType": 13,
+      "LocalizeCode": 357822895,
+      "CostParcelType": [
+        4
+      ],
+      "CostParcelId": [
+        80571
+      ],
+      "IsRefresh": true,
+      "IsSoldOutDimmed": true,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": "",
+      "OpenPeriodTo": "",
+      "ShopProductUpdateDate": ""
+    },
+    {
+      "EventContentId": 844,
+      "CategoryType": 14,
+      "LocalizeCode": 357822895,
+      "CostParcelType": [
+        4
+      ],
+      "CostParcelId": [
+        80572
+      ],
+      "IsRefresh": true,
+      "IsSoldOutDimmed": true,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": "",
+      "OpenPeriodTo": "",
+      "ShopProductUpdateDate": ""
+    },
+    {
+      "EventContentId": 844,
+      "CategoryType": 15,
+      "LocalizeCode": 357822895,
+      "CostParcelType": [
+        4
+      ],
+      "CostParcelId": [
+        80573
+      ],
+      "IsRefresh": true,
+      "IsSoldOutDimmed": true,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": "",
+      "OpenPeriodTo": "",
+      "ShopProductUpdateDate": ""
+    },
+    {
       "EventContentId": 10801,
       "CategoryType": 13,
       "LocalizeCode": 357822895,

@@ -3,12 +3,14 @@
     {
       "Id": 1,
       "LocalizeEtcId": 2304914554,
-      "ShorcutContentType": 2
+      "ShorcutContentType": 2,
+      "ShortcutUI": "UIStageSelect"
     },
     {
       "Id": 2,
       "LocalizeEtcId": 2612330610,
-      "ShorcutContentType": 0
+      "ShorcutContentType": 0,
+      "ShortcutUI": "UIWeekDungeonLobby|WeekDungeon"
     }
   ]
 }

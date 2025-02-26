@@ -7116,6 +7116,7 @@ table EventContentCurrencyItemExcel {
     EventContentId: long;
     EventContentItemType: EventContentItemType;
     ItemUniqueId: long;
+    UseShortCutContentType: string;
 }
 table EventContentCurrencyItemExcelTable {
     DataList: [EventContentCurrencyItemExcel];
@@ -7234,6 +7235,7 @@ table EventContentMiniEventShortCutExcel {
     Id: int;
     LocalizeEtcId: uint;
     ShorcutContentType: EventTargetType;
+    ShortcutUI: string;
 }
 table EventContentMiniEventShortCutExcelTable {
     DataList: [EventContentMiniEventShortCutExcel];

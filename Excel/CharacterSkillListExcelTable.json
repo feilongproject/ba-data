@@ -23116,6 +23116,306 @@
       ]
     },
     {
+      "CharacterSkillListGroupId": 10113,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "CH0082Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0082Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0082Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0082Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0082ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 10113,
+      "MinimumGradeCharacterWeapon": 2,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "CH0082Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0082Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0082Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0082WeaponPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0082ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 10114,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "CH0286Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0286Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0286Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0286Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0286ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 10114,
+      "MinimumGradeCharacterWeapon": 2,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "CH0286Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0286Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0286Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0286WeaponPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0286ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
       "CharacterSkillListGroupId": 13000,
       "MinimumGradeCharacterWeapon": 0,
       "MinimumTierCharacterGear": 0,
@@ -39378,6 +39678,152 @@
       "HiddenPassiveSkillGroupId": []
     },
     {
+      "CharacterSkillListGroupId": 20043,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0197Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0197Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0197Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0197ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 20043,
+      "MinimumGradeCharacterWeapon": 2,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0197Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0197Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0197WeaponPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0197ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
       "CharacterSkillListGroupId": 23000,
       "MinimumGradeCharacterWeapon": 0,
       "MinimumTierCharacterGear": 0,
@@ -46687,6 +47133,73 @@
         "SM011001HiddenPassive01",
         "SM011001HiddenPassive02"
       ]
+    },
+    {
+      "CharacterSkillListGroupId": 40010,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "SM019701Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
     },
     {
       "CharacterSkillListGroupId": 49000,
@@ -229688,6 +230201,1520 @@
       "TSAInteractionId": 0,
       "NormalSkillGroupId": [
         "SoldierHelmetSRNormalSkill01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440001,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "Behemoth_PanPanNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "Behemoth_PanPanEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "844Challenge03BehemothPanPanPassive01",
+        "844Challenge03BehemothPanPanPassive02"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440101,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "Behemoth_PanPanNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "Behemoth_PanPanEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "844Challenge01BehemothPanPanPassive01",
+        "844Challenge01BehemothPanPanPassive02",
+        "844Challenge01BehemothPanPanPassive03"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440102,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "SoldierFuukiSGNormalSkill01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "844Challenge01AllyPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440401,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "844Challenge04EnemyPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440402,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "AruNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "AruEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "AruPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "AruPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "AruExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440403,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "MutsukiNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "MutsukiEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "MutsukiPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "MutsukiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "MutsukiExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440404,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "KayokoNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "KayokoEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "KayokoPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "KayokoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "KayokoExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440405,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "HarukaNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "HarukaEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "HarukaPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "HarukaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HarukaExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440406,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "844Challenge04EnemyPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440407,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "CH0088Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0088Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0088Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0088Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0088ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440408,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "CH0089Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0089Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0089Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0089Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0089ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440409,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "SoldierOnsenDevSGNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "SoldierOnsenDevSGEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440410,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "SoldierOnsenDevGLNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "SoldierOnsenDevGLEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440411,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "844Challenge04EnemyPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440412,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "HarunaNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "HarunaEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "HarunaPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "HarunaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HarunaExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440413,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "IzumiNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "IzumiEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "IzumiPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "IzumiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "IzumiExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440414,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "ZunkoNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "ZunkoEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "ZunkoPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "ZunkoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ZunkoExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440415,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "AkariNormal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "AkariEx01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "AkariPublic01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "AkariPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "AkariExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440416,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "CH0196Ex01"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "CH0196Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "CH0196Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CH0196ExtraPassive01"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440417,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "SM019601Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [
+        "SM019601Public01"
+      ],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "SM019601Passive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 8440418,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "SoldierFuukiSGNormalSkill01"
       ],
       "NormalSkillTimeLineIndex": [
         0,
@@ -428870,6 +430897,175 @@
     },
     {
       "CharacterSkillListGroupId": 611140701,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 1,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "EN0006_Insane_Normal02"
+      ],
+      "NormalSkillTimeLineIndex": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "EN0006_Insane_Ex01_1Phase",
+        "EN0006_Insane_Ex01_2Phase",
+        "EN0006_Insane_Ex02_1Phase",
+        "EN0006_Insane_Ex02_2Phase",
+        "EN0006_Insane_Ex03_1Phase",
+        "EN0006_Insane_Ex03_2Phase",
+        "EN0006_Insane_Ex04",
+        "EN0006_Insane_Ex05"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 611140801,
+      "MinimumGradeCharacterWeapon": 0,
+      "MinimumTierCharacterGear": 0,
+      "FormIndex": 0,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": true,
+      "UseRandomExSkillTimeline": true,
+      "TSAInteractionId": 0,
+      "NormalSkillGroupId": [
+        "EN0006_Insane_Normal01"
+      ],
+      "NormalSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ExSkillGroupId": [
+        "EN0006_Insane_Ex01_1Phase",
+        "EN0006_Insane_Ex01_2Phase",
+        "EN0006_Insane_Ex02_1Phase",
+        "EN0006_Insane_Ex02_2Phase",
+        "EN0006_Insane_Ex03_1Phase",
+        "EN0006_Insane_Ex03_2Phase",
+        "EN0006_Insane_Ex04",
+        "EN0006_Insane_Ex05"
+      ],
+      "ExSkillCutInTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ExSkillLevelTimeLineIndex": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "PublicSkillGroupId": [],
+      "PublicSkillTimeLineIndex": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "PassiveSkillGroupId": [
+        "EN0006_Insane_Passive01",
+        "EN0006_Insane_Passive02",
+        "EN0006_Insane_Passive03",
+        "EN0006_Insane_Passive04",
+        "EN0006_Insane_Passive05",
+        "EN0006_Insane_Passive06",
+        "EN0006_Insane_Passive07",
+        "EN0006_Insane_Passive08",
+        "EN0006_Insane_Passive09"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "EN0006_Insane_ExtraPassive01",
+        "EN0006_Insane_ExtraPassive02",
+        "EN0006_Insane_ExtraPassive03",
+        "EN0006_Insane_ExtraPassive04_Lunatic",
+        "EN0006_Insane_ExtraPassive05",
+        "EN0006_Insane_ExtraPassive06"
+      ],
+      "HiddenPassiveSkillGroupId": []
+    },
+    {
+      "CharacterSkillListGroupId": 611140801,
       "MinimumGradeCharacterWeapon": 0,
       "MinimumTierCharacterGear": 0,
       "FormIndex": 1,
