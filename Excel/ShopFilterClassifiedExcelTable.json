@@ -4609,6 +4609,14 @@
       "GoodsId": 20212
     },
     {
+      "Id": 20213,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 18,
+      "GoodsId": 20213
+    },
+    {
       "Id": 50000,
       "CategoryType": 21,
       "ConsumeParcelType": 4,

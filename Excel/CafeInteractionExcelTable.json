@@ -4097,7 +4097,9 @@
       "FavorEmoticonRewardParcelType": 11,
       "FavorEmoticonRewardId": 0,
       "FavorEmoticonRewardAmount": 15,
-      "CafeCharacterState": []
+      "CafeCharacterState": [
+        "R1_210361"
+      ]
     },
     {
       "CharacterId": 23000,
