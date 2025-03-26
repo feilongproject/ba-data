@@ -4617,6 +4617,22 @@
       "GoodsId": 20213
     },
     {
+      "Id": 20214,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20214
+    },
+    {
+      "Id": 20215,
+      "CategoryType": 1,
+      "ConsumeParcelType": 4,
+      "ConsumeParcelId": 23,
+      "ShopFilterType": 20,
+      "GoodsId": 20215
+    },
+    {
       "Id": 50000,
       "CategoryType": 21,
       "ConsumeParcelType": 4,
@@ -5959,6 +5975,30 @@
       "ConsumeParcelId": 18,
       "ShopFilterType": 1,
       "GoodsId": 80055
+    },
+    {
+      "Id": 80056,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80056
+    },
+    {
+      "Id": 80057,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80057
+    },
+    {
+      "Id": 80058,
+      "CategoryType": 20,
+      "ConsumeParcelType": 2,
+      "ConsumeParcelId": 18,
+      "ShopFilterType": 1,
+      "GoodsId": 80058
     },
     {
       "Id": 90000,

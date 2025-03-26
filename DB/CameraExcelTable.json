@@ -1000,6 +1000,32 @@
       "BottomMargin": 0.05,
       "IgnoreEnemies": true,
       "UseRailPointCompensation": true
+    },
+    {
+      "UniqueId": 113,
+      "MinDistance": 30,
+      "MaxDistance": 60,
+      "RotationX": 25.25313,
+      "RotationY": -62.66855,
+      "MoveInstantly": false,
+      "MoveInstantlyRotationSave": true,
+      "LeftMargin": 0.1,
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": true
+    },
+    {
+      "UniqueId": 114,
+      "MinDistance": 30,
+      "MaxDistance": 60,
+      "RotationX": 25.25313,
+      "RotationY": -62.66855,
+      "MoveInstantly": true,
+      "MoveInstantlyRotationSave": true,
+      "LeftMargin": 0.1,
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": true,
+      "UseRailPointCompensation": true
     }
   ]
 }

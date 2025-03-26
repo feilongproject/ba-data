@@ -5937,6 +5937,55 @@
       "EchelonExtensionType": 0
     },
     {
+      "Id": 1102208,
+      "UseBossIndex": true,
+      "UseBossAIPhaseSync": true,
+      "RaidBossGroup": "HoverCraft",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_RaidHoverCraft_Insane_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_RaidHoverCraft_LobbyBG",
+      "RaidCharacterId": 610220810,
+      "BossCharacterId": [
+        610220801,
+        610220802
+      ],
+      "Difficulty": 7,
+      "DifficultyOpenCondition": true,
+      "MaxPlayerCount": 1,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 240000,
+      "GroundId": 210200008,
+      "GroundDevName": "HoverCraft",
+      "EnterTimeLine": "",
+      "TacticEnvironment": 0,
+      "DefaultClearScore": 17710000,
+      "MaximumScore": 10368000,
+      "PerSecondMinusScore": 28800,
+      "HPPercentScore": 26315000,
+      "MinimumAcquisitionScore": 44025000,
+      "MaximumAcquisitionScore": 54393000,
+      "RaidRewardGroupId": 1007,
+      "BattleReadyTimelinePath": [
+        "Timeline/Timeline_HoverCraft_Insane_OP",
+        "Timeline/Timeline_HoverCraft_Insane_PhaseChange"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0,
+        4
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        3,
+        100
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory",
+      "PhaseChangeTimelinePath": "-1",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 2092560489,
+      "EchelonExtensionType": 0
+    },
+    {
       "Id": 1111401,
       "UseBossIndex": true,
       "UseBossAIPhaseSync": true,

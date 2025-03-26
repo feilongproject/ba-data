@@ -209,6 +209,16 @@
       "IconOffsetX": 23860.929422222222222222222222,
       "IconOffsetY": 23860.929422222222222222222222,
       "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": 845,
+      "EventContentType": 13,
+      "IconSpriteName": "Event_Icon_FortuneGachaShop_845",
+      "ButtonText": "Event_Button_FortuneGachaShop_845",
+      "DisplayOrder": 21,
+      "IconOffsetX": 23860.929422222222222222222222,
+      "IconOffsetY": 23860.929422222222222222222222,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
     }
   ]
 }

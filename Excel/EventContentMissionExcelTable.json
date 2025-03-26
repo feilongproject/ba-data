@@ -91865,7 +91865,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2893671424,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -91903,7 +91903,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2893671424,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -91941,7 +91941,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2893671424,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -91979,7 +91979,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 3794296678,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92017,7 +92017,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 3794296678,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92055,7 +92055,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 3794296678,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92093,7 +92093,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 1907666802,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92133,7 +92133,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 1907666802,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92173,7 +92173,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 1907666802,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92213,7 +92213,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 1907666802,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92253,7 +92253,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2612224247,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92293,7 +92293,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2612224247,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92333,7 +92333,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2612224247,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92373,7 +92373,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 2612224247,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92413,7 +92413,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 3815963787,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92453,7 +92453,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 3815963787,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92493,7 +92493,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 3815963787,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92533,7 +92533,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 383264321,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92573,7 +92573,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 383264321,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92613,7 +92613,7 @@
       "EventContentId": 80000,
       "GroupId": 0,
       "GroupName": "",
-      "Category": 3,
+      "Category": 8,
       "Description": 383264321,
       "ResetType": 0,
       "ToastDisplayType": 1,
@@ -92643,6 +92643,1795 @@
       ],
       "MissionRewardAmount": [
         30
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845001,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 1,
+      "Description": 2908874499,
+      "ResetType": 1,
+      "ToastDisplayType": 0,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 1,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventFortuneGachaShop|845"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 123,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        845
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        30000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845002,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 1,
+      "Description": 2908874499,
+      "ResetType": 1,
+      "ToastDisplayType": 0,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 2,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventFortuneGachaShop|845"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 123,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 2,
+      "CompleteConditionParameter": [
+        845
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        40000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845003,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 1,
+      "Description": 2908874499,
+      "ResetType": 1,
+      "ToastDisplayType": 0,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 3,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventFortuneGachaShop|845"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 123,
+      "IsCompleteExtensionTime": false,
+      "CompleteConditionCount": 3,
+      "CompleteConditionParameter": [
+        845
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        50000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845004,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 11,
+      "Description": 1016996239,
+      "ResetType": 1,
+      "ToastDisplayType": 0,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 4,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventFortuneGachaShop|845"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 109,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 3,
+      "CompleteConditionParameter": [
+        845001,
+        845002,
+        845003
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        50
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845005,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 538150987,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 1,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 131,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 24,
+      "CompleteConditionParameter": [
+        8451301,
+        8451302,
+        8451303,
+        8451304,
+        8451305,
+        8451306,
+        8451307,
+        8451308,
+        8451309,
+        8452301,
+        8452302,
+        8452303,
+        8452304,
+        8452305,
+        8452306,
+        8452307,
+        8452308,
+        8452309,
+        8452310,
+        8452311,
+        8452312,
+        8453301,
+        8453302,
+        8453303
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        20
+      ],
+      "MissionRewardParcelId": [
+        3000845
+      ],
+      "MissionRewardAmount": [
+        1
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845006,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 2908874499,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 2,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventFortuneGachaShop|845"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 123,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 20,
+      "CompleteConditionParameter": [
+        845
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        600000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845007,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 2908874499,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 3,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventFortuneGachaShop|845"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 123,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 40,
+      "CompleteConditionParameter": [
+        845
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        1000000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845008,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 4,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452301"
+      ],
+      "ChallengeStageShortcut": 8452301,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452301
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        100000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845009,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 5,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452302"
+      ],
+      "ChallengeStageShortcut": 8452302,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452302
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        100000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845010,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 6,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452303"
+      ],
+      "ChallengeStageShortcut": 8452303,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452303
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        100000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845011,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 7,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452304"
+      ],
+      "ChallengeStageShortcut": 8452304,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452304
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        100000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845012,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 8,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452305"
+      ],
+      "ChallengeStageShortcut": 8452305,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452305
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845013,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 9,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452306"
+      ],
+      "ChallengeStageShortcut": 8452306,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452306
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845014,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 10,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452307"
+      ],
+      "ChallengeStageShortcut": 8452307,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452307
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845015,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 11,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452308"
+      ],
+      "ChallengeStageShortcut": 8452308,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": false,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452308
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845016,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 12,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452309"
+      ],
+      "ChallengeStageShortcut": 8452309,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452309
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        300000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845017,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 13,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452310"
+      ],
+      "ChallengeStageShortcut": 8452310,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452310
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        300000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845018,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 14,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452311"
+      ],
+      "ChallengeStageShortcut": 8452311,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452311
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        300000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845019,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 15,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8452312"
+      ],
+      "ChallengeStageShortcut": 8452312,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        845,
+        8452312
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        300000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845020,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 16,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8453301"
+      ],
+      "ChallengeStageShortcut": 8453301,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 100,
+      "CompleteConditionParameter": [
+        845,
+        8453301
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        60
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845021,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 17,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8453302"
+      ],
+      "ChallengeStageShortcut": 8453302,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 100,
+      "CompleteConditionParameter": [
+        845,
+        8453302
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        60
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845022,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 18,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|8453303"
+      ],
+      "ChallengeStageShortcut": 8453303,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 120,
+      "CompleteConditionParameter": [
+        845,
+        8453303
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        60
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 845023,
+      "EventContentId": 845,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 3481408333,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 19,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 3,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 14,
+      "CompleteConditionParameter": [
+        845008,
+        845009,
+        845010,
+        845011,
+        845012,
+        845013,
+        845014,
+        845015,
+        845016,
+        845017,
+        845018,
+        845019,
+        845020,
+        845021,
+        845022
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        4
+      ],
+      "MissionRewardParcelId": [
+        9999
+      ],
+      "MissionRewardAmount": [
+        1
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834001,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 538150987,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 1,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 131,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 23,
+      "CompleteConditionParameter": [
+        108341301,
+        108341302,
+        108341303,
+        108341304,
+        108341305,
+        108341306,
+        108341307,
+        108341308,
+        108342301,
+        108342302,
+        108342303,
+        108342304,
+        108342305,
+        108342306,
+        108342307,
+        108342308,
+        108342309,
+        108342310,
+        108342311,
+        108342312,
+        108343301,
+        108343302,
+        108343303
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [
+        834001
+      ],
+      "CompleteConditionMissionCount": 1,
+      "MissionRewardParcelType": [
+        20
+      ],
+      "MissionRewardParcelId": [
+        3000834
+      ],
+      "MissionRewardAmount": [
+        1
+      ],
+      "ConditionRewardParcelType": [
+        2
+      ],
+      "ConditionRewardParcelId": [
+        1
+      ],
+      "ConditionRewardAmount": [
+        30000
+      ]
+    },
+    {
+      "Id": 10834002,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 2,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342301"
+      ],
+      "ChallengeStageShortcut": 108342301,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342301
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834003,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 3,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342302"
+      ],
+      "ChallengeStageShortcut": 108342302,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342302
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834004,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 4,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342303"
+      ],
+      "ChallengeStageShortcut": 108342303,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342303
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834005,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 5,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342304"
+      ],
+      "ChallengeStageShortcut": 108342304,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342304
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834006,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 6,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342305"
+      ],
+      "ChallengeStageShortcut": 108342305,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342305
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834007,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 7,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342306"
+      ],
+      "ChallengeStageShortcut": 108342306,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342306
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834008,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 8,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342307"
+      ],
+      "ChallengeStageShortcut": 108342307,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342307
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834009,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 9,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342308"
+      ],
+      "ChallengeStageShortcut": 108342308,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342308
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834010,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 10,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342309"
+      ],
+      "ChallengeStageShortcut": 108342309,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342309
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834011,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 11,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342310"
+      ],
+      "ChallengeStageShortcut": 108342310,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342310
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834012,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 12,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342311"
+      ],
+      "ChallengeStageShortcut": 108342311,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342311
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834013,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 13,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108342312"
+      ],
+      "ChallengeStageShortcut": 108342312,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 75,
+      "CompleteConditionParameter": [
+        10834,
+        108342312
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        200000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834014,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 14,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108343301"
+      ],
+      "ChallengeStageShortcut": 108343301,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": false,
+      "CompleteConditionCount": 95,
+      "CompleteConditionParameter": [
+        10834,
+        108343301
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        800000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834015,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 15,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108343302"
+      ],
+      "ChallengeStageShortcut": 108343302,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 80,
+      "CompleteConditionParameter": [
+        10834,
+        108343302
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        800000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834016,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 4026331692,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 16,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIEventLobby|108343303"
+      ],
+      "ChallengeStageShortcut": 108343303,
+      "CompleteConditionType": 83,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 90,
+      "CompleteConditionParameter": [
+        10834,
+        108343303
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardAmount": [
+        800000
+      ],
+      "ConditionRewardParcelType": [],
+      "ConditionRewardParcelId": [],
+      "ConditionRewardAmount": []
+    },
+    {
+      "Id": 10834017,
+      "EventContentId": 10834,
+      "GroupId": 0,
+      "GroupName": "",
+      "Category": 8,
+      "Description": 3481408333,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "",
+      "ViewFlag": true,
+      "DisplayOrder": 17,
+      "PreMissionId": [],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ShortcutUI": [],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 3,
+      "IsCompleteExtensionTime": true,
+      "CompleteConditionCount": 14,
+      "CompleteConditionParameter": [
+        10834002,
+        10834003,
+        10834004,
+        10834005,
+        10834006,
+        10834007,
+        10834008,
+        10834009,
+        10834010,
+        10834011,
+        10834012,
+        10834013,
+        10834014,
+        10834015,
+        10834016
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "CompleteConditionMissionId": [],
+      "CompleteConditionMissionCount": 0,
+      "MissionRewardParcelType": [
+        4
+      ],
+      "MissionRewardParcelId": [
+        9999
+      ],
+      "MissionRewardAmount": [
+        1
       ],
       "ConditionRewardParcelType": [],
       "ConditionRewardParcelId": [],

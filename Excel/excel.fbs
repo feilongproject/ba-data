@@ -5085,6 +5085,7 @@ table EventContentDiceRaceTotalRewardExcel {
 table EventContentFortuneGachaExcel {
     FortuneGachaGroupId: int;
     LocalizeEtcId: uint;
+    NameImagePath: string;
     IconPath: string;
 }
 table EventContentFortuneGachaModifyExcel {
@@ -7678,6 +7679,7 @@ table FurnitureExcel {
     Rarity: Rarity;
     Category: FurnitureCategory;
     SubCategory: FurnitureSubCategory;
+    CheckFloorDecoration: bool;
     LocalizeEtcId: uint;
     StarGradeInit: int;
     Tier: long;

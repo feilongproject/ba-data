@@ -77712,7 +77712,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        11
+        11,
+        2033101,
+        2033201,
+        2033301,
+        2033401
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -77755,7 +77759,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        12
+        12,
+        2033102,
+        2033202,
+        2033302,
+        2033402
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -77798,7 +77806,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        13
+        13,
+        2033103,
+        2033203,
+        2033303,
+        2033403
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -77841,7 +77853,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        14
+        14,
+        2033104,
+        2033204,
+        2033304,
+        2033404
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -77884,7 +77900,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        15
+        15,
+        2033105,
+        2033205,
+        2033305,
+        2033405
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -77927,7 +77947,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        16
+        16,
+        2033106,
+        2033206,
+        2033306,
+        2033406
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -77970,7 +77994,11 @@
       "CompleteConditionType": 45,
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        17
+        17,
+        2033107,
+        2033207,
+        2033307,
+        2033407
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -82919,6 +82947,49 @@
         2102107,
         2102207,
         2102307
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        2
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 101221,
+      "Category": 3,
+      "Description": 1758964191,
+      "ResetType": 0,
+      "ToastDisplayType": 1,
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": true,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": 0,
+      "DisplayOrder": 101000,
+      "PreMissionId": [
+        101201
+      ],
+      "AccountType": 1,
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIRaidLobby",
+        "UIEliminateRaidLobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": 45,
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        1102208
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
