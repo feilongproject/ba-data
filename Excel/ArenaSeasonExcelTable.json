@@ -52,9 +52,16 @@
     {
       "UniqueId": 7,
       "SeasonStartDate": "2024-11-06 14:30:00",
-      "SeasonEndDate": "2100-01-01 14:00:00",
+      "SeasonEndDate": "2025-05-07 14:00:00",
       "SeasonGroupLimit": 15000,
       "PrevSeasonId": 6
+    },
+    {
+      "UniqueId": 8,
+      "SeasonStartDate": "2025-05-07 14:30:00",
+      "SeasonEndDate": "2100-01-01 14:00:00",
+      "SeasonGroupLimit": 15000,
+      "PrevSeasonId": 7
     }
   ]
 }
