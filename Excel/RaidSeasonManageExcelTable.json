@@ -4,6 +4,7 @@
       "SeasonId": 1,
       "SeasonDisplay": 0,
       "SeasonStartData": "2020-11-21 04:00:00",
+      "EndNoteLabelStartDate": "2021-01-27 23:59:59",
       "SeasonEndData": "2021-01-30 23:59:59",
       "SettlementEndDate": "2021-01-31 23:59:59",
       "OpenRaidBossGroup": [
@@ -92,6 +93,7 @@
       "SeasonId": 2,
       "SeasonDisplay": 0,
       "SeasonStartData": "2021-02-08 20:00:00",
+      "EndNoteLabelStartDate": "2021-02-09 12:00:00",
       "SeasonEndData": "2021-02-10 12:00:00",
       "SettlementEndDate": "2021-02-10 14:00:00",
       "OpenRaidBossGroup": [
@@ -180,6 +182,7 @@
       "SeasonId": 3,
       "SeasonDisplay": 0,
       "SeasonStartData": "2021-02-15 04:00:00",
+      "EndNoteLabelStartDate": "2021-02-19 06:00:00",
       "SeasonEndData": "2021-02-21 23:59:59",
       "SettlementEndDate": "2021-02-22 23:59:59",
       "OpenRaidBossGroup": [
@@ -268,6 +271,7 @@
       "SeasonId": 4,
       "SeasonDisplay": 0,
       "SeasonStartData": "2021-03-11 14:30:00",
+      "EndNoteLabelStartDate": "2021-03-13 23:59:59",
       "SeasonEndData": "2021-03-17 23:59:59",
       "SettlementEndDate": "2021-03-18 23:59:59",
       "OpenRaidBossGroup": [
@@ -356,10 +360,11 @@
       "SeasonId": 5,
       "SeasonDisplay": 1,
       "SeasonStartData": "2021-03-25 12:00:00",
+      "EndNoteLabelStartDate": "2021-03-27 23:59:59",
       "SeasonEndData": "2021-03-31 23:59:59",
       "SettlementEndDate": "2021-04-01 23:59:59",
       "OpenRaidBossGroup": [
-        "ShiroKuro"
+        "Hieronymus_Street"
       ],
       "RankingRewardGroupId": 300,
       "MaxSeasonRewardGauage": 0,
@@ -444,6 +449,7 @@
       "SeasonId": 6,
       "SeasonDisplay": 2,
       "SeasonStartData": "2021-04-08 12:00:00",
+      "EndNoteLabelStartDate": "2021-04-10 23:59:59",
       "SeasonEndData": "2021-04-14 23:59:59",
       "SettlementEndDate": "2021-04-15 23:59:59",
       "OpenRaidBossGroup": [
@@ -532,6 +538,7 @@
       "SeasonId": 7,
       "SeasonDisplay": 3,
       "SeasonStartData": "2021-04-29 12:30:00",
+      "EndNoteLabelStartDate": "2021-05-01 23:59:59",
       "SeasonEndData": "2021-05-05 23:59:59",
       "SettlementEndDate": "2021-05-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -620,6 +627,7 @@
       "SeasonId": 8,
       "SeasonDisplay": 4,
       "SeasonStartData": "2021-05-13 12:30:00",
+      "EndNoteLabelStartDate": "2021-05-15 23:59:59",
       "SeasonEndData": "2021-05-19 23:59:59",
       "SettlementEndDate": "2021-05-20 23:59:59",
       "OpenRaidBossGroup": [
@@ -708,6 +716,7 @@
       "SeasonId": 9,
       "SeasonDisplay": 5,
       "SeasonStartData": "2021-05-27 12:30:00",
+      "EndNoteLabelStartDate": "2021-05-29 23:59:59",
       "SeasonEndData": "2021-06-02 23:59:59",
       "SettlementEndDate": "2021-06-03 23:59:59",
       "OpenRaidBossGroup": [
@@ -804,6 +813,7 @@
       "SeasonId": 10,
       "SeasonDisplay": 6,
       "SeasonStartData": "2021-06-10 12:30:00",
+      "EndNoteLabelStartDate": "2021-06-12 23:59:59",
       "SeasonEndData": "2021-06-16 23:59:59",
       "SettlementEndDate": "2021-06-17 23:59:59",
       "OpenRaidBossGroup": [
@@ -900,6 +910,7 @@
       "SeasonId": 11,
       "SeasonDisplay": 7,
       "SeasonStartData": "2021-06-24 12:30:00",
+      "EndNoteLabelStartDate": "2021-06-25 23:59:59",
       "SeasonEndData": "2021-06-27 23:59:59",
       "SettlementEndDate": "2021-06-28 23:59:59",
       "OpenRaidBossGroup": [
@@ -996,6 +1007,7 @@
       "SeasonId": 12,
       "SeasonDisplay": 8,
       "SeasonStartData": "2021-06-30 12:30:00",
+      "EndNoteLabelStartDate": "2021-07-03 23:59:59",
       "SeasonEndData": "2021-07-07 23:59:59",
       "SettlementEndDate": "2021-07-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -1092,6 +1104,7 @@
       "SeasonId": 13,
       "SeasonDisplay": 9,
       "SeasonStartData": "2021-07-15 12:30:00",
+      "EndNoteLabelStartDate": "2021-07-17 23:59:59",
       "SeasonEndData": "2021-07-21 23:59:59",
       "SettlementEndDate": "2021-07-22 23:59:59",
       "OpenRaidBossGroup": [
@@ -1188,6 +1201,7 @@
       "SeasonId": 14,
       "SeasonDisplay": 10,
       "SeasonStartData": "2021-07-29 12:30:00",
+      "EndNoteLabelStartDate": "2021-07-31 23:59:59",
       "SeasonEndData": "2021-08-04 23:59:59",
       "SettlementEndDate": "2021-08-05 23:59:59",
       "OpenRaidBossGroup": [
@@ -1284,6 +1298,7 @@
       "SeasonId": 15,
       "SeasonDisplay": 11,
       "SeasonStartData": "2021-08-12 12:30:00",
+      "EndNoteLabelStartDate": "2021-08-14 23:59:59",
       "SeasonEndData": "2021-08-18 23:59:59",
       "SettlementEndDate": "2021-08-19 23:59:59",
       "OpenRaidBossGroup": [
@@ -1380,6 +1395,7 @@
       "SeasonId": 16,
       "SeasonDisplay": 12,
       "SeasonStartData": "2021-08-26 12:30:00",
+      "EndNoteLabelStartDate": "2021-08-28 23:59:59",
       "SeasonEndData": "2021-09-01 23:59:59",
       "SettlementEndDate": "2021-09-02 23:59:59",
       "OpenRaidBossGroup": [
@@ -1476,6 +1492,7 @@
       "SeasonId": 17,
       "SeasonDisplay": 13,
       "SeasonStartData": "2021-09-09 12:30:00",
+      "EndNoteLabelStartDate": "2021-09-11 23:59:59",
       "SeasonEndData": "2021-09-15 23:59:59",
       "SettlementEndDate": "2021-09-16 23:59:59",
       "OpenRaidBossGroup": [
@@ -1572,6 +1589,7 @@
       "SeasonId": 18,
       "SeasonDisplay": 14,
       "SeasonStartData": "2021-09-23 12:30:00",
+      "EndNoteLabelStartDate": "2021-09-24 23:59:59",
       "SeasonEndData": "2021-09-26 23:59:59",
       "SettlementEndDate": "2021-09-27 23:59:59",
       "OpenRaidBossGroup": [
@@ -1668,6 +1686,7 @@
       "SeasonId": 19,
       "SeasonDisplay": 15,
       "SeasonStartData": "2021-09-29 12:30:00",
+      "EndNoteLabelStartDate": "2021-10-01 23:59:59",
       "SeasonEndData": "2021-10-05 23:59:59",
       "SettlementEndDate": "2021-10-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -1764,6 +1783,7 @@
       "SeasonId": 20,
       "SeasonDisplay": 16,
       "SeasonStartData": "2021-10-12 12:30:00",
+      "EndNoteLabelStartDate": "2021-10-15 23:59:59",
       "SeasonEndData": "2021-10-19 23:59:59",
       "SettlementEndDate": "2021-10-20 23:59:59",
       "OpenRaidBossGroup": [
@@ -1860,6 +1880,7 @@
       "SeasonId": 21,
       "SeasonDisplay": 17,
       "SeasonStartData": "2021-10-27 12:30:00",
+      "EndNoteLabelStartDate": "2021-10-29 23:59:59",
       "SeasonEndData": "2021-11-02 23:59:59",
       "SettlementEndDate": "2021-11-03 23:59:59",
       "OpenRaidBossGroup": [
@@ -1956,6 +1977,7 @@
       "SeasonId": 22,
       "SeasonDisplay": 18,
       "SeasonStartData": "2021-11-09 12:30:00",
+      "EndNoteLabelStartDate": "2021-11-12 23:59:59",
       "SeasonEndData": "2021-11-16 23:59:59",
       "SettlementEndDate": "2021-11-17 23:59:59",
       "OpenRaidBossGroup": [
@@ -2052,6 +2074,7 @@
       "SeasonId": 23,
       "SeasonDisplay": 19,
       "SeasonStartData": "2021-11-24 12:30:00",
+      "EndNoteLabelStartDate": "2021-11-25 23:59:59",
       "SeasonEndData": "2021-11-27 23:59:59",
       "SettlementEndDate": "2021-11-28 23:59:59",
       "OpenRaidBossGroup": [
@@ -2148,6 +2171,7 @@
       "SeasonId": 24,
       "SeasonDisplay": 20,
       "SeasonStartData": "2021-11-30 12:30:00",
+      "EndNoteLabelStartDate": "2021-12-03 23:59:59",
       "SeasonEndData": "2021-12-07 23:59:59",
       "SettlementEndDate": "2021-12-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -2244,6 +2268,7 @@
       "SeasonId": 25,
       "SeasonDisplay": 21,
       "SeasonStartData": "2021-12-15 12:30:00",
+      "EndNoteLabelStartDate": "2021-12-17 23:59:59",
       "SeasonEndData": "2021-12-21 23:59:59",
       "SettlementEndDate": "2021-12-22 23:59:59",
       "OpenRaidBossGroup": [
@@ -2340,6 +2365,7 @@
       "SeasonId": 26,
       "SeasonDisplay": 22,
       "SeasonStartData": "2021-12-29 12:30:00",
+      "EndNoteLabelStartDate": "2021-12-31 23:59:59",
       "SeasonEndData": "2022-01-04 23:59:59",
       "SettlementEndDate": "2022-01-05 23:59:59",
       "OpenRaidBossGroup": [
@@ -2436,6 +2462,7 @@
       "SeasonId": 27,
       "SeasonDisplay": 23,
       "SeasonStartData": "2022-01-12 12:30:00",
+      "EndNoteLabelStartDate": "2022-01-14 23:59:59",
       "SeasonEndData": "2022-01-18 23:59:59",
       "SettlementEndDate": "2022-01-19 23:59:59",
       "OpenRaidBossGroup": [
@@ -2532,6 +2559,7 @@
       "SeasonId": 28,
       "SeasonDisplay": 24,
       "SeasonStartData": "2022-02-02 12:00:00",
+      "EndNoteLabelStartDate": "2022-02-04 23:59:59",
       "SeasonEndData": "2022-02-08 23:59:59",
       "SettlementEndDate": "2022-02-09 23:59:59",
       "OpenRaidBossGroup": [
@@ -2628,6 +2656,7 @@
       "SeasonId": 29,
       "SeasonDisplay": 25,
       "SeasonStartData": "2022-02-16 12:00:00",
+      "EndNoteLabelStartDate": "2022-02-18 23:59:59",
       "SeasonEndData": "2022-02-22 23:59:59",
       "SettlementEndDate": "2022-02-23 23:59:59",
       "OpenRaidBossGroup": [
@@ -2732,6 +2761,7 @@
       "SeasonId": 30,
       "SeasonDisplay": 26,
       "SeasonStartData": "2022-03-02 11:00:00",
+      "EndNoteLabelStartDate": "2022-03-04 23:59:59",
       "SeasonEndData": "2022-03-08 23:59:59",
       "SettlementEndDate": "2022-03-09 23:59:59",
       "OpenRaidBossGroup": [
@@ -2836,6 +2866,7 @@
       "SeasonId": 31,
       "SeasonDisplay": 27,
       "SeasonStartData": "2022-03-16 11:00:00",
+      "EndNoteLabelStartDate": "2022-03-18 23:59:59",
       "SeasonEndData": "2022-03-22 23:59:59",
       "SettlementEndDate": "2022-03-23 23:59:59",
       "OpenRaidBossGroup": [
@@ -2940,6 +2971,7 @@
       "SeasonId": 32,
       "SeasonDisplay": 28,
       "SeasonStartData": "2022-03-30 11:00:00",
+      "EndNoteLabelStartDate": "2022-04-02 03:59:59",
       "SeasonEndData": "2022-04-06 03:59:59",
       "SettlementEndDate": "2022-04-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -3044,6 +3076,7 @@
       "SeasonId": 33,
       "SeasonDisplay": 29,
       "SeasonStartData": "2022-04-13 11:00:00",
+      "EndNoteLabelStartDate": "2022-04-16 03:59:59",
       "SeasonEndData": "2022-04-20 03:59:59",
       "SettlementEndDate": "2022-04-20 23:59:59",
       "OpenRaidBossGroup": [
@@ -3148,6 +3181,7 @@
       "SeasonId": 34,
       "SeasonDisplay": 30,
       "SeasonStartData": "2022-05-04 11:00:00",
+      "EndNoteLabelStartDate": "2022-05-07 03:59:59",
       "SeasonEndData": "2022-05-11 03:59:59",
       "SettlementEndDate": "2022-05-11 23:59:59",
       "OpenRaidBossGroup": [
@@ -3252,6 +3286,7 @@
       "SeasonId": 35,
       "SeasonDisplay": 31,
       "SeasonStartData": "2022-05-18 11:00:00",
+      "EndNoteLabelStartDate": "2022-05-20 03:59:59",
       "SeasonEndData": "2022-05-24 03:59:59",
       "SettlementEndDate": "2022-05-24 23:59:59",
       "OpenRaidBossGroup": [
@@ -3356,6 +3391,7 @@
       "SeasonId": 36,
       "SeasonDisplay": 32,
       "SeasonStartData": "2022-06-01 11:00:00",
+      "EndNoteLabelStartDate": "2022-06-04 03:59:59",
       "SeasonEndData": "2022-06-08 03:59:59",
       "SettlementEndDate": "2022-06-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -3460,6 +3496,7 @@
       "SeasonId": 37,
       "SeasonDisplay": 33,
       "SeasonStartData": "2022-06-15 11:00:00",
+      "EndNoteLabelStartDate": "2022-06-18 03:59:59",
       "SeasonEndData": "2022-06-22 03:59:59",
       "SettlementEndDate": "2022-06-22 23:59:59",
       "OpenRaidBossGroup": [
@@ -3564,6 +3601,7 @@
       "SeasonId": 38,
       "SeasonDisplay": 34,
       "SeasonStartData": "2022-07-13 11:00:00",
+      "EndNoteLabelStartDate": "2022-07-16 03:59:59",
       "SeasonEndData": "2022-07-20 03:59:59",
       "SettlementEndDate": "2022-07-20 23:59:59",
       "OpenRaidBossGroup": [
@@ -3668,6 +3706,7 @@
       "SeasonId": 39,
       "SeasonDisplay": 35,
       "SeasonStartData": "2022-07-27 11:00:00",
+      "EndNoteLabelStartDate": "2022-07-30 03:59:59",
       "SeasonEndData": "2022-08-03 03:59:59",
       "SettlementEndDate": "2022-08-03 23:59:59",
       "OpenRaidBossGroup": [
@@ -3772,6 +3811,7 @@
       "SeasonId": 40,
       "SeasonDisplay": 36,
       "SeasonStartData": "2022-08-09 11:00:00",
+      "EndNoteLabelStartDate": "2022-08-13 03:59:59",
       "SeasonEndData": "2022-08-17 03:59:59",
       "SettlementEndDate": "2022-08-17 23:59:59",
       "OpenRaidBossGroup": [
@@ -3876,6 +3916,7 @@
       "SeasonId": 41,
       "SeasonDisplay": 37,
       "SeasonStartData": "2022-08-31 11:00:00",
+      "EndNoteLabelStartDate": "2022-09-03 03:59:59",
       "SeasonEndData": "2022-09-07 03:59:59",
       "SettlementEndDate": "2022-09-07 23:59:59",
       "OpenRaidBossGroup": [
@@ -3980,6 +4021,7 @@
       "SeasonId": 42,
       "SeasonDisplay": 38,
       "SeasonStartData": "2022-09-14 11:00:00",
+      "EndNoteLabelStartDate": "2022-09-17 03:59:59",
       "SeasonEndData": "2022-09-21 03:59:59",
       "SettlementEndDate": "2022-09-21 23:59:59",
       "OpenRaidBossGroup": [
@@ -4084,6 +4126,7 @@
       "SeasonId": 43,
       "SeasonDisplay": 39,
       "SeasonStartData": "2022-10-05 11:00:00",
+      "EndNoteLabelStartDate": "2022-10-08 03:59:59",
       "SeasonEndData": "2022-10-12 03:59:59",
       "SettlementEndDate": "2022-10-12 23:59:59",
       "OpenRaidBossGroup": [
@@ -4188,6 +4231,7 @@
       "SeasonId": 44,
       "SeasonDisplay": 40,
       "SeasonStartData": "2022-10-19 11:00:00",
+      "EndNoteLabelStartDate": "2022-10-22 03:59:59",
       "SeasonEndData": "2022-10-26 03:59:59",
       "SettlementEndDate": "2022-10-26 23:59:59",
       "OpenRaidBossGroup": [
@@ -4292,6 +4336,7 @@
       "SeasonId": 45,
       "SeasonDisplay": 41,
       "SeasonStartData": "2022-11-02 11:00:00",
+      "EndNoteLabelStartDate": "2022-11-05 03:59:59",
       "SeasonEndData": "2022-11-09 03:59:59",
       "SettlementEndDate": "2022-11-09 23:59:59",
       "OpenRaidBossGroup": [
@@ -4396,6 +4441,7 @@
       "SeasonId": 46,
       "SeasonDisplay": 42,
       "SeasonStartData": "2022-11-16 11:00:00",
+      "EndNoteLabelStartDate": "2022-11-19 03:59:59",
       "SeasonEndData": "2022-11-23 03:59:59",
       "SettlementEndDate": "2022-11-23 23:59:59",
       "OpenRaidBossGroup": [
@@ -4500,6 +4546,7 @@
       "SeasonId": 47,
       "SeasonDisplay": 43,
       "SeasonStartData": "2022-12-07 11:00:00",
+      "EndNoteLabelStartDate": "2022-12-10 03:59:59",
       "SeasonEndData": "2022-12-14 03:59:59",
       "SettlementEndDate": "2022-12-14 23:59:59",
       "OpenRaidBossGroup": [
@@ -4604,6 +4651,7 @@
       "SeasonId": 48,
       "SeasonDisplay": 44,
       "SeasonStartData": "2022-12-21 11:00:00",
+      "EndNoteLabelStartDate": "2022-12-24 03:59:59",
       "SeasonEndData": "2022-12-28 03:59:59",
       "SettlementEndDate": "2022-12-28 23:59:59",
       "OpenRaidBossGroup": [
@@ -4708,6 +4756,7 @@
       "SeasonId": 49,
       "SeasonDisplay": 45,
       "SeasonStartData": "2023-01-04 11:00:00",
+      "EndNoteLabelStartDate": "2023-01-07 03:59:59",
       "SeasonEndData": "2023-01-11 03:59:59",
       "SettlementEndDate": "2023-01-11 23:59:59",
       "OpenRaidBossGroup": [
@@ -4812,6 +4861,7 @@
       "SeasonId": 50,
       "SeasonDisplay": 46,
       "SeasonStartData": "2023-01-18 11:00:00",
+      "EndNoteLabelStartDate": "2023-01-20 03:59:59",
       "SeasonEndData": "2023-01-24 03:59:59",
       "SettlementEndDate": "2023-01-24 23:59:59",
       "OpenRaidBossGroup": [
@@ -4916,6 +4966,7 @@
       "SeasonId": 51,
       "SeasonDisplay": 47,
       "SeasonStartData": "2023-03-01 11:00:00",
+      "EndNoteLabelStartDate": "2023-03-04 03:59:59",
       "SeasonEndData": "2023-03-08 03:59:59",
       "SettlementEndDate": "2023-03-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -5028,6 +5079,7 @@
       "SeasonId": 52,
       "SeasonDisplay": 48,
       "SeasonStartData": "2023-03-15 11:00:00",
+      "EndNoteLabelStartDate": "2023-03-18 03:59:59",
       "SeasonEndData": "2023-03-22 03:59:59",
       "SettlementEndDate": "2023-03-22 23:59:59",
       "OpenRaidBossGroup": [
@@ -5140,6 +5192,7 @@
       "SeasonId": 53,
       "SeasonDisplay": 49,
       "SeasonStartData": "2023-03-29 11:00:00",
+      "EndNoteLabelStartDate": "2023-04-01 03:59:59",
       "SeasonEndData": "2023-04-05 03:59:59",
       "SettlementEndDate": "2023-04-05 23:59:59",
       "OpenRaidBossGroup": [
@@ -5252,6 +5305,7 @@
       "SeasonId": 54,
       "SeasonDisplay": 50,
       "SeasonStartData": "2023-04-12 11:00:00",
+      "EndNoteLabelStartDate": "2023-04-15 03:59:59",
       "SeasonEndData": "2023-04-19 03:59:59",
       "SettlementEndDate": "2023-04-19 23:59:59",
       "OpenRaidBossGroup": [
@@ -5364,6 +5418,7 @@
       "SeasonId": 55,
       "SeasonDisplay": 51,
       "SeasonStartData": "2023-05-03 11:00:00",
+      "EndNoteLabelStartDate": "2023-05-06 03:59:59",
       "SeasonEndData": "2023-05-10 03:59:59",
       "SettlementEndDate": "2023-05-10 23:59:59",
       "OpenRaidBossGroup": [
@@ -5476,6 +5531,7 @@
       "SeasonId": 56,
       "SeasonDisplay": 52,
       "SeasonStartData": "2023-05-17 11:00:00",
+      "EndNoteLabelStartDate": "2023-05-20 03:59:59",
       "SeasonEndData": "2023-05-24 03:59:59",
       "SettlementEndDate": "2023-05-24 23:59:59",
       "OpenRaidBossGroup": [
@@ -5588,6 +5644,7 @@
       "SeasonId": 57,
       "SeasonDisplay": 53,
       "SeasonStartData": "2023-05-31 11:00:00",
+      "EndNoteLabelStartDate": "2023-06-03 03:59:59",
       "SeasonEndData": "2023-06-07 03:59:59",
       "SettlementEndDate": "2023-06-07 23:59:59",
       "OpenRaidBossGroup": [
@@ -5700,6 +5757,7 @@
       "SeasonId": 58,
       "SeasonDisplay": 54,
       "SeasonStartData": "2023-06-14 11:00:00",
+      "EndNoteLabelStartDate": "2023-06-17 03:59:59",
       "SeasonEndData": "2023-06-21 03:59:59",
       "SettlementEndDate": "2023-06-21 23:59:59",
       "OpenRaidBossGroup": [
@@ -5812,6 +5870,7 @@
       "SeasonId": 59,
       "SeasonDisplay": 55,
       "SeasonStartData": "2023-07-05 11:00:00",
+      "EndNoteLabelStartDate": "2023-07-08 03:59:59",
       "SeasonEndData": "2023-07-12 03:59:59",
       "SettlementEndDate": "2023-07-12 23:59:59",
       "OpenRaidBossGroup": [
@@ -5936,6 +5995,7 @@
       "SeasonId": 60,
       "SeasonDisplay": 56,
       "SeasonStartData": "2023-08-02 11:00:00",
+      "EndNoteLabelStartDate": "2023-08-05 03:59:59",
       "SeasonEndData": "2023-08-09 03:59:59",
       "SettlementEndDate": "2023-08-09 23:59:59",
       "OpenRaidBossGroup": [
@@ -6060,6 +6120,7 @@
       "SeasonId": 61,
       "SeasonDisplay": 57,
       "SeasonStartData": "2023-08-30 11:00:00",
+      "EndNoteLabelStartDate": "2023-09-02 03:59:59",
       "SeasonEndData": "2023-09-06 03:59:59",
       "SettlementEndDate": "2023-09-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -6184,6 +6245,7 @@
       "SeasonId": 62,
       "SeasonDisplay": 58,
       "SeasonStartData": "2023-10-04 11:00:00",
+      "EndNoteLabelStartDate": "2023-10-07 03:59:59",
       "SeasonEndData": "2023-10-11 03:59:59",
       "SettlementEndDate": "2023-10-11 23:59:59",
       "OpenRaidBossGroup": [
@@ -6308,6 +6370,7 @@
       "SeasonId": 63,
       "SeasonDisplay": 59,
       "SeasonStartData": "2023-11-01 11:00:00",
+      "EndNoteLabelStartDate": "2023-11-04 03:59:59",
       "SeasonEndData": "2023-11-08 03:59:59",
       "SettlementEndDate": "2023-11-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -6432,6 +6495,7 @@
       "SeasonId": 64,
       "SeasonDisplay": 60,
       "SeasonStartData": "2023-11-29 11:00:00",
+      "EndNoteLabelStartDate": "2023-12-02 03:59:59",
       "SeasonEndData": "2023-12-06 03:59:59",
       "SettlementEndDate": "2023-12-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -6556,6 +6620,7 @@
       "SeasonId": 65,
       "SeasonDisplay": 61,
       "SeasonStartData": "2024-01-03 11:00:00",
+      "EndNoteLabelStartDate": "2024-01-06 03:59:59",
       "SeasonEndData": "2024-01-10 03:59:59",
       "SettlementEndDate": "2024-01-10 23:59:59",
       "OpenRaidBossGroup": [
@@ -6680,6 +6745,7 @@
       "SeasonId": 66,
       "SeasonDisplay": 62,
       "SeasonStartData": "2024-01-31 11:00:00",
+      "EndNoteLabelStartDate": "2024-02-03 03:59:59",
       "SeasonEndData": "2024-02-07 03:59:59",
       "SettlementEndDate": "2024-02-07 23:59:59",
       "OpenRaidBossGroup": [
@@ -6804,6 +6870,7 @@
       "SeasonId": 67,
       "SeasonDisplay": 63,
       "SeasonStartData": "2024-02-28 11:00:00",
+      "EndNoteLabelStartDate": "2024-03-02 03:59:59",
       "SeasonEndData": "2024-03-06 03:59:59",
       "SettlementEndDate": "2024-03-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -6928,6 +6995,7 @@
       "SeasonId": 68,
       "SeasonDisplay": 64,
       "SeasonStartData": "2024-04-03 11:00:00",
+      "EndNoteLabelStartDate": "2024-04-07 03:59:59",
       "SeasonEndData": "2024-04-11 03:59:59",
       "SettlementEndDate": "2024-04-11 23:59:59",
       "OpenRaidBossGroup": [
@@ -7052,6 +7120,7 @@
       "SeasonId": 69,
       "SeasonDisplay": 65,
       "SeasonStartData": "2024-05-01 11:00:00",
+      "EndNoteLabelStartDate": "2024-05-04 03:59:59",
       "SeasonEndData": "2024-05-08 03:59:59",
       "SettlementEndDate": "2024-05-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -7176,6 +7245,7 @@
       "SeasonId": 70,
       "SeasonDisplay": 66,
       "SeasonStartData": "2024-05-29 11:00:00",
+      "EndNoteLabelStartDate": "2024-06-01 03:59:59",
       "SeasonEndData": "2024-06-05 03:59:59",
       "SettlementEndDate": "2024-06-05 23:59:59",
       "OpenRaidBossGroup": [
@@ -7300,6 +7370,7 @@
       "SeasonId": 71,
       "SeasonDisplay": 67,
       "SeasonStartData": "2024-07-03 11:00:00",
+      "EndNoteLabelStartDate": "2024-07-06 03:59:59",
       "SeasonEndData": "2024-07-10 03:59:59",
       "SettlementEndDate": "2024-07-10 23:59:59",
       "OpenRaidBossGroup": [
@@ -7424,6 +7495,7 @@
       "SeasonId": 72,
       "SeasonDisplay": 68,
       "SeasonStartData": "2024-07-31 11:00:00",
+      "EndNoteLabelStartDate": "2024-08-03 03:59:59",
       "SeasonEndData": "2024-08-07 03:59:59",
       "SettlementEndDate": "2024-08-07 23:59:59",
       "OpenRaidBossGroup": [
@@ -7548,6 +7620,7 @@
       "SeasonId": 73,
       "SeasonDisplay": 69,
       "SeasonStartData": "2024-08-28 11:00:00",
+      "EndNoteLabelStartDate": "2024-08-31 03:59:59",
       "SeasonEndData": "2024-09-04 03:59:59",
       "SettlementEndDate": "2024-09-04 23:59:59",
       "OpenRaidBossGroup": [
@@ -7672,6 +7745,7 @@
       "SeasonId": 74,
       "SeasonDisplay": 70,
       "SeasonStartData": "2024-10-02 11:00:00",
+      "EndNoteLabelStartDate": "2024-10-06 03:59:59",
       "SeasonEndData": "2024-10-10 03:59:59",
       "SettlementEndDate": "2024-10-10 23:59:59",
       "OpenRaidBossGroup": [
@@ -7796,6 +7870,7 @@
       "SeasonId": 75,
       "SeasonDisplay": 71,
       "SeasonStartData": "2024-10-30 11:00:00",
+      "EndNoteLabelStartDate": "2024-11-02 03:59:59",
       "SeasonEndData": "2024-11-06 03:59:59",
       "SettlementEndDate": "2024-11-06 23:59:59",
       "OpenRaidBossGroup": [
@@ -7920,6 +7995,7 @@
       "SeasonId": 76,
       "SeasonDisplay": 72,
       "SeasonStartData": "2024-11-27 11:00:00",
+      "EndNoteLabelStartDate": "2024-11-30 03:59:59",
       "SeasonEndData": "2024-12-04 03:59:59",
       "SettlementEndDate": "2024-12-04 23:59:59",
       "OpenRaidBossGroup": [
@@ -8044,6 +8120,7 @@
       "SeasonId": 77,
       "SeasonDisplay": 73,
       "SeasonStartData": "2025-01-01 11:00:00",
+      "EndNoteLabelStartDate": "2025-01-04 03:59:59",
       "SeasonEndData": "2025-01-08 03:59:59",
       "SettlementEndDate": "2025-01-08 23:59:59",
       "OpenRaidBossGroup": [
@@ -8168,6 +8245,7 @@
       "SeasonId": 78,
       "SeasonDisplay": 74,
       "SeasonStartData": "2025-01-27 11:00:00",
+      "EndNoteLabelStartDate": "2025-01-30 03:59:59",
       "SeasonEndData": "2025-02-03 03:59:59",
       "SettlementEndDate": "2025-02-03 23:59:59",
       "OpenRaidBossGroup": [
@@ -8300,6 +8378,7 @@
       "SeasonId": 79,
       "SeasonDisplay": 75,
       "SeasonStartData": "2025-03-05 11:00:00",
+      "EndNoteLabelStartDate": "2025-03-08 03:59:59",
       "SeasonEndData": "2025-03-12 03:59:59",
       "SettlementEndDate": "2025-03-12 23:59:59",
       "OpenRaidBossGroup": [
@@ -8432,6 +8511,7 @@
       "SeasonId": 80,
       "SeasonDisplay": 76,
       "SeasonStartData": "2025-04-02 11:00:00",
+      "EndNoteLabelStartDate": "2025-04-05 03:59:59",
       "SeasonEndData": "2025-04-09 03:59:59",
       "SettlementEndDate": "2025-04-09 23:59:59",
       "OpenRaidBossGroup": [
@@ -8564,12 +8644,13 @@
       "SeasonId": 81,
       "SeasonDisplay": 77,
       "SeasonStartData": "2025-04-30 11:00:00",
-      "SeasonEndData": "2025-05-06 03:59:59",
-      "SettlementEndDate": "2025-05-06 23:59:59",
+      "EndNoteLabelStartDate": "2025-05-03 03:59:59",
+      "SeasonEndData": "2025-05-07 03:59:59",
+      "SettlementEndDate": "2025-05-07 23:59:59",
       "OpenRaidBossGroup": [
-        "HoverCraft"
+        "EN0005"
       ],
-      "RankingRewardGroupId": 1830,
+      "RankingRewardGroupId": 1630,
       "MaxSeasonRewardGauage": 0,
       "StackedSeasonRewardGauge": [
         250000,
@@ -8632,64 +8713,197 @@
         620000000
       ],
       "SeasonRewardId": [
-        6200,
-        6201,
-        6202,
-        6203,
-        6204,
-        6205,
-        6206,
-        6207,
-        6208,
-        6209,
-        6210,
-        6211,
-        6212,
-        6213,
-        6214,
-        6215,
-        6216,
-        6217,
-        6218,
-        6219,
-        6220,
-        6221,
-        6222,
-        6223,
-        6224,
-        6225,
-        6226,
-        6227,
-        6228,
-        6229,
-        6230,
-        6231,
-        6232,
-        6233,
-        6234,
-        6235,
-        6236,
-        6237,
-        6238,
-        6239,
-        6240,
-        6241,
-        6242,
-        6243,
-        6244,
-        6245,
-        6246,
-        6247,
-        6248,
-        6249,
-        6250,
-        6251,
-        6252,
-        6253,
-        6254,
-        6255,
-        6256,
-        6257
+        6300,
+        6301,
+        6302,
+        6303,
+        6304,
+        6305,
+        6306,
+        6307,
+        6308,
+        6309,
+        6310,
+        6311,
+        6312,
+        6313,
+        6314,
+        6315,
+        6316,
+        6317,
+        6318,
+        6319,
+        6320,
+        6321,
+        6322,
+        6323,
+        6324,
+        6325,
+        6326,
+        6327,
+        6328,
+        6329,
+        6330,
+        6331,
+        6332,
+        6333,
+        6334,
+        6335,
+        6336,
+        6337,
+        6338,
+        6339,
+        6340,
+        6341,
+        6342,
+        6343,
+        6344,
+        6345,
+        6346,
+        6347,
+        6348,
+        6349,
+        6350,
+        6351,
+        6352,
+        6353,
+        6354,
+        6355,
+        6356,
+        6357
+      ]
+    },
+    {
+      "SeasonId": 82,
+      "SeasonDisplay": 78,
+      "SeasonStartData": "2025-05-28 11:00:00",
+      "EndNoteLabelStartDate": "2025-05-31 03:59:59",
+      "SeasonEndData": "2025-06-04 03:59:59",
+      "SettlementEndDate": "2025-06-04 23:59:59",
+      "OpenRaidBossGroup": [
+        "EN0005"
+      ],
+      "RankingRewardGroupId": 1630,
+      "MaxSeasonRewardGauage": 0,
+      "StackedSeasonRewardGauge": [
+        250000,
+        500000,
+        750000,
+        1000000,
+        1250000,
+        1500000,
+        1750000,
+        2000000,
+        2500000,
+        3000000,
+        3500000,
+        4000000,
+        4500000,
+        5000000,
+        5500000,
+        6000000,
+        7000000,
+        8000000,
+        9000000,
+        10000000,
+        12000000,
+        14000000,
+        16000000,
+        18000000,
+        20000000,
+        22000000,
+        24000000,
+        26000000,
+        29000000,
+        32000000,
+        35000000,
+        38000000,
+        41000000,
+        44000000,
+        47000000,
+        50000000,
+        60000000,
+        70000000,
+        80000000,
+        90000000,
+        100000000,
+        120000000,
+        150000000,
+        180000000,
+        210000000,
+        240000000,
+        270000000,
+        310000000,
+        320000000,
+        340000000,
+        360000000,
+        380000000,
+        400000000,
+        420000000,
+        470000000,
+        520000000,
+        570000000,
+        620000000
+      ],
+      "SeasonRewardId": [
+        6300,
+        6301,
+        6302,
+        6303,
+        6304,
+        6305,
+        6306,
+        6307,
+        6308,
+        6309,
+        6310,
+        6311,
+        6312,
+        6313,
+        6314,
+        6315,
+        6316,
+        6317,
+        6318,
+        6319,
+        6320,
+        6321,
+        6322,
+        6323,
+        6324,
+        6325,
+        6326,
+        6327,
+        6328,
+        6329,
+        6330,
+        6331,
+        6332,
+        6333,
+        6334,
+        6335,
+        6336,
+        6337,
+        6338,
+        6339,
+        6340,
+        6341,
+        6342,
+        6343,
+        6344,
+        6345,
+        6346,
+        6347,
+        6348,
+        6349,
+        6350,
+        6351,
+        6352,
+        6353,
+        6354,
+        6355,
+        6356,
+        6357
       ]
     }
   ]

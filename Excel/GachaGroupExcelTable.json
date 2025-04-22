@@ -91,66 +91,6 @@
       "GroupType": 1
     },
     {
-      "ID": 60,
-      "NameKr": "2차 일반 가챠",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 61,
-      "NameKr": "2차 일반 가챠 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 62,
-      "NameKr": "2차 일반 가챠 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 63,
-      "NameKr": "2차 일반 가챠 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 69,
-      "NameKr": "2차 일반 가챠 SSR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 70,
-      "NameKr": "3차 일반 가챠",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 71,
-      "NameKr": "3차 일반 가챠 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 72,
-      "NameKr": "3차 일반 가챠 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 73,
-      "NameKr": "3차 일반 가챠 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 79,
-      "NameKr": "3차 일반 가챠 SSR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
       "ID": 100,
       "NameKr": "N 활동 보고서",
       "IsRecursive": true,
@@ -463,6 +403,12 @@
       "GroupType": 1
     },
     {
+      "ID": 1010,
+      "NameKr": "하이랜더",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
       "ID": 1100,
       "NameKr": "Bedding - 선물 타입",
       "IsRecursive": true,
@@ -727,6 +673,12 @@
       "GroupType": 1
     },
     {
+      "ID": 2119,
+      "NameKr": "하이랜더 열차 - 가구 컨셉",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
       "ID": 3000,
       "NameKr": "3차 노드용 백귀야행",
       "IsRecursive": true,
@@ -777,6 +729,12 @@
     {
       "ID": 3008,
       "NameKr": "3차 노드용 아리우스",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 3009,
+      "NameKr": "3차 노드용 하이랜더",
       "IsRecursive": true,
       "GroupType": 1
     },
@@ -885,6 +843,12 @@
     {
       "ID": 10008,
       "NameKr": "확정지급 가챠그룹 - 추격전9",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 10009,
+      "NameKr": "확정지급 가챠그룹 - 추격전10",
       "IsRecursive": true,
       "GroupType": 1
     },
@@ -1406,7 +1370,7 @@
     },
     {
       "ID": 100023,
-      "NameKr": "1_1차 픽업 SSR 스미레(아르바이트)",
+      "NameKr": "1_1차 픽업 SSR 한정_히카리",
       "IsRecursive": true,
       "GroupType": 1
     },
@@ -1448,217 +1412,7 @@
     },
     {
       "ID": 100043,
-      "NameKr": "1_2차 픽업 SSR 레이",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110010,
-      "NameKr": "2_1차 픽업",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110011,
-      "NameKr": "2_1차 픽업 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110012,
-      "NameKr": "2_1차 픽업 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110013,
-      "NameKr": "2_1차 픽업 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110019,
-      "NameKr": "2_1차 픽업 SR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110022,
-      "NameKr": "2_1차 픽업 SR 더미",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110023,
-      "NameKr": "2_1차 픽업 SSR 사오리(드레스)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110030,
-      "NameKr": "2_2차 픽업",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110031,
-      "NameKr": "2_2차 픽업 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110032,
-      "NameKr": "2_2차 픽업 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110033,
-      "NameKr": "2_2차 픽업 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110039,
-      "NameKr": "2_2차 픽업 SR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110042,
-      "NameKr": "2_2차 픽업 SR 더미",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110043,
-      "NameKr": "2_2차 픽업 SSR 아루(드레스)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110050,
-      "NameKr": "2_3차 픽업",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110051,
-      "NameKr": "2_3차 픽업 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110052,
-      "NameKr": "2_3차 픽업 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110053,
-      "NameKr": "2_3차 픽업 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110059,
-      "NameKr": "2_3차 픽업 SR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110062,
-      "NameKr": "2_3차 픽업 SR 더미",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 110063,
-      "NameKr": "2_3차 픽업 SSR 카요코(드레스)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120010,
-      "NameKr": "3_1차 픽업",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120011,
-      "NameKr": "3_1차 픽업 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120012,
-      "NameKr": "3_1차 픽업 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120013,
-      "NameKr": "3_1차 픽업 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120019,
-      "NameKr": "3_1차 픽업 SR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120022,
-      "NameKr": "3_1차 픽업 SR 더미",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120023,
-      "NameKr": "3_1차 픽업 SSR 루미",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120030,
-      "NameKr": "3_2차 픽업",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120031,
-      "NameKr": "3_2차 픽업 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120032,
-      "NameKr": "3_2차 픽업 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120033,
-      "NameKr": "3_2차 픽업 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120039,
-      "NameKr": "3_2차 픽업 SR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120042,
-      "NameKr": "3_2차 픽업 SR 더미",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 120043,
-      "NameKr": "3_2차 픽업 SSR 미나",
+      "NameKr": "1_2차 픽업 SSR 한정_노조미",
       "IsRecursive": true,
       "GroupType": 1
     },
@@ -6655,6 +6409,54 @@
       "GroupType": 1
     },
     {
+      "ID": 360171,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360172,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360173,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360174,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360175,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360176,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360177,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 360178,
+      "NameKr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
       "ID": 400001,
       "NameKr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
       "IsRecursive": true,
@@ -6817,6 +6619,48 @@
       "GroupType": 1
     },
     {
+      "ID": 400041,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 400042,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 400043,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 400044,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 400045,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 400046,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 400047,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
       "ID": 410000,
       "NameKr": "R56_미니이벤트_장비랜덤상자",
       "IsRecursive": true,
@@ -6837,6 +6681,12 @@
     {
       "ID": 410030,
       "NameKr": "R75_미니이벤트_장비랜덤상자",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 410040,
+      "NameKr": "R79_특수작전_미니이벤트_랜덤 장비 상자",
       "IsRecursive": true,
       "GroupType": 1
     },
@@ -7357,66 +7207,6 @@
       "GroupType": 1
     },
     {
-      "ID": 700030,
-      "NameKr": "2차_3성 모집 상점 기본",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700031,
-      "NameKr": "2차_3성 모집 상점 기본 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700032,
-      "NameKr": "2차_3성 모집 상점 기본 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700033,
-      "NameKr": "2차_3성 모집 상점 기본 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700041,
-      "NameKr": "2차_3성 모집 상점 확정 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700050,
-      "NameKr": "3차_3성 모집 상점 기본",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700051,
-      "NameKr": "3차_3성 모집 상점 기본 R",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700052,
-      "NameKr": "3차_3성 모집 상점 기본 SR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700053,
-      "NameKr": "3차_3성 모집 상점 기본 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
-      "ID": 700061,
-      "NameKr": "3차_3성 모집 상점 확정 SSR",
-      "IsRecursive": true,
-      "GroupType": 1
-    },
-    {
       "ID": 800000,
       "NameKr": "제조2호기 투입용 - 기초 기술 노트 랜덤권",
       "IsRecursive": true,
@@ -7605,6 +7395,12 @@
     {
       "ID": 801019,
       "NameKr": "제조2호기 투입용 - 가구 (밀레니엄 타워 라운지) 랜덤권",
+      "IsRecursive": true,
+      "GroupType": 1
+    },
+    {
+      "ID": 801020,
+      "NameKr": "제조2호기 투입용 - 가구 (하이랜더 열차) 랜덤권",
       "IsRecursive": true,
       "GroupType": 1
     },

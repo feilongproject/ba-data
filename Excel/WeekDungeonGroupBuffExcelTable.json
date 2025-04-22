@@ -76,6 +76,13 @@
       "RecommandLocalizeEtcId": 1228065170,
       "FormationLocalizeEtcId": 3655360459,
       "SkillGroupId": "GroupBuff_Arius"
+    },
+    {
+      "WeekDungeonBuffId": 12,
+      "School": 16,
+      "RecommandLocalizeEtcId": 216783315,
+      "FormationLocalizeEtcId": 29102100,
+      "SkillGroupId": "GroupBuff_Highlander"
     }
   ]
 }

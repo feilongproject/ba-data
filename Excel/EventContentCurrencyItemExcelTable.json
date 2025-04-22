@@ -1147,6 +1147,30 @@
       "UseShortCutContentType": "FortuneGachaShop"
     },
     {
+      "EventContentId": 846,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 80600,
+      "UseShortCutContentType": "MiniGameRoad"
+    },
+    {
+      "EventContentId": 846,
+      "EventContentItemType": 2,
+      "ItemUniqueId": 80601,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 846,
+      "EventContentItemType": 3,
+      "ItemUniqueId": 80602,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 846,
+      "EventContentItemType": 4,
+      "ItemUniqueId": 80603,
+      "UseShortCutContentType": "Shop"
+    },
+    {
       "EventContentId": 80000,
       "EventContentItemType": 1,
       "ItemUniqueId": 80560,
@@ -1175,6 +1199,12 @@
       "EventContentItemType": 1,
       "ItemUniqueId": 80550,
       "UseShortCutContentType": ""
+    },
+    {
+      "EventContentId": 70003,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 80610,
+      "UseShortCutContentType": "BoxGacha"
     },
     {
       "EventContentId": 60000,
@@ -1948,6 +1978,30 @@
       "EventContentId": 10834,
       "EventContentItemType": 4,
       "ItemUniqueId": 85293,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10835,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 85300,
+      "UseShortCutContentType": "CardShop"
+    },
+    {
+      "EventContentId": 10835,
+      "EventContentItemType": 2,
+      "ItemUniqueId": 85301,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10835,
+      "EventContentItemType": 3,
+      "ItemUniqueId": 85302,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10835,
+      "EventContentItemType": 4,
+      "ItemUniqueId": 85303,
       "UseShortCutContentType": "Shop"
     },
     {

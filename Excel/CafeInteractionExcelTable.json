@@ -2534,6 +2534,52 @@
       ]
     },
     {
+      "CharacterId": 10117,
+      "IgnoreIfUnobtained": true,
+      "IgnoreIfUnobtainedStartDate": "2025-04-21 11:00:00",
+      "IgnoreIfUnobtainedEndDate": "2025-04-22 10:59:59",
+      "BubbleType": [
+        2,
+        3,
+        4
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": 11,
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R2_20307",
+        "M2_20307"
+      ]
+    },
+    {
+      "CharacterId": 10118,
+      "IgnoreIfUnobtained": true,
+      "IgnoreIfUnobtainedStartDate": "2025-04-21 11:00:00",
+      "IgnoreIfUnobtainedEndDate": "2025-04-22 10:59:59",
+      "BubbleType": [
+        2,
+        3,
+        4
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": 11,
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_20307",
+        "M1_20307"
+      ]
+    },
+    {
       "CharacterId": 13000,
       "IgnoreIfUnobtained": true,
       "IgnoreIfUnobtainedStartDate": "2021-02-13 11:00:00",
@@ -3189,6 +3235,28 @@
       "CafeCharacterState": [
         "R3_18305",
         "M3_18305"
+      ]
+    },
+    {
+      "CharacterId": 16017,
+      "IgnoreIfUnobtained": true,
+      "IgnoreIfUnobtainedStartDate": "2025-04-21 11:00:00",
+      "IgnoreIfUnobtainedEndDate": "2025-04-22 10:59:59",
+      "BubbleType": [
+        2,
+        3,
+        4
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": 11,
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_20308"
       ]
     },
     {
@@ -4166,6 +4234,26 @@
       "CafeCharacterState": [
         "R1_210365"
       ]
+    },
+    {
+      "CharacterId": 20045,
+      "IgnoreIfUnobtained": true,
+      "IgnoreIfUnobtainedStartDate": "2025-04-21 11:00:00",
+      "IgnoreIfUnobtainedEndDate": "2025-05-14 10:59:59",
+      "BubbleType": [
+        2,
+        3,
+        4
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": 11,
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
     },
     {
       "CharacterId": 23000,

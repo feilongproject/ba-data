@@ -11969,6 +11969,260 @@
       ]
     },
     {
+      "EventContentId": 846,
+      "CharacterId": 10117,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        2500,
+        3000
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10118,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        2500,
+        3000
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 16017,
+      "EventContentItemType": [
+        1,
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10006,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10023,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10077,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10078,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10004,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 26000,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 20008,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 20012,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 20033,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 20016,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 20040,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10107,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 16014,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10005,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 10010,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 13008,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 13004,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 846,
+      "CharacterId": 23005,
+      "EventContentItemType": [
+        2,
+        3
+      ],
+      "BonusPercentage": [
+        1000,
+        1000
+      ]
+    },
+    {
       "EventContentId": 10803,
       "CharacterId": 10003,
       "EventContentItemType": [
@@ -19390,6 +19644,222 @@
       ],
       "BonusPercentage": [
         1000
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 20045,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        3000,
+        2500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 20035,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        2500,
+        3000
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10090,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        2500,
+        3000
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10093,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 16004,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 20015,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 13001,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 20033,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 20016,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 16014,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10065,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10006,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 26000,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10081,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10082,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10083,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 10004,
+      "EventContentItemType": [
+        1,
+        2
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10835,
+      "CharacterId": 20008,
+      "EventContentItemType": [
+        1,
+        3
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
       ]
     }
   ]

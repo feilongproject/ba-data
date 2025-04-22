@@ -716,6 +716,24 @@
         {}
       ],
       "VoiceId": 0
+    },
+    {
+      "LogicEffectNameHash": 1820008632,
+      "Self": false,
+      "Priority": 95,
+      "VoiceHash": [
+        {}
+      ],
+      "VoiceId": 0
+    },
+    {
+      "LogicEffectNameHash": 1820008632,
+      "Self": false,
+      "Priority": 95,
+      "VoiceHash": [
+        {}
+      ],
+      "VoiceId": 0
     }
   ]
 }

@@ -2107,6 +2107,42 @@
       "IsUnnecessaryStat": false
     },
     {
+      "Id": 10117,
+      "PotentialStatGroupId": 26010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10117,
+      "PotentialStatGroupId": 26010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10117,
+      "PotentialStatGroupId": 26010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10118,
+      "PotentialStatGroupId": 27010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10118,
+      "PotentialStatGroupId": 27010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10118,
+      "PotentialStatGroupId": 27010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
       "Id": 13000,
       "PotentialStatGroupId": 13010,
       "PotentialStatBonusRateType": "MaxHP",
@@ -2661,6 +2697,24 @@
     {
       "Id": 16016,
       "PotentialStatGroupId": 20010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 16017,
+      "PotentialStatGroupId": 13010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 16017,
+      "PotentialStatGroupId": 13010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 16017,
+      "PotentialStatGroupId": 13010,
       "PotentialStatBonusRateType": "MaxHP",
       "IsUnnecessaryStat": false
     },
@@ -3471,6 +3525,24 @@
     {
       "Id": 20044,
       "PotentialStatGroupId": 17010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20045,
+      "PotentialStatGroupId": 12010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20045,
+      "PotentialStatGroupId": 12010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20045,
+      "PotentialStatGroupId": 12010,
       "PotentialStatBonusRateType": "MaxHP",
       "IsUnnecessaryStat": false
     },

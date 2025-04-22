@@ -17542,7 +17542,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001150,
@@ -17587,7 +17587,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001160,
@@ -17632,7 +17632,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001170,
@@ -17677,7 +17677,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001180,
@@ -17722,7 +17722,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001190,
@@ -17767,7 +17767,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001200,
@@ -17812,7 +17812,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001210,
@@ -17857,7 +17857,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001220,
@@ -17902,7 +17902,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 90001230,
@@ -17916,7 +17916,9 @@
       "Open": false,
       "IsContinue": false,
       "EpisodeContinueModeId": 0,
-      "FrontScenarioGroupId": null,
+      "FrontScenarioGroupId": [
+        {}
+      ],
       "StrategyId": 0,
       "GroundId": 0,
       "IsDefeatBattle": false,
@@ -17945,7 +17947,7 @@
       "FixedEchelonId": 0,
       "CompleteReportEventName": "",
       "EchelonExtensionType": "Base",
-      "CollectionGroupId": 0
+      "CollectionGroupId": 1
     },
     {
       "ModeId": 1101,

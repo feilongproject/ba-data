@@ -118,7 +118,9 @@ enum Club : int {
     KnowledgeLiberationFront,
     Hyakkayouran,
     ShinySparkleSociety,
-    AbydosStudentCouncil
+    AbydosStudentCouncil,
+    CentralControlCenter,
+    FreightLogisticsDepartment
 }
 enum CollectionUnlockType : int {
     None,
@@ -396,7 +398,8 @@ enum EventContentType : int {
     ScenarioCollection,
     ScenarioShortcut,
     SeasonalEvent,
-    MiniShop
+    MiniShop,
+    MiniGameRoad
 }
 enum EventTargetType : int {
     WeekDungeon,
@@ -533,9 +536,9 @@ enum FurnitureSubCategory : int {
     Closet,
     Chair,
     Bed,
+    Prop,
     FurnitureEtc,
     FurnitureSubCategory1,
-    Prop,
     HomeAppliance,
     WallDecoration,
     FloorDecoration,
@@ -841,7 +844,10 @@ enum MissionCompleteConditionType : int {
     Reset_ClearTimeLimitDefenseFromSecond,
     Reset_JoinMultiFloorRaidCount,
     Reset_GivePresentCharacterCount,
-    Reset_CharacterInviteCount
+    Reset_CharacterInviteCount,
+    Reset_RoadpuzzleTileCount,
+    Reset_ClearSpecificRoundRoadpuzzle,
+    Reset_ClearCountRoadpuzzle
 }
 enum MissionResetType : int {
     None,
@@ -1061,7 +1067,8 @@ enum School : int {
     SCHALE,
     ETC,
     Tokiwadai,
-    Sakugawa
+    Sakugawa,
+    Highlander
 }
 enum ShopCategoryType : int {
     General,
@@ -1129,7 +1136,7 @@ enum ShopFilterType : int {
     Event,
     ChaserTotalTicket,
     SchoolTotalTicket,
-    ShopFilterDUMMY_1,
+    Highlander,
     ShopFilterDUMMY_2,
     ShopFilterDUMMY_3,
     ShopFilterDUMMY_4,
@@ -4869,6 +4876,8 @@ table ConstCombatExcel {
     EchelonExtensionEchelonInitCommonCost: int;
     EchelonExtensionCostRegenRatio: long;
     CheckCheaterMaxUseCostMultiFloorRaid: int;
+    ExcessiveTouchCheckTime: float;
+    ExcessiveTouchCheckCount: int;
 }
 table ConstConquestExcel {
     ManageUnitChange: int;
@@ -4884,6 +4893,22 @@ table ConstFieldExcel {
     ThinkDialogDurationDefault: int;
     IdleThinkDelayMin: int;
     IdleThinkDelayMax: int;
+}
+table ConstMinigameRoadPuzzleExcel {
+    RoadPuzzleMapBoundaryOffsetLeft: float;
+    RoadPuzzleMapBoundaryOffsetRight: float;
+    RoadPuzzleMapBoundaryOffsetTop: float;
+    RoadPuzzleMapBoundaryOffsetBottom: float;
+    RoadPuzzleMapCenterOffsetX: float;
+    RoadPuzzleMapCenterOffsetY: float;
+    CameraAngle: float;
+    CameraZoomMax: float;
+    CameraZoomMin: float;
+    CameraZoomDefault: float;
+    StageLoadingProgressTime: float;
+    TileRotationDegree: int;
+    StartStageIndex: int;
+    LoopStageIndex: int;
 }
 table ConstMiniGameShootingExcel {
     NormalStageId: long;
@@ -4968,6 +4993,7 @@ table EliminateRaidSeasonManageExcel {
     SeasonId: long;
     SeasonDisplay: long;
     SeasonStartData: string;
+    EndNoteLabelStartDate: string;
     SeasonEndData: string;
     SettlementEndDate: string;
     LobbyTableBGPath: string;
@@ -5490,6 +5516,7 @@ table RaidSeasonManageExcel {
     SeasonId: long;
     SeasonDisplay: long;
     SeasonStartData: string;
+    EndNoteLabelStartDate: string;
     SeasonEndData: string;
     SettlementEndDate: string;
     OpenRaidBossGroup: [string];
@@ -5599,6 +5626,7 @@ table TimeAttackDungeonRewardExcel {
 table TimeAttackDungeonSeasonManageExcel {
     Id: long;
     StartDate: string;
+    EndNoteLabelStartDate: string;
     EndDate: string;
     UISlot: long;
     DungeonId: long;
@@ -6071,6 +6099,7 @@ table CharacterExcel {
     CanFix: bool;
     CanCrowdControl: bool;
     CanBattleItemMove: bool;
+    IgnoreObstacle: bool;
     IsAirUnit: bool;
     AirUnitHeight: long;
     Tags: [int];
@@ -6746,6 +6775,9 @@ table ConstEventCommonExcelTable {
 }
 table ConstFieldExcelTable {
     DataList: [ConstFieldExcel];
+}
+table ConstMinigameRoadPuzzleExcelTable {
+    DataList: [ConstMinigameRoadPuzzleExcel];
 }
 table ConstMiniGameShootingExcelTable {
     DataList: [ConstMiniGameShootingExcel];
