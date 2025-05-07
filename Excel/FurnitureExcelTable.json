@@ -40193,7 +40193,8 @@
       "Tags": [
         339,
         0,
-        402
+        402,
+        730
       ],
       "CraftQualityTier0": 100,
       "CraftQualityTier1": 100,
@@ -40205,7 +40206,9 @@
       "EventCollectionId": 0,
       "FurnitureBubbleOffsetX": 0,
       "FurnitureBubbleOffsetY": 0,
-      "CafeCharacterStateReq": [],
+      "CafeCharacterStateReq": [
+        "R1_210368"
+      ],
       "CafeCharacterStateAdd": [],
       "CafeCharacterStateMake": [],
       "CafeCharacterStateOnly": []
@@ -40608,7 +40611,7 @@
       "Rarity": 3,
       "Category": 0,
       "SubCategory": 5,
-      "CheckFloorDecoration": true,
+      "CheckFloorDecoration": false,
       "LocalizeEtcId": 2831877867,
       "StarGradeInit": 3,
       "Tier": 1,
@@ -40618,7 +40621,7 @@
       "OtherSize": 2,
       "ExpandWidth": 0,
       "Enable": true,
-      "ReverseRotation": true,
+      "ReverseRotation": false,
       "Prefab": "Cafe/my_videopanel_pv01",
       "PrefabExpand": "",
       "SubPrefab": "",

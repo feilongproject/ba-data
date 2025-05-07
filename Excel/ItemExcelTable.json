@@ -9397,7 +9397,9 @@
         633,
         634,
         684,
-        690
+        690,
+        730,
+        731
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -19938,7 +19940,7 @@
       "LocalizeEtcId": 2194407810,
       "ItemCategory": 2,
       "Quality": 9,
-      "Icon": "",
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0257",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,

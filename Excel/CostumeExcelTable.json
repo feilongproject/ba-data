@@ -7877,7 +7877,7 @@
       "AnimationSSR": "UIAni_Gacha_Confirm_CH0257",
       "EnterStrategyAnimationName": "Reload",
       "AnimationValidator": true,
-      "CharacterVoiceGroupId": 0,
+      "CharacterVoiceGroupId": 20045,
       "ShowObjectHpStatus": true
     },
     {
@@ -30497,7 +30497,7 @@
       "CollectionBGTexturePath": "",
       "CombatStyleTexturePath": "",
       "UseObjectHPBAR": true,
-      "TextureBoss": "UIs/02_Tactics/06_Raid/Portrait_Raidboss_EN0011_01",
+      "TextureBoss": "UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_EN0011",
       "TextureSkillCard": [],
       "InformationPacel": "UIs/01_Common/21_EnemyInfo/EnemyInfo_EN0011_Original_01",
       "AnimationSSR": "",
@@ -69465,7 +69465,7 @@
       "AnimationSSR": "",
       "EnterStrategyAnimationName": "Reload",
       "AnimationValidator": true,
-      "CharacterVoiceGroupId": 0,
+      "CharacterVoiceGroupId": 20045,
       "ShowObjectHpStatus": true
     },
     {

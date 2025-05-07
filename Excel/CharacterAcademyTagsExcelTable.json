@@ -3604,6 +3604,25 @@
       "ZoneWhiteListTags": []
     },
     {
+      "Id": 20045,
+      "FavorTags": [
+        730,
+        1,
+        34
+      ],
+      "FavorItemTags": [
+        98,
+        106,
+        76
+      ],
+      "FavorItemUniqueTags": [
+        730,
+        731
+      ],
+      "ForbiddenTags": [],
+      "ZoneWhiteListTags": []
+    },
+    {
       "Id": 23000,
       "FavorTags": [
         153,
