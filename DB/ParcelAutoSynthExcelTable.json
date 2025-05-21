@@ -1,0 +1,202 @@
+{
+  "DataList": [
+    {
+      "RequireParcelType": "Item",
+      "RequireParcelId": 10,
+      "RequireParcelAmount": 10,
+      "SynthStartAmount": 990000,
+      "SynthEndAmount": 985000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Item",
+      "ResultParcelId": 11,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Item",
+      "RequireParcelId": 10,
+      "RequireParcelAmount": 10,
+      "SynthStartAmount": 990000,
+      "SynthEndAmount": 985000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Item",
+      "ResultParcelId": 11,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Item",
+      "RequireParcelId": 10,
+      "RequireParcelAmount": 10,
+      "SynthStartAmount": 990000,
+      "SynthEndAmount": 985000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Item",
+      "ResultParcelId": 11,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    },
+    {
+      "RequireParcelType": "Equipment",
+      "RequireParcelId": 1,
+      "RequireParcelAmount": 4,
+      "SynthStartAmount": 90000,
+      "SynthEndAmount": 85000,
+      "SynthMaxItem": false,
+      "ResultParcelType": "Equipment",
+      "ResultParcelId": 2,
+      "ResultParcelAmount": 1
+    }
+  ]
+}

@@ -2317,7 +2317,7 @@
       "FeedbackTimeMillisec": 1500,
       "MessageType": 1,
       "ImagePath": "",
-      "MessageKR": "‘또’ 라니요. 누가 보면 제가 매일 화만 내는 줄 알겠어요.",
+      "MessageKR": "\u0027또\u0027 라니요. 누가 보면 제가 매일 화만 내는 줄 알겠어요.",
       "MessageJP": "「また」って……先生から見た私、そんないつも怒ってるように見えます？"
     },
     {
@@ -19549,7 +19549,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": 1,
       "ImagePath": "",
-      "MessageKR": "저어, ‘나와의 대화’에 메모하다가 그만 선생님께 잘못 보낸 것 같아요.",
+      "MessageKR": "저어, \u0027나와의 대화\u0027에 메모하다가 그만 선생님께 잘못 보낸 것 같아요.",
       "MessageJP": "えっと……自分用のメモを間違えて先生に送ってしまいました"
     },
     {
@@ -23962,7 +23962,7 @@
       "PreConditionFavorScheduleId": 0,
       "FavorScheduleId": 0,
       "NextGroupId": 160020270,
-      "FeedbackTimeMillisec": 1000,
+      "FeedbackTimeMillisec": 0,
       "MessageType": 1,
       "ImagePath": "",
       "MessageKR": "궁금한 게 있으시면 언제든 말해주세요!",
@@ -32333,7 +32333,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": 1,
       "ImagePath": "",
-      "MessageKR": "제대로 ‘선생님이니까’ 부탁하는 일이란 말이야",
+      "MessageKR": "제대로 \u0027선생님이니까\u0027 부탁하는 일이란 말이야",
       "MessageJP": "……ちゃんとした、先生だからこそお願いしたいことだから"
     },
     {
@@ -42493,7 +42493,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": 1,
       "ImagePath": "",
-      "MessageKR": "운영관리‘파’……?",
+      "MessageKR": "운영관리\u0027파\u0027……?",
       "MessageJP": "お祭り委員会「組」……？"
     },
     {
@@ -45501,7 +45501,7 @@
       "FeedbackTimeMillisec": 1500,
       "MessageType": 1,
       "ImagePath": "",
-      "MessageKR": "이 세상에서 ‘수학’을 청소하고 싶어.",
+      "MessageKR": "이 세상에서 \u0027수학\u0027을 청소하고 싶어.",
       "MessageJP": "この世から「数学」という科目を消し去るのに……"
     },
     {

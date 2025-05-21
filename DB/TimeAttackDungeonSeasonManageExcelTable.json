@@ -1,0 +1,708 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "StartDate": "2022-01-23 11:00:00",
+      "EndNoteLabelStartDate": "2022-02-15 23:59:59",
+      "EndDate": "2022-02-18 23:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 2,
+      "StartDate": "2022-02-19 11:00:00",
+      "EndNoteLabelStartDate": "2022-02-19 12:00:00",
+      "EndDate": "2022-02-19 23:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 3,
+      "StartDate": "2022-02-20 11:00:00",
+      "EndNoteLabelStartDate": "2022-02-20 12:00:00",
+      "EndDate": "2022-02-20 23:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 4,
+      "StartDate": "2022-03-09 11:00:00",
+      "EndNoteLabelStartDate": "2022-03-11 23:59:59",
+      "EndDate": "2022-03-15 23:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 5,
+      "StartDate": "2022-03-23 11:00:00",
+      "EndNoteLabelStartDate": "2022-03-26 03:59:59",
+      "EndDate": "2022-03-30 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 6,
+      "StartDate": "2022-05-11 11:00:00",
+      "EndNoteLabelStartDate": "2022-05-14 03:59:59",
+      "EndDate": "2022-05-18 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 7,
+      "StartDate": "2022-06-08 11:00:00",
+      "EndNoteLabelStartDate": "2022-06-11 03:59:59",
+      "EndDate": "2022-06-15 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 8,
+      "StartDate": "2022-07-06 11:00:00",
+      "EndNoteLabelStartDate": "2022-07-09 03:59:59",
+      "EndDate": "2022-07-13 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 9,
+      "StartDate": "2022-08-03 11:00:00",
+      "EndNoteLabelStartDate": "2022-08-05 03:59:59",
+      "EndDate": "2022-08-09 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 10,
+      "StartDate": "2022-09-21 11:00:00",
+      "EndNoteLabelStartDate": "2022-09-24 03:59:59",
+      "EndDate": "2022-09-28 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 11,
+      "StartDate": "2022-10-12 11:00:00",
+      "EndNoteLabelStartDate": "2022-10-15 03:59:59",
+      "EndDate": "2022-10-19 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 12,
+      "StartDate": "2022-11-09 11:00:00",
+      "EndNoteLabelStartDate": "2022-11-12 03:59:59",
+      "EndDate": "2022-11-16 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 13,
+      "StartDate": "2022-11-30 11:00:00",
+      "EndNoteLabelStartDate": "2022-12-03 03:59:59",
+      "EndDate": "2022-12-07 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 14,
+      "StartDate": "2022-12-28 11:00:00",
+      "EndNoteLabelStartDate": "2022-12-31 03:59:59",
+      "EndDate": "2023-01-04 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 15,
+      "StartDate": "2023-02-15 11:00:00",
+      "EndNoteLabelStartDate": "2023-02-18 03:59:59",
+      "EndDate": "2023-02-22 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 16,
+      "StartDate": "2023-03-08 11:00:00",
+      "EndNoteLabelStartDate": "2023-03-11 03:59:59",
+      "EndDate": "2023-03-15 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 17,
+      "StartDate": "2023-04-05 11:00:00",
+      "EndNoteLabelStartDate": "2023-04-08 03:59:59",
+      "EndDate": "2023-04-12 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 18,
+      "StartDate": "2023-05-10 11:00:00",
+      "EndNoteLabelStartDate": "2023-05-13 03:59:59",
+      "EndDate": "2023-05-17 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 19,
+      "StartDate": "2023-06-07 11:00:00",
+      "EndNoteLabelStartDate": "2023-06-10 03:59:59",
+      "EndDate": "2023-06-14 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 20,
+      "StartDate": "2023-06-21 11:00:00",
+      "EndNoteLabelStartDate": "2023-06-24 03:59:59",
+      "EndDate": "2023-06-28 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 21,
+      "StartDate": "2023-08-09 11:00:00",
+      "EndNoteLabelStartDate": "2023-08-12 03:59:59",
+      "EndDate": "2023-08-16 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 22,
+      "StartDate": "2023-09-06 11:00:00",
+      "EndNoteLabelStartDate": "2023-09-09 03:59:59",
+      "EndDate": "2023-09-13 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 23,
+      "StartDate": "2023-10-11 11:00:00",
+      "EndNoteLabelStartDate": "2023-10-14 03:59:59",
+      "EndDate": "2023-10-18 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 24,
+      "StartDate": "2023-11-08 11:00:00",
+      "EndNoteLabelStartDate": "2023-11-11 03:59:59",
+      "EndDate": "2023-11-15 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 25,
+      "StartDate": "2023-12-06 11:00:00",
+      "EndNoteLabelStartDate": "2023-12-09 03:59:59",
+      "EndDate": "2023-12-13 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 26,
+      "StartDate": "2024-01-10 11:00:00",
+      "EndNoteLabelStartDate": "2024-01-13 03:59:59",
+      "EndDate": "2024-01-17 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 27,
+      "StartDate": "2024-02-07 11:00:00",
+      "EndNoteLabelStartDate": "2024-02-10 03:59:59",
+      "EndDate": "2024-02-14 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 28,
+      "StartDate": "2024-03-06 11:00:00",
+      "EndNoteLabelStartDate": "2024-03-09 03:59:59",
+      "EndDate": "2024-03-13 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 29,
+      "StartDate": "2024-04-11 11:00:00",
+      "EndNoteLabelStartDate": "2024-04-13 03:59:59",
+      "EndDate": "2024-04-17 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 30,
+      "StartDate": "2024-05-08 11:00:00",
+      "EndNoteLabelStartDate": "2024-05-11 03:59:59",
+      "EndDate": "2024-05-15 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 31,
+      "StartDate": "2024-06-05 11:00:00",
+      "EndNoteLabelStartDate": "2024-06-08 03:59:59",
+      "EndDate": "2024-06-12 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 32,
+      "StartDate": "2024-07-10 11:00:00",
+      "EndNoteLabelStartDate": "2024-07-13 03:59:59",
+      "EndDate": "2024-07-17 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 33,
+      "StartDate": "2024-08-07 11:00:00",
+      "EndNoteLabelStartDate": "2024-08-10 03:59:59",
+      "EndDate": "2024-08-14 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 34,
+      "StartDate": "2024-09-04 11:00:00",
+      "EndNoteLabelStartDate": "2024-09-07 03:59:59",
+      "EndDate": "2024-09-11 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 35,
+      "StartDate": "2024-10-10 11:00:00",
+      "EndNoteLabelStartDate": "2024-10-12 03:59:59",
+      "EndDate": "2024-10-16 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 36,
+      "StartDate": "2024-11-06 11:00:00",
+      "EndNoteLabelStartDate": "2024-11-09 03:59:59",
+      "EndDate": "2024-11-13 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 37,
+      "StartDate": "2024-12-04 11:00:00",
+      "EndNoteLabelStartDate": "2024-12-07 03:59:59",
+      "EndDate": "2024-12-11 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 38,
+      "StartDate": "2025-01-08 11:00:00",
+      "EndNoteLabelStartDate": "2025-01-11 03:59:59",
+      "EndDate": "2025-01-15 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 39,
+      "StartDate": "2025-02-03 11:00:00",
+      "EndNoteLabelStartDate": "2025-02-08 03:59:59",
+      "EndDate": "2025-02-12 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 40,
+      "StartDate": "2025-03-12 11:00:00",
+      "EndNoteLabelStartDate": "2025-03-15 03:59:59",
+      "EndDate": "2025-03-19 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 41,
+      "StartDate": "2025-04-09 11:00:00",
+      "EndNoteLabelStartDate": "2025-04-12 03:59:59",
+      "EndDate": "2025-04-16 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 3000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 42,
+      "StartDate": "2025-05-07 11:00:00",
+      "EndNoteLabelStartDate": "2025-05-10 03:59:59",
+      "EndDate": "2025-05-14 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 1000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 43,
+      "StartDate": "2025-06-04 11:00:00",
+      "EndNoteLabelStartDate": "2025-06-07 03:59:59",
+      "EndDate": "2025-06-11 03:59:59",
+      "UISlot": 1,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 44,
+      "StartDate": "2025-07-09 11:00:00",
+      "EndNoteLabelStartDate": "2025-07-12 03:59:59",
+      "EndDate": "2025-07-16 03:59:59",
+      "UISlot": 3,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    }
+  ]
+}

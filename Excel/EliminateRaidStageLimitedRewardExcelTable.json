@@ -335,6 +335,54 @@
       "LimitedRewardAmount": [
         1
       ]
+    },
+    {
+      "LimitedRewardId": 204301,
+      "LimitedRewardParcelType": [
+        20
+      ],
+      "LimitedRewardParcelUniqueId": [
+        6020431
+      ],
+      "LimitedRewardAmount": [
+        1
+      ]
+    },
+    {
+      "LimitedRewardId": 204302,
+      "LimitedRewardParcelType": [
+        20
+      ],
+      "LimitedRewardParcelUniqueId": [
+        6020432
+      ],
+      "LimitedRewardAmount": [
+        1
+      ]
+    },
+    {
+      "LimitedRewardId": 204303,
+      "LimitedRewardParcelType": [
+        20
+      ],
+      "LimitedRewardParcelUniqueId": [
+        6020433
+      ],
+      "LimitedRewardAmount": [
+        1
+      ]
+    },
+    {
+      "LimitedRewardId": 204304,
+      "LimitedRewardParcelType": [
+        20
+      ],
+      "LimitedRewardParcelUniqueId": [
+        6020434
+      ],
+      "LimitedRewardAmount": [
+        1
+      ]
     }
   ]
 }

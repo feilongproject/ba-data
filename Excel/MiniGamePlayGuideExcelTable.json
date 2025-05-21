@@ -519,6 +519,46 @@
       "GuideTitle": "UI_Event_PlayGuide_Title_Text",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_10833_5",
       "GuideText": "FIELD_10833_PLAYGUIDE_05"
+    },
+    {
+      "Id": 130,
+      "EventContentId": 10836,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_1",
+      "GuideText": "MINIGAME_DREAMMAKER_836_PLAYGUIDE_01"
+    },
+    {
+      "Id": 131,
+      "EventContentId": 10836,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_2",
+      "GuideText": "MINIGAME_DREAMMAKER_836_PLAYGUIDE_02"
+    },
+    {
+      "Id": 132,
+      "EventContentId": 10836,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_3",
+      "GuideText": "MINIGAME_DREAMMAKER_836_PLAYGUIDE_04"
+    },
+    {
+      "Id": 133,
+      "EventContentId": 10836,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_4",
+      "GuideText": "MINIGAME_DREAMMAKER_836_PLAYGUIDE_03"
+    },
+    {
+      "Id": 134,
+      "EventContentId": 10836,
+      "DisplayOrder": 4,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_5",
+      "GuideText": "MINIGAME_DREAMMAKER_836_PLAYGUIDE_05"
     }
   ]
 }

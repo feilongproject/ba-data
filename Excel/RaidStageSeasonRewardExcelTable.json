@@ -44537,6 +44537,1040 @@
       "SeasonRewardAmount": [
         1
       ]
+    },
+    {
+      "SeasonRewardId": 6400,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 6401,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 6402,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        230,
+        250
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "머리가 자라는 인형 조각",
+        "아틀란티스 메달 조각"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 6403,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        300000
+      ]
+    },
+    {
+      "SeasonRewardId": 6404,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8
+      ]
+    },
+    {
+      "SeasonRewardId": 6405,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 6406,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        231,
+        251
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "파손된 머리가 자라는 인형",
+        "파손된 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 6407,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 6408,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        4
+      ]
+    },
+    {
+      "SeasonRewardId": 6409,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 6410,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        232,
+        252
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "수리된 머리가 자라는 인형",
+        "마모된 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6411,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        150
+      ]
+    },
+    {
+      "SeasonRewardId": 6412,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6413,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6414,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        233,
+        253
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "온전한 머리가 자라는 인형",
+        "온전한 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6415,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 6416,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석",
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 6417,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10,
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서",
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 6418,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        230,
+        250,
+        231,
+        251
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "머리가 자라는 인형 조각",
+        "아틀란티스 메달 조각",
+        "파손된 머리가 자라는 인형",
+        "파손된 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        12,
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 6419,
+      "SeasonRewardParcelType": [
+        2,
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        500000,
+        150
+      ]
+    },
+    {
+      "SeasonRewardId": 6420,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6421,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6422,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        232,
+        252,
+        233,
+        253
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "수리된 머리가 자라는 인형",
+        "마모된 아틀란티스 메달",
+        "온전한 머리가 자라는 인형",
+        "온전한 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6423,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 6424,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석",
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 6425,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10,
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서",
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 6426,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        230,
+        250,
+        231,
+        251
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "머리가 자라는 인형 조각",
+        "아틀란티스 메달 조각",
+        "파손된 머리가 자라는 인형",
+        "파손된 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        12,
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 6427,
+      "SeasonRewardParcelType": [
+        2,
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        1200000,
+        150
+      ]
+    },
+    {
+      "SeasonRewardId": 6428,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6429,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6430,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        232,
+        252,
+        233,
+        253
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "수리된 머리가 자라는 인형",
+        "마모된 아틀란티스 메달",
+        "온전한 머리가 자라는 인형",
+        "온전한 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6431,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 6432,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        3000000
+      ]
+    },
+    {
+      "SeasonRewardId": 6433,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        2,
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 장비 강화석",
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 6434,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        200
+      ]
+    },
+    {
+      "SeasonRewardId": 6435,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 6436,
+      "SeasonRewardParcelType": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석",
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6437,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        231,
+        251,
+        232,
+        252
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "파손된 머리가 자라는 인형",
+        "파손된 아틀란티스 메달",
+        "수리된 머리가 자라는 인형",
+        "마모된 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        6,
+        4,
+        4
+      ]
+    },
+    {
+      "SeasonRewardId": 6438,
+      "SeasonRewardParcelType": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석",
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6439,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 6440,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        1500000
+      ]
+    },
+    {
+      "SeasonRewardId": 6441,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        2000000
+      ]
+    },
+    {
+      "SeasonRewardId": 6442,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        2500000
+      ]
+    },
+    {
+      "SeasonRewardId": 6443,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        3000000
+      ]
+    },
+    {
+      "SeasonRewardId": 6444,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32
+      ]
+    },
+    {
+      "SeasonRewardId": 6445,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        9998
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "비의서 조각"
+      ],
+      "SeasonRewardAmount": [
+        5
+      ]
+    },
+    {
+      "SeasonRewardId": 6446,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8
+      ]
+    },
+    {
+      "SeasonRewardId": 6447,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        100008
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "선물 선택 상자"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 6448,
+      "SeasonRewardParcelType": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석",
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6449,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        3000000
+      ]
+    },
+    {
+      "SeasonRewardId": 6450,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "총력전 코인"
+      ],
+      "SeasonRewardAmount": [
+        300
+      ]
+    },
+    {
+      "SeasonRewardId": 6451,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 6452,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "총력전 코인"
+      ],
+      "SeasonRewardAmount": [
+        200
+      ]
+    },
+    {
+      "SeasonRewardId": 6453,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        9998
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "비의서 조각"
+      ],
+      "SeasonRewardAmount": [
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 6454,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        233,
+        253
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "온전한 머리가 자라는 인형",
+        "온전한 아틀란티스 메달"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 6455,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 6456,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8
+      ]
+    },
+    {
+      "SeasonRewardId": 6457,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        100008
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "선물 선택 상자"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
     }
   ]
 }

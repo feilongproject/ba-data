@@ -3466,6 +3466,69 @@
       "DialogOffsetY": 1
     },
     {
+      "EventContentId": 10836,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900925201,
+      "SpineOffsetX": 1.12,
+      "SpineOffsetY": -0.6,
+      "DialogOffsetX": 50,
+      "DialogOffsetY": 2
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900925301,
+      "SpineOffsetX": 1.2,
+      "SpineOffsetY": -0.7799,
+      "DialogOffsetX": 38,
+      "DialogOffsetY": 2
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900925001,
+      "SpineOffsetX": 1.2,
+      "SpineOffsetY": 71582.788266666666666666666667,
+      "DialogOffsetX": 40,
+      "DialogOffsetY": -12
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900925101,
+      "SpineOffsetX": 1.6,
+      "SpineOffsetY": -0.29,
+      "DialogOffsetX": 45,
+      "DialogOffsetY": -34
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": 3,
+      "CostumeUniqueId": 1900925001,
+      "SpineOffsetX": -0.75,
+      "SpineOffsetY": 71582.788266666666666666666667,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": 2,
+      "CostumeUniqueId": 1900925201,
+      "SpineOffsetX": -0.42,
+      "SpineOffsetY": -0.12,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 10
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": 31,
+      "CostumeUniqueId": 1900925301,
+      "SpineOffsetX": -0.51,
+      "SpineOffsetY": -0.32,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 10
+    },
+    {
       "EventContentId": 50822,
       "EventContentType": 0,
       "CostumeUniqueId": 1900911001,
@@ -3734,6 +3797,24 @@
       "SpineOffsetY": -0.29,
       "DialogOffsetX": 26,
       "DialogOffsetY": 10
+    },
+    {
+      "EventContentId": 60013,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900914001,
+      "SpineOffsetX": 0.98,
+      "SpineOffsetY": -1.38,
+      "DialogOffsetX": 50,
+      "DialogOffsetY": -17
+    },
+    {
+      "EventContentId": 60013,
+      "EventContentType": 3,
+      "CostumeUniqueId": 1900914001,
+      "SpineOffsetX": -0.25,
+      "SpineOffsetY": -1.51,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
     },
     {
       "EventContentId": 70000,

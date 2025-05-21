@@ -24227,6 +24227,1018 @@
       "SeasonRewardAmount": [
         3
       ]
+    },
+    {
+      "SeasonRewardId": 2500,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 2501,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 2502,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        190,
+        240
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 수정 하니와",
+        "하급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 2503,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        300000
+      ]
+    },
+    {
+      "SeasonRewardId": 2504,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8
+      ]
+    },
+    {
+      "SeasonRewardId": 2505,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 2506,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        191,
+        241
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 수정 하니와",
+        "일반 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 2507,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 2508,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        4
+      ]
+    },
+    {
+      "SeasonRewardId": 2509,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 2510,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        192,
+        242
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 수정 하니와",
+        "상급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2511,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        150
+      ]
+    },
+    {
+      "SeasonRewardId": 2512,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2513,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2514,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        193,
+        243
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 수정 하니와",
+        "최상급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2515,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 2516,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석",
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 2517,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10,
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서",
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 2518,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        190,
+        240,
+        191,
+        241
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 수정 하니와",
+        "하급 디스코 콜간테",
+        "일반 수정 하니와",
+        "일반 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        12,
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 2519,
+      "SeasonRewardParcelType": [
+        2,
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        500000,
+        150
+      ]
+    },
+    {
+      "SeasonRewardId": 2520,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2521,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2522,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        192,
+        242,
+        193,
+        243
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 수정 하니와",
+        "상급 디스코 콜간테",
+        "최상급 수정 하니와",
+        "최상급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2523,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 2524,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석",
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 2525,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10,
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서",
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 2526,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        190,
+        240,
+        191,
+        241
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 수정 하니와",
+        "하급 디스코 콜간테",
+        "일반 수정 하니와",
+        "일반 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        12,
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 2527,
+      "SeasonRewardParcelType": [
+        2,
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        1200000,
+        150
+      ]
+    },
+    {
+      "SeasonRewardId": 2528,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2529,
+      "SeasonRewardParcelType": [
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2530,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        192,
+        242,
+        193,
+        243
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 수정 하니와",
+        "상급 디스코 콜간테",
+        "최상급 수정 하니와",
+        "최상급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2531,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 2532,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        3000000
+      ]
+    },
+    {
+      "SeasonRewardId": 2533,
+      "SeasonRewardParcelType": [
+        3,
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        2,
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 장비 강화석",
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 2534,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        200
+      ]
+    },
+    {
+      "SeasonRewardId": 2535,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 2536,
+      "SeasonRewardParcelType": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석",
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2537,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        191,
+        241,
+        192,
+        242
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 수정 하니와",
+        "일반 디스코 콜간테",
+        "상급 수정 하니와",
+        "상급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        6,
+        4,
+        4
+      ]
+    },
+    {
+      "SeasonRewardId": 2538,
+      "SeasonRewardParcelType": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석",
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2539,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        20
+      ]
+    },
+    {
+      "SeasonRewardId": 2540,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        1500000
+      ]
+    },
+    {
+      "SeasonRewardId": 2541,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        2000000
+      ]
+    },
+    {
+      "SeasonRewardId": 2542,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        2500000
+      ]
+    },
+    {
+      "SeasonRewardId": 2543,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        3000000
+      ]
+    },
+    {
+      "SeasonRewardId": 2544,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        32
+      ]
+    },
+    {
+      "SeasonRewardId": 2545,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        9998
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "비의서 조각"
+      ],
+      "SeasonRewardAmount": [
+        5
+      ]
+    },
+    {
+      "SeasonRewardId": 2546,
+      "SeasonRewardParcelType": [
+        3
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8
+      ]
+    },
+    {
+      "SeasonRewardId": 2547,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        100008
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "선물 선택 상자"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2548,
+      "SeasonRewardParcelType": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석",
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        8,
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2549,
+      "SeasonRewardParcelType": [
+        2
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        3000000
+      ]
+    },
+    {
+      "SeasonRewardId": 2550,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마"
+      ],
+      "SeasonRewardAmount": [
+        15
+      ]
+    },
+    {
+      "SeasonRewardId": 2551,
+      "SeasonRewardParcelType": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 2552,
+      "SeasonRewardParcelType": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        191,
+        241,
+        192,
+        242
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 수정 하니와",
+        "일반 디스코 콜간테",
+        "상급 수정 하니와",
+        "상급 디스코 콜간테"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2553,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        100008
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "선물 선택 상자"
+      ],
+      "SeasonRewardAmount": [
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 2554,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        100009
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "고급 선물 랜덤 상자"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 2555,
+      "SeasonRewardParcelType": [
+        4
+      ],
+      "SeasonRewardParcelUniqueId": [
+        9998
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "비의서 조각"
+      ],
+      "SeasonRewardAmount": [
+        3
+      ]
     }
   ]
 }

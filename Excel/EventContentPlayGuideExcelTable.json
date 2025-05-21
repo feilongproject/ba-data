@@ -2633,6 +2633,46 @@
       "GuideText": "UI_Event_PlayGuide_Text_835_4"
     },
     {
+      "Id": 10125,
+      "EventContentId": 10836,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_836_0",
+      "GuideText": "UI_Event_PlayGuide_Text_836_0"
+    },
+    {
+      "Id": 10126,
+      "EventContentId": 10836,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_836_1",
+      "GuideText": "UI_Event_PlayGuide_Text_836_1"
+    },
+    {
+      "Id": 10127,
+      "EventContentId": 10836,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10836_2",
+      "GuideText": "UI_Event_PlayGuide_Text_836_2"
+    },
+    {
+      "Id": 10128,
+      "EventContentId": 10836,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_836_3",
+      "GuideText": "UI_Event_PlayGuide_Text_836_3"
+    },
+    {
+      "Id": 10129,
+      "EventContentId": 10836,
+      "DisplayOrder": 4,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_836_4",
+      "GuideText": "UI_Event_PlayGuide_Text_836_4"
+    },
+    {
       "Id": 60000,
       "EventContentId": 60001,
       "DisplayOrder": 0,
@@ -2819,6 +2859,22 @@
     {
       "Id": 60023,
       "EventContentId": 60012,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+      "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+      "Id": 60024,
+      "EventContentId": 60013,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+      "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+      "Id": 60025,
+      "EventContentId": 60013,
       "DisplayOrder": 1,
       "GuideTitle": "UI_Event_PlayGuide_Title_Text",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",

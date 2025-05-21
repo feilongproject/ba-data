@@ -1171,6 +1171,12 @@
       "UseShortCutContentType": "Shop"
     },
     {
+      "EventContentId": 60013,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 80620,
+      "UseShortCutContentType": "Shop"
+    },
+    {
       "EventContentId": 80000,
       "EventContentItemType": 1,
       "ItemUniqueId": 80560,
@@ -2002,6 +2008,30 @@
       "EventContentId": 10835,
       "EventContentItemType": 4,
       "ItemUniqueId": 85303,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 86310,
+      "UseShortCutContentType": "MinigameDreamMaker"
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentItemType": 2,
+      "ItemUniqueId": 86311,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentItemType": 3,
+      "ItemUniqueId": 86312,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentItemType": 0,
+      "ItemUniqueId": 86313,
       "UseShortCutContentType": "Shop"
     },
     {
