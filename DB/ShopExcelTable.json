@@ -121522,6 +121522,50 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 10511,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "GoodsId": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 10512,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "GoodsId": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 19999,
       "LocalizeEtcId": 3308377822,
       "CategoryType": "RecruitSellection",
@@ -125742,6 +125786,25 @@
     {
       "Id": 20222,
       "LocalizeEtcId": 576665743,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 999,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 700,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 20223,
+      "LocalizeEtcId": 4022999365,
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [

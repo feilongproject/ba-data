@@ -4953,6 +4953,14 @@
       "ShopFilterType": "Hyakkiyako"
     },
     {
+      "GoodsId": 20223,
+      "Id": 20223,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Trinity"
+    },
+    {
       "GoodsId": 50000,
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
