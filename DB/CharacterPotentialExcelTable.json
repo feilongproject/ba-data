@@ -2179,6 +2179,24 @@
       "IsUnnecessaryStat": false
     },
     {
+      "Id": 10121,
+      "PotentialStatGroupId": 25010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10121,
+      "PotentialStatGroupId": 25010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10121,
+      "PotentialStatGroupId": 25010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
       "Id": 13000,
       "PotentialStatGroupId": 13010,
       "PotentialStatBonusRateType": "MaxHP",
@@ -2427,6 +2445,24 @@
     {
       "Id": 13013,
       "PotentialStatGroupId": 13010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 13014,
+      "PotentialStatGroupId": 26010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 13014,
+      "PotentialStatGroupId": 26010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 13014,
+      "PotentialStatGroupId": 26010,
       "PotentialStatBonusRateType": "MaxHP",
       "IsUnnecessaryStat": false
     },
@@ -3597,6 +3633,24 @@
     {
       "Id": 20046,
       "PotentialStatGroupId": 21010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20047,
+      "PotentialStatGroupId": 29010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20047,
+      "PotentialStatGroupId": 29010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20047,
+      "PotentialStatGroupId": 29010,
       "PotentialStatBonusRateType": "MaxHP",
       "IsUnnecessaryStat": false
     },

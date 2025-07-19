@@ -4973,6 +4973,116 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0166"
     },
     {
+      "CharacterName": 514367288,
+      "ProductionStep": "Release",
+      "NameKR": "렌게",
+      "NicknameKR": "백화요란 분쟁조정위원회",
+      "NameJP": "レンゲ",
+      "NicknameJP": "百花繚乱紛争調停委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0302",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0302"
+    },
+    {
+      "CharacterName": 286786905,
+      "ProductionStep": "Release",
+      "NameKR": "키쿄",
+      "NicknameKR": "백화요란 분쟁조정위원회",
+      "NameJP": "キキョウ",
+      "NicknameJP": "百花繚乱紛争調停委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0300",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0300"
+    },
+    {
+      "CharacterName": 2274979840,
+      "ProductionStep": "Release",
+      "NameKR": "유카리",
+      "NicknameKR": "백화요란 분쟁조정위원회",
+      "NameJP": "ユカリ",
+      "NicknameJP": "百花繚乱紛争調停委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0301",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0301"
+    },
+    {
+      "CharacterName": 2139245516,
+      "ProductionStep": "Release",
+      "NameKR": "나구사",
+      "NicknameKR": "백화요란 분쟁조정위원회",
+      "NameJP": "ナグサ",
+      "NicknameJP": "百花繚乱紛争調停委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0303",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0303"
+    },
+    {
+      "CharacterName": 243151649,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0178ND",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0178"
+    },
+    {
+      "CharacterName": 1757355441,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0179ND",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0179"
+    },
+    {
+      "CharacterName": 385067939,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0183ND",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0183"
+    },
+    {
+      "CharacterName": 2427935105,
+      "ProductionStep": "Release",
+      "NameKR": "렌게\u0026이즈나",
+      "NicknameKR": "",
+      "NameJP": "レンゲ\u0026イズナ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1698659750,
+      "ProductionStep": "Release",
+      "NameKR": "유카리\u0026나구사",
+      "NicknameKR": "",
+      "NameJP": "ユカリ\u0026ナグサ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 402762487,
+      "ProductionStep": "Release",
+      "NameKR": "렌게\u0026키쿄",
+      "NicknameKR": "",
+      "NameJP": "レンゲ\u0026キキョウ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
       "CharacterName": 3261875659,
       "ProductionStep": "Release",
       "NameKR": "아즈사",
@@ -7754,6 +7864,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0266",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0266"
+    },
+    {
+      "CharacterName": 533311381,
+      "ProductionStep": "Release",
+      "NameKR": "아라타",
+      "NicknameKR": "길거리 망량즈",
+      "NameJP": "アラタ",
+      "NicknameJP": "魑魅一座・路上流",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0254",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0254"
     },
     {
       "CharacterName": 3627168694,
@@ -22532,9 +22653,9 @@
       "CharacterName": 1736825014,
       "ProductionStep": "Release",
       "NameKR": "망량즈 문지기",
-      "NicknameKR": "길거리 망량즈",
+      "NicknameKR": "",
       "NameJP": "魑魅一座の門番",
-      "NicknameJP": "魑魅一座・路上流",
+      "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_RL",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_StreetGhostes_RL"
@@ -22681,6 +22802,127 @@
       "Shape": "None",
       "SpinePrefabName": "",
       "SmallPortrait": ""
+    },
+    {
+      "CharacterName": 3557333863,
+      "ProductionStep": "Release",
+      "NameKR": "어부",
+      "NicknameKR": "",
+      "NameJP": "漁師",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0132",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0132"
+    },
+    {
+      "CharacterName": 367079244,
+      "ProductionStep": "Release",
+      "NameKR": "수리 센터 직원",
+      "NicknameKR": "",
+      "NameJP": "カスタマースタッフ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 735402473,
+      "ProductionStep": "Release",
+      "NameKR": "백귀야행 동아리 부원 A",
+      "NicknameKR": "클로렐라 생태관찰부",
+      "NameJP": "百鬼夜行サークル部員A",
+      "NicknameJP": "クロレラ観察部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0255",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0255"
+    },
+    {
+      "CharacterName": 2119458250,
+      "ProductionStep": "Release",
+      "NameKR": "꼬마 아이 A",
+      "NicknameKR": "",
+      "NameJP": "子供A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0092",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0092"
+    },
+    {
+      "CharacterName": 332039599,
+      "ProductionStep": "Release",
+      "NameKR": "꼬마 아이 B",
+      "NicknameKR": "",
+      "NameJP": "子供B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0093",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0093"
+    },
+    {
+      "CharacterName": 390382471,
+      "ProductionStep": "Release",
+      "NameKR": "인솔자",
+      "NicknameKR": "",
+      "NameJP": "保護者",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0136",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0136"
+    },
+    {
+      "CharacterName": 4227940965,
+      "ProductionStep": "Release",
+      "NameKR": "손님 A",
+      "NicknameKR": "",
+      "NameJP": "お客さんA",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_market_animal2",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal2"
+    },
+    {
+      "CharacterName": 2541131781,
+      "ProductionStep": "Release",
+      "NameKR": "손님 B",
+      "NicknameKR": "",
+      "NameJP": "お客さんB",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Citizen_animal7",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_animal7"
+    },
+    {
+      "CharacterName": 384844578,
+      "ProductionStep": "Release",
+      "NameKR": "불량배 리더",
+      "NicknameKR": "",
+      "NameJP": "スケバンリーダー",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_schoolGirl02_SukebanSwim_MG",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Sukebanswim_MG1"
+    },
+    {
+      "CharacterName": 4247696338,
+      "ProductionStep": "Release",
+      "NameKR": "불량배 A",
+      "NicknameKR": "",
+      "NameJP": "スケバンA",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_schoolGirl01_SukebanSwim_SMG",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Sukebanswim_SMG1"
+    },
+    {
+      "CharacterName": 1842558933,
+      "ProductionStep": "Release",
+      "NameKR": "상점 주인",
+      "NicknameKR": "",
+      "NameJP": "商店の主人",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal7",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal7"
     }
   ]
 }

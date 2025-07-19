@@ -4961,6 +4961,30 @@
       "ShopFilterType": "Trinity"
     },
     {
+      "GoodsId": 20224,
+      "Id": 20224,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Hyakkiyako"
+    },
+    {
+      "GoodsId": 20225,
+      "Id": 20225,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Hyakkiyako"
+    },
+    {
+      "GoodsId": 20226,
+      "Id": 20226,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Hyakkiyako"
+    },
+    {
       "GoodsId": 50000,
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",

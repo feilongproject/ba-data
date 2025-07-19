@@ -139,6 +139,11 @@
       "GroupId": 70424010120,
       "AdditionalSkillGroupId": "EN0011SubCoreBlueEx01",
       "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 2004720000,
+      "AdditionalSkillGroupId": "SM030001Passive01",
+      "ShowSkillSlot": "Passive"
     }
   ]
 }

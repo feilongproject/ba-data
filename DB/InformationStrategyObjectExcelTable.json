@@ -1,0 +1,46 @@
+{
+  "DataList": [
+    {
+      "StageId": 1011105,
+      "Id": 1,
+      "PageName": "UIInformationPopup_StrategyObject01",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+      "StageId": 1031101,
+      "Id": 2,
+      "PageName": "UIInformationPopup_StrategyObject03",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+      "StageId": 1041101,
+      "Id": 3,
+      "PageName": "UIInformationPopup_StrategyObject04",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+      "StageId": 1051101,
+      "Id": 4,
+      "PageName": "UIInformationPopup_StrategyObject05",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+      "StageId": 1022101,
+      "Id": 5,
+      "PageName": "UIInformationPopup_StrategyObject02",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+      "StageId": 1131101,
+      "Id": 6,
+      "PageName": "UIInformationPopup_StrategyObject06",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+      "StageId": 1131102,
+      "Id": 7,
+      "PageName": "UIInformationPopup_StrategyObject07",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    }
+  ]
+}

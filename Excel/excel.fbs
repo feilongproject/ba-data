@@ -1,15 +1,3 @@
-enum AcademyMessageConditions : int {
-    None,
-    FavorRankUp,
-    AcademySchedule,
-    Answer,
-    Feedback
-}
-enum AcademyMessageTypes : int {
-    None,
-    Text,
-    Image
-}
 enum AccountState : int {
     WaitingSignIn,
     Normal,
@@ -26,17 +14,6 @@ enum AimIKType : int {
     Tripod,
     Dual,
     Max
-}
-enum ArenaRewardType : int {
-    None,
-    Time,
-    Daily,
-    SeasonRecord,
-    OverallRecord,
-    SeasonClose,
-    AttackVictory,
-    DefenseVictory,
-    RankIcon
 }
 enum ArenaSimulatorServer : int {
     Preset,
@@ -135,48 +112,6 @@ enum CollectionUnlockType : int {
     MinigameDreamMakerParameter,
     ClearSpecificScenario
 }
-enum ConquestEnemyType : int {
-    None,
-    Normal,
-    MiddleBoss,
-    Boss,
-    UnexpectedEvent,
-    Challenge,
-    IndividualErosion,
-    MassErosion
-}
-enum ConquestErosionType : int {
-    None,
-    IndividualErosion,
-    MassErosion
-}
-enum ConquestEventType : int {
-    None,
-    Event01,
-    Event02
-}
-enum ConquestObjectType : int {
-    None,
-    ParcelOneTimePerAccount
-}
-enum ConquestProgressType : int {
-    None,
-    Upgrade,
-    Manage
-}
-enum ConquestTeamType : int {
-    None,
-    Team1,
-    Team2,
-    Team3
-}
-enum ConquestTileType : int {
-    None,
-    Start,
-    Normal,
-    Battle,
-    Base
-}
 enum ContentType : int {
     None,
     CampaignMainStage,
@@ -201,13 +136,6 @@ enum ContentType : int {
     FieldContentStage,
     MultiFloorRaid,
     MinigameDefense
-}
-enum CraftNodeTier : int {
-    Base,
-    Node01,
-    Node02,
-    Node03,
-    Max
 }
 enum CurrencyTypes : int {
     Invalid,
@@ -246,30 +174,9 @@ enum DamageAttribute : int {
     Weak,
     Effective
 }
-enum Difficulty : int {
-    Normal,
-    Hard,
-    VeryHard,
-    Hardcore,
-    Extreme,
-    Insane,
-    Torment,
-    Lunatic
-}
 enum EchelonExtensionType : int {
     Base,
     Extension
-}
-enum EffectBone : int {
-    None,
-    Shot,
-    Head,
-    Body,
-    Shot2,
-    Shot3,
-    Extra,
-    Extra2,
-    Extra3
 }
 enum EngageType : int {
     SearchAndMove,
@@ -444,12 +351,6 @@ enum ExternalBTTrigger : int {
     CheckHallucinationCountUnder,
     UseSkillEndGroupId
 }
-enum FeverBattleType : int {
-    Campaign,
-    Raid,
-    WeekDungeon,
-    Arena
-}
 enum FieldConditionClass : int {
     AndOr,
     OrAnd,
@@ -495,65 +396,12 @@ enum FieldWorldMapButtonType : int {
     Combat_VeryHard,
     UnderCover
 }
-enum FurnitureCategory : int {
-    Furnitures,
-    Decorations,
-    Interiors
-}
-enum FurnitureFunctionType : int {
-    None,
-    EventCollection,
-    VideoPlay,
-    TrophyCollection,
-    InteractionBGMPlay
-}
 enum FurnitureLocation : int {
     None,
     Inventory,
     Floor,
     WallLeft,
     WallRight
-}
-enum FurnitureSubCategory : int {
-    Table,
-    Closet,
-    Chair,
-    Bed,
-    Prop,
-    FurnitureEtc,
-    FurnitureSubCategory1,
-    HomeAppliance,
-    WallDecoration,
-    FloorDecoration,
-    DecorationEtc,
-    DecorationSubCategory1,
-    Floor,
-    Background,
-    Wallpaper,
-    InteriorsSubCategory1,
-    All
-}
-enum Geas : int {
-    ForwardProjectile,
-    DiagonalProjectile,
-    SideProjectile,
-    Pierce,
-    Reflect,
-    Burn,
-    Chill,
-    AttackPower,
-    AttackSpeed,
-    Critical,
-    Heal,
-    MoveSpeed,
-    LifeSteal,
-    Evasion
-}
-enum HexaUnitGrade : int {
-    Grade1,
-    Grade2,
-    Grade3,
-    Boss
 }
 enum MailType : int {
     System,
@@ -591,11 +439,6 @@ enum MeetupConditionType : int {
     None,
     EventContentStageClear,
     ScenarioClear
-}
-enum MiniGameTBGThemaRewardType : int {
-    TreasureReward,
-    EmptyTreasureReward,
-    HiddenThemaTreasureReward
 }
 enum MissionCategory : int {
     Challenge,
@@ -910,18 +753,6 @@ enum Rarity : int {
     SR,
     SSR
 }
-enum RecipeType : int {
-    None,
-    Craft,
-    SkillLevelUp,
-    CharacterTranscendence,
-    EquipmentTierUp,
-    CafeRankUp,
-    SelectionItem,
-    WeaponTranscendence,
-    SelectRecruit,
-    CharacterPotential
-}
 enum RewardTag : int {
     Default,
     FirstClear,
@@ -1009,11 +840,6 @@ enum ShopCategoryType : int {
     BeforehandGacha,
     EliminateRaid,
     GlobalSpecialGacha
-}
-enum SkillPriorityCheckTarget : int {
-    Ally,
-    Enemy,
-    All
 }
 enum SquadType : int {
     None,
@@ -1125,39 +951,12 @@ enum StatType : int {
     HealedMysticRate,
     HealedSonicRate,
     HealedNormalRate,
+    GrowthScore,
     Max
-}
-enum StrategyAIType : int {
-    None,
-    Guard,
-    Pursuit
 }
 enum StrategyEnvironment : int {
     None,
     MapFog
-}
-enum StrategyObjectType : int {
-    None,
-    Start,
-    Heal,
-    Skill,
-    StatBuff,
-    Parcel,
-    ParcelOneTimePerAccount,
-    Portal,
-    PortalOneWayEnterance,
-    PortalOneWayExit,
-    Observatory,
-    Beacon,
-    BeaconOneTime,
-    EnemySpawn,
-    SwitchToggle,
-    SwitchMovableWhenToggleOff,
-    SwitchMovableWhenToggleOn,
-    FixedStart01,
-    FixedStart02,
-    FixedStart03,
-    FixedStart04
 }
 enum SubEventType : int {
     None,
@@ -1177,10 +976,6 @@ enum TacticEntityType : int {
     Summoned = 256,
     Hallucination = 512,
     DestructibleProjectile = 1024
-}
-enum TacticEnvironment : int {
-    None,
-    WarFog
 }
 enum TacticRange : int {
     Back,
@@ -4201,55 +3996,6 @@ enum Tag : int {
     acT,
     act
 }
-enum TBGItemEffectType : int {
-    None,
-    PermanentContinuity,
-    TemporaryContinuation,
-    Immediately
-}
-enum TBGItemType : int {
-    None,
-    Dice,
-    Heal,
-    HealExpansion,
-    Defence,
-    Guide,
-    DiceResultValue,
-    DefenceCritical,
-    DiceResultConfirm
-}
-enum TBGObjectType : int {
-    None,
-    EnemyBoss,
-    EnemyMinion,
-    Random,
-    Facility,
-    TreasureBox,
-    Start,
-    Portal
-}
-enum TBGOptionSuccessType : int {
-    None,
-    TBGItemAcquire,
-    ItemAcquire,
-    TBGDiceAcquire,
-    Portal
-}
-enum TBGThemaType : int {
-    None,
-    Normal,
-    Hidden
-}
-enum TBGVoiceCondition : int {
-    None,
-    DiceResultSuccess,
-    DiceResultFailBattle,
-    DiceResultFailRandom,
-    EnemyDie,
-    TreasureBoxNormal,
-    TreasureBoxSpecial,
-    FacilityResult
-}
 enum TerrainAdaptationStat : int {
     D,
     C,
@@ -4318,129 +4064,12 @@ enum WeaponType : int {
     FT,
     Akemi
 }
-enum WeekDay : int {
-    Sunday,
-    Monday,
-    Tuesday,
-    Wednesday,
-    Thursday,
-    Friday,
-    Saturday,
-    All
-}
-enum WeekDungeonType : int {
-    None,
-    ChaserA,
-    ChaserB,
-    ChaserC,
-    FindGift,
-    Blood
-}
-table AcademyFavorScheduleExcel {
-    Id: long;
-    CharacterId: long;
-    ScheduleGroupId: long;
-    OrderInGroup: long;
-    Location: string;
-    LocalizeScenarioId: uint;
-    FavorRank: long;
-    SecretStoneAmount: long;
-    ScenarioSriptGroupId: long;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardAmount: [long];
-}
-table AcademyLocationRankExcel {
-    Rank: long;
-    RankExp: long;
-    TotalExp: long;
-}
-table AcademyRewardExcel {
-    Location: string;
-    ScheduleGroupId: long;
-    OrderInGroup: long;
-    Id: long;
-    ProgressTexture: string;
-    LocalizeEtcId: uint;
-    LocationRank: long;
-    FavorExp: long;
-    SecretStoneAmount: long;
-    SecretStoneProb: long;
-    ExtraFavorExp: long;
-    ExtraFavorExpProb: long;
-    ExtraRewardParcelType: [int];
-    ExtraRewardParcelId: [long];
-    ExtraRewardAmount: [long];
-    ExtraRewardProb: [long];
-    IsExtraRewardDisplayed: [bool];
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardAmount: [long];
-}
-table AcademyTicketExcel {
-    LocationRankSum: long;
-    ScheduleTicktetMax: long;
-}
-table AcademyZoneExcel {
-    Id: long;
-    LocationId: long;
-    LocationRankForUnlock: long;
-    LocalizeEtcId: uint;
-    StudentVisitProb: [long];
-    RewardGroupId: long;
-    Tags: [int];
-}
 table AniEventData {
     Name: string;
     Time: float;
     IntParam: int;
     FloatParam: float;
     StringParam: string;
-}
-table ArenaLevelSectionExcel {
-    ArenaSeasonId: long;
-    StartLevel: long;
-    LastLevel: long;
-    UserCount: long;
-}
-table ArenaMapExcel {
-    UniqueId: long;
-    TerrainType: long;
-    TerrainTypeLocalizeKey: string;
-    ImagePath: string;
-    GroundGroupId: long;
-    GroundGroupNameLocalizeKey: string;
-    StartRank: long;
-    EndRank: long;
-    GroundId: long;
-}
-table ArenaNPCExcel {
-    UniqueId: long;
-    Rank: long;
-    NPCAccountLevel: long;
-    NPCLevel: long;
-    NPCLevelDeviation: long;
-    NPCStarGrade: long;
-    ExceptionCharacterRarities: [int];
-    ExceptionMainCharacterIds: [long];
-    ExceptionSupportCharacterIds: [long];
-    ExceptionTSSIds: [long];
-}
-table ArenaSeasonCloseRewardExcel {
-    SeasonId: long;
-    RankStart: long;
-    RankEnd: long;
-    RewardParcelType: [int];
-    RewardParcelUniqueId: [long];
-    RewardParcelUniqueName: [string];
-    RewardParcelAmount: [long];
-}
-table ArenaSeasonExcel {
-    UniqueId: long;
-    SeasonStartDate: string;
-    SeasonEndDate: string;
-    SeasonGroupLimit: long;
-    PrevSeasonId: long;
 }
 table BattleLevelFactorExcel {
     LevelDiff: int;
@@ -4456,49 +4085,6 @@ table BossPhaseExcel {
     AIPhase: long;
     NormalAttackSkillUniqueName: string;
     UseExSkill: [bool];
-}
-table CafeRankExcel {
-    CafeId: long;
-    Rank: long;
-    RecipeId: long;
-    ComfortMax: long;
-    TagCountMax: long;
-    CharacterVisitMin: int;
-    CharacterVisitMax: int;
-    CafeVisitWeightBase: int;
-    CafeVisitWeightTagBonusStep: [int];
-    CafeVisitWeightTagBonus: [int];
-}
-table CampaignChapterExcel {
-    Id: long;
-    Name: string;
-    NormalImagePath: string;
-    HardImagePath: string;
-    Order: long;
-    PreChapterId: [long];
-    ChapterRewardId: long;
-    ChapterHardRewardId: long;
-    ChapterVeryHardRewardId: long;
-    NormalCampaignStageId: [long];
-    NormalExtraStageId: [long];
-    HardCampaignStageId: [long];
-    VeryHardCampaignStageId: [long];
-    IsTacticSkip: bool;
-}
-table CampaignChapterRewardExcel {
-    Id: long;
-    CampaignChapterStar: long;
-    ChapterRewardParcelType: [int];
-    ChapterRewardId: [long];
-    ChapterRewardAmount: [int];
-}
-table CharacterAcademyTagsExcel {
-    Id: long;
-    FavorTags: [int];
-    FavorItemTags: [int];
-    FavorItemUniqueTags: [int];
-    ForbiddenTags: [int];
-    ZoneWhiteListTags: [int];
 }
 table CharacterCombatSkinExcel {
     GroupId: string;
@@ -4571,58 +4157,6 @@ table CharacterTranscendenceExcel {
     SkillSlotB: [string];
     SkillSlotC: [string];
     MaxlevelStar: [int];
-}
-table CharacterWeaponLevelExcel {
-    Level: int;
-    Exp: long;
-    TotalExp: long;
-}
-table ConquestCameraSettingExcel {
-    Id: long;
-    ConquestMapBoundaryOffsetLeft: float;
-    ConquestMapBoundaryOffsetRight: float;
-    ConquestMapBoundaryOffsetTop: float;
-    ConquestMapBoundaryOffsetBottom: float;
-    ConquestMapCenterOffsetX: float;
-    ConquestMapCenterOffsetY: float;
-    CameraAngle: float;
-    CameraZoomMax: float;
-    CameraZoomMin: float;
-    CameraZoomDefault: float;
-}
-table ConquestErosionUnitExcel {
-    TilePrefabId: long;
-    MassErosionUnitId: long;
-    MassErosionUnitRotationY: float;
-    IndividualErosionUnitId: long;
-    IndividualErosionUnitRotationY: float;
-}
-table ConquestGroupBonusExcel {
-    ConquestBonusId: long;
-    School: [int];
-    RecommandLocalizeEtcId: uint;
-    BonusParcelType: [int];
-    BonusId: [long];
-    BonusCharacterCount1: [int];
-    BonusPercentage1: [long];
-    BonusCharacterCount2: [int];
-    BonusPercentage2: [long];
-    BonusCharacterCount3: [int];
-    BonusPercentage3: [long];
-}
-table ConquestGroupBuffExcel {
-    ConquestBuffId: long;
-    School: [int];
-    RecommandLocalizeEtcId: uint;
-    SkillGroupId: string;
-}
-table ConquestPlayGuideExcel {
-    Id: long;
-    EventContentId: long;
-    DisplayOrder: int;
-    GuideTitle: string;
-    GuideImagePath: string;
-    GuideText: string;
 }
 table ConstAudioExcel {
     DefaultSnapShotName: string;
@@ -4810,56 +4344,6 @@ table DefaultEchelonExcel {
     MainId: [long];
     SupportId: [long];
     TssId: long;
-}
-table EliminateRaidRankingRewardExcel {
-    RankingRewardGroupId: long;
-    Id: long;
-    RankStart: long;
-    RankEnd: long;
-    PercentRankStart: long;
-    PercentRankEnd: long;
-    Tier: int;
-    RewardParcelType: [int];
-    RewardParcelUniqueId: [long];
-    RewardParcelUniqueName: [string];
-    RewardParcelAmount: [long];
-}
-table EliminateRaidSeasonManageExcel {
-    SeasonId: long;
-    SeasonDisplay: long;
-    SeasonStartData: string;
-    EndNoteLabelStartDate: string;
-    SeasonEndData: string;
-    SettlementEndDate: string;
-    LobbyTableBGPath: string;
-    LobbyScreenBGPath: string;
-    OpenRaidBossGroup01: string;
-    OpenRaidBossGroup02: string;
-    OpenRaidBossGroup03: string;
-    RankingRewardGroupId: long;
-    MaxSeasonRewardGauage: int;
-    StackedSeasonRewardGauge: [long];
-    SeasonRewardId: [long];
-    LimitedRewardIdNormal: long;
-    LimitedRewardIdHard: long;
-    LimitedRewardIdVeryhard: long;
-    LimitedRewardIdHardcore: long;
-    LimitedRewardIdExtreme: long;
-    LimitedRewardIdInsane: long;
-    LimitedRewardIdTorment: long;
-}
-table EliminateRaidStageLimitedRewardExcel {
-    LimitedRewardId: long;
-    LimitedRewardParcelType: [int];
-    LimitedRewardParcelUniqueId: [long];
-    LimitedRewardAmount: [long];
-}
-table EliminateRaidStageSeasonRewardExcel {
-    SeasonRewardId: long;
-    SeasonRewardParcelType: [int];
-    SeasonRewardParcelUniqueId: [long];
-    SeasonRewardParcelUniqueName: [string];
-    SeasonRewardAmount: [long];
 }
 table EventContentArchiveBannerOffsetExcel {
     EventContentId: long;
@@ -5104,54 +4588,10 @@ table FieldTutorialExcel {
     ConditionType: [int];
     ConditionId: [long];
 }
-table FixedStrategyExcel {
-    Id: long;
-    StageEnterEchelon01FixedEchelonId: long;
-    StageEnterEchelon01Starttile: long;
-    StageEnterEchelon02FixedEchelonId: long;
-    StageEnterEchelon02Starttile: long;
-    StageEnterEchelon03FixedEchelonId: long;
-    StageEnterEchelon03Starttile: long;
-    StageEnterEchelon04FixedEchelonId: long;
-    StageEnterEchelon04Starttile: long;
-}
-table FurnitureGroupExcel {
-    Id: long;
-    GroupNameLocalize: uint;
-    LocalizeEtcId: uint;
-    RequiredFurnitureCount: [int];
-    ComfortBonus: [long];
-}
-table FurnitureTemplateExcel {
-    FurnitureTemplateId: long;
-    FunitureTemplateTitle: uint;
-    ThumbnailImagePath: string;
-    ImagePath: string;
-}
-table GachaCraftNodeExcel {
-    ID: long;
-    Tier: long;
-    QuickCraftNodeDisplayOrder: int;
-    NodeQuality: long;
-    Icon: string;
-    LocalizeKey: uint;
-    Property: long;
-}
-table GachaCraftNodeGroupExcel {
-    NodeId: long;
-    GachaGroupId: long;
-    ProbWeight: long;
-}
 table HpBarAbbreviationExcel {
     MonsterLv: int;
     StandardHpBar: int;
     RaidBossHpBar: int;
-}
-table InformationStrategyObjectExcel {
-    Id: long;
-    StageId: long;
-    PageName: string;
-    LocalizeCodeId: string;
 }
 table LimitedStageSeasonExcel {
     Id: long;
@@ -5206,92 +4646,6 @@ table LocalizeFieldExcel {
     Kr: string;
     Jp: string;
 }
-table MiniGameAudioAnimatorExcel {
-    ControllerNameHash: uint;
-    VoiceNamePrefix: string;
-    StateNameHash: uint;
-    StateName: string;
-    IgnoreInterruptDelay: bool;
-    IgnoreInterruptPlay: bool;
-    Volume: float;
-    Delay: float;
-    AudioPriority: int;
-    AudioClipPath: [string];
-    VoiceHash: [uint];
-}
-table MiniGamePlayGuideExcel {
-    Id: long;
-    EventContentId: long;
-    DisplayOrder: int;
-    GuideTitle: string;
-    GuideImagePath: string;
-    GuideText: string;
-}
-table MiniGameRhythmBgmExcel {
-    RhythmBgmId: long;
-    EventContentId: long;
-    StageSelectImagePath: string;
-    Bpm: long;
-    Bgm: long;
-    BgmNameText: string;
-    BgmArtistText: string;
-    HasLyricist: bool;
-    BgmComposerText: string;
-    BgmLength: int;
-}
-table MiniGameShootingCharacterExcel {
-    UniqueId: long;
-    SpineResourceName: string;
-    BodyRadius: float;
-    ModelPrefabName: string;
-    NormalAttackSkillData: string;
-    PublicSkillData: [string];
-    DeathSkillData: string;
-    MaxHP: long;
-    AttackPower: long;
-    DefensePower: long;
-    CriticalRate: long;
-    CriticalDamageRate: long;
-    AttackRange: long;
-    MoveSpeed: long;
-    ShotTime: long;
-    IsBoss: bool;
-    Scale: float;
-    IgnoreObstacleCheck: bool;
-    CharacterVoiceGroupId: long;
-}
-table MiniGameShootingStageRewardExcel {
-    GroupId: long;
-    RewardId: long;
-    ClearSection: long;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardParcelAmount: [int];
-}
-table MinigameTBGDiceExcel {
-    EventContentId: long;
-    UniqueId: long;
-    DiceGroup: int;
-    DiceResult: int;
-    Prob: int;
-    ProbModifyCondition: [int];
-    ProbModifyValue: [int];
-    ProbModifyLimit: [int];
-}
-table MinigameTBGEncounterOptionExcel {
-    OptionGroupId: long;
-    UniqueId: long;
-    SlotIndex: int;
-    OptionTitleLocalize: string;
-    OptionSuccessLocalize: string;
-    OptionSuccessRewardGroupId: long;
-    OptionSuccessOrHigherDiceCount: int;
-    OptionGreatSuccessOrHigherDiceCount: int;
-    OptionFailLocalize: string;
-    OptionFailLessDiceCount: int;
-    RunawayOrHigherDiceCount: int;
-    RewardHide: bool;
-}
 table ObstacleFireLineCheckExcel {
     MyObstacleFireLineCheck: bool;
     AllyObstacleFireLineCheck: bool;
@@ -5301,39 +4655,6 @@ table ObstacleFireLineCheckExcel {
 table PersonalityExcel {
     Id: long;
     Name: string;
-}
-table RaidRankingRewardExcel {
-    RankingRewardGroupId: long;
-    Id: long;
-    RankStart: long;
-    RankEnd: long;
-    PercentRankStart: long;
-    PercentRankEnd: long;
-    Tier: int;
-    RewardParcelType: [int];
-    RewardParcelUniqueId: [long];
-    RewardParcelUniqueName: [string];
-    RewardParcelAmount: [long];
-}
-table RaidSeasonManageExcel {
-    SeasonId: long;
-    SeasonDisplay: long;
-    SeasonStartData: string;
-    EndNoteLabelStartDate: string;
-    SeasonEndData: string;
-    SettlementEndDate: string;
-    OpenRaidBossGroup: [string];
-    RankingRewardGroupId: long;
-    MaxSeasonRewardGauage: int;
-    StackedSeasonRewardGauge: [long];
-    SeasonRewardId: [long];
-}
-table RaidStageSeasonRewardExcel {
-    SeasonRewardId: long;
-    SeasonRewardParcelType: [int];
-    SeasonRewardParcelUniqueId: [long];
-    SeasonRewardParcelUniqueName: [string];
-    SeasonRewardAmount: [long];
 }
 table ScenarioScriptField1Excel {
     GroupId: long;
@@ -5347,13 +4668,6 @@ table ScenarioScriptField1Excel {
     ScriptKr: string;
     TextJp: string;
     VoiceJp: string;
-}
-table StrategyObjectBuffDefineExcel {
-    StrategyObjectBuffID: long;
-    StrategyObjectTurn: int;
-    SkillGroupId: string;
-    LocalizeCodeId: uint;
-    IconPath: string;
 }
 table TacticalSupportSystemExcel {
     Id: long;
@@ -5384,11 +4698,6 @@ table TacticalSupportSystemExcel {
     RetreatFrame: int;
     DestroyFrame: int;
 }
-table TacticEntityEffectFilterExcel {
-    TargetEffectName: string;
-    ShowEffectToVehicle: bool;
-    ShowEffectToBoss: bool;
-}
 table TacticSimulatorSettingExcel {
     GroundId: long;
     FixedEchelonId: long;
@@ -5404,116 +4713,6 @@ table TacticTimeAttackSimulatorConfigExcel {
     AttackStrikerNum: long;
     AttackSpecialNum: long;
     GeasId: long;
-}
-table TrophyCollectionExcel {
-    GroupId: long;
-    LocalizeCodeId: uint;
-    FurnitureId: [long];
-}
-table AcademyFavorScheduleExcelTable {
-    DataList: [AcademyFavorScheduleExcel];
-}
-table AcademyLocationExcel {
-    Id: long;
-    LocalizeEtcId: uint;
-    PrefabPath: string;
-    IconImagePath: string;
-    OpenCondition: [int];
-    OpenConditionCount: [long];
-    RewardParcelType: ParcelType;
-    RewardParcelId: long;
-    OpenTeacherRank: long;
-}
-table AcademyLocationExcelTable {
-    DataList: [AcademyLocationExcel];
-}
-table AcademyLocationRankExcelTable {
-    DataList: [AcademyLocationRankExcel];
-}
-table AcademyMessanger1Excel {
-    MessageGroupId: long;
-    Id: long;
-    CharacterId: long;
-    MessageCondition: AcademyMessageConditions;
-    ConditionValue: long;
-    PreConditionGroupId: long;
-    PreConditionFavorScheduleId: long;
-    FavorScheduleId: long;
-    NextGroupId: long;
-    FeedbackTimeMillisec: long;
-    MessageType: AcademyMessageTypes;
-    ImagePath: string;
-    MessageKR: string;
-    MessageJP: string;
-}
-table AcademyMessanger1ExcelTable {
-    DataList: [AcademyMessanger1Excel];
-}
-table AcademyMessanger2Excel {
-    MessageGroupId: long;
-    Id: long;
-    CharacterId: long;
-    MessageCondition: AcademyMessageConditions;
-    ConditionValue: long;
-    PreConditionGroupId: long;
-    PreConditionFavorScheduleId: long;
-    FavorScheduleId: long;
-    NextGroupId: long;
-    FeedbackTimeMillisec: long;
-    MessageType: AcademyMessageTypes;
-    ImagePath: string;
-    MessageKR: string;
-    MessageJP: string;
-}
-table AcademyMessanger2ExcelTable {
-    DataList: [AcademyMessanger2Excel];
-}
-table AcademyMessanger3Excel {
-    MessageGroupId: long;
-    Id: long;
-    CharacterId: long;
-    MessageCondition: AcademyMessageConditions;
-    ConditionValue: long;
-    PreConditionGroupId: long;
-    PreConditionFavorScheduleId: long;
-    FavorScheduleId: long;
-    NextGroupId: long;
-    FeedbackTimeMillisec: long;
-    MessageType: AcademyMessageTypes;
-    ImagePath: string;
-    MessageKR: string;
-    MessageJP: string;
-}
-table AcademyMessanger3ExcelTable {
-    DataList: [AcademyMessanger3Excel];
-}
-table AcademyMessangerExcel {
-    MessageGroupId: long;
-    Id: long;
-    CharacterId: long;
-    MessageCondition: AcademyMessageConditions;
-    ConditionValue: long;
-    PreConditionGroupId: long;
-    PreConditionFavorScheduleId: long;
-    FavorScheduleId: long;
-    NextGroupId: long;
-    FeedbackTimeMillisec: long;
-    MessageType: AcademyMessageTypes;
-    ImagePath: string;
-    MessageKR: string;
-    MessageJP: string;
-}
-table AcademyMessangerExcelTable {
-    DataList: [AcademyMessangerExcel];
-}
-table AcademyRewardExcelTable {
-    DataList: [AcademyRewardExcel];
-}
-table AcademyTicketExcelTable {
-    DataList: [AcademyTicketExcel];
-}
-table AcademyZoneExcelTable {
-    DataList: [AcademyZoneExcel];
 }
 table AnimationBlendTable {
     DataList: [BlendData];
@@ -5539,35 +4738,6 @@ table AniStateData {
     FrameRate: float;
     IsLooping: bool;
     Events: [AniEventData];
-}
-table ArenaLevelSectionExcelTable {
-    DataList: [ArenaLevelSectionExcel];
-}
-table ArenaMapExcelTable {
-    DataList: [ArenaMapExcel];
-}
-table ArenaNPCExcelTable {
-    DataList: [ArenaNPCExcel];
-}
-table ArenaRewardExcel {
-    UniqueId: long;
-    ArenaRewardType: ArenaRewardType;
-    RankStart: long;
-    RankEnd: long;
-    RankIconPath: string;
-    RewardParcelType: [int];
-    RewardParcelUniqueId: [long];
-    RewardParcelUniqueName: [string];
-    RewardParcelAmount: [long];
-}
-table ArenaRewardExcelTable {
-    DataList: [ArenaRewardExcel];
-}
-table ArenaSeasonCloseRewardExcelTable {
-    DataList: [ArenaSeasonCloseRewardExcel];
-}
-table ArenaSeasonExcelTable {
-    DataList: [ArenaSeasonExcel];
 }
 table BattleLevelFactorExcelTable {
     DataList: [BattleLevelFactorExcel];
@@ -5604,143 +4774,6 @@ table BulletArmorDamageFactorExcel {
 }
 table BulletArmorDamageFactorExcelTable {
     DataList: [BulletArmorDamageFactorExcel];
-}
-table CafeInfoExcel {
-    CafeId: long;
-    IsDefault: bool;
-    OpenConditionCafeId: OpenConditionContent;
-    OpenConditionCafeInvite: OpenConditionContent;
-}
-table CafeInfoExcelTable {
-    DataList: [CafeInfoExcel];
-}
-table CafeInteractionExcel {
-    CharacterId: long;
-    IgnoreIfUnobtained: bool;
-    IgnoreIfUnobtainedStartDate: string;
-    IgnoreIfUnobtainedEndDate: string;
-    BubbleType: [int];
-    BubbleDuration: [long];
-    FavorEmoticonRewardParcelType: ParcelType;
-    FavorEmoticonRewardId: long;
-    FavorEmoticonRewardAmount: long;
-    CafeCharacterState: [string];
-}
-table CafeInteractionExcelTable {
-    DataList: [CafeInteractionExcel];
-}
-table CafeProductionExcel {
-    CafeId: long;
-    Rank: long;
-    CafeProductionParcelType: ParcelType;
-    CafeProductionParcelId: long;
-    ParcelProductionCoefficient: long;
-    ParcelProductionCorrectionValue: long;
-    ParcelStorageMax: long;
-}
-table CafeProductionExcelTable {
-    DataList: [CafeProductionExcel];
-}
-table CafeRankExcelTable {
-    DataList: [CafeRankExcel];
-}
-table CampaignChapterExcelTable {
-    DataList: [CampaignChapterExcel];
-}
-table CampaignChapterRewardExcelTable {
-    DataList: [CampaignChapterRewardExcel];
-}
-table CampaignStageExcel {
-    Id: long;
-    Deprecated: bool;
-    Name: string;
-    StageNumber: string;
-    CleardScenarioId: long;
-    BattleDuration: long;
-    StageEnterCostType: ParcelType;
-    StageEnterCostId: long;
-    StageEnterCostAmount: int;
-    StageEnterEchelonCount: int;
-    StarConditionTacticRankSCount: long;
-    StarConditionTurnCount: long;
-    EnterScenarioGroupId: [long];
-    ClearScenarioGroupId: [long];
-    StrategyMap: string;
-    StrategyMapBG: string;
-    CampaignStageRewardId: long;
-    MaxTurn: int;
-    StageTopography: StageTopography;
-    RecommandLevel: int;
-    RecommandLevelGapForGuide: int;
-    MinEquipmentTierForGuide: [long];
-    MinSkillLevelForGuide: [long];
-    BgmId: string;
-    StrategyEnvironment: StrategyEnvironment;
-    GroundId: long;
-    StrategySkipGroundId: int;
-    ContentType: ContentType;
-    BGMId: long;
-    FirstClearReportEventName: string;
-    TacticRewardExp: long;
-    FixedEchelonId: long;
-    EchelonExtensionType: EchelonExtensionType;
-}
-table CampaignStageExcelTable {
-    DataList: [CampaignStageExcel];
-}
-table CampaignStageRewardExcel {
-    GroupId: long;
-    RewardTag: RewardTag;
-    StageRewardProb: int;
-    StageRewardParcelType: ParcelType;
-    StageRewardId: long;
-    StageRewardAmount: int;
-    IsDisplayed: bool;
-}
-table CampaignStageRewardExcelTable {
-    DataList: [CampaignStageRewardExcel];
-}
-table CampaignStrategyObjectExcel {
-    Id: long;
-    Key: uint;
-    Name: string;
-    PrefabName: string;
-    StrategyObjectType: StrategyObjectType;
-    StrategyRewardParcelType: ParcelType;
-    StrategyRewardID: long;
-    StrategyRewardName: string;
-    StrategyRewardAmount: int;
-    StrategySightRange: long;
-    PortalId: int;
-    HealValue: int;
-    SwithId: int;
-    BuffId: int;
-    Disposable: bool;
-}
-table CampaignStrategyObjectExcelTable {
-    DataList: [CampaignStrategyObjectExcel];
-}
-table CampaignUnitExcel {
-    Id: long;
-    Key: uint;
-    Name: string;
-    PrefabName: string;
-    StrategyPrefabName: string;
-    EnterScenarioGroupId: [long];
-    ClearScenarioGroupId: [long];
-    GroundId: long;
-    MoveRange: int;
-    AIMoveType: StrategyAIType;
-    Grade: HexaUnitGrade;
-    EnvironmentType: TacticEnvironment;
-    Scale: float;
-    IsTacticSkip: bool;
-}
-table CampaignUnitExcelTable {
-    DataList: [CampaignUnitExcel];
-}
-table CharacterAcademyTagsExcelTable {
-    DataList: [CharacterAcademyTagsExcel];
 }
 table CharacterAIExcel {
     Id: long;
@@ -6021,178 +5054,12 @@ table CharacterVictoryInteractionExcel {
 table CharacterVictoryInteractionExcelTable {
     DataList: [CharacterVictoryInteractionExcel];
 }
-table CharacterWeaponExcel {
-    Id: long;
-    ImagePath: string;
-    SetRecipe: long;
-    StatLevelUpType: StatLevelUpType;
-    AttackPower: long;
-    AttackPower100: long;
-    MaxHP: long;
-    MaxHP100: long;
-    HealPower: long;
-    HealPower100: long;
-    Unlock: [bool];
-    RecipeId: [long];
-    MaxLevel: [int];
-    LearnSkillSlot: [string];
-    StatType: [int];
-    StatValue: [long];
-}
-table CharacterWeaponExcelTable {
-    DataList: [CharacterWeaponExcel];
-}
-table CharacterWeaponExpBonusExcel {
-    WeaponType: WeaponType;
-    WeaponExpGrowthA: int;
-    WeaponExpGrowthB: int;
-    WeaponExpGrowthC: int;
-    WeaponExpGrowthZ: int;
-}
-table CharacterWeaponExpBonusExcelTable {
-    DataList: [CharacterWeaponExpBonusExcel];
-}
-table CharacterWeaponLevelExcelTable {
-    DataList: [CharacterWeaponLevelExcel];
-}
 table ClearDeckRuleExcel {
     ContentType: ContentType;
     SizeLimit: long;
 }
 table ClearDeckRuleExcelTable {
     DataList: [ClearDeckRuleExcel];
-}
-table ConquestCalculateExcel {
-    EventContentId: long;
-    CalculateConditionParcelType: ParcelType;
-    CalculateConditionParcelUniqueId: long;
-    CalculateConditionParcelAmount: long;
-}
-table ConquestCalculateExcelTable {
-    DataList: [ConquestCalculateExcel];
-}
-table ConquestCameraSettingExcelTable {
-    DataList: [ConquestCameraSettingExcel];
-}
-table ConquestErosionExcel {
-    EventContentId: long;
-    Id: long;
-    ErosionType: ConquestErosionType;
-    Phase: int;
-    PhaseAlarm: bool;
-    StepIndex: int;
-    PhaseStartConditionType: [int];
-    PhaseStartConditionParameter: [string];
-    PhaseBeforeExposeConditionType: [int];
-    PhaseBeforeExposeConditionParameter: [string];
-    ErosionBattleConditionParcelType: ParcelType;
-    ErosionBattleConditionParcelUniqueId: long;
-    ErosionBattleConditionParcelAmount: long;
-    ConquestRewardId: long;
-}
-table ConquestErosionExcelTable {
-    DataList: [ConquestErosionExcel];
-}
-table ConquestErosionUnitExcelTable {
-    DataList: [ConquestErosionUnitExcel];
-}
-table ConquestEventExcel {
-    EventContentId: long;
-    MainStoryEventContentId: long;
-    ConquestEventType: ConquestEventType;
-    UseErosion: bool;
-    UseUnexpectedEvent: bool;
-    UseCalculate: bool;
-    UseConquestObject: bool;
-    EvnetMapGoalLocalize: string;
-    EvnetMapNameLocalize: string;
-    MapEnterScenarioGroupId: long;
-    EvnetScenarioBG: string;
-    ManageUnitChange: int;
-    AssistCount: int;
-    PlayTimeLimitInSeconds: int;
-    AnimationUnitAmountMin: int;
-    AnimationUnitAmountMax: int;
-    AnimationUnitDelay: float;
-    LocalizeUnexpected: string;
-    LocalizeErosions: string;
-    LocalizeStep: string;
-    LocalizeTile: string;
-    LocalizeMapInfo: string;
-    LocalizeManage: string;
-    LocalizeUpgrade: string;
-    LocalizeTreasureBox: string;
-    IndividualErosionDailyCount: long;
-}
-table ConquestEventExcelTable {
-    DataList: [ConquestEventExcel];
-}
-table ConquestGroupBonusExcelTable {
-    DataList: [ConquestGroupBonusExcel];
-}
-table ConquestGroupBuffExcelTable {
-    DataList: [ConquestGroupBuffExcel];
-}
-table ConquestMapExcel {
-    EventContentId: long;
-    DevName: string;
-    MapDifficulty: StageDifficulty;
-    StepIndex: int;
-    ConquestMap: string;
-    StepEnterScenarioGroupId: long;
-    StepOpenConditionType: [int];
-    StepOpenConditionParameter: [string];
-    MapGoalLocalize: string;
-    StepGoalLocalize: string;
-    StepNameLocalize: string;
-    ConquestMapBG: string;
-    CameraSettingId: long;
-}
-table ConquestMapExcelTable {
-    DataList: [ConquestMapExcel];
-}
-table ConquestObjectExcel {
-    Id: long;
-    EventContentId: long;
-    ConquestObjectType: ConquestObjectType;
-    Key: uint;
-    Name: string;
-    PrefabName: string;
-    ConquestRewardParcelType: ParcelType;
-    ConquestRewardID: long;
-    ConquestRewardAmount: int;
-    Disposable: bool;
-    StepIndex: int;
-    StepObjectCount: int;
-}
-table ConquestObjectExcelTable {
-    DataList: [ConquestObjectExcel];
-}
-table ConquestPlayGuideExcelTable {
-    DataList: [ConquestPlayGuideExcel];
-}
-table ConquestProgressResourceExcel {
-    Id: long;
-    EventContentId: long;
-    Group: ConquestProgressType;
-    ProgressResource: string;
-    VoiceId: [uint];
-    ProgressLocalizeCode: string;
-}
-table ConquestProgressResourceExcelTable {
-    DataList: [ConquestProgressResourceExcel];
-}
-table ConquestRewardExcel {
-    GroupId: long;
-    RewardTag: RewardTag;
-    RewardProb: int;
-    RewardParcelType: ParcelType;
-    RewardId: long;
-    RewardAmount: int;
-    IsDisplayed: bool;
-}
-table ConquestRewardExcelTable {
-    DataList: [ConquestRewardExcel];
 }
 table ConquestStepExcel {
     EventContentId: long;
@@ -6210,86 +5077,6 @@ table ConquestStepExcel {
 }
 table ConquestStepExcelTable {
     DataList: [ConquestStepExcel];
-}
-table ConquestTileExcel {
-    Id: long;
-    Name: string;
-    EventId: long;
-    Step: int;
-    PrefabName: string;
-    TileNameLocalize: string;
-    TileImageName: string;
-    Playable: bool;
-    TileType: ConquestTileType;
-    NotMapFog: bool;
-    GroupBonusId: long;
-    ConquestCostType: ParcelType;
-    ConquestCostId: long;
-    ConquestCostAmount: int;
-    ManageCostType: ParcelType;
-    ManageCostId: long;
-    ManageCostAmount: int;
-    ConquestRewardId: long;
-    MassErosionId: long;
-    Upgrade2CostType: ParcelType;
-    Upgrade2CostId: long;
-    Upgrade2CostAmount: int;
-    Upgrade3CostType: ParcelType;
-    Upgrade3CostId: long;
-    Upgrade3CostAmount: int;
-}
-table ConquestTileExcelTable {
-    DataList: [ConquestTileExcel];
-}
-table ConquestUnexpectedEventExcel {
-    EventContentId: long;
-    UnexpectedEventConditionType: ParcelType;
-    UnexpectedEventConditionUniqueId: long;
-    UnexpectedEventConditionAmount: long;
-    UnexpectedEventOccurDailyLimitCount: int;
-    UnitCountPerStep: int;
-    UnexpectedEventPrefab: [string];
-    UnexpectedEventUnitId: [long];
-}
-table ConquestUnexpectedEventExcelTable {
-    DataList: [ConquestUnexpectedEventExcel];
-}
-table ConquestUnitExcel {
-    Id: long;
-    Key: uint;
-    Name: string;
-    PrefabName: string;
-    StrategyPrefabName: string;
-    Scale: float;
-    ShieldEffectScale: float;
-    UnitFxPrefabName: string;
-    PointAnimation: string;
-    EnemyType: ConquestEnemyType;
-    Team: ConquestTeamType;
-    UnitGroup: long;
-    PrevUnitGroup: long;
-    BattleDuration: long;
-    GroundId: long;
-    StarGoal: [int];
-    StarGoalAmount: [int];
-    GroupBuffId: long;
-    StageEnterCostType: ParcelType;
-    StageEnterCostId: long;
-    StageEnterCostAmount: int;
-    ManageEchelonStageEnterCostType: ParcelType;
-    ManageEchelonStageEnterCostId: long;
-    ManageEchelonStageEnterCostAmount: int;
-    EnterScenarioGroupId: long;
-    ClearScenarioGroupId: long;
-    ConquestRewardId: long;
-    StageTopography: StageTopography;
-    RecommandLevel: int;
-    TacticRewardExp: long;
-    FixedEchelonId: long;
-    EchelonExtensionType: EchelonExtensionType;
-}
-table ConquestUnitExcelTable {
-    DataList: [ConquestUnitExcel];
 }
 table ConstArenaExcel {
     AttackCoolTime: long;
@@ -6497,6 +5284,13 @@ table ConstCommonExcel {
     CafeRandomVisitMinComfortBonus: long;
     CafeRandomVisitMinLastLogin: int;
     CafeTravelSyncIntervalByMillisec: int;
+    RankBracketPercentage1: int;
+    RankBracketPercentage2: int;
+    RankBracketPercentage3: int;
+    RankBracketPercentage4: int;
+    RankBracketPercentage5: int;
+    RankBracketPercentage6: int;
+    RankBracketPercentage7: int;
 }
 table ConstCommonExcelTable {
     DataList: [ConstCommonExcel];
@@ -6566,16 +5360,6 @@ table ConstStrategyExcel {
 }
 table ConstStrategyExcelTable {
     DataList: [ConstStrategyExcel];
-}
-table ContentsFeverExcel {
-    ConditionContent: FeverBattleType;
-    SkillFeverCheckCondition: SkillPriorityCheckTarget;
-    SkillCostFever: long;
-    FeverStartTime: long;
-    FeverDurationTime: long;
-}
-table ContentsFeverExcelTable {
-    DataList: [ContentsFeverExcel];
 }
 table CostumeExcel {
     CostumeGroupId: long;
@@ -6673,74 +5457,6 @@ table EchelonConstraintExcel {
 }
 table EchelonConstraintExcelTable {
     DataList: [EchelonConstraintExcel];
-}
-table EliminateRaidRankingRewardExcelTable {
-    DataList: [EliminateRaidRankingRewardExcel];
-}
-table EliminateRaidSeasonManageExcelTable {
-    DataList: [EliminateRaidSeasonManageExcel];
-}
-table EliminateRaidStageExcel {
-    Id: long;
-    UseBossIndex: bool;
-    UseBossAIPhaseSync: bool;
-    RaidBossGroup: string;
-    RaidEnterCostType: ParcelType;
-    RaidEnterCostId: long;
-    RaidEnterCostAmount: int;
-    BossSpinePath: string;
-    PortraitPath: string;
-    BGPath: string;
-    RaidCharacterId: long;
-    BossCharacterId: [long];
-    Difficulty: Difficulty;
-    IsOpen: bool;
-    MaxPlayerCount: long;
-    RaidRoomLifeTime: int;
-    BattleDuration: long;
-    GroundId: long;
-    GroundDevName: string;
-    EnterTimeLine: string;
-    TacticEnvironment: TacticEnvironment;
-    DefaultClearScore: long;
-    MaximumScore: long;
-    PerSecondMinusScore: long;
-    HPPercentScore: long;
-    MinimumAcquisitionScore: long;
-    MaximumAcquisitionScore: long;
-    RaidRewardGroupId: long;
-    BattleReadyTimelinePath: [string];
-    BattleReadyTimelinePhaseStart: [int];
-    BattleReadyTimelinePhaseEnd: [int];
-    VictoryTimelinePath: string;
-    PhaseChangeTimelinePath: string;
-    TimeLinePhase: long;
-    EnterScenarioKey: uint;
-    ClearScenarioKey: uint;
-    ShowSkillCard: bool;
-    BossBGInfoKey: uint;
-    EchelonExtensionType: EchelonExtensionType;
-}
-table EliminateRaidStageExcelTable {
-    DataList: [EliminateRaidStageExcel];
-}
-table EliminateRaidStageLimitedRewardExcelTable {
-    DataList: [EliminateRaidStageLimitedRewardExcel];
-}
-table EliminateRaidStageRewardExcel {
-    GroupId: long;
-    IsClearStageRewardHideInfo: bool;
-    ClearStageRewardProb: long;
-    ClearStageRewardParcelType: ParcelType;
-    ClearStageRewardParcelUniqueID: long;
-    ClearStageRewardParcelUniqueName: string;
-    ClearStageRewardAmount: long;
-}
-table EliminateRaidStageRewardExcelTable {
-    DataList: [EliminateRaidStageRewardExcel];
-}
-table EliminateRaidStageSeasonRewardExcelTable {
-    DataList: [EliminateRaidStageSeasonRewardExcel];
 }
 table EventContentArchiveBannerOffsetExcelTable {
     DataList: [EventContentArchiveBannerOffsetExcel];
@@ -7383,9 +6099,6 @@ table FieldWorldMapZoneExcel {
 table FieldWorldMapZoneExcelTable {
     DataList: [FieldWorldMapZoneExcel];
 }
-table FixedStrategyExcelTable {
-    DataList: [FixedStrategyExcel];
-}
 table FloaterCommonExcel {
     Id: long;
     TacticEntityType: TacticEntityType;
@@ -7397,89 +6110,8 @@ table FloaterCommonExcel {
 table FloaterCommonExcelTable {
     DataList: [FloaterCommonExcel];
 }
-table FurnitureExcel {
-    Id: long;
-    ProductionStep: ProductionStep;
-    Rarity: Rarity;
-    Category: FurnitureCategory;
-    SubCategory: FurnitureSubCategory;
-    CheckFloorDecoration: bool;
-    LocalizeEtcId: uint;
-    StarGradeInit: int;
-    Tier: long;
-    Icon: string;
-    SizeWidth: int;
-    SizeHeight: int;
-    OtherSize: int;
-    ExpandWidth: int;
-    Enable: bool;
-    ReverseRotation: bool;
-    Prefab: string;
-    PrefabExpand: string;
-    SubPrefab: string;
-    SubExpandPrefab: string;
-    CornerPrefab: string;
-    StackableMax: long;
-    RecipeCraftId: long;
-    SetGroudpId: long;
-    ComfortBonus: long;
-    VisitOperationType: long;
-    VisitBonusOperationType: long;
-    Tags: [int];
-    CraftQualityTier0: long;
-    CraftQualityTier1: long;
-    CraftQualityTier2: long;
-    ShiftingCraftQuality: long;
-    FurnitureFunctionType: FurnitureFunctionType;
-    FurnitureFunctionParameter: [long];
-    VideoId: long;
-    EventCollectionId: long;
-    FurnitureBubbleOffsetX: long;
-    FurnitureBubbleOffsetY: long;
-    CafeCharacterStateReq: [string];
-    CafeCharacterStateAdd: [string];
-    CafeCharacterStateMake: [string];
-    CafeCharacterStateOnly: [string];
-}
-table FurnitureExcelTable {
-    DataList: [FurnitureExcel];
-}
-table FurnitureGroupExcelTable {
-    DataList: [FurnitureGroupExcel];
-}
-table FurnitureTemplateElementExcel {
-    FurnitureTemplateId: long;
-    FurnitureId: long;
-    Location: FurnitureLocation;
-    PositionX: float;
-    PositionY: float;
-    Rotation: float;
-    Order: long;
-}
-table FurnitureTemplateElementExcelTable {
-    DataList: [FurnitureTemplateElementExcel];
-}
-table FurnitureTemplateExcelTable {
-    DataList: [FurnitureTemplateExcel];
-}
-table GachaCraftNodeExcelTable {
-    DataList: [GachaCraftNodeExcel];
-}
-table GachaCraftNodeGroupExcelTable {
-    DataList: [GachaCraftNodeGroupExcel];
-}
-table GachaCraftOpenTagExcel {
-    NodeTier: CraftNodeTier;
-    Tag: [int];
-}
-table GachaCraftOpenTagExcelTable {
-    DataList: [GachaCraftOpenTagExcel];
-}
 table HpBarAbbreviationExcelTable {
     DataList: [HpBarAbbreviationExcel];
-}
-table InformationStrategyObjectExcelTable {
-    DataList: [InformationStrategyObjectExcel];
 }
 table LimitedStageExcel {
     Id: long;
@@ -7539,279 +6171,6 @@ table LocalizeCharProfileExcelTable {
 table LocalizeFieldExcelTable {
     DataList: [LocalizeFieldExcel];
 }
-table LogicEffectCommonVisualExcel {
-    StringID: uint;
-    IconSpriteName: string;
-    IconDispelColor: [float];
-    ParticleEnterPath: string;
-    ParticleEnterSocket: EffectBone;
-    ParticleLoopPath: string;
-    ParticleLoopSocket: EffectBone;
-    ParticleEndPath: string;
-    ParticleEndSocket: EffectBone;
-    ParticleApplyPath: string;
-    ParticleApplySocket: EffectBone;
-    ParticleRemovedPath: string;
-    ParticleRemovedSocket: EffectBone;
-}
-table LogicEffectCommonVisualExcelTable {
-    DataList: [LogicEffectCommonVisualExcel];
-}
-table MiniGameAudioAnimatorExcelTable {
-    DataList: [MiniGameAudioAnimatorExcel];
-}
-table MiniGameMissionExcel {
-    Id: long;
-    EventContentId: long;
-    GroupId: long;
-    GroupName: string;
-    Category: MissionCategory;
-    Description: uint;
-    ResetType: MissionResetType;
-    ToastDisplayType: MissionToastDisplayConditionType;
-    ToastImagePath: string;
-    ViewFlag: bool;
-    DisplayOrder: long;
-    PreMissionId: [long];
-    AccountType: AccountState;
-    AccountLevel: long;
-    ShortcutUI: [string];
-    CompleteConditionType: MissionCompleteConditionType;
-    IsCompleteExtensionTime: bool;
-    CompleteConditionCount: long;
-    CompleteConditionParameter: [long];
-    CompleteConditionParameterTag: [int];
-    RewardIcon: string;
-    CompleteConditionMissionId: [long];
-    CompleteConditionMissionCount: long;
-    MissionRewardParcelType: [int];
-    MissionRewardParcelId: [long];
-    MissionRewardAmount: [int];
-    ConditionRewardParcelType: [int];
-    ConditionRewardParcelId: [long];
-    ConditionRewardAmount: [int];
-}
-table MiniGameMissionExcelTable {
-    DataList: [MiniGameMissionExcel];
-}
-table MiniGamePlayGuideExcelTable {
-    DataList: [MiniGamePlayGuideExcel];
-}
-table MiniGameRhythmBgmExcelTable {
-    DataList: [MiniGameRhythmBgmExcel];
-}
-table MiniGameRhythmExcel {
-    UniqueId: long;
-    RhythmBgmId: long;
-    PresetName: string;
-    StageDifficulty: Difficulty;
-    IsSpecial: bool;
-    OpenStageScoreAmount: long;
-    MaxHp: long;
-    MissDamage: long;
-    CriticalHPRestoreValue: long;
-    MaxScore: long;
-    FeverScoreRate: long;
-    NoteScoreRate: long;
-    ComboScoreRate: long;
-    AttackScoreRate: long;
-    FeverCriticalRate: float;
-    FeverAttackRate: float;
-    MaxHpScore: long;
-    RhythmFileName: string;
-    ArtLevelSceneName: string;
-    ComboImagePath: string;
-}
-table MiniGameRhythmExcelTable {
-    DataList: [MiniGameRhythmExcel];
-}
-table MiniGameShootingCharacterExcelTable {
-    DataList: [MiniGameShootingCharacterExcel];
-}
-table MiniGameShootingGeasExcel {
-    UniqueId: long;
-    GeasType: Geas;
-    Icon: string;
-    Probability: long;
-    MaxOverlapCount: int;
-    GeasData: string;
-    NeedGeasId: long;
-    HideInPausePopup: bool;
-}
-table MiniGameShootingGeasExcelTable {
-    DataList: [MiniGameShootingGeasExcel];
-}
-table MiniGameShootingStageExcel {
-    UniqueId: long;
-    BgmId: [long];
-    CostGoodsId: long;
-    Difficulty: Difficulty;
-    DesignLevel: string;
-    ArtLevel: string;
-    StartBattleDuration: long;
-    DefaultBattleDuration: long;
-    DefaultLogicEffect: string;
-    CameraSizeRate: float;
-    EventContentStageRewardId: long;
-}
-table MiniGameShootingStageExcelTable {
-    DataList: [MiniGameShootingStageExcel];
-}
-table MiniGameShootingStageRewardExcelTable {
-    DataList: [MiniGameShootingStageRewardExcel];
-}
-table MinigameTBGDiceExcelTable {
-    DataList: [MinigameTBGDiceExcel];
-}
-table MinigameTBGEncounterExcel {
-    EventContentId: long;
-    UniqueId: long;
-    AllThema: bool;
-    ThemaIndex: int;
-    ThemaType: TBGThemaType;
-    ObjectType: TBGObjectType;
-    EnemyImagePath: string;
-    EnemyPrefabName: string;
-    EnemyNameLocalize: string;
-    OptionGroupId: long;
-    RewardHide: bool;
-    EncounterTitleLocalize: string;
-    StoryImagePath: string;
-    BeforeStoryLocalize: string;
-    BeforeStoryOption1Localize: string;
-    BeforeStoryOption2Localize: string;
-    BeforeStoryOption3Localize: string;
-    AllyAttackLocalize: string;
-    EnemyAttackLocalize: string;
-    AttackDefenceLocalize: string;
-    ClearStoryLocalize: string;
-    DefeatStoryLocalize: string;
-    RunawayStoryLocalize: string;
-}
-table MinigameTBGEncounterExcelTable {
-    DataList: [MinigameTBGEncounterExcel];
-}
-table MinigameTBGEncounterOptionExcelTable {
-    DataList: [MinigameTBGEncounterOptionExcel];
-}
-table MinigameTBGEncounterRewardExcel {
-    GroupId: long;
-    UniqueId: long;
-    TBGOptionSuccessType: TBGOptionSuccessType;
-    Paremeter: long;
-    ParcelType: ParcelType;
-    ParcelId: long;
-    Amount: long;
-    Prob: int;
-}
-table MinigameTBGEncounterRewardExcelTable {
-    DataList: [MinigameTBGEncounterRewardExcel];
-}
-table MinigameTBGItemExcel {
-    UniqueId: long;
-    ItemType: TBGItemType;
-    TBGItemEffectType: TBGItemEffectType;
-    ItemParameter: int;
-    LocalizeETCId: string;
-    Icon: string;
-    BuffIcon: string;
-    EncounterCount: int;
-    DiceEffectAniClip: string;
-    BuffIconHUDVisible: bool;
-}
-table MinigameTBGItemExcelTable {
-    DataList: [MinigameTBGItemExcel];
-}
-table MinigameTBGObjectExcel {
-    UniqueId: long;
-    Key: string;
-    PrefabName: string;
-    ObjectType: TBGObjectType;
-    ObjectCostType: ParcelType;
-    ObjectCostId: long;
-    ObjectCostAmount: int;
-    Disposable: bool;
-    ReEncounterCost: bool;
-}
-table MinigameTBGObjectExcelTable {
-    DataList: [MinigameTBGObjectExcel];
-}
-table MinigameTBGSeasonExcel {
-    EventContentId: long;
-    ItemSlot: int;
-    DefaultEchelonHp: int;
-    DefaultItemDiceId: long;
-    EchelonSlot1CharacterId: long;
-    EchelonSlot2CharacterId: long;
-    EchelonSlot3CharacterId: long;
-    EchelonSlot4CharacterId: long;
-    EchelonSlot1Portrait: string;
-    EchelonSlot2Portrait: string;
-    EchelonSlot3Portrait: string;
-    EchelonSlot4Portrait: string;
-    EventUseCostType: ParcelType;
-    EventUseCostId: long;
-    EchelonRevivalCostType: ParcelType;
-    EchelonRevivalCostId: long;
-    EchelonRevivalCostAmount: int;
-    EnemyBossHP: int;
-    EnemyMinionHP: int;
-    AttackDamage: int;
-    CriticalAttackDamage: int;
-    RoundItemSelectLimit: int;
-    InstantClearRound: int;
-    MaxHp: int;
-    MapImagePath: string;
-    MapNameLocalize: string;
-    StartThemaIndex: int;
-    LoopThemaIndex: int;
-    MaxDicePlus: int;
-}
-table MinigameTBGSeasonExcelTable {
-    DataList: [MinigameTBGSeasonExcel];
-}
-table MinigameTBGThemaExcel {
-    EventContentId: long;
-    UniqueId: long;
-    ThemaIndex: int;
-    ThemaType: TBGThemaType;
-    ThemaMap: string;
-    ThemaMapBG: string;
-    PortalCondition: [int];
-    PortalConditionParameter: [string];
-    ThemaNameLocalize: string;
-    ThemaLoadingImage: string;
-    ThemaPlayerPrefab: string;
-    ThemaLeaderId: long;
-    ThemaGoalLocalize: string;
-    InstantClearCostAmount: long;
-    IsTutorial: bool;
-}
-table MinigameTBGThemaExcelTable {
-    DataList: [MinigameTBGThemaExcel];
-}
-table MiniGameTBGThemaRewardExcel {
-    EventContentId: long;
-    ThemaRound: int;
-    ThemaUniqueId: int;
-    IsLoop: bool;
-    MiniGameTBGThemaRewardType: MiniGameTBGThemaRewardType;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardParcelAmount: [int];
-}
-table MiniGameTBGThemaRewardExcelTable {
-    DataList: [MiniGameTBGThemaRewardExcel];
-}
-table MinigameTBGVoiceExcel {
-    EventContentId: long;
-    UniqueId: long;
-    VoiceCondition: TBGVoiceCondition;
-    VoiceId: uint;
-}
-table MinigameTBGVoiceExcelTable {
-    DataList: [MinigameTBGVoiceExcel];
-}
 table ObstacleFireLineCheckExcelTable {
     DataList: [ObstacleFireLineCheckExcel];
 }
@@ -7827,114 +6186,6 @@ table ProtocolSettingExcel {
 }
 table ProtocolSettingExcelTable {
     DataList: [ProtocolSettingExcel];
-}
-table RaidRankingRewardExcelTable {
-    DataList: [RaidRankingRewardExcel];
-}
-table RaidSeasonManageExcelTable {
-    DataList: [RaidSeasonManageExcel];
-}
-table RaidStageExcel {
-    Id: long;
-    UseBossIndex: bool;
-    UseBossAIPhaseSync: bool;
-    RaidBossGroup: string;
-    PortraitPath: string;
-    BGPath: string;
-    RaidCharacterId: long;
-    BossCharacterId: [long];
-    Difficulty: Difficulty;
-    DifficultyOpenCondition: bool;
-    MaxPlayerCount: long;
-    RaidRoomLifeTime: int;
-    BattleDuration: long;
-    GroundId: long;
-    GroundDevName: string;
-    EnterTimeLine: string;
-    TacticEnvironment: TacticEnvironment;
-    DefaultClearScore: long;
-    MaximumScore: long;
-    PerSecondMinusScore: long;
-    HPPercentScore: long;
-    MinimumAcquisitionScore: long;
-    MaximumAcquisitionScore: long;
-    RaidRewardGroupId: long;
-    BattleReadyTimelinePath: [string];
-    BattleReadyTimelinePhaseStart: [int];
-    BattleReadyTimelinePhaseEnd: [int];
-    VictoryTimelinePath: string;
-    PhaseChangeTimelinePath: string;
-    TimeLinePhase: long;
-    EnterScenarioKey: uint;
-    ClearScenarioKey: uint;
-    ShowSkillCard: bool;
-    BossBGInfoKey: uint;
-    EchelonExtensionType: EchelonExtensionType;
-}
-table RaidStageExcelTable {
-    DataList: [RaidStageExcel];
-}
-table RaidStageRewardExcel {
-    GroupId: long;
-    IsClearStageRewardHideInfo: bool;
-    ClearStageRewardProb: long;
-    ClearStageRewardParcelType: ParcelType;
-    ClearStageRewardParcelUniqueID: long;
-    ClearStageRewardParcelUniqueName: string;
-    ClearStageRewardAmount: long;
-}
-table RaidStageRewardExcelTable {
-    DataList: [RaidStageRewardExcel];
-}
-table RaidStageSeasonRewardExcelTable {
-    DataList: [RaidStageSeasonRewardExcel];
-}
-table RecipeExcel {
-    Id: long;
-    RecipeType: RecipeType;
-    RecipeIngredientId: long;
-    RecipeSelectionGroupId: long;
-    ParcelType: [int];
-    ParcelId: [long];
-    ResultAmountMin: [long];
-    ResultAmountMax: [long];
-}
-table RecipeExcelTable {
-    DataList: [RecipeExcel];
-}
-table RecipeIngredientExcel {
-    Id: long;
-    RecipeType: RecipeType;
-    CostParcelType: [int];
-    CostId: [long];
-    CostAmount: [long];
-    IngredientParcelType: [int];
-    IngredientId: [long];
-    IngredientAmount: [long];
-    CostTimeInSecond: long;
-}
-table RecipeIngredientExcelTable {
-    DataList: [RecipeIngredientExcel];
-}
-table RecipeSelectionAutoUseExcel {
-    Id: long;
-    ParcelType: ParcelType;
-    TargetItemId: long;
-    Priority: [long];
-}
-table RecipeSelectionAutoUseExcelTable {
-    DataList: [RecipeSelectionAutoUseExcel];
-}
-table RecipeSelectionGroupExcel {
-    RecipeSelectionGroupId: long;
-    RecipeSelectionGroupComponentId: long;
-    ParcelType: ParcelType;
-    ParcelId: long;
-    ResultAmountMin: long;
-    ResultAmountMax: long;
-}
-table RecipeSelectionGroupExcelTable {
-    DataList: [RecipeSelectionGroupExcel];
 }
 table ScenarioReplayExcel {
     ModeId: long;
@@ -7952,59 +6203,6 @@ table ScenarioReplayExcelTable {
 }
 table ScenarioScriptField1ExcelTable {
     DataList: [ScenarioScriptField1Excel];
-}
-table ShiftingCraftRecipeExcel {
-    Id: long;
-    DisplayOrder: long;
-    NotificationId: int;
-    ResultParcel: ParcelType;
-    ResultId: long;
-    ResultAmount: long;
-    RequireItemId: long;
-    RequireItemAmount: long;
-    RequireGold: long;
-    IngredientTag: [int];
-    IngredientExp: long;
-}
-table ShiftingCraftRecipeExcelTable {
-    DataList: [ShiftingCraftRecipeExcel];
-}
-table SkillExcel {
-    Id: long;
-    LocalizeSkillId: uint;
-    GroupId: string;
-    SkillDataKey: string;
-    VisualDataKey: string;
-    Level: int;
-    SkillCost: int;
-    ExtraSkillCost: int;
-    EnemySkillCost: int;
-    ExtraEnemySkillCost: int;
-    NPCSkillCost: int;
-    ExtraNPCSkillCost: int;
-    BulletType: BulletType;
-    StartCoolTime: int;
-    CoolTime: int;
-    EnemyStartCoolTime: int;
-    EnemyCoolTime: int;
-    NPCStartCoolTime: int;
-    NPCCoolTime: int;
-    UseAtg: int;
-    RequireCharacterLevel: int;
-    RequireLevelUpMaterial: long;
-    IconName: string;
-    IsShowInfo: bool;
-    IsShowSpeechbubble: bool;
-    PublicSpeechDuration: int;
-    AdditionalToolTipId: long;
-    TextureSkillCardForFormConversion: string;
-    SkillCardLabelPath: string;
-}
-table SkillExcelTable {
-    DataList: [SkillExcel];
-}
-table StrategyObjectBuffDefineExcelTable {
-    DataList: [StrategyObjectBuffDefineExcel];
 }
 table SystemMailExcel {
     MailType: MailType;
@@ -8060,9 +6258,6 @@ table TacticDamageSimulatorSettingExcel {
 table TacticDamageSimulatorSettingExcelTable {
     DataList: [TacticDamageSimulatorSettingExcel];
 }
-table TacticEntityEffectFilterExcelTable {
-    DataList: [TacticEntityEffectFilterExcel];
-}
 table TacticSimulatorSettingExcelTable {
     DataList: [TacticSimulatorSettingExcel];
 }
@@ -8090,61 +6285,4 @@ table TerrainAdaptationFactorExcel {
 }
 table TerrainAdaptationFactorExcelTable {
     DataList: [TerrainAdaptationFactorExcel];
-}
-table TrophyCollectionExcelTable {
-    DataList: [TrophyCollectionExcel];
-}
-table WeekDungeonExcel {
-    StageId: long;
-    WeekDungeonType: WeekDungeonType;
-    Difficulty: int;
-    BattleDuration: long;
-    PrevStageId: long;
-    StageEnterCostType: [int];
-    StageEnterCostId: [long];
-    StageEnterCostAmount: [int];
-    GroundId: int;
-    StarGoal: [int];
-    StarGoalAmount: [int];
-    StageTopography: StageTopography;
-    RecommandLevel: long;
-    StageRewardId: long;
-    PlayTimeLimitInSeconds: long;
-    BattleRewardExp: long;
-    BattleRewardPlayerExp: long;
-    GroupBuffID: [long];
-    EchelonExtensionType: EchelonExtensionType;
-}
-table WeekDungeonExcelTable {
-    DataList: [WeekDungeonExcel];
-}
-table WeekDungeonGroupBuffExcel {
-    WeekDungeonBuffId: long;
-    School: School;
-    RecommandLocalizeEtcId: uint;
-    FormationLocalizeEtcId: uint;
-    SkillGroupId: string;
-}
-table WeekDungeonGroupBuffExcelTable {
-    DataList: [WeekDungeonGroupBuffExcel];
-}
-table WeekDungeonOpenScheduleExcel {
-    WeekDay: WeekDay;
-    Open: [int];
-}
-table WeekDungeonOpenScheduleExcelTable {
-    DataList: [WeekDungeonOpenScheduleExcel];
-}
-table WeekDungeonRewardExcel {
-    GroupId: long;
-    DungeonType: WeekDungeonType;
-    RewardParcelType: ParcelType;
-    RewardParcelId: long;
-    RewardParcelAmount: long;
-    RewardParcelProbability: long;
-    IsDisplayed: bool;
-    DropItemModelPrefabPath: string;
-}
-table WeekDungeonRewardExcelTable {
-    DataList: [WeekDungeonRewardExcel];
 }

@@ -223,6 +223,20 @@
       "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
       "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
       "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel"
+    },
+    {
+      "SeasonId": 17,
+      "LobbyEnterScenario": 0,
+      "ShowLobbyBanner": false,
+      "SeasonStartDate": "2025-07-23 11:00:00",
+      "EndNoteLabelStartDate": "2025-08-07 03:59:59",
+      "SeasonEndDate": "2025-08-20 03:59:59",
+      "SettlementEndDate": "2025-08-21 11:00:00",
+      "OpenRaidBossGroupId": "EN0011",
+      "EnterScenarioKey": 1226332916,
+      "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00003",
+      "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00003",
+      "PlayTip": "UI_MultiFloorRaid_FloorList_Tipereth_PlayTipLabel"
     }
   ]
 }
