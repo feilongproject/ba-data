@@ -110,7 +110,8 @@ enum CollectionUnlockType : int {
     MinigameTBGThemaClear,
     MinigameEnter,
     MinigameDreamMakerParameter,
-    ClearSpecificScenario
+    ClearSpecificScenario,
+    MinigameCCGBuyPerk
 }
 enum ContentType : int {
     None,
@@ -289,7 +290,8 @@ enum EventContentType : int {
     ScenarioShortcut,
     SeasonalEvent,
     MiniShop,
-    MiniGameRoad
+    MiniGameRoad,
+    MiniGameCCG
 }
 enum EventTargetType : int {
     WeekDungeon,
@@ -428,7 +430,9 @@ enum MailType : int {
     CouponCompleteReward,
     BirthdayMail,
     FromCS,
-    ExpiryChangeCurrency
+    ExpiryChangeCurrency,
+    ExpiryBattlePassItem,
+    FreeProductReward
 }
 enum MeetupConditionPrintType : int {
     None,
@@ -480,7 +484,7 @@ enum MissionCompleteConditionType : int {
     Achieve_GetItem,
     Reset_GetFavorLevel,
     Reset___Deprecated_EquipmentAtSpecificLevelCount,
-    Reset_EquipmentAtSpecificTierUpCount,
+    Achieve_EquipmentAtSpecificTierUpCount,
     Reset_CharacterAtSpecificLevelCount,
     Reset_CharacterAtSpecificTranscendenceCount,
     Achieve_CharacterSkillLevelUpCount,
@@ -629,7 +633,16 @@ enum MissionCompleteConditionType : int {
     Reset_CharacterInviteCount,
     Reset_RoadpuzzleTileCount,
     Reset_ClearSpecificRoundRoadpuzzle,
-    Reset_ClearCountRoadpuzzle
+    Reset_ClearCountRoadpuzzle,
+    Reset_CCGResultCount,
+    Reset_CCGCompleteCount,
+    Reset_CCGUseCostCount,
+    Reset_CCGTotalDamageCount,
+    Reset_CCGRetreatCount,
+    Reset_CCGSkillWithTagCount,
+    Reset_CCGActivatePerkCount,
+    Reset_ClearMultiFloorRaid,
+    Reset_DayCompleteMission
 }
 enum MissionResetType : int {
     None,
@@ -703,7 +716,8 @@ enum OpenConditionContent : int {
     MultiFloorRaid,
     StrategySkip,
     MinigameDreamMaker,
-    MiniGameDefense
+    MiniGameDefense,
+    MiniGameCCG
 }
 enum ParcelType : int {
     None,
@@ -729,7 +743,10 @@ enum ParcelType : int {
     Emblem,
     Sticker,
     Costume,
-    PossessionCheck
+    PossessionCheck,
+    BattlePassExp,
+    SelectedCharacter,
+    UnSelectedCharacter
 }
 enum PositioningType : int {
     CloseToObstacle,
@@ -839,7 +856,10 @@ enum ShopCategoryType : int {
     Care,
     BeforehandGacha,
     EliminateRaid,
-    GlobalSpecialGacha
+    GlobalSpecialGacha,
+    SelectPickupGacha,
+    GemDaily,
+    GemWeekly
 }
 enum SquadType : int {
     None,
@@ -952,6 +972,8 @@ enum StatType : int {
     HealedSonicRate,
     HealedNormalRate,
     GrowthScore,
+    CharacterBulletTypeEnhanceRate,
+    MaxCostIncrease,
     Max
 }
 enum StrategyEnvironment : int {
@@ -4131,6 +4153,7 @@ table CharacterSkillListExcel {
     TSAInteractionId: long;
     NormalSkillGroupId: [string];
     NormalSkillTimeLineIndex: [int];
+    SelectExSkillActionSkillSlot: int;
     ExSkillGroupId: [string];
     ExSkillCutInTimeLineIndex: [string];
     ExSkillLevelTimeLineIndex: [string];
@@ -4241,12 +4264,17 @@ table ConstCombatExcel {
     EchelonExtensionEngageWithSupporterTimelinePath: string;
     EchelonExtensionVictoryTimelinePath: string;
     EchelonExtensionEchelonMaxCommonCost: int;
+    EchelonMaxOverloadCost: long;
+    EchelonExtensionMaxOverloadCost: long;
     EchelonExtensionEchelonInitCommonCost: int;
     EchelonExtensionCostRegenRatio: long;
+    EchelonOverloadCostRegenRatio: long;
+    EchelonExtensionOverloadCostRegenRatio: long;
     CheckCheaterMaxUseCostMultiFloorRaid: int;
     ExcessiveTouchCheckTime: float;
     ExcessiveTouchCheckCount: int;
     CampaignAlertPopupLevelGap: int;
+    MoveCorrectionSkipRatio: int;
 }
 table ConstConquestExcel {
     ManageUnitChange: int;
@@ -4262,6 +4290,32 @@ table ConstFieldExcel {
     ThinkDialogDurationDefault: int;
     IdleThinkDelayMin: int;
     IdleThinkDelayMax: int;
+}
+table ConstMinigameCCGExcel {
+    TurnDrawCount: int;
+    ConquestMapBoundaryOffsetRight: float;
+    ConquestMapBoundaryOffsetTop: float;
+    ConquestMapBoundaryOffsetBottom: float;
+    ConquestMapCenterOffsetX: float;
+    ConquestMapCenterOffsetY: float;
+    CameraAngle: float;
+    CameraZoomMax: float;
+    CameraZoomMin: float;
+    CameraZoomDefault: float;
+    ThemaLoadingProgressTime: float;
+    MapAllyRotation: float;
+    AniAllyBattleAttack: string;
+    MaxHandCount: int;
+    MaxCost: int;
+    StartCost: int;
+    TurnCost: int;
+    StrikerSwapFrontCost: int;
+    StrikerMaxEquipCount: int;
+    StartDrawCount: int;
+    CampReviveHealthRate: int;
+    BaseRewardRerollPoint: int;
+    SelectRewardOptionCount: int;
+    AlternativeCardImagePath: string;
 }
 table ConstMinigameRoadPuzzleExcel {
     RoadPuzzleMapBoundaryOffsetLeft: float;
@@ -4588,6 +4642,12 @@ table FieldTutorialExcel {
     ConditionType: [int];
     ConditionId: [long];
 }
+table GachaSelectPickupGroupExcel {
+    Id: long;
+    NameKr: string;
+    GachaGroupID: long;
+    CharacterId: long;
+}
 table HpBarAbbreviationExcel {
     MonsterLv: int;
     StandardHpBar: int;
@@ -4600,6 +4660,11 @@ table LimitedStageSeasonExcel {
     TypeACount: long;
     TypeBCount: long;
     TypeCCount: long;
+}
+table LocalizeCCGExcel {
+    Key: uint;
+    Kr: string;
+    Jp: string;
 }
 table LocalizeCharProfileExcel {
     CharacterId: long;
@@ -4645,6 +4710,9 @@ table LocalizeFieldExcel {
     Key: uint;
     Kr: string;
     Jp: string;
+}
+table MinigameCardExcel {
+    None: [int];
 }
 table ObstacleFireLineCheckExcel {
     MyObstacleFireLineCheck: bool;
@@ -5222,7 +5290,6 @@ table ConstCommonExcel {
     MonthlyProductCheckDays: int;
     WeaponLvUpCoefficient: int;
     ShowRaidMyListCount: int;
-    MaxLevelExpMasterCoinRatio: int;
     RaidEnterCostType: ParcelType;
     RaidEnterCostId: long;
     RaidTicketCost: long;
@@ -5291,6 +5358,11 @@ table ConstCommonExcel {
     RankBracketPercentage5: int;
     RankBracketPercentage6: int;
     RankBracketPercentage7: int;
+    ExpiryBattlePassItemReceiveDay: int;
+    BattlePassFlavorTextIdleDurationMilliSec: long;
+    BattlePassEndImminentDay: int;
+    BattlePassExpIconPath: string;
+    CafeCameraDragThreshold: float;
 }
 table ConstCommonExcelTable {
     DataList: [ConstCommonExcel];
@@ -5319,6 +5391,9 @@ table ConstEventCommonExcelTable {
 }
 table ConstFieldExcelTable {
     DataList: [ConstFieldExcel];
+}
+table ConstMinigameCCGExcelTable {
+    DataList: [ConstMinigameCCGExcel];
 }
 table ConstMinigameRoadPuzzleExcelTable {
     DataList: [ConstMinigameRoadPuzzleExcel];
@@ -5378,6 +5453,7 @@ table CostumeExcel {
     SpineResourceNameDioramaForFormConversion: [string];
     EntityMaterialType: EntityMaterialType;
     ModelPrefabName: string;
+    AnimatorName: string;
     CafeModelPrefabName: string;
     EchelonModelPrefabName: string;
     StrategyModelPrefabName: string;
@@ -5547,6 +5623,7 @@ table EventContentCollectionExcel {
     EmblemResource: string;
     ThumbResource: string;
     FullResource: string;
+    Decoration: string;
     LocalizeEtcId: uint;
     SubNameLocalizeCodeId: string;
 }
@@ -6110,6 +6187,9 @@ table FloaterCommonExcel {
 table FloaterCommonExcelTable {
     DataList: [FloaterCommonExcel];
 }
+table GachaSelectPickupGroupExcelTable {
+    DataList: [GachaSelectPickupGroupExcel];
+}
 table HpBarAbbreviationExcelTable {
     DataList: [HpBarAbbreviationExcel];
 }
@@ -6165,11 +6245,17 @@ table LimitedStageRewardExcelTable {
 table LimitedStageSeasonExcelTable {
     DataList: [LimitedStageSeasonExcel];
 }
+table LocalizeCCGExcelTable {
+    DataList: [LocalizeCCGExcel];
+}
 table LocalizeCharProfileExcelTable {
     DataList: [LocalizeCharProfileExcel];
 }
 table LocalizeFieldExcelTable {
     DataList: [LocalizeFieldExcel];
+}
+table MinigameCardExcelTable {
+    DataList: [MinigameCardExcel];
 }
 table ObstacleFireLineCheckExcelTable {
     DataList: [ObstacleFireLineCheckExcel];

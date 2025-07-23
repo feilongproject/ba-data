@@ -1207,6 +1207,36 @@
       "UseShortCutContentType": "BoxGacha"
     },
     {
+      "EventContentId": 848,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 80650,
+      "UseShortCutContentType": "MiniGameCCG"
+    },
+    {
+      "EventContentId": 848,
+      "EventContentItemType": 2,
+      "ItemUniqueId": 80651,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 848,
+      "EventContentItemType": 3,
+      "ItemUniqueId": 80652,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 848,
+      "EventContentItemType": 4,
+      "ItemUniqueId": 80653,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 848,
+      "EventContentItemType": 7,
+      "ItemUniqueId": 80654,
+      "UseShortCutContentType": ""
+    },
+    {
       "EventContentId": 80000,
       "EventContentItemType": 1,
       "ItemUniqueId": 80560,
@@ -2062,6 +2092,30 @@
       "EventContentId": 10836,
       "EventContentItemType": 0,
       "ItemUniqueId": 86313,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentItemType": 1,
+      "ItemUniqueId": 86320,
+      "UseShortCutContentType": "BoxGacha"
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentItemType": 2,
+      "ItemUniqueId": 86321,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentItemType": 3,
+      "ItemUniqueId": 86322,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentItemType": 4,
+      "ItemUniqueId": 86323,
       "UseShortCutContentType": "Shop"
     },
     {

@@ -80,6 +80,17 @@
     {
       "Id": 8,
       "DetailShowStats": [
+        81,
+        82
+      ],
+      "IsStatsPercent": [
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 9,
+      "DetailShowStats": [
         27,
         28
       ],
@@ -89,7 +100,7 @@
       ]
     },
     {
-      "Id": 9,
+      "Id": 10,
       "DetailShowStats": [
         29
       ],

@@ -5083,6 +5083,105 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
+      "CharacterName": 3764981078,
+      "ProductionStep": "Release",
+      "NameKR": "미카",
+      "NicknameKR": "티파티",
+      "NameJP": "ミカ",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0294",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0294"
+    },
+    {
+      "CharacterName": 364307345,
+      "ProductionStep": "Release",
+      "NameKR": "나기사",
+      "NicknameKR": "티파티",
+      "NameJP": "ナギサ",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0293",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0293"
+    },
+    {
+      "CharacterName": 1995775850,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0293",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1180855895,
+      "ProductionStep": "Release",
+      "NameKR": "세이아",
+      "NicknameKR": "티파티",
+      "NameJP": "セイア",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0295",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0295"
+    },
+    {
+      "CharacterName": 2184263309,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0295",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 606760114,
+      "ProductionStep": "Release",
+      "NameKR": "이치카",
+      "NicknameKR": "정의실현부",
+      "NameJP": "イチカ",
+      "NicknameJP": "正義実現委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0292",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0292"
+    },
+    {
+      "CharacterName": 3600092599,
+      "ProductionStep": "Release",
+      "NameKR": "하스미",
+      "NicknameKR": "정의실현부",
+      "NameJP": "ハスミ",
+      "NicknameJP": "正義実現委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0291",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0291"
+    },
+    {
+      "CharacterName": 2297042229,
+      "ProductionStep": "Release",
+      "NameKR": "메구",
+      "NicknameKR": "온천개발부",
+      "NameJP": "メグ",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0329",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0329"
+    },
+    {
+      "CharacterName": 485774340,
+      "ProductionStep": "Release",
+      "NameKR": "카스미",
+      "NicknameKR": "온천개발부",
+      "NameJP": "カスミ",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0328",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0328"
+    },
+    {
       "CharacterName": 3261875659,
       "ProductionStep": "Release",
       "NameKR": "아즈사",
@@ -7325,6 +7424,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0250",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0250"
+    },
+    {
+      "CharacterName": 3945318135,
+      "ProductionStep": "Release",
+      "NameKR": "카스미",
+      "NicknameKR": "온천개발부",
+      "NameJP": "カスミ",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0280",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0280"
     },
     {
       "CharacterName": 1800434827,
@@ -9795,7 +9905,62 @@
       "ProductionStep": "Release",
       "NameKR": "온천 부원 D",
       "NicknameKR": "온천개발부",
-      "NameJP": "温泉部の部員C",
+      "NameJP": "温泉部の部員D",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Soldier_OnsenDev_RL",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Soldier_OnsenDev_RL"
+    },
+    {
+      "CharacterName": 1263855748,
+      "ProductionStep": "Release",
+      "NameKR": "온천개발부 부원",
+      "NicknameKR": "온천개발부",
+      "NameJP": "温泉開発部の部員",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Soldier_OnsenDev_RL",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Soldier_OnsenDev_RL"
+    },
+    {
+      "CharacterName": 2731799849,
+      "ProductionStep": "Release",
+      "NameKR": "온천개발부 부원 A",
+      "NicknameKR": "온천개발부",
+      "NameJP": "温泉開発部の部員A",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Soldier_OnsenDev_RL",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Soldier_OnsenDev_RL"
+    },
+    {
+      "CharacterName": 354306519,
+      "ProductionStep": "Release",
+      "NameKR": "온천개발부 부원 B",
+      "NicknameKR": "온천개발부",
+      "NameJP": "温泉開発部の部員B",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Soldier_OnsenDev_RL",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Soldier_OnsenDev_RL"
+    },
+    {
+      "CharacterName": 2948369014,
+      "ProductionStep": "Release",
+      "NameKR": "온천개발부 부원 C",
+      "NicknameKR": "온천개발부",
+      "NameJP": "温泉開発部の部員C",
+      "NicknameJP": "温泉開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Soldier_OnsenDev_RL",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Soldier_OnsenDev_RL"
+    },
+    {
+      "CharacterName": 2844902071,
+      "ProductionStep": "Release",
+      "NameKR": "온천개발부 부원 D",
+      "NicknameKR": "온천개발부",
+      "NameJP": "温泉開発部の部員D",
       "NicknameJP": "温泉開発部",
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Soldier_OnsenDev_RL",
@@ -22923,6 +23088,127 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal7",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal7"
+    },
+    {
+      "CharacterName": 4081431382,
+      "ProductionStep": "Release",
+      "NameKR": "티파티 부원 A",
+      "NicknameKR": "티파티",
+      "NameJP": "ティーパーティーの生徒A",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0022",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0022"
+    },
+    {
+      "CharacterName": 3405716864,
+      "ProductionStep": "Release",
+      "NameKR": "티파티 부원 B",
+      "NicknameKR": "티파티",
+      "NameJP": "ティーパーティーの生徒B",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0028",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0028"
+    },
+    {
+      "CharacterName": 2482421826,
+      "ProductionStep": "Release",
+      "NameKR": "티파티 부원 C",
+      "NicknameKR": "티파티",
+      "NameJP": "ティーパーティーの生徒C",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0022",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0022"
+    },
+    {
+      "CharacterName": 3968345110,
+      "ProductionStep": "Release",
+      "NameKR": "홍차 공방 주인",
+      "NicknameKR": "",
+      "NameJP": "紅茶専門店の店主",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal5",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal5"
+    },
+    {
+      "CharacterName": 4210026509,
+      "ProductionStep": "Release",
+      "NameKR": "티파티 하급생",
+      "NicknameKR": "티파티",
+      "NameJP": "ティーパーティーの下級生",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0022",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0022"
+    },
+    {
+      "CharacterName": 1412488412,
+      "ProductionStep": "Release",
+      "NameKR": "티파티 상급생",
+      "NicknameKR": "티파티",
+      "NameJP": "ティーパーティーの上級生",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0028",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0028"
+    },
+    {
+      "CharacterName": 842097192,
+      "ProductionStep": "Release",
+      "NameKR": "서핑 강사",
+      "NicknameKR": "",
+      "NameJP": "コーチ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3165261256,
+      "ProductionStep": "Release",
+      "NameKR": "대회 중계자 A",
+      "NicknameKR": "",
+      "NameJP": "大会実況者A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 830914429,
+      "ProductionStep": "Release",
+      "NameKR": "대회 중계자 B",
+      "NicknameKR": "",
+      "NameJP": "大会実況者B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1777890730,
+      "ProductionStep": "Release",
+      "NameKR": "베로니카 점원",
+      "NicknameKR": "",
+      "NameJP": "ベロニカ店員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1793565267,
+      "ProductionStep": "Release",
+      "NameKR": "바다의 집 점원",
+      "NicknameKR": "",
+      "NameJP": "海の家の店員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_market_animal2",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal2"
     }
   ]
 }

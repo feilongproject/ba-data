@@ -239,6 +239,16 @@
       "IconOffsetX": 23860.929422222222222222222222,
       "IconOffsetY": 23860.929422222222222222222222,
       "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 7,
+      "IconSpriteName": "Event_Icon_Location_848",
+      "ButtonText": "Event_Button_Collection",
+      "DisplayOrder": 23,
+      "IconOffsetX": 23860.929422222222222222222222,
+      "IconOffsetY": 3,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
     }
   ]
 }

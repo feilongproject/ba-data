@@ -2008,6 +2008,78 @@
       "DialogOffsetY": 14
     },
     {
+      "EventContentId": 848,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900940001,
+      "SpineOffsetX": 1.8,
+      "SpineOffsetY": -0.72,
+      "DialogOffsetX": 34.49,
+      "DialogOffsetY": -5.98
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900940101,
+      "SpineOffsetX": 1.58,
+      "SpineOffsetY": -0.15,
+      "DialogOffsetX": 31.65,
+      "DialogOffsetY": -5.35
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900940201,
+      "SpineOffsetX": 1.85,
+      "SpineOffsetY": -1.92,
+      "DialogOffsetX": 55,
+      "DialogOffsetY": -3
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900940301,
+      "SpineOffsetX": 1.7,
+      "SpineOffsetY": -0.43,
+      "DialogOffsetX": 47,
+      "DialogOffsetY": -18.3
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900940401,
+      "SpineOffsetX": 1.35,
+      "SpineOffsetY": -1.15,
+      "DialogOffsetX": 53.6,
+      "DialogOffsetY": 15
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 3,
+      "CostumeUniqueId": 1900940301,
+      "SpineOffsetX": -0.6,
+      "SpineOffsetY": -0.45,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 2,
+      "CostumeUniqueId": 1900940001,
+      "SpineOffsetX": -0.3,
+      "SpineOffsetY": -0.2,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 848,
+      "EventContentType": 40,
+      "CostumeUniqueId": 1900940401,
+      "SpineOffsetX": 0.09,
+      "SpineOffsetY": -0.7,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
       "EventContentId": 10801,
       "EventContentType": 0,
       "CostumeUniqueId": 1900900901,
@@ -3581,6 +3653,69 @@
       "SpineOffsetY": -0.32,
       "DialogOffsetX": 71582.788266666666666666666667,
       "DialogOffsetY": 10
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900927001,
+      "SpineOffsetX": 1.54,
+      "SpineOffsetY": -0.56,
+      "DialogOffsetX": 27,
+      "DialogOffsetY": 16
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900927101,
+      "SpineOffsetX": 1.54,
+      "SpineOffsetY": 71582.788266666666666666666667,
+      "DialogOffsetX": 65,
+      "DialogOffsetY": -32
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900927201,
+      "SpineOffsetX": 1.52,
+      "SpineOffsetY": -0.76,
+      "DialogOffsetX": 74,
+      "DialogOffsetY": 12
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 3,
+      "CostumeUniqueId": 1900927001,
+      "SpineOffsetX": -0.12,
+      "SpineOffsetY": -0.46,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 2,
+      "CostumeUniqueId": 1900927201,
+      "SpineOffsetX": -0.15,
+      "SpineOffsetY": -0.29,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 6,
+      "CostumeUniqueId": 1900927101,
+      "SpineOffsetX": 0.52,
+      "SpineOffsetY": 1.15,
+      "DialogOffsetX": 64,
+      "DialogOffsetY": -16
+    },
+    {
+      "EventContentId": 10837,
+      "EventContentType": 16,
+      "CostumeUniqueId": 1900927101,
+      "SpineOffsetX": -0.5299,
+      "SpineOffsetY": 1.42,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
     },
     {
       "EventContentId": 50822,

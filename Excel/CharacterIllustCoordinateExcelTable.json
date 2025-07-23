@@ -977,6 +977,30 @@
       "MaxScale": 1.8
     },
     {
+      "Id": 10122,
+      "CharacterBodyCenterX": 7.63,
+      "CharacterBodyCenterY": 5.7199,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10123,
+      "CharacterBodyCenterX": 8.49,
+      "CharacterBodyCenterY": 7.45,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10124,
+      "CharacterBodyCenterX": 7.26,
+      "CharacterBodyCenterY": 8.83,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
       "Id": 13000,
       "CharacterBodyCenterX": 8.7,
       "CharacterBodyCenterY": 6.75,
@@ -1625,6 +1649,14 @@
       "MaxScale": 1.8
     },
     {
+      "Id": 20048,
+      "CharacterBodyCenterX": 7.97,
+      "CharacterBodyCenterY": 7.16,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
       "Id": 23000,
       "CharacterBodyCenterX": 8,
       "CharacterBodyCenterY": 7.15,
@@ -1812,6 +1844,14 @@
       "Id": 26014,
       "CharacterBodyCenterX": 5.7,
       "CharacterBodyCenterY": 6.81,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26015,
+      "CharacterBodyCenterX": 7.24,
+      "CharacterBodyCenterY": 7.41,
       "DefaultScale": 1,
       "MinScale": 0.6,
       "MaxScale": 1.8

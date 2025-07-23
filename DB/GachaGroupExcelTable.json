@@ -91,32 +91,32 @@
       "GroupType": "Reward_General"
     },
     {
-      "ID": 60,
-      "NameKr": "2차 일반 가챠",
+      "ID": 90,
+      "NameKr": "페스 일반(튜토리얼 대응) 가챠",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 61,
-      "NameKr": "2차 일반 가챠 R",
+      "ID": 91,
+      "NameKr": "페스 일반(튜토리얼 대응) 가챠 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 62,
-      "NameKr": "2차 일반 가챠 SR",
+      "ID": 92,
+      "NameKr": "페스 일반(튜토리얼 대응) 가챠 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 63,
-      "NameKr": "2차 일반 가챠 SSR",
+      "ID": 93,
+      "NameKr": "페스 일반(튜토리얼 대응) 가챠 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 69,
-      "NameKr": "2차 일반 가챠 SSR \u002B SSR (10번째)",
+      "ID": 99,
+      "NameKr": "페스 일반(튜토리얼 대응) 가챠 SSR \u002B SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
@@ -705,6 +705,12 @@
     {
       "ID": 2119,
       "NameKr": "하이랜더 열차 - 가구 컨셉",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2120,
+      "NameKr": "티파티 세트 - 가구 컨셉",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1393,6 +1399,36 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 61100,
+      "NameKr": "제약해제결전_보상용_장비_랜덤상자_T2",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 61101,
+      "NameKr": "제약해제결전_보상용_장비_랜덤상자_T3",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 61102,
+      "NameKr": "제약해제결전_보상용_장비_랜덤상자_T4",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 61103,
+      "NameKr": "제약해제결전_보상용_장비_랜덤상자_T5",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 61104,
+      "NameKr": "제약해제결전_보상용_장비_랜덤상자_T6",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 90000,
       "NameKr": "GachaBox_Starategy_Reward",
       "IsRecursive": false,
@@ -1430,13 +1466,13 @@
     },
     {
       "ID": 100022,
-      "NameKr": "1_1차 픽업 SR 렌게(수영복)",
+      "NameKr": "1_1차 픽업 SR 더미",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100023,
-      "NameKr": "1_1차 픽업 SSR 키쿄(수영복)",
+      "NameKr": "1_1차 픽업 SSR 한정_세이아(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1478,133 +1514,103 @@
     },
     {
       "ID": 100043,
-      "NameKr": "1_2차 픽업 SSR 유카리(수영복)",
+      "NameKr": "1_2차 픽업 SSR 한정_하스미(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110010,
-      "NameKr": "2_1차 픽업",
+      "ID": 170010,
+      "NameKr": "페스 가챠",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110011,
-      "NameKr": "2_1차 픽업 R",
+      "ID": 170011,
+      "NameKr": "페스 가챠 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110012,
-      "NameKr": "2_1차 픽업 SR",
+      "ID": 170012,
+      "NameKr": "페스 가챠 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110013,
-      "NameKr": "2_1차 픽업 SSR",
+      "ID": 170013,
+      "NameKr": "페스 가챠 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110019,
-      "NameKr": "2_1차 픽업 SR \u002B SSR (10번째)",
+      "ID": 170019,
+      "NameKr": "페스 가챠 SR \u002B SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110022,
-      "NameKr": "2_1차 픽업 SR 더미",
+      "ID": 170022,
+      "NameKr": "페스 가챠 확률업 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110023,
-      "NameKr": "2_1차 픽업 SSR 미야코(수영복)",
+      "ID": 170023,
+      "NameKr": "페스 가챠 확률업 SSR 페스 그룹",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110030,
-      "NameKr": "2_2차 픽업",
+      "ID": 170029,
+      "NameKr": "페스 가챠 확률업 SSR 나기사(수영복)",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 170030,
+      "NameKr": "페스 가챠 2",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110031,
-      "NameKr": "2_2차 픽업 R",
+      "ID": 170031,
+      "NameKr": "페스 가챠 2 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110032,
-      "NameKr": "2_2차 픽업 SR",
+      "ID": 170032,
+      "NameKr": "페스 가챠 2 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110033,
-      "NameKr": "2_2차 픽업 SSR",
+      "ID": 170033,
+      "NameKr": "페스 가챠 2 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110039,
-      "NameKr": "2_2차 픽업 SR \u002B SSR (10번째)",
+      "ID": 170039,
+      "NameKr": "페스 가챠 2 SR \u002B SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110042,
-      "NameKr": "2_2차 픽업 SR 더미",
+      "ID": 170042,
+      "NameKr": "페스 가챠 2 확률업 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110043,
-      "NameKr": "2_2차 픽업 SSR 사키(수영복)",
+      "ID": 170043,
+      "NameKr": "페스 가챠 2 확률업 SSR 페스 그룹",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 110050,
-      "NameKr": "2_3차 픽업",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110051,
-      "NameKr": "2_3차 픽업 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110052,
-      "NameKr": "2_3차 픽업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110053,
-      "NameKr": "2_3차 픽업 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110059,
-      "NameKr": "2_3차 픽업 SR \u002B SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110062,
-      "NameKr": "2_3차 픽업 SR 더미",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110063,
-      "NameKr": "2_3차 픽업 SSR 모에(수영복)",
+      "ID": 170049,
+      "NameKr": "페스 가챠 2 확률업 SSR 미카(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1665,6 +1671,54 @@
     {
       "ID": 180113,
       "NameKr": "신규 유저 전용 가챠_2탄_SSR_10번째",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190010,
+      "NameKr": "복각 페스 가챠",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190011,
+      "NameKr": "복각 페스 가챠 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190012,
+      "NameKr": "복각 페스 가챠 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190013,
+      "NameKr": "복각 페스 가챠 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190019,
+      "NameKr": "복각 페스 가챠 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190022,
+      "NameKr": "복각 페스 가챠 확률업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190023,
+      "NameKr": "복각 페스 가챠 확률업 SSR 페스 그룹",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 190029,
+      "NameKr": "복각 페스 가챠 확률업 SSR 하나코(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -5713,6 +5767,48 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 300831,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300832,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300833,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300834,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300835,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300836,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300837,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 310000,
       "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자",
       "IsRecursive": true,
@@ -5841,6 +5937,12 @@
     {
       "ID": 310230,
       "NameKr": "R77_게헨나_급양부_박스가챠_장비랜덤상자",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 310240,
+      "NameKr": "R82_CCG_이벤트_랜덤 장비 상자 ",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
@@ -6693,6 +6795,54 @@
     {
       "ID": 360188,
       "NameKr": "R80_복각_방디부육성_이벤트_랜덤 장비 상자",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360191,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360192,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360193,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360194,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360195,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360196,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360197,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 360198,
+      "NameKr": "R82_복각_발키리수영복_이벤트_랜덤 장비 상자",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
@@ -7723,6 +7873,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 801021,
+      "NameKr": "제조2호기 투입용 - 가구 (티파티 세트) 랜덤권",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 801991,
       "NameKr": "제조2호기 투입용 - 가구 1성 랜덤권",
       "IsRecursive": false,
@@ -7751,6 +7907,54 @@
       "NameKr": "메인 스토리 1부 최종편 보상용 꾸러미 보상",
       "IsRecursive": false,
       "GroupType": "Reward_Pack"
+    },
+    {
+      "ID": 1200010,
+      "NameKr": "3성 한정 확정 1회 모집",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000090,
+      "NameKr": "레거시 셀렉트 픽업 데이터",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000091,
+      "NameKr": "레거시 셀렉트 픽업 데이터 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000092,
+      "NameKr": "레거시 셀렉트 픽업 데이터 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000093,
+      "NameKr": "레거시 셀렉트 픽업 데이터 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000099,
+      "NameKr": "레거시 셀렉트 픽업 데이터 SR \u002B SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000102,
+      "NameKr": "레거시 셀렉트 픽업 데이터 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 9000103,
+      "NameKr": "레거시 셀렉트 픽업 데이터 당첨 픽업",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
     }
   ]
 }

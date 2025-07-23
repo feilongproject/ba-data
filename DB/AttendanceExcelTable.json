@@ -505,6 +505,28 @@
       "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event20Days_1017",
       "DecorationImagePath": "Uis/01_Common/33_Attendance/Image_Attend_Event20Days_1017",
       "DecorationGarlandImagePath": "Uis/01_Common/33_Attendance/Attendance02_Deco_01_01"
+    },
+    {
+      "Id": 24,
+      "Type": "Event",
+      "CountdownPrefab": "",
+      "DisplayOrder": 1,
+      "AccountType": "Normal",
+      "AccountLevelLimit": 0,
+      "Title": "",
+      "InfomationLocalizeCode": "AttendanceEvent_Info_Text_01",
+      "CountRule": "Accumulation",
+      "CountReset": "User",
+      "BookSize": 7,
+      "StartDate": "2025-07-22 04:00:00",
+      "StartableEndDate": "2025-08-20 11:00:00",
+      "EndDate": "2025-08-20 11:00:00",
+      "ExpiryDate": 0,
+      "MailType": "Attendance",
+      "DialogCategory": "UIAttendanceEvent19",
+      "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event_1016",
+      "DecorationImagePath": "Uis/01_Common/33_Attendance/Image_Attend_Event_1016",
+      "DecorationGarlandImagePath": ""
     }
   ]
 }

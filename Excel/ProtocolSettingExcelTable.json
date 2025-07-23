@@ -603,6 +603,13 @@
       "Mail": true
     },
     {
+      "Protocol": "Shop_PickupSelectionGachaBuy",
+      "OpenConditionContent": 21,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
       "Protocol": "Recipe_Craft",
       "OpenConditionContent": 21,
       "Currency": true,
@@ -682,9 +689,9 @@
     {
       "Protocol": "Raid_CompleteList",
       "OpenConditionContent": 0,
-      "Currency": true,
-      "Inventory": true,
-      "Mail": true
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "Raid_Detail",
@@ -1151,9 +1158,9 @@
     {
       "Protocol": "Arena_TicketPurchase",
       "OpenConditionContent": 8,
-      "Currency": false,
-      "Inventory": false,
-      "Mail": false
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "Arena_DamageReport",
@@ -1312,9 +1319,9 @@
     {
       "Protocol": "Clan_Join",
       "OpenConditionContent": 26,
-      "Currency": false,
-      "Inventory": false,
-      "Mail": false
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "Clan_Quit",
@@ -1368,9 +1375,9 @@
     {
       "Protocol": "Clan_MemberList",
       "OpenConditionContent": 26,
-      "Currency": true,
-      "Inventory": true,
-      "Mail": true
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "Clan_CancelApply",
@@ -1529,9 +1536,9 @@
     {
       "Protocol": "EventContent_Retreat",
       "OpenConditionContent": 21,
-      "Currency": false,
-      "Inventory": false,
-      "Mail": false
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "EventContent_Portal",
@@ -1704,9 +1711,9 @@
     {
       "Protocol": "ClearDeck_List",
       "OpenConditionContent": 21,
-      "Currency": false,
-      "Inventory": false,
-      "Mail": false
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "Queuing_GetTicket",
@@ -1984,9 +1991,9 @@
     {
       "Protocol": "Friend_Remove",
       "OpenConditionContent": 21,
-      "Currency": false,
-      "Inventory": false,
-      "Mail": false
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "Friend_GetFriendDetailedInfo",
@@ -2166,6 +2173,20 @@
     {
       "Protocol": "MiniGame_DefenseBattleResult",
       "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "MiniGame_CCGLobby",
+      "OpenConditionContent": 29,
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "BattlePass_ReceiveReward",
+      "OpenConditionContent": 21,
       "Currency": true,
       "Inventory": true,
       "Mail": true

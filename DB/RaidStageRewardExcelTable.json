@@ -694,6 +694,24 @@
       "ClearStageRewardAmount": 60
     },
     {
+      "GroupId": 707,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 80
+    },
+    {
+      "GroupId": 707,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 9,
+      "ClearStageRewardParcelUniqueName": "RaidCoin_High",
+      "ClearStageRewardAmount": 80
+    },
+    {
       "GroupId": 800,
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,

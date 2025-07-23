@@ -1681,6 +1681,70 @@
       "GuideText": "UI_Event_PlayGuide_Text_847_4"
     },
     {
+      "Id": 210,
+      "EventContentId": 848,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_0",
+      "GuideText": "UI_Event_PlayGuide_Text_848_0"
+    },
+    {
+      "Id": 211,
+      "EventContentId": 848,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_1",
+      "GuideText": "UI_Event_PlayGuide_Text_848_1"
+    },
+    {
+      "Id": 212,
+      "EventContentId": 848,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_2",
+      "GuideText": "UI_Event_PlayGuide_Text_848_1"
+    },
+    {
+      "Id": 213,
+      "EventContentId": 848,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_3",
+      "GuideText": "UI_Event_PlayGuide_Text_848_2"
+    },
+    {
+      "Id": 214,
+      "EventContentId": 848,
+      "DisplayOrder": 4,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_4",
+      "GuideText": "UI_Event_PlayGuide_Text_848_3"
+    },
+    {
+      "Id": 215,
+      "EventContentId": 848,
+      "DisplayOrder": 5,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_5",
+      "GuideText": "UI_Event_PlayGuide_Text_848_4"
+    },
+    {
+      "Id": 216,
+      "EventContentId": 848,
+      "DisplayOrder": 6,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_6",
+      "GuideText": "UI_Event_PlayGuide_Text_848_5"
+    },
+    {
+      "Id": 217,
+      "EventContentId": 848,
+      "DisplayOrder": 7,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_848_7",
+      "GuideText": "UI_Event_PlayGuide_Text_848_6"
+    },
+    {
       "Id": 10001,
       "EventContentId": 10801,
       "DisplayOrder": 0,
@@ -2711,6 +2775,38 @@
       "GuideTitle": "UI_Event_PlayGuide_Title_Text",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_836_4",
       "GuideText": "UI_Event_PlayGuide_Text_836_4"
+    },
+    {
+      "Id": 10130,
+      "EventContentId": 10837,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_837_0",
+      "GuideText": "UI_Event_PlayGuide_Text_837_0"
+    },
+    {
+      "Id": 10131,
+      "EventContentId": 10837,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_837_1",
+      "GuideText": "UI_Event_PlayGuide_Text_837_1"
+    },
+    {
+      "Id": 10132,
+      "EventContentId": 10837,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_837_2",
+      "GuideText": "UI_Event_PlayGuide_Text_837_2"
+    },
+    {
+      "Id": 10133,
+      "EventContentId": 10837,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_837_3",
+      "GuideText": "UI_Event_PlayGuide_Text_837_4"
     },
     {
       "Id": 60000,

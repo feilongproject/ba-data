@@ -678,6 +678,13 @@
       "MissionId": 0,
       "TextId": 3983900851,
       "LifeTime": 3000
+    },
+    {
+      "Id": 388315304,
+      "ToastType": "Social_Center",
+      "MissionId": 0,
+      "TextId": 388315304,
+      "LifeTime": 3000
     }
   ]
 }
