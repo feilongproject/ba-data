@@ -6526,6 +6526,114 @@
       "RewardParcelAmount": 70
     },
     {
+      "Id": 820,
+      "ShopCategoryType": "PickupGacha",
+      "ShopId": 50818,
+      "PickupCharacterId": 10096,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10096,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 821,
+      "ShopCategoryType": "RecruitSellection",
+      "ShopId": 10532,
+      "PickupCharacterId": 10096,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10096,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 822,
+      "ShopCategoryType": "PickupGacha",
+      "ShopId": 50819,
+      "PickupCharacterId": 20037,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20037,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 823,
+      "ShopCategoryType": "RecruitSellection",
+      "ShopId": 10532,
+      "PickupCharacterId": 20037,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20037,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 824,
+      "ShopCategoryType": "LimitedGacha",
+      "ShopId": 50821,
+      "PickupCharacterId": 10062,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10062,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 825,
+      "ShopCategoryType": "RecruitSellection",
+      "ShopId": 10533,
+      "PickupCharacterId": 10062,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10062,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 826,
+      "ShopCategoryType": "LimitedGacha",
+      "ShopId": 50822,
+      "PickupCharacterId": 20024,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20024,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 827,
+      "ShopCategoryType": "RecruitSellection",
+      "ShopId": 10533,
+      "PickupCharacterId": 20024,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20024,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 828,
+      "ShopCategoryType": "PickupGacha",
+      "ShopId": 50823,
+      "PickupCharacterId": 20023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20023,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 829,
+      "ShopCategoryType": "RecruitSellection",
+      "ShopId": 10533,
+      "PickupCharacterId": 20023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20023,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 830,
+      "ShopCategoryType": "PickupGacha",
+      "ShopId": 50824,
+      "PickupCharacterId": 10107,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10107,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 831,
+      "ShopCategoryType": "RecruitSellection",
+      "ShopId": 10533,
+      "PickupCharacterId": 10107,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10107,
+      "RewardParcelAmount": 70
+    },
+    {
       "Id": 10000,
       "ShopCategoryType": "DirectPayGacha",
       "ShopId": 70000,
@@ -17029,6 +17137,1626 @@
       "RewardParcelAmount": 70
     },
     {
+      "Id": 42047,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10034,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10034,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42048,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10035,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10035,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42049,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10036,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10036,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42050,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10037,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10037,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42051,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10038,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10038,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42052,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20014,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20014,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42053,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10039,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10039,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42054,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20015,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20015,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42055,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20016,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20016,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42056,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10040,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10040,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42057,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10041,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10041,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42058,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20017,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20017,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42059,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10042,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10042,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42060,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10043,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10043,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42061,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10044,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10044,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42064,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10048,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10048,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42065,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10049,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10049,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42066,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20018,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20018,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42067,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10050,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10050,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42068,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10051,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10051,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42069,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10052,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10052,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42070,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20019,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20019,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42073,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20020,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20020,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42074,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10055,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10055,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42075,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10056,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10056,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42076,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20021,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20021,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42079,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10058,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10058,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42080,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20023,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42081,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10060,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10060,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42082,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10061,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10061,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42085,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10063,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10063,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42086,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20025,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20025,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42087,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10064,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10064,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42088,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10065,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10065,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42089,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10067,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10067,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42090,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10066,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10066,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42091,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10068,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10068,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42092,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10069,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10069,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42093,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10070,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10070,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42094,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20026,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20026,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42095,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10071,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10071,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42096,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10072,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10072,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42097,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20027,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20027,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42100,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20029,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20029,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42105,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10075,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10075,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42106,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10076,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10076,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42107,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20030,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20030,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42108,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10077,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10077,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42109,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10078,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10078,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42110,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20031,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20031,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42113,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10081,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10081,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42114,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10082,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10082,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42115,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10083,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10083,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42116,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20032,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20032,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42117,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10085,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10085,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42118,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10084,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10084,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42121,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10089,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10089,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42122,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10088,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10088,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42123,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20034,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20034,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42124,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20035,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20035,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42125,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10090,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10090,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42128,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10093,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10093,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42129,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10094,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10094,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42130,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10095,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10095,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42131,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20036,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20036,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42132,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10096,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10096,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42133,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20037,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20037,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42134,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10097,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10097,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42140,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10103,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10103,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42141,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20038,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20038,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42142,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20039,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20039,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42143,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10104,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10104,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42146,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20040,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20040,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42147,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10107,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10107,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42148,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10108,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10108,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42149,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10109,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10109,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42154,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20042,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20042,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42155,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10113,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10113,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42156,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10114,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10114,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42157,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20043,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20043,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42158,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20044,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20044,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42159,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10115,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10115,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42160,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10116,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10116,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42163,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20045,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20045,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42164,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10119,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10119,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42165,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20046,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20046,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42166,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10120,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10120,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42167,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20047,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20047,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42168,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10121,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10121,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43047,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10034,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10034,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43048,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10035,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10035,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43049,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10036,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10036,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43050,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10037,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10037,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43051,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10038,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10038,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43052,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20014,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20014,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43053,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10039,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10039,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43054,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20015,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20015,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43055,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20016,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20016,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43056,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10040,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10040,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43057,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10041,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10041,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43058,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20017,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20017,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43059,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10042,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10042,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43060,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10043,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10043,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43061,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10044,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10044,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43064,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10048,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10048,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43065,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10049,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10049,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43066,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20018,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20018,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43067,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10050,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10050,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43068,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10051,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10051,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43069,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10052,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10052,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43070,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20019,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20019,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43073,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20020,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20020,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43074,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10055,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10055,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43075,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10056,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10056,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43076,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20021,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20021,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43079,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10058,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10058,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43080,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10060,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10060,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43081,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20023,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43082,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10061,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10061,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43083,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10062,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10062,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43084,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20024,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20024,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43085,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10063,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10063,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43086,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10064,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10064,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43087,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20025,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20025,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43088,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10065,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10065,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43089,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10066,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10066,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43090,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10067,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10067,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43091,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10068,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10068,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43092,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10069,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10069,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43093,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10070,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10070,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43094,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20026,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20026,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43095,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10071,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10071,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43096,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10072,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10072,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43097,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20027,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20027,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43100,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20029,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20029,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43105,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10075,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10075,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43106,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10076,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10076,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43107,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20030,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20030,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43108,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10077,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10077,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43109,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10078,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10078,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43110,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20031,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20031,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43113,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10081,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10081,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43114,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10082,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10082,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43115,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10083,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10083,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43116,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20032,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20032,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43117,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10085,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10085,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43118,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10084,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10084,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43121,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10089,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10089,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43122,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10088,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10088,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43123,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20034,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20034,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43124,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20035,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20035,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43125,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10090,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10090,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43128,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10093,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10093,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43129,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10094,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10094,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43130,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10095,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10095,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43131,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20036,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20036,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43132,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10096,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10096,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43133,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20037,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20037,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43134,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10097,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10097,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43140,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10103,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10103,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43141,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20038,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20038,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43142,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20039,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20039,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43143,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10104,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10104,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43146,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20040,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20040,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43147,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10107,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10107,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43148,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10108,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10108,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43149,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10109,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10109,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43154,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20042,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20042,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43155,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10113,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10113,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43156,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10114,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10114,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43157,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20043,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20043,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43158,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20044,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20044,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43159,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10115,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10115,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43160,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10116,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10116,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43163,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20045,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20045,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43164,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10119,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10119,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43165,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20046,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20046,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43166,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10120,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10120,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43167,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 20047,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20047,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 43168,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60006,
+      "PickupCharacterId": 10121,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10121,
+      "RewardParcelAmount": 70
+    },
+    {
       "Id": 50000,
       "ShopCategoryType": "TicketGacha",
       "ShopId": 90000,
@@ -20875,6 +22603,474 @@
       "Id": 61025,
       "ShopCategoryType": "TicketGacha",
       "ShopId": 100001,
+      "PickupCharacterId": 20033,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20033,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62000,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10021,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10021,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62001,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10022,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10022,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62002,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10023,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62003,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10026,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10026,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62004,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10027,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10027,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62005,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10031,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10031,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62006,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10032,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10032,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62007,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10046,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10046,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62008,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10047,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10047,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62009,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10053,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10053,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62010,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10054,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10054,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62011,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10057,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10057,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62012,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10062,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10062,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62013,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10073,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10073,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62014,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10087,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10087,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62015,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10091,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10091,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62016,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10092,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10092,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62017,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10101,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10101,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62018,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10102,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10102,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62019,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10105,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10105,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62020,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 10106,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10106,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62021,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 20004,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20004,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62022,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 20022,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20022,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62023,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 20024,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20024,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62024,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 20028,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20028,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 62025,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100002,
+      "PickupCharacterId": 20033,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20033,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64000,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10021,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10021,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64001,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10022,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10022,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64002,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10023,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64003,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10026,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10026,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64004,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10027,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10027,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64005,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10031,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10031,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64006,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10032,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10032,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64007,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10046,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10046,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64008,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10047,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10047,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64009,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10053,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10053,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64010,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10054,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10054,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64011,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10057,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10057,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64012,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10062,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10062,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64013,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10073,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10073,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64014,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10087,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10087,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64015,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10091,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10091,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64016,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10092,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10092,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64017,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10101,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10101,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64018,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10102,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10102,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64019,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10105,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10105,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64020,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 10106,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10106,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64021,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 20004,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20004,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64022,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 20022,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20022,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64023,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 20024,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20024,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64024,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
+      "PickupCharacterId": 20028,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20028,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 64025,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 100003,
       "PickupCharacterId": 20033,
       "RewardParcelType": "Item",
       "RewardParcelId": 20033,

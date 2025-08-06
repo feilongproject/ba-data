@@ -128038,6 +128038,50 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 10532,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 10533,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 19000,
       "LocalizeEtcId": 2803570054,
       "CategoryType": "RecruitSellection",
