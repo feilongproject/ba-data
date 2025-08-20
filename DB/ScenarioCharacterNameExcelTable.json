@@ -5182,6 +5182,171 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0328"
     },
     {
+      "CharacterName": 3188505523,
+      "ProductionStep": "Release",
+      "NameKR": "에리",
+      "NicknameKR": "오컬트 연구회",
+      "NameJP": "エリ",
+      "NicknameJP": "オカルト研究会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0304",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0304"
+    },
+    {
+      "CharacterName": 1369134951,
+      "ProductionStep": "Release",
+      "NameKR": "에리",
+      "NicknameKR": "와일드헌트 예술학원",
+      "NameJP": "エリ",
+      "NicknameJP": "ワイルドハント芸術学院",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0304",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0304"
+    },
+    {
+      "CharacterName": 570307233,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0304",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1293662705,
+      "ProductionStep": "Release",
+      "NameKR": "레나",
+      "NicknameKR": "오컬트 연구회",
+      "NameJP": "レナ",
+      "NicknameJP": "オカルト研究会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0305",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0305"
+    },
+    {
+      "CharacterName": 479095181,
+      "ProductionStep": "Release",
+      "NameKR": "레나",
+      "NicknameKR": "와일드헌트 예술학원",
+      "NameJP": "レナ",
+      "NicknameJP": "ワイルドハント芸術学院",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0305",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0305"
+    },
+    {
+      "CharacterName": 1674774776,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0305",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1666976057,
+      "ProductionStep": "Release",
+      "NameKR": "카노에",
+      "NicknameKR": "오컬트 연구회",
+      "NameJP": "カノエ",
+      "NicknameJP": "オカルト研究会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0306",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0306"
+    },
+    {
+      "CharacterName": 3310429820,
+      "ProductionStep": "Release",
+      "NameKR": "카노에",
+      "NicknameKR": "와일드헌트 예술학원",
+      "NameJP": "カノエ",
+      "NicknameJP": "ワイルドハント芸術学院",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0306",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0306"
+    },
+    {
+      "CharacterName": 3459859270,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0306",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2104204969,
+      "ProductionStep": "Release",
+      "NameKR": "츠무기",
+      "NicknameKR": "오컬트 연구회",
+      "NameJP": "ツムギ",
+      "NicknameJP": "オカルト研究会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0252"
+    },
+    {
+      "CharacterName": 1782018225,
+      "ProductionStep": "Release",
+      "NameKR": "미요",
+      "NicknameKR": "와일드헌트 예술학원",
+      "NameJP": "ミヨ",
+      "NicknameJP": "ワイルドハント芸術学院",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0317",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0317"
+    },
+    {
+      "CharacterName": 1573381788,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0317",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0317"
+    },
+    {
+      "CharacterName": 3254626457,
+      "ProductionStep": "Release",
+      "NameKR": "미리아",
+      "NicknameKR": "사감대",
+      "NameJP": "ミリア",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0323",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0323"
+    },
+    {
+      "CharacterName": 1921620977,
+      "ProductionStep": "Release",
+      "NameKR": "사감대 간부",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊の幹部",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0323",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0323"
+    },
+    {
+      "CharacterName": 178211173,
+      "ProductionStep": "Release",
+      "NameKR": "사감대 간부",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊の幹部",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
       "CharacterName": 3261875659,
       "ProductionStep": "Release",
       "NameKR": "아즈사",
@@ -7435,6 +7600,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0280",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0280"
+    },
+    {
+      "CharacterName": 459123828,
+      "ProductionStep": "Release",
+      "NameKR": "평의회장",
+      "NicknameKR": "예술 평의회",
+      "NameJP": "評議会長",
+      "NicknameJP": "芸術評議会",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
       "CharacterName": 1800434827,
@@ -22966,7 +23142,7 @@
       "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "",
-      "SmallPortrait": ""
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
       "CharacterName": 3557333863,
@@ -23209,6 +23385,160 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_market_animal2",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal2"
+    },
+    {
+      "CharacterName": 472669325,
+      "ProductionStep": "Release",
+      "NameKR": "행인 A",
+      "NicknameKR": "",
+      "NameJP": "通行人A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal6",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal6"
+    },
+    {
+      "CharacterName": 2907003435,
+      "ProductionStep": "Release",
+      "NameKR": "사감대원",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊員",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 165707890,
+      "ProductionStep": "Release",
+      "NameKR": "와일드헌트 학생 A",
+      "NicknameKR": "",
+      "NameJP": "ワイルドハントの生徒A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0253",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0253"
+    },
+    {
+      "CharacterName": 1643702463,
+      "ProductionStep": "Release",
+      "NameKR": "와일드헌트 학생 B",
+      "NicknameKR": "",
+      "NameJP": "ワイルドハントの生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 3816842794,
+      "ProductionStep": "Release",
+      "NameKR": "검은 고양이",
+      "NicknameKR": "",
+      "NameJP": "黒猫",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 655426334,
+      "ProductionStep": "Release",
+      "NameKR": "까마귀",
+      "NicknameKR": "",
+      "NameJP": "カラス",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 52077097,
+      "ProductionStep": "Release",
+      "NameKR": "회화학과 학생 A",
+      "NicknameKR": "",
+      "NameJP": "絵画学科の生徒A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0253",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0253"
+    },
+    {
+      "CharacterName": 728309801,
+      "ProductionStep": "Release",
+      "NameKR": "회화학과 학생 B",
+      "NicknameKR": "",
+      "NameJP": "絵画学科の生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 2274934021,
+      "ProductionStep": "Release",
+      "NameKR": "사감대원 A",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊員A",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 816266941,
+      "ProductionStep": "Release",
+      "NameKR": "사감대원 B",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊員B",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 3183778481,
+      "ProductionStep": "Release",
+      "NameKR": "사감대원 C",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊員C",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 227033233,
+      "ProductionStep": "Release",
+      "NameKR": "사감대원 D",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊員D",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 246833297,
+      "ProductionStep": "Release",
+      "NameKR": "귀여운 목소리의 학생",
+      "NicknameKR": "",
+      "NameJP": "可愛い声の生徒",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1521383991,
+      "ProductionStep": "Release",
+      "NameKR": "사감대 학생",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊の生徒",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
     }
   ]
 }

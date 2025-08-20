@@ -3589,6 +3589,25 @@
       "ParticleApplySocket": "None",
       "ParticleRemovedPath": "",
       "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 4108368759,
+      "IconSpriteName": "Combat_Icon_Special_CH0304_ExtraPassive",
+      "IconDispelColor": [
+        {},
+        {},
+        {}
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
     }
   ]
 }

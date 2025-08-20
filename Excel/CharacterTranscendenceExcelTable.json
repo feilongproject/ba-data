@@ -8126,6 +8126,136 @@
       ]
     },
     {
+      "CharacterId": 10125,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10125000,
+        10125001,
+        10125002,
+        10125003
+      ],
+      "SkillSlotA": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillSlotB": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillSlotC": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10126,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10126000,
+        10126001,
+        10126002,
+        10126003
+      ],
+      "SkillSlotA": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillSlotB": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillSlotC": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
       "CharacterId": 13000,
       "MaxFavorLevel": [
         10,
@@ -14787,7 +14917,78 @@
         "None",
         "None"
       ],
-      "MaxlevelStar": []
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 20049,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        20049000,
+        20049001,
+        20049002,
+        20049003
+      ],
+      "SkillSlotA": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillSlotB": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillSlotC": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
       "CharacterId": 23000,
@@ -37584,6 +37785,126 @@
         "None"
       ],
       "MaxlevelStar": []
+    },
+    {
+      "CharacterId": 9010128,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillSlotA": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillSlotB": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillSlotC": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010129,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillSlotA": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillSlotB": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillSlotC": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
       "CharacterId": 7611013,

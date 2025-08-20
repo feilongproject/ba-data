@@ -1001,6 +1001,22 @@
       "MaxScale": 1.8
     },
     {
+      "Id": 10125,
+      "CharacterBodyCenterX": 8.25,
+      "CharacterBodyCenterY": 7.4,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10126,
+      "CharacterBodyCenterX": 7.74,
+      "CharacterBodyCenterY": 7.45,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
       "Id": 13000,
       "CharacterBodyCenterX": 8.7,
       "CharacterBodyCenterY": 6.75,

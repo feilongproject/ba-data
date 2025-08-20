@@ -193,6 +193,102 @@
       "Prob": 1
     },
     {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 0,
+      "CostItemId": 0,
+      "CostItemAmount": 0,
+      "DiceResult": 1,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 1,
+      "CostItemId": 0,
+      "CostItemAmount": 0,
+      "DiceResult": 2,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 2,
+      "CostItemId": 0,
+      "CostItemAmount": 0,
+      "DiceResult": 3,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 3,
+      "CostItemId": 0,
+      "CostItemAmount": 0,
+      "DiceResult": 4,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 4,
+      "CostItemId": 0,
+      "CostItemAmount": 0,
+      "DiceResult": 5,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 5,
+      "CostItemId": 0,
+      "CostItemAmount": 0,
+      "DiceResult": 6,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 9,
+      "CostItemId": 80665,
+      "CostItemAmount": 1,
+      "DiceResult": 1,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 10,
+      "CostItemId": 80666,
+      "CostItemAmount": 1,
+      "DiceResult": 2,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 11,
+      "CostItemId": 80667,
+      "CostItemAmount": 1,
+      "DiceResult": 3,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 12,
+      "CostItemId": 80668,
+      "CostItemAmount": 1,
+      "DiceResult": 4,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 13,
+      "CostItemId": 80669,
+      "CostItemAmount": 1,
+      "DiceResult": 5,
+      "Prob": 1
+    },
+    {
+      "EventContentId": 849,
+      "EventContentDiceRaceResultType": 14,
+      "CostItemId": 80670,
+      "CostItemAmount": 1,
+      "DiceResult": 6,
+      "Prob": 1
+    },
+    {
       "EventContentId": 10818,
       "EventContentDiceRaceResultType": 0,
       "CostItemId": 0,

@@ -38181,6 +38181,846 @@
       "BehaviorArgument": "0"
     },
     {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 6,
+      "TriggerArgument": "301",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "9"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 6,
+      "TriggerArgument": "301",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 7,
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 5,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "2"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "5",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "7",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "10",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "11",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "11",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "3"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "14",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "16",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "18",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "19",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "2"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "23",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "25",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "27",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "28",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "29",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "29",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "3"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "32",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "34",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "36",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "37",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "38",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 6,
+      "TriggerArgument": "301",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "9"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 6,
+      "TriggerArgument": "301",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "2"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 7,
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 5,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "4"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "5",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "7",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "10",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "11",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "11",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "5"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "14",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "16",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "18",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "19",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "4"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "23",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "25",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "27",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "28",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "29",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "29",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "5"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "32",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "34",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "36",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "37",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 1,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "38",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 6,
+      "TriggerArgument": "301",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "9"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 6,
+      "TriggerArgument": "301",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 7,
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 5,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "6"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "5",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "7",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "10",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "11",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "11",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "7"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "14",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "16",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "18",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "19",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "20",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "6"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "23",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "25",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "27",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "28",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "29",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "29",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "7"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "32",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "34",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "36",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "8"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "37",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 2,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 4,
+      "TriggerArgument": "38",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 3,
+      "BehaviorArgument": "-1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 3,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 1,
+      "TriggerArgument": "50000000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "2"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 3,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 1,
+      "TriggerArgument": "100000000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "1"
+    },
+    {
+      "ExternalBTId": 7405800,
+      "AIPhase": 3,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 1,
+      "TriggerArgument": "176000000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 1,
+      "BehaviorArgument": "0"
+    },
+    {
       "ExternalBTId": 7306100,
       "AIPhase": 0,
       "ExternalBTNodeType": 2,
@@ -96739,6 +97579,136 @@
       "BehaviorRate": 10000,
       "ExternalBehavior": 4,
       "BehaviorArgument": "2"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
+    },
+    {
+      "ExternalBTId": 8490101,
+      "AIPhase": 0,
+      "ExternalBTNodeType": 2,
+      "ExternalBTTrigger": 11,
+      "TriggerArgument": "849Event_Challenge01_Dummy_Effect_02",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": 4,
+      "BehaviorArgument": "0"
     }
   ]
 }

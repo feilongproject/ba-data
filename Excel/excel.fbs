@@ -97,7 +97,9 @@ enum Club : int {
     ShinySparkleSociety,
     AbydosStudentCouncil,
     CentralControlCenter,
-    FreightLogisticsDepartment
+    FreightLogisticsDepartment,
+    OccultClub,
+    PrefectBrigade
 }
 enum CollectionUnlockType : int {
     None,
@@ -167,6 +169,8 @@ enum CurrencyTypes : int {
     EliminateTicketB,
     EliminateTicketC,
     EliminateTicketD,
+    CafeSummonTicket1,
+    CafeSummonTicket2,
     Max
 }
 enum DamageAttribute : int {
@@ -859,7 +863,8 @@ enum ShopCategoryType : int {
     GlobalSpecialGacha,
     SelectPickupGacha,
     GemDaily,
-    GemWeekly
+    GemWeekly,
+    CafeSummonTicket
 }
 enum SquadType : int {
     None,
@@ -4465,6 +4470,7 @@ table EventContentDiceRaceExcel {
     SkipableLap: int;
     DiceRacePawnPrefab: string;
     IsUsingFixedDice: bool;
+    FixedDiceIcon: [string];
     DiceRaceEventType: [string];
 }
 table EventContentDiceRaceTotalRewardExcel {
@@ -5363,6 +5369,7 @@ table ConstCommonExcel {
     BattlePassEndImminentDay: int;
     BattlePassExpIconPath: string;
     CafeCameraDragThreshold: float;
+    CafeSummonTicketBuyLimitForValidate: int;
 }
 table ConstCommonExcelTable {
     DataList: [ConstCommonExcel];

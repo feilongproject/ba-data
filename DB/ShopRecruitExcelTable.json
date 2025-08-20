@@ -15,6 +15,7 @@
       ],
       "LinkedRobbyBannerId": 0,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "RecruitCoinId": 79999,
@@ -45,6 +46,7 @@
       ],
       "LinkedRobbyBannerId": 0,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "RecruitCoinId": 79999,
@@ -75,6 +77,7 @@
       ],
       "LinkedRobbyBannerId": 0,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "RecruitCoinId": 79999,
@@ -105,6 +108,7 @@
       ],
       "LinkedRobbyBannerId": 11,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-07 12:30:00",
       "SalePeriodTo": "2021-04-29 12:00:00",
       "RecruitCoinId": 70008,
@@ -137,6 +141,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-07 12:30:00",
       "SalePeriodTo": "2021-04-29 12:00:00",
       "RecruitCoinId": 70008,
@@ -167,6 +172,7 @@
       ],
       "LinkedRobbyBannerId": 13,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-02-04 16:00:00",
       "SalePeriodTo": "2021-02-11 13:59:59",
       "RecruitCoinId": 70000,
@@ -197,6 +203,7 @@
       ],
       "LinkedRobbyBannerId": 14,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-02-11 15:00:00",
       "SalePeriodTo": "2021-02-25 14:01:00",
       "RecruitCoinId": 70001,
@@ -231,6 +238,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-02-04 16:00:00",
       "SalePeriodTo": "2021-02-11 13:59:59",
       "RecruitCoinId": 70000,
@@ -263,6 +271,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-02-11 15:00:00",
       "SalePeriodTo": "2021-02-25 14:01:00",
       "RecruitCoinId": 70001,
@@ -293,6 +302,7 @@
       ],
       "LinkedRobbyBannerId": 1,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-02-25 14:30:00",
       "SalePeriodTo": "2021-03-11 12:00:00",
       "RecruitCoinId": 70002,
@@ -327,6 +337,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-02-25 14:30:00",
       "SalePeriodTo": "2021-03-11 12:00:00",
       "RecruitCoinId": 70002,
@@ -357,6 +368,7 @@
       ],
       "LinkedRobbyBannerId": 2,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-11 12:30:00",
       "SalePeriodTo": "2021-03-18 12:00:00",
       "RecruitCoinId": 70003,
@@ -389,6 +401,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-11 12:30:00",
       "SalePeriodTo": "2021-03-18 12:00:00",
       "RecruitCoinId": 70003,
@@ -419,6 +432,7 @@
       ],
       "LinkedRobbyBannerId": 3,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-18 12:30:00",
       "SalePeriodTo": "2021-03-25 12:00:00",
       "RecruitCoinId": 70004,
@@ -451,6 +465,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-18 12:30:00",
       "SalePeriodTo": "2021-03-25 12:00:00",
       "RecruitCoinId": 70004,
@@ -481,6 +496,7 @@
       ],
       "LinkedRobbyBannerId": 20,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-25 12:30:00",
       "SalePeriodTo": "2021-04-08 12:00:00",
       "RecruitCoinId": 70005,
@@ -513,6 +529,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-03-25 12:30:00",
       "SalePeriodTo": "2021-04-08 12:00:00",
       "RecruitCoinId": 70005,
@@ -543,6 +560,7 @@
       ],
       "LinkedRobbyBannerId": 22,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-04-08 12:30:00",
       "SalePeriodTo": "2021-04-22 12:00:00",
       "RecruitCoinId": 70006,
@@ -577,6 +595,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-04-08 12:30:00",
       "SalePeriodTo": "2021-04-22 12:00:00",
       "RecruitCoinId": 70006,
@@ -607,6 +626,7 @@
       ],
       "LinkedRobbyBannerId": 24,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-04-22 12:30:00",
       "SalePeriodTo": "2021-04-29 12:00:00",
       "RecruitCoinId": 70007,
@@ -639,6 +659,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-04-22 12:30:00",
       "SalePeriodTo": "2021-04-29 12:00:00",
       "RecruitCoinId": 70007,
@@ -669,6 +690,7 @@
       ],
       "LinkedRobbyBannerId": 30,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-04-29 12:30:00",
       "SalePeriodTo": "2021-05-13 12:00:00",
       "RecruitCoinId": 70008,
@@ -701,6 +723,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-04-29 12:30:00",
       "SalePeriodTo": "2021-05-13 12:00:00",
       "RecruitCoinId": 70008,
@@ -731,6 +754,7 @@
       ],
       "LinkedRobbyBannerId": 32,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-05-13 12:30:00",
       "SalePeriodTo": "2021-05-27 12:00:00",
       "RecruitCoinId": 70009,
@@ -763,6 +787,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-05-13 12:30:00",
       "SalePeriodTo": "2021-05-27 12:00:00",
       "RecruitCoinId": 70009,
@@ -793,6 +818,7 @@
       ],
       "LinkedRobbyBannerId": 40,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-05-27 12:30:00",
       "SalePeriodTo": "2021-06-10 12:00:00",
       "RecruitCoinId": 70010,
@@ -827,6 +853,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-05-27 12:30:00",
       "SalePeriodTo": "2021-06-10 12:00:00",
       "RecruitCoinId": 70010,
@@ -857,6 +884,7 @@
       ],
       "LinkedRobbyBannerId": 42,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-10 12:30:00",
       "SalePeriodTo": "2021-06-24 12:00:00",
       "RecruitCoinId": 70011,
@@ -889,6 +917,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-10 12:30:00",
       "SalePeriodTo": "2021-06-24 12:00:00",
       "RecruitCoinId": 70011,
@@ -919,6 +948,7 @@
       ],
       "LinkedRobbyBannerId": 44,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-24 12:30:00",
       "SalePeriodTo": "2021-06-30 12:00:00",
       "RecruitCoinId": 70012,
@@ -951,6 +981,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-24 12:30:00",
       "SalePeriodTo": "2021-06-30 12:00:00",
       "RecruitCoinId": 70012,
@@ -981,6 +1012,7 @@
       ],
       "LinkedRobbyBannerId": 50,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-30 12:30:00",
       "SalePeriodTo": "2021-07-15 12:00:00",
       "RecruitCoinId": 70013,
@@ -1013,6 +1045,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-30 12:30:00",
       "SalePeriodTo": "2021-07-15 12:00:00",
       "RecruitCoinId": 70013,
@@ -1045,6 +1078,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-06-30 12:30:00",
       "SalePeriodTo": "2021-07-15 12:00:00",
       "RecruitCoinId": 70013,
@@ -1075,6 +1109,7 @@
       ],
       "LinkedRobbyBannerId": 54,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-07-15 12:30:00",
       "SalePeriodTo": "2021-07-29 12:00:00",
       "RecruitCoinId": 70014,
@@ -1107,6 +1142,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-07-15 12:30:00",
       "SalePeriodTo": "2021-07-29 12:00:00",
       "RecruitCoinId": 70014,
@@ -1137,6 +1173,7 @@
       ],
       "LinkedRobbyBannerId": 60,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-07-29 12:30:00",
       "SalePeriodTo": "2021-08-12 12:00:00",
       "RecruitCoinId": 70015,
@@ -1169,6 +1206,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-07-29 12:30:00",
       "SalePeriodTo": "2021-08-12 12:00:00",
       "RecruitCoinId": 70015,
@@ -1201,6 +1239,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-07-29 12:30:00",
       "SalePeriodTo": "2021-08-12 12:00:00",
       "RecruitCoinId": 70015,
@@ -1231,6 +1270,7 @@
       ],
       "LinkedRobbyBannerId": 64,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-08-12 12:30:00",
       "SalePeriodTo": "2021-08-26 12:00:00",
       "RecruitCoinId": 70016,
@@ -1263,6 +1303,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-08-12 12:30:00",
       "SalePeriodTo": "2021-08-26 12:00:00",
       "RecruitCoinId": 70016,
@@ -1293,6 +1334,7 @@
       ],
       "LinkedRobbyBannerId": 70,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-08-26 12:30:00",
       "SalePeriodTo": "2021-09-09 12:00:00",
       "RecruitCoinId": 70017,
@@ -1327,6 +1369,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-08-26 12:30:00",
       "SalePeriodTo": "2021-09-09 12:00:00",
       "RecruitCoinId": 70017,
@@ -1357,6 +1400,7 @@
       ],
       "LinkedRobbyBannerId": 72,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-09 12:30:00",
       "SalePeriodTo": "2021-09-23 12:00:00",
       "RecruitCoinId": 70018,
@@ -1389,6 +1433,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-09 12:30:00",
       "SalePeriodTo": "2021-09-23 12:00:00",
       "RecruitCoinId": 70018,
@@ -1419,6 +1464,7 @@
       ],
       "LinkedRobbyBannerId": 74,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-23 12:30:00",
       "SalePeriodTo": "2021-09-29 12:00:00",
       "RecruitCoinId": 70019,
@@ -1451,6 +1497,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-23 12:30:00",
       "SalePeriodTo": "2021-09-29 12:00:00",
       "RecruitCoinId": 70019,
@@ -1481,6 +1528,7 @@
       ],
       "LinkedRobbyBannerId": 80,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-29 12:30:00",
       "SalePeriodTo": "2021-10-12 12:00:00",
       "RecruitCoinId": 70020,
@@ -1513,6 +1561,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-29 12:30:00",
       "SalePeriodTo": "2021-10-12 12:00:00",
       "RecruitCoinId": 70020,
@@ -1545,6 +1594,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-09-29 12:30:00",
       "SalePeriodTo": "2021-10-12 12:00:00",
       "RecruitCoinId": 70020,
@@ -1575,6 +1625,7 @@
       ],
       "LinkedRobbyBannerId": 84,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-10-12 12:30:00",
       "SalePeriodTo": "2021-10-27 12:00:00",
       "RecruitCoinId": 70021,
@@ -1607,6 +1658,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-10-12 12:30:00",
       "SalePeriodTo": "2021-10-27 12:00:00",
       "RecruitCoinId": 70021,
@@ -1637,6 +1689,7 @@
       ],
       "LinkedRobbyBannerId": 90,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-10-27 12:30:00",
       "SalePeriodTo": "2021-11-03 12:00:00",
       "RecruitCoinId": 70022,
@@ -1671,6 +1724,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-10-27 12:30:00",
       "SalePeriodTo": "2021-11-03 12:00:00",
       "RecruitCoinId": 70022,
@@ -1701,6 +1755,7 @@
       ],
       "LinkedRobbyBannerId": 92,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-03 12:30:00",
       "SalePeriodTo": "2021-11-17 12:00:00",
       "RecruitCoinId": 70023,
@@ -1733,6 +1788,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-03 12:30:00",
       "SalePeriodTo": "2021-11-17 12:00:00",
       "RecruitCoinId": 70023,
@@ -1763,6 +1819,7 @@
       ],
       "LinkedRobbyBannerId": 94,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-17 12:30:00",
       "SalePeriodTo": "2021-11-30 12:00:00",
       "RecruitCoinId": 70024,
@@ -1795,6 +1852,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-17 12:30:00",
       "SalePeriodTo": "2021-11-30 12:00:00",
       "RecruitCoinId": 70024,
@@ -1825,6 +1883,7 @@
       ],
       "LinkedRobbyBannerId": 100,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-30 12:30:00",
       "SalePeriodTo": "2021-12-15 12:00:00",
       "RecruitCoinId": 70025,
@@ -1857,6 +1916,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-30 12:30:00",
       "SalePeriodTo": "2021-12-15 12:00:00",
       "RecruitCoinId": 70025,
@@ -1889,6 +1949,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-11-30 12:30:00",
       "SalePeriodTo": "2021-12-15 12:00:00",
       "RecruitCoinId": 70025,
@@ -1919,6 +1980,7 @@
       ],
       "LinkedRobbyBannerId": 104,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-12-15 12:30:00",
       "SalePeriodTo": "2021-12-29 12:00:00",
       "RecruitCoinId": 70026,
@@ -1951,6 +2013,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-12-15 12:30:00",
       "SalePeriodTo": "2021-12-29 12:00:00",
       "RecruitCoinId": 70026,
@@ -1981,6 +2044,7 @@
       ],
       "LinkedRobbyBannerId": 110,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-12-15 12:30:00",
       "SalePeriodTo": "2022-01-12 12:00:00",
       "RecruitCoinId": 70027,
@@ -2013,6 +2077,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-12-15 12:30:00",
       "SalePeriodTo": "2022-01-12 12:00:00",
       "RecruitCoinId": 70027,
@@ -2045,6 +2110,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-12-29 12:30:00",
       "SalePeriodTo": "2022-01-12 12:00:00",
       "RecruitCoinId": 70027,
@@ -2075,6 +2141,7 @@
       ],
       "LinkedRobbyBannerId": 114,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-12 12:30:00",
       "SalePeriodTo": "2022-01-26 12:00:00",
       "RecruitCoinId": 70028,
@@ -2107,6 +2174,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-12 12:30:00",
       "SalePeriodTo": "2022-01-26 12:00:00",
       "RecruitCoinId": 70028,
@@ -2137,6 +2205,7 @@
       ],
       "LinkedRobbyBannerId": 120,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-26 12:30:00",
       "SalePeriodTo": "2022-01-30 11:59:59",
       "RecruitCoinId": 70029,
@@ -2169,6 +2238,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-26 12:30:00",
       "SalePeriodTo": "2022-01-30 11:59:59",
       "RecruitCoinId": 70029,
@@ -2199,6 +2269,7 @@
       ],
       "LinkedRobbyBannerId": 122,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-30 12:00:00",
       "SalePeriodTo": "2022-02-09 12:00:00",
       "RecruitCoinId": 70030,
@@ -2231,6 +2302,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-30 12:00:00",
       "SalePeriodTo": "2022-02-09 12:00:00",
       "RecruitCoinId": 70030,
@@ -2263,6 +2335,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-30 12:00:00",
       "SalePeriodTo": "2022-02-09 12:00:00",
       "RecruitCoinId": 70030,
@@ -2293,6 +2366,7 @@
       ],
       "LinkedRobbyBannerId": 125,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-09 12:30:00",
       "SalePeriodTo": "2022-02-16 11:59:59",
       "RecruitCoinId": 70031,
@@ -2325,6 +2399,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-09 12:30:00",
       "SalePeriodTo": "2022-02-16 11:59:59",
       "RecruitCoinId": 70031,
@@ -2359,6 +2434,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-09 12:30:00",
       "SalePeriodTo": "2022-02-16 11:59:59",
       "RecruitCoinId": 70031,
@@ -2389,6 +2465,7 @@
       ],
       "LinkedRobbyBannerId": 128,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-16 12:00:00",
       "SalePeriodTo": "2022-02-23 10:59:59",
       "RecruitCoinId": 70032,
@@ -2421,6 +2498,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-16 12:00:00",
       "SalePeriodTo": "2022-02-23 10:59:59",
       "RecruitCoinId": 70032,
@@ -2453,6 +2531,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-16 12:00:00",
       "SalePeriodTo": "2022-02-23 10:59:59",
       "RecruitCoinId": 70032,
@@ -2483,6 +2562,7 @@
       ],
       "LinkedRobbyBannerId": 140,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-23 11:00:00",
       "SalePeriodTo": "2022-03-09 10:59:59",
       "RecruitCoinId": 70033,
@@ -2515,6 +2595,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-23 11:00:00",
       "SalePeriodTo": "2022-03-09 10:59:59",
       "RecruitCoinId": 70033,
@@ -2547,6 +2628,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-02-23 11:00:00",
       "SalePeriodTo": "2022-03-09 10:59:59",
       "RecruitCoinId": 70033,
@@ -2577,6 +2659,7 @@
       ],
       "LinkedRobbyBannerId": 143,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-09 11:00:00",
       "SalePeriodTo": "2022-03-16 10:59:59",
       "RecruitCoinId": 70034,
@@ -2609,6 +2692,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-09 11:00:00",
       "SalePeriodTo": "2022-03-16 10:59:59",
       "RecruitCoinId": 70034,
@@ -2641,6 +2725,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-09 11:00:00",
       "SalePeriodTo": "2022-03-16 10:59:59",
       "RecruitCoinId": 70034,
@@ -2671,6 +2756,7 @@
       ],
       "LinkedRobbyBannerId": 146,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-16 11:00:00",
       "SalePeriodTo": "2022-03-23 10:59:59",
       "RecruitCoinId": 70035,
@@ -2703,6 +2789,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-16 11:00:00",
       "SalePeriodTo": "2022-03-23 10:59:59",
       "RecruitCoinId": 70035,
@@ -2737,6 +2824,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-16 11:00:00",
       "SalePeriodTo": "2022-03-23 10:59:59",
       "RecruitCoinId": 70035,
@@ -2767,6 +2855,7 @@
       ],
       "LinkedRobbyBannerId": 150,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-23 11:00:00",
       "SalePeriodTo": "2022-04-06 10:59:59",
       "RecruitCoinId": 70036,
@@ -2799,6 +2888,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-23 11:00:00",
       "SalePeriodTo": "2022-04-06 10:59:59",
       "RecruitCoinId": 70036,
@@ -2831,6 +2921,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-03-23 11:00:00",
       "SalePeriodTo": "2022-04-06 10:59:59",
       "RecruitCoinId": 70036,
@@ -2861,6 +2952,7 @@
       ],
       "LinkedRobbyBannerId": 153,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-06 11:00:00",
       "SalePeriodTo": "2022-04-20 10:59:59",
       "RecruitCoinId": 70037,
@@ -2893,6 +2985,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-06 11:00:00",
       "SalePeriodTo": "2022-04-20 10:59:59",
       "RecruitCoinId": 70037,
@@ -2925,6 +3018,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-06 11:00:00",
       "SalePeriodTo": "2022-04-20 10:59:59",
       "RecruitCoinId": 70037,
@@ -2955,6 +3049,7 @@
       ],
       "LinkedRobbyBannerId": 156,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-20 11:00:00",
       "SalePeriodTo": "2022-04-27 10:59:59",
       "RecruitCoinId": 70038,
@@ -2987,6 +3082,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-20 11:00:00",
       "SalePeriodTo": "2022-04-27 10:59:59",
       "RecruitCoinId": 70038,
@@ -3019,6 +3115,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-20 11:00:00",
       "SalePeriodTo": "2022-04-27 10:59:59",
       "RecruitCoinId": 70038,
@@ -3051,6 +3148,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-20 11:00:00",
       "SalePeriodTo": "2022-04-27 10:59:59",
       "RecruitCoinId": 70038,
@@ -3081,6 +3179,7 @@
       ],
       "LinkedRobbyBannerId": 160,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-27 11:00:00",
       "SalePeriodTo": "2022-05-11 10:59:59",
       "RecruitCoinId": 70039,
@@ -3113,6 +3212,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-27 11:00:00",
       "SalePeriodTo": "2022-05-11 10:59:59",
       "RecruitCoinId": 70039,
@@ -3145,6 +3245,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-04-27 11:00:00",
       "SalePeriodTo": "2022-05-11 10:59:59",
       "RecruitCoinId": 70039,
@@ -3175,6 +3276,7 @@
       ],
       "LinkedRobbyBannerId": 163,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-05-11 11:00:00",
       "SalePeriodTo": "2022-05-24 10:59:59",
       "RecruitCoinId": 70040,
@@ -3207,6 +3309,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-05-11 11:00:00",
       "SalePeriodTo": "2022-05-24 10:59:59",
       "RecruitCoinId": 70040,
@@ -3239,6 +3342,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-05-11 11:00:00",
       "SalePeriodTo": "2022-05-24 10:59:59",
       "RecruitCoinId": 70040,
@@ -3269,6 +3373,7 @@
       ],
       "LinkedRobbyBannerId": 170,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-05-24 11:00:00",
       "SalePeriodTo": "2022-06-08 10:59:59",
       "RecruitCoinId": 70041,
@@ -3301,6 +3406,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-05-24 11:00:00",
       "SalePeriodTo": "2022-06-08 10:59:59",
       "RecruitCoinId": 70041,
@@ -3333,6 +3439,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-05-24 11:00:00",
       "SalePeriodTo": "2022-06-08 10:59:59",
       "RecruitCoinId": 70041,
@@ -3363,6 +3470,7 @@
       ],
       "LinkedRobbyBannerId": 173,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-06-08 11:00:00",
       "SalePeriodTo": "2022-06-22 10:59:59",
       "RecruitCoinId": 70042,
@@ -3395,6 +3503,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-06-08 11:00:00",
       "SalePeriodTo": "2022-06-22 10:59:59",
       "RecruitCoinId": 70042,
@@ -3429,6 +3538,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-06-08 11:00:00",
       "SalePeriodTo": "2022-06-22 10:59:59",
       "RecruitCoinId": 70042,
@@ -3459,6 +3569,7 @@
       ],
       "LinkedRobbyBannerId": 180,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-06-22 11:00:00",
       "SalePeriodTo": "2022-07-06 10:59:59",
       "RecruitCoinId": 70043,
@@ -3491,6 +3602,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-06-22 11:00:00",
       "SalePeriodTo": "2022-07-06 10:59:59",
       "RecruitCoinId": 70043,
@@ -3523,6 +3635,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-06-22 11:00:00",
       "SalePeriodTo": "2022-07-06 10:59:59",
       "RecruitCoinId": 70043,
@@ -3553,6 +3666,7 @@
       ],
       "LinkedRobbyBannerId": 183,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-06 11:00:00",
       "SalePeriodTo": "2022-07-20 10:59:59",
       "RecruitCoinId": 70044,
@@ -3585,6 +3699,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-06 11:00:00",
       "SalePeriodTo": "2022-07-20 10:59:59",
       "RecruitCoinId": 70044,
@@ -3617,6 +3732,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-06 11:00:00",
       "SalePeriodTo": "2022-07-20 10:59:59",
       "RecruitCoinId": 70044,
@@ -3647,6 +3763,7 @@
       ],
       "LinkedRobbyBannerId": 190,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-20 11:00:00",
       "SalePeriodTo": "2022-07-25 10:59:59",
       "RecruitCoinId": 70045,
@@ -3679,6 +3796,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-20 11:00:00",
       "SalePeriodTo": "2022-07-25 10:59:59",
       "RecruitCoinId": 70045,
@@ -3709,6 +3827,7 @@
       ],
       "LinkedRobbyBannerId": 192,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-25 11:00:00",
       "SalePeriodTo": "2022-08-03 10:59:59",
       "RecruitCoinId": 70046,
@@ -3741,6 +3860,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-25 11:00:00",
       "SalePeriodTo": "2022-08-03 10:59:59",
       "RecruitCoinId": 70046,
@@ -3773,6 +3893,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-25 11:00:00",
       "SalePeriodTo": "2022-08-03 10:59:59",
       "RecruitCoinId": 70046,
@@ -3803,6 +3924,7 @@
       ],
       "LinkedRobbyBannerId": 195,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-03 11:00:00",
       "SalePeriodTo": "2022-08-09 10:59:59",
       "RecruitCoinId": 70047,
@@ -3835,6 +3957,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-03 11:00:00",
       "SalePeriodTo": "2022-08-09 10:59:59",
       "RecruitCoinId": 70047,
@@ -3867,6 +3990,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-03 11:00:00",
       "SalePeriodTo": "2022-08-09 10:59:59",
       "RecruitCoinId": 70047,
@@ -3897,6 +4021,7 @@
       ],
       "LinkedRobbyBannerId": 198,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-09 11:00:00",
       "SalePeriodTo": "2022-08-24 10:59:59",
       "RecruitCoinId": 70048,
@@ -3929,6 +4054,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-09 11:00:00",
       "SalePeriodTo": "2022-08-24 10:59:59",
       "RecruitCoinId": 70048,
@@ -3961,6 +4087,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-09 11:00:00",
       "SalePeriodTo": "2022-08-24 10:59:59",
       "RecruitCoinId": 70048,
@@ -3991,6 +4118,7 @@
       ],
       "LinkedRobbyBannerId": 210,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-24 11:00:00",
       "SalePeriodTo": "2022-09-07 10:59:59",
       "RecruitCoinId": 70049,
@@ -4023,6 +4151,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-24 11:00:00",
       "SalePeriodTo": "2022-09-07 10:59:59",
       "RecruitCoinId": 70049,
@@ -4055,6 +4184,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-08-24 11:00:00",
       "SalePeriodTo": "2022-09-07 10:59:59",
       "RecruitCoinId": 70049,
@@ -4085,6 +4215,7 @@
       ],
       "LinkedRobbyBannerId": 213,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-07 11:00:00",
       "SalePeriodTo": "2022-09-14 10:59:59",
       "RecruitCoinId": 70050,
@@ -4117,6 +4248,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-07 11:00:00",
       "SalePeriodTo": "2022-09-14 10:59:59",
       "RecruitCoinId": 70050,
@@ -4149,6 +4281,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-07 11:00:00",
       "SalePeriodTo": "2022-09-14 10:59:59",
       "RecruitCoinId": 70050,
@@ -4179,6 +4312,7 @@
       ],
       "LinkedRobbyBannerId": 216,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-14 11:00:00",
       "SalePeriodTo": "2022-09-21 10:59:59",
       "RecruitCoinId": 70051,
@@ -4213,6 +4347,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-14 11:00:00",
       "SalePeriodTo": "2022-09-21 10:59:59",
       "RecruitCoinId": 70051,
@@ -4245,6 +4380,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-14 11:00:00",
       "SalePeriodTo": "2022-09-21 10:59:59",
       "RecruitCoinId": 70051,
@@ -4275,6 +4411,7 @@
       ],
       "LinkedRobbyBannerId": 219,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-21 11:00:00",
       "SalePeriodTo": "2022-09-28 10:59:59",
       "RecruitCoinId": 70052,
@@ -4307,6 +4444,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-21 11:00:00",
       "SalePeriodTo": "2022-09-28 10:59:59",
       "RecruitCoinId": 70052,
@@ -4341,6 +4479,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-21 11:00:00",
       "SalePeriodTo": "2022-09-28 10:59:59",
       "RecruitCoinId": 70052,
@@ -4373,6 +4512,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-21 11:00:00",
       "SalePeriodTo": "2022-09-28 10:59:59",
       "RecruitCoinId": 70052,
@@ -4403,6 +4543,7 @@
       ],
       "LinkedRobbyBannerId": 230,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-28 11:00:00",
       "SalePeriodTo": "2022-10-12 10:59:59",
       "RecruitCoinId": 70053,
@@ -4435,6 +4576,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-28 11:00:00",
       "SalePeriodTo": "2022-10-12 10:59:59",
       "RecruitCoinId": 70053,
@@ -4467,6 +4609,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-09-28 11:00:00",
       "SalePeriodTo": "2022-10-12 10:59:59",
       "RecruitCoinId": 70053,
@@ -4497,6 +4640,7 @@
       ],
       "LinkedRobbyBannerId": 233,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-12 11:00:00",
       "SalePeriodTo": "2022-10-19 10:59:59",
       "RecruitCoinId": 70054,
@@ -4529,6 +4673,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-12 11:00:00",
       "SalePeriodTo": "2022-10-19 10:59:59",
       "RecruitCoinId": 70054,
@@ -4561,6 +4706,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-12 11:00:00",
       "SalePeriodTo": "2022-10-19 10:59:59",
       "RecruitCoinId": 70054,
@@ -4593,6 +4739,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-12 11:00:00",
       "SalePeriodTo": "2022-10-19 10:59:59",
       "RecruitCoinId": 70054,
@@ -4625,6 +4772,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-12 11:00:00",
       "SalePeriodTo": "2022-10-19 10:59:59",
       "RecruitCoinId": 70054,
@@ -4655,6 +4803,7 @@
       ],
       "LinkedRobbyBannerId": 238,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-19 11:00:00",
       "SalePeriodTo": "2022-10-26 10:59:59",
       "RecruitCoinId": 70055,
@@ -4687,6 +4836,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-19 11:00:00",
       "SalePeriodTo": "2022-10-26 10:59:59",
       "RecruitCoinId": 70055,
@@ -4719,6 +4869,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-19 11:00:00",
       "SalePeriodTo": "2022-10-26 10:59:59",
       "RecruitCoinId": 70055,
@@ -4749,6 +4900,7 @@
       ],
       "LinkedRobbyBannerId": 250,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-26 11:00:00",
       "SalePeriodTo": "2022-11-09 10:59:59",
       "RecruitCoinId": 70056,
@@ -4781,6 +4933,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-26 11:00:00",
       "SalePeriodTo": "2022-11-09 10:59:59",
       "RecruitCoinId": 70056,
@@ -4813,6 +4966,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-10-26 11:00:00",
       "SalePeriodTo": "2022-11-09 10:59:59",
       "RecruitCoinId": 70056,
@@ -4843,6 +4997,7 @@
       ],
       "LinkedRobbyBannerId": 253,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-09 11:00:00",
       "SalePeriodTo": "2022-11-16 10:59:59",
       "RecruitCoinId": 70057,
@@ -4875,6 +5030,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-09 11:00:00",
       "SalePeriodTo": "2022-11-16 10:59:59",
       "RecruitCoinId": 70057,
@@ -4907,6 +5063,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-09 11:00:00",
       "SalePeriodTo": "2022-11-16 10:59:59",
       "RecruitCoinId": 70057,
@@ -4937,6 +5094,7 @@
       ],
       "LinkedRobbyBannerId": 256,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-16 11:00:00",
       "SalePeriodTo": "2022-11-30 10:59:59",
       "RecruitCoinId": 70058,
@@ -4969,6 +5127,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-16 11:00:00",
       "SalePeriodTo": "2022-11-30 10:59:59",
       "RecruitCoinId": 70058,
@@ -5001,6 +5160,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-16 11:00:00",
       "SalePeriodTo": "2022-11-30 10:59:59",
       "RecruitCoinId": 70058,
@@ -5031,6 +5191,7 @@
       ],
       "LinkedRobbyBannerId": 260,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-30 11:00:00",
       "SalePeriodTo": "2022-12-07 10:59:59",
       "RecruitCoinId": 70059,
@@ -5063,6 +5224,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-30 11:00:00",
       "SalePeriodTo": "2022-12-07 10:59:59",
       "RecruitCoinId": 70059,
@@ -5095,6 +5257,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-30 11:00:00",
       "SalePeriodTo": "2022-12-07 10:59:59",
       "RecruitCoinId": 70059,
@@ -5127,6 +5290,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-30 11:00:00",
       "SalePeriodTo": "2022-12-07 10:59:59",
       "RecruitCoinId": 70059,
@@ -5159,6 +5323,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-11-30 11:00:00",
       "SalePeriodTo": "2022-12-07 10:59:59",
       "RecruitCoinId": 70059,
@@ -5189,6 +5354,7 @@
       ],
       "LinkedRobbyBannerId": 265,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-07 11:00:00",
       "SalePeriodTo": "2022-12-14 10:59:59",
       "RecruitCoinId": 70060,
@@ -5221,6 +5387,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-07 11:00:00",
       "SalePeriodTo": "2022-12-14 10:59:59",
       "RecruitCoinId": 70060,
@@ -5253,6 +5420,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-07 11:00:00",
       "SalePeriodTo": "2022-12-14 10:59:59",
       "RecruitCoinId": 70060,
@@ -5287,6 +5455,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-07 11:00:00",
       "SalePeriodTo": "2022-12-14 10:59:59",
       "RecruitCoinId": 70060,
@@ -5317,6 +5486,7 @@
       ],
       "LinkedRobbyBannerId": 269,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-14 11:00:00",
       "SalePeriodTo": "2022-12-28 10:59:59",
       "RecruitCoinId": 70061,
@@ -5349,6 +5519,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-14 11:00:00",
       "SalePeriodTo": "2022-12-28 10:59:59",
       "RecruitCoinId": 70061,
@@ -5381,6 +5552,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-14 11:00:00",
       "SalePeriodTo": "2022-12-28 10:59:59",
       "RecruitCoinId": 70061,
@@ -5411,6 +5583,7 @@
       ],
       "LinkedRobbyBannerId": 280,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-28 11:00:00",
       "SalePeriodTo": "2023-01-11 10:59:59",
       "RecruitCoinId": 70062,
@@ -5443,6 +5616,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-28 11:00:00",
       "SalePeriodTo": "2023-01-11 10:59:59",
       "RecruitCoinId": 70062,
@@ -5475,6 +5649,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-12-28 11:00:00",
       "SalePeriodTo": "2023-01-11 10:59:59",
       "RecruitCoinId": 70062,
@@ -5505,6 +5680,7 @@
       ],
       "LinkedRobbyBannerId": 283,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-11 11:00:00",
       "SalePeriodTo": "2023-01-24 10:59:59",
       "RecruitCoinId": 70063,
@@ -5537,6 +5713,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-11 11:00:00",
       "SalePeriodTo": "2023-01-24 10:59:59",
       "RecruitCoinId": 70063,
@@ -5569,6 +5746,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-11 11:00:00",
       "SalePeriodTo": "2023-01-24 10:59:59",
       "RecruitCoinId": 70063,
@@ -5601,6 +5779,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-11 11:00:00",
       "SalePeriodTo": "2023-01-24 10:59:59",
       "RecruitCoinId": 70063,
@@ -5631,6 +5810,7 @@
       ],
       "LinkedRobbyBannerId": 290,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-24 11:00:00",
       "SalePeriodTo": "2023-01-31 10:59:59",
       "RecruitCoinId": 70064,
@@ -5663,6 +5843,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-24 11:00:00",
       "SalePeriodTo": "2023-01-31 10:59:59",
       "RecruitCoinId": 70064,
@@ -5693,6 +5874,7 @@
       ],
       "LinkedRobbyBannerId": 292,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-31 11:00:00",
       "SalePeriodTo": "2023-02-10 10:59:59",
       "RecruitCoinId": 70065,
@@ -5725,6 +5907,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-31 11:00:00",
       "SalePeriodTo": "2023-02-10 10:59:59",
       "RecruitCoinId": 70065,
@@ -5757,6 +5940,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-01-31 11:00:00",
       "SalePeriodTo": "2023-02-10 10:59:59",
       "RecruitCoinId": 70065,
@@ -5787,6 +5971,7 @@
       ],
       "LinkedRobbyBannerId": 295,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-10 11:00:00",
       "SalePeriodTo": "2023-02-22 10:59:59",
       "RecruitCoinId": 70066,
@@ -5819,6 +6004,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-10 11:00:00",
       "SalePeriodTo": "2023-02-22 10:59:59",
       "RecruitCoinId": 70066,
@@ -5851,6 +6037,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-10 11:00:00",
       "SalePeriodTo": "2023-02-22 10:59:59",
       "RecruitCoinId": 70066,
@@ -5883,6 +6070,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-10 11:00:00",
       "SalePeriodTo": "2023-02-22 10:59:59",
       "RecruitCoinId": 70066,
@@ -5913,6 +6101,7 @@
       ],
       "LinkedRobbyBannerId": 300,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-22 11:00:00",
       "SalePeriodTo": "2023-03-08 10:59:59",
       "RecruitCoinId": 70067,
@@ -5945,6 +6134,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-22 11:00:00",
       "SalePeriodTo": "2023-03-08 10:59:59",
       "RecruitCoinId": 70067,
@@ -5977,6 +6167,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-02-22 11:00:00",
       "SalePeriodTo": "2023-03-08 10:59:59",
       "RecruitCoinId": 70067,
@@ -6007,6 +6198,7 @@
       ],
       "LinkedRobbyBannerId": 303,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-08 11:00:00",
       "SalePeriodTo": "2023-03-22 10:59:59",
       "RecruitCoinId": 70068,
@@ -6039,6 +6231,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-08 11:00:00",
       "SalePeriodTo": "2023-03-22 10:59:59",
       "RecruitCoinId": 70068,
@@ -6071,6 +6264,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-08 11:00:00",
       "SalePeriodTo": "2023-03-22 10:59:59",
       "RecruitCoinId": 70068,
@@ -6101,6 +6295,7 @@
       ],
       "LinkedRobbyBannerId": 310,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-22 11:00:00",
       "SalePeriodTo": "2023-04-05 10:59:59",
       "RecruitCoinId": 70069,
@@ -6133,6 +6328,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-22 11:00:00",
       "SalePeriodTo": "2023-04-05 10:59:59",
       "RecruitCoinId": 70069,
@@ -6165,6 +6361,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-22 11:00:00",
       "SalePeriodTo": "2023-04-05 10:59:59",
       "RecruitCoinId": 70069,
@@ -6197,6 +6394,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-22 11:00:00",
       "SalePeriodTo": "2023-04-05 10:59:59",
       "RecruitCoinId": 70069,
@@ -6229,6 +6427,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-22 11:00:00",
       "SalePeriodTo": "2023-04-05 10:59:59",
       "RecruitCoinId": 70069,
@@ -6261,6 +6460,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-03-22 11:00:00",
       "SalePeriodTo": "2023-04-05 10:59:59",
       "RecruitCoinId": 70069,
@@ -6291,6 +6491,7 @@
       ],
       "LinkedRobbyBannerId": 316,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-05 11:00:00",
       "SalePeriodTo": "2023-04-12 10:59:59",
       "RecruitCoinId": 70070,
@@ -6325,6 +6526,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-05 11:00:00",
       "SalePeriodTo": "2023-04-12 10:59:59",
       "RecruitCoinId": 70070,
@@ -6357,6 +6559,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-05 11:00:00",
       "SalePeriodTo": "2023-04-12 10:59:59",
       "RecruitCoinId": 70070,
@@ -6387,6 +6590,7 @@
       ],
       "LinkedRobbyBannerId": 319,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-12 11:00:00",
       "SalePeriodTo": "2023-04-19 10:59:59",
       "RecruitCoinId": 70071,
@@ -6419,6 +6623,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-12 11:00:00",
       "SalePeriodTo": "2023-04-19 10:59:59",
       "RecruitCoinId": 70071,
@@ -6451,6 +6656,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-12 11:00:00",
       "SalePeriodTo": "2023-04-19 10:59:59",
       "RecruitCoinId": 70071,
@@ -6483,6 +6689,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-12 11:00:00",
       "SalePeriodTo": "2023-04-19 10:59:59",
       "RecruitCoinId": 70071,
@@ -6515,6 +6722,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-12 11:00:00",
       "SalePeriodTo": "2023-04-19 10:59:59",
       "RecruitCoinId": 70071,
@@ -6545,6 +6753,7 @@
       ],
       "LinkedRobbyBannerId": 324,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-19 11:00:00",
       "SalePeriodTo": "2023-04-26 10:59:59",
       "RecruitCoinId": 70072,
@@ -6577,6 +6786,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-19 11:00:00",
       "SalePeriodTo": "2023-04-26 10:59:59",
       "RecruitCoinId": 70072,
@@ -6609,6 +6819,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-19 11:00:00",
       "SalePeriodTo": "2023-04-26 10:59:59",
       "RecruitCoinId": 70072,
@@ -6639,6 +6850,7 @@
       ],
       "LinkedRobbyBannerId": 330,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-26 11:00:00",
       "SalePeriodTo": "2023-05-10 10:59:59",
       "RecruitCoinId": 70073,
@@ -6671,6 +6883,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-26 11:00:00",
       "SalePeriodTo": "2023-05-10 10:59:59",
       "RecruitCoinId": 70073,
@@ -6703,6 +6916,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-04-26 11:00:00",
       "SalePeriodTo": "2023-05-10 10:59:59",
       "RecruitCoinId": 70073,
@@ -6733,6 +6947,7 @@
       ],
       "LinkedRobbyBannerId": 333,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-10 11:00:00",
       "SalePeriodTo": "2023-05-17 10:59:59",
       "RecruitCoinId": 70074,
@@ -6765,6 +6980,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-10 11:00:00",
       "SalePeriodTo": "2023-05-17 10:59:59",
       "RecruitCoinId": 70074,
@@ -6797,6 +7013,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-10 11:00:00",
       "SalePeriodTo": "2023-05-17 10:59:59",
       "RecruitCoinId": 70074,
@@ -6831,6 +7048,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-10 11:00:00",
       "SalePeriodTo": "2023-05-17 10:59:59",
       "RecruitCoinId": 70074,
@@ -6861,6 +7079,7 @@
       ],
       "LinkedRobbyBannerId": 337,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-17 11:00:00",
       "SalePeriodTo": "2023-05-24 10:59:59",
       "RecruitCoinId": 70075,
@@ -6893,6 +7112,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-17 11:00:00",
       "SalePeriodTo": "2023-05-24 10:59:59",
       "RecruitCoinId": 70075,
@@ -6925,6 +7145,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-17 11:00:00",
       "SalePeriodTo": "2023-05-24 10:59:59",
       "RecruitCoinId": 70075,
@@ -6957,6 +7178,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-17 11:00:00",
       "SalePeriodTo": "2023-05-24 10:59:59",
       "RecruitCoinId": 70075,
@@ -6987,6 +7209,7 @@
       ],
       "LinkedRobbyBannerId": 350,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-24 11:00:00",
       "SalePeriodTo": "2023-06-07 10:59:59",
       "RecruitCoinId": 70076,
@@ -7019,6 +7242,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-24 11:00:00",
       "SalePeriodTo": "2023-06-07 10:59:59",
       "RecruitCoinId": 70076,
@@ -7051,6 +7275,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-05-24 11:00:00",
       "SalePeriodTo": "2023-06-07 10:59:59",
       "RecruitCoinId": 70076,
@@ -7081,6 +7306,7 @@
       ],
       "LinkedRobbyBannerId": 353,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-07 11:00:00",
       "SalePeriodTo": "2023-06-14 10:59:59",
       "RecruitCoinId": 70077,
@@ -7113,6 +7339,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-07 11:00:00",
       "SalePeriodTo": "2023-06-14 10:59:59",
       "RecruitCoinId": 70077,
@@ -7145,6 +7372,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-07 11:00:00",
       "SalePeriodTo": "2023-06-14 10:59:59",
       "RecruitCoinId": 70077,
@@ -7177,6 +7405,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-07 11:00:00",
       "SalePeriodTo": "2023-06-14 10:59:59",
       "RecruitCoinId": 70077,
@@ -7207,6 +7436,7 @@
       ],
       "LinkedRobbyBannerId": 357,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-14 11:00:00",
       "SalePeriodTo": "2023-06-21 10:59:59",
       "RecruitCoinId": 70078,
@@ -7239,6 +7469,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-14 11:00:00",
       "SalePeriodTo": "2023-06-21 10:59:59",
       "RecruitCoinId": 70078,
@@ -7271,6 +7502,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-14 11:00:00",
       "SalePeriodTo": "2023-06-21 10:59:59",
       "RecruitCoinId": 70078,
@@ -7301,6 +7533,7 @@
       ],
       "LinkedRobbyBannerId": 360,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-21 11:00:00",
       "SalePeriodTo": "2023-07-05 10:59:59",
       "RecruitCoinId": 70079,
@@ -7333,6 +7566,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-21 11:00:00",
       "SalePeriodTo": "2023-07-05 10:59:59",
       "RecruitCoinId": 70079,
@@ -7365,6 +7599,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-06-21 11:00:00",
       "SalePeriodTo": "2023-07-05 10:59:59",
       "RecruitCoinId": 70079,
@@ -7395,6 +7630,7 @@
       ],
       "LinkedRobbyBannerId": 363,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-05 11:00:00",
       "SalePeriodTo": "2023-07-12 10:59:59",
       "RecruitCoinId": 70080,
@@ -7427,6 +7663,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-05 11:00:00",
       "SalePeriodTo": "2023-07-12 10:59:59",
       "RecruitCoinId": 70080,
@@ -7459,6 +7696,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-05 11:00:00",
       "SalePeriodTo": "2023-07-12 10:59:59",
       "RecruitCoinId": 70080,
@@ -7489,6 +7727,7 @@
       ],
       "LinkedRobbyBannerId": 366,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-12 11:00:00",
       "SalePeriodTo": "2023-07-17 10:59:59",
       "RecruitCoinId": 70081,
@@ -7521,6 +7760,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-12 11:00:00",
       "SalePeriodTo": "2023-07-17 10:59:59",
       "RecruitCoinId": 70081,
@@ -7555,6 +7795,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-12 11:00:00",
       "SalePeriodTo": "2023-07-17 10:59:59",
       "RecruitCoinId": 70081,
@@ -7585,6 +7826,7 @@
       ],
       "LinkedRobbyBannerId": 369,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-17 11:00:00",
       "SalePeriodTo": "2023-07-24 10:59:59",
       "RecruitCoinId": 70082,
@@ -7617,6 +7859,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-17 11:00:00",
       "SalePeriodTo": "2023-07-24 10:59:59",
       "RecruitCoinId": 70082,
@@ -7649,6 +7892,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-17 11:00:00",
       "SalePeriodTo": "2023-07-24 10:59:59",
       "RecruitCoinId": 70082,
@@ -7681,6 +7925,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-17 11:00:00",
       "SalePeriodTo": "2023-07-24 10:59:59",
       "RecruitCoinId": 70082,
@@ -7711,6 +7956,7 @@
       ],
       "LinkedRobbyBannerId": 380,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-02 11:00:00",
       "SalePeriodTo": "2023-08-09 10:59:59",
       "RecruitCoinId": 70084,
@@ -7743,6 +7989,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-02 11:00:00",
       "SalePeriodTo": "2023-08-09 10:59:59",
       "RecruitCoinId": 70084,
@@ -7775,6 +8022,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-02 11:00:00",
       "SalePeriodTo": "2023-08-09 10:59:59",
       "RecruitCoinId": 70084,
@@ -7805,6 +8053,7 @@
       ],
       "LinkedRobbyBannerId": 383,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-24 11:00:00",
       "SalePeriodTo": "2023-08-02 10:59:59",
       "RecruitCoinId": 70083,
@@ -7837,6 +8086,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-24 11:00:00",
       "SalePeriodTo": "2023-08-02 10:59:59",
       "RecruitCoinId": 70083,
@@ -7869,6 +8119,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-24 11:00:00",
       "SalePeriodTo": "2023-08-02 10:59:59",
       "RecruitCoinId": 70083,
@@ -7899,6 +8150,7 @@
       ],
       "LinkedRobbyBannerId": 386,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-09 11:00:00",
       "SalePeriodTo": "2023-08-16 10:59:59",
       "RecruitCoinId": 70085,
@@ -7933,6 +8185,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-09 11:00:00",
       "SalePeriodTo": "2023-08-16 10:59:59",
       "RecruitCoinId": 70085,
@@ -7965,6 +8218,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-09 11:00:00",
       "SalePeriodTo": "2023-08-16 10:59:59",
       "RecruitCoinId": 70085,
@@ -7997,6 +8251,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-09 11:00:00",
       "SalePeriodTo": "2023-08-16 10:59:59",
       "RecruitCoinId": 70085,
@@ -8027,6 +8282,7 @@
       ],
       "LinkedRobbyBannerId": 390,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-16 11:00:00",
       "SalePeriodTo": "2023-08-23 10:59:59",
       "RecruitCoinId": 70086,
@@ -8059,6 +8315,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-16 11:00:00",
       "SalePeriodTo": "2023-08-23 10:59:59",
       "RecruitCoinId": 70086,
@@ -8091,6 +8348,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-16 11:00:00",
       "SalePeriodTo": "2023-08-23 10:59:59",
       "RecruitCoinId": 70086,
@@ -8123,6 +8381,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-16 11:00:00",
       "SalePeriodTo": "2023-08-23 10:59:59",
       "RecruitCoinId": 70086,
@@ -8153,6 +8412,7 @@
       ],
       "LinkedRobbyBannerId": 400,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-23 11:00:00",
       "SalePeriodTo": "2023-09-06 10:59:59",
       "RecruitCoinId": 70087,
@@ -8187,6 +8447,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-23 11:00:00",
       "SalePeriodTo": "2023-09-06 10:59:59",
       "RecruitCoinId": 70087,
@@ -8219,6 +8480,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-23 11:00:00",
       "SalePeriodTo": "2023-09-06 10:59:59",
       "RecruitCoinId": 70087,
@@ -8251,6 +8513,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-08-23 11:00:00",
       "SalePeriodTo": "2023-09-06 10:59:59",
       "RecruitCoinId": 70087,
@@ -8281,6 +8544,7 @@
       ],
       "LinkedRobbyBannerId": 404,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-06 11:00:00",
       "SalePeriodTo": "2023-09-15 10:59:59",
       "RecruitCoinId": 70088,
@@ -8313,6 +8577,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-06 11:00:00",
       "SalePeriodTo": "2023-09-15 10:59:59",
       "RecruitCoinId": 70088,
@@ -8345,6 +8610,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-06 11:00:00",
       "SalePeriodTo": "2023-09-15 10:59:59",
       "RecruitCoinId": 70088,
@@ -8377,6 +8643,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-06 11:00:00",
       "SalePeriodTo": "2023-09-15 10:59:59",
       "RecruitCoinId": 70088,
@@ -8407,6 +8674,7 @@
       ],
       "LinkedRobbyBannerId": 408,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-15 11:00:00",
       "SalePeriodTo": "2023-09-27 10:59:59",
       "RecruitCoinId": 70089,
@@ -8439,6 +8707,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-15 11:00:00",
       "SalePeriodTo": "2023-09-27 10:59:59",
       "RecruitCoinId": 70089,
@@ -8471,6 +8740,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-15 11:00:00",
       "SalePeriodTo": "2023-09-27 10:59:59",
       "RecruitCoinId": 70089,
@@ -8503,6 +8773,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-15 11:00:00",
       "SalePeriodTo": "2023-09-27 10:59:59",
       "RecruitCoinId": 70089,
@@ -8533,6 +8804,7 @@
       ],
       "LinkedRobbyBannerId": 420,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-27 11:00:00",
       "SalePeriodTo": "2023-10-11 10:59:59",
       "RecruitCoinId": 70090,
@@ -8565,6 +8837,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-27 11:00:00",
       "SalePeriodTo": "2023-10-11 10:59:59",
       "RecruitCoinId": 70090,
@@ -8597,6 +8870,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-09-27 11:00:00",
       "SalePeriodTo": "2023-10-11 10:59:59",
       "RecruitCoinId": 70090,
@@ -8627,6 +8901,7 @@
       ],
       "LinkedRobbyBannerId": 423,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-11 11:00:00",
       "SalePeriodTo": "2023-10-18 10:59:59",
       "RecruitCoinId": 70091,
@@ -8659,6 +8934,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-11 11:00:00",
       "SalePeriodTo": "2023-10-18 10:59:59",
       "RecruitCoinId": 70091,
@@ -8691,6 +8967,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-11 11:00:00",
       "SalePeriodTo": "2023-10-18 10:59:59",
       "RecruitCoinId": 70091,
@@ -8723,6 +9000,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-11 11:00:00",
       "SalePeriodTo": "2023-10-18 10:59:59",
       "RecruitCoinId": 70091,
@@ -8755,6 +9033,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-11 11:00:00",
       "SalePeriodTo": "2023-10-18 10:59:59",
       "RecruitCoinId": 70091,
@@ -8785,6 +9064,7 @@
       ],
       "LinkedRobbyBannerId": 428,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-18 11:00:00",
       "SalePeriodTo": "2023-10-24 10:59:59",
       "RecruitCoinId": 70092,
@@ -8817,6 +9097,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-18 11:00:00",
       "SalePeriodTo": "2023-10-24 10:59:59",
       "RecruitCoinId": 70092,
@@ -8849,6 +9130,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-18 11:00:00",
       "SalePeriodTo": "2023-10-24 10:59:59",
       "RecruitCoinId": 70092,
@@ -8879,6 +9161,7 @@
       ],
       "LinkedRobbyBannerId": 440,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-24 11:00:00",
       "SalePeriodTo": "2023-11-08 10:59:59",
       "RecruitCoinId": 70093,
@@ -8911,6 +9194,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-24 11:00:00",
       "SalePeriodTo": "2023-11-08 10:59:59",
       "RecruitCoinId": 70093,
@@ -8943,6 +9227,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-10-24 11:00:00",
       "SalePeriodTo": "2023-11-08 10:59:59",
       "RecruitCoinId": 70093,
@@ -8973,6 +9258,7 @@
       ],
       "LinkedRobbyBannerId": 443,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-08 11:00:00",
       "SalePeriodTo": "2023-11-15 10:59:59",
       "RecruitCoinId": 70094,
@@ -9005,6 +9291,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-08 11:00:00",
       "SalePeriodTo": "2023-11-15 10:59:59",
       "RecruitCoinId": 70094,
@@ -9035,6 +9322,7 @@
       ],
       "LinkedRobbyBannerId": 445,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-15 11:00:00",
       "SalePeriodTo": "2023-11-22 10:59:59",
       "RecruitCoinId": 70095,
@@ -9067,6 +9355,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-15 11:00:00",
       "SalePeriodTo": "2023-11-22 10:59:59",
       "RecruitCoinId": 70095,
@@ -9099,6 +9388,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-15 11:00:00",
       "SalePeriodTo": "2023-11-22 10:59:59",
       "RecruitCoinId": 70095,
@@ -9129,6 +9419,7 @@
       ],
       "LinkedRobbyBannerId": 450,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-22 11:00:00",
       "SalePeriodTo": "2023-12-06 10:59:59",
       "RecruitCoinId": 70096,
@@ -9161,6 +9452,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-22 11:00:00",
       "SalePeriodTo": "2023-12-06 10:59:59",
       "RecruitCoinId": 70096,
@@ -9193,6 +9485,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-11-22 11:00:00",
       "SalePeriodTo": "2023-12-06 10:59:59",
       "RecruitCoinId": 70096,
@@ -9223,6 +9516,7 @@
       ],
       "LinkedRobbyBannerId": 453,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-06 11:00:00",
       "SalePeriodTo": "2023-12-13 10:59:59",
       "RecruitCoinId": 70097,
@@ -9255,6 +9549,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-06 11:00:00",
       "SalePeriodTo": "2023-12-13 10:59:59",
       "RecruitCoinId": 70097,
@@ -9287,6 +9582,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-06 11:00:00",
       "SalePeriodTo": "2023-12-13 10:59:59",
       "RecruitCoinId": 70097,
@@ -9317,6 +9613,7 @@
       ],
       "LinkedRobbyBannerId": 456,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-13 11:00:00",
       "SalePeriodTo": "2023-12-20 10:59:59",
       "RecruitCoinId": 70098,
@@ -9349,6 +9646,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-13 11:00:00",
       "SalePeriodTo": "2023-12-20 10:59:59",
       "RecruitCoinId": 70098,
@@ -9381,6 +9679,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-13 11:00:00",
       "SalePeriodTo": "2023-12-20 10:59:59",
       "RecruitCoinId": 70098,
@@ -9411,6 +9710,7 @@
       ],
       "LinkedRobbyBannerId": 459,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-20 11:00:00",
       "SalePeriodTo": "2023-12-27 10:59:59",
       "RecruitCoinId": 70099,
@@ -9443,6 +9743,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-20 11:00:00",
       "SalePeriodTo": "2023-12-27 10:59:59",
       "RecruitCoinId": 70099,
@@ -9475,6 +9776,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-20 11:00:00",
       "SalePeriodTo": "2023-12-27 10:59:59",
       "RecruitCoinId": 70099,
@@ -9507,6 +9809,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-20 11:00:00",
       "SalePeriodTo": "2023-12-27 10:59:59",
       "RecruitCoinId": 70099,
@@ -9539,6 +9842,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-20 11:00:00",
       "SalePeriodTo": "2023-12-27 10:59:59",
       "RecruitCoinId": 70099,
@@ -9569,6 +9873,7 @@
       ],
       "LinkedRobbyBannerId": 470,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-27 11:00:00",
       "SalePeriodTo": "2024-01-10 10:59:59",
       "RecruitCoinId": 70100,
@@ -9601,6 +9906,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-27 11:00:00",
       "SalePeriodTo": "2024-01-10 10:59:59",
       "RecruitCoinId": 70100,
@@ -9633,6 +9939,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-12-27 11:00:00",
       "SalePeriodTo": "2024-01-10 10:59:59",
       "RecruitCoinId": 70100,
@@ -9663,6 +9970,7 @@
       ],
       "LinkedRobbyBannerId": 473,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-10 11:00:00",
       "SalePeriodTo": "2024-01-17 10:59:59",
       "RecruitCoinId": 70101,
@@ -9695,6 +10003,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-10 11:00:00",
       "SalePeriodTo": "2024-01-17 10:59:59",
       "RecruitCoinId": 70101,
@@ -9727,6 +10036,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-10 11:00:00",
       "SalePeriodTo": "2024-01-17 10:59:59",
       "RecruitCoinId": 70101,
@@ -9759,6 +10069,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-10 11:00:00",
       "SalePeriodTo": "2024-01-17 10:59:59",
       "RecruitCoinId": 70101,
@@ -9791,6 +10102,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-10 11:00:00",
       "SalePeriodTo": "2024-01-17 10:59:59",
       "RecruitCoinId": 70101,
@@ -9823,6 +10135,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-10 11:00:00",
       "SalePeriodTo": "2024-01-17 10:59:59",
       "RecruitCoinId": 70101,
@@ -9853,6 +10166,7 @@
       ],
       "LinkedRobbyBannerId": 479,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-17 11:00:00",
       "SalePeriodTo": "2024-01-24 10:59:59",
       "RecruitCoinId": 70102,
@@ -9885,6 +10199,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-17 11:00:00",
       "SalePeriodTo": "2024-01-24 10:59:59",
       "RecruitCoinId": 70102,
@@ -9917,6 +10232,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-17 11:00:00",
       "SalePeriodTo": "2024-01-24 10:59:59",
       "RecruitCoinId": 70102,
@@ -9947,6 +10263,7 @@
       ],
       "LinkedRobbyBannerId": 490,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-24 11:00:00",
       "SalePeriodTo": "2024-01-31 10:59:59",
       "RecruitCoinId": 70103,
@@ -9979,6 +10296,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-24 11:00:00",
       "SalePeriodTo": "2024-01-31 10:59:59",
       "RecruitCoinId": 70103,
@@ -10011,6 +10329,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-24 11:00:00",
       "SalePeriodTo": "2024-01-31 10:59:59",
       "RecruitCoinId": 70103,
@@ -10043,6 +10362,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-24 11:00:00",
       "SalePeriodTo": "2024-01-31 10:59:59",
       "RecruitCoinId": 70103,
@@ -10073,6 +10393,7 @@
       ],
       "LinkedRobbyBannerId": 494,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-31 11:00:00",
       "SalePeriodTo": "2024-02-07 10:59:59",
       "RecruitCoinId": 70104,
@@ -10105,6 +10426,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-31 11:00:00",
       "SalePeriodTo": "2024-02-07 10:59:59",
       "RecruitCoinId": 70104,
@@ -10137,6 +10459,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-31 11:00:00",
       "SalePeriodTo": "2024-02-07 10:59:59",
       "RecruitCoinId": 70104,
@@ -10167,6 +10490,7 @@
       ],
       "LinkedRobbyBannerId": 497,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-07 11:00:00",
       "SalePeriodTo": "2024-02-14 10:59:59",
       "RecruitCoinId": 70105,
@@ -10199,6 +10523,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-07 11:00:00",
       "SalePeriodTo": "2024-02-14 10:59:59",
       "RecruitCoinId": 70105,
@@ -10231,6 +10556,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-07 11:00:00",
       "SalePeriodTo": "2024-02-14 10:59:59",
       "RecruitCoinId": 70105,
@@ -10261,6 +10587,7 @@
       ],
       "LinkedRobbyBannerId": 500,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-14 11:00:00",
       "SalePeriodTo": "2024-02-21 10:59:59",
       "RecruitCoinId": 70106,
@@ -10293,6 +10620,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-14 11:00:00",
       "SalePeriodTo": "2024-02-21 10:59:59",
       "RecruitCoinId": 70106,
@@ -10325,6 +10653,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-14 11:00:00",
       "SalePeriodTo": "2024-02-21 10:59:59",
       "RecruitCoinId": 70106,
@@ -10357,6 +10686,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-14 11:00:00",
       "SalePeriodTo": "2024-02-21 10:59:59",
       "RecruitCoinId": 70106,
@@ -10387,6 +10717,7 @@
       ],
       "LinkedRobbyBannerId": 510,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-21 11:00:00",
       "SalePeriodTo": "2024-03-06 10:59:59",
       "RecruitCoinId": 70107,
@@ -10419,6 +10750,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-21 11:00:00",
       "SalePeriodTo": "2024-03-06 10:59:59",
       "RecruitCoinId": 70107,
@@ -10451,6 +10783,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-02-21 11:00:00",
       "SalePeriodTo": "2024-03-06 10:59:59",
       "RecruitCoinId": 70107,
@@ -10481,6 +10814,7 @@
       ],
       "LinkedRobbyBannerId": 513,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-06 11:00:00",
       "SalePeriodTo": "2024-03-20 10:59:59",
       "RecruitCoinId": 70108,
@@ -10513,6 +10847,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-06 11:00:00",
       "SalePeriodTo": "2024-03-20 10:59:59",
       "RecruitCoinId": 70108,
@@ -10545,6 +10880,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-06 11:00:00",
       "SalePeriodTo": "2024-03-20 10:59:59",
       "RecruitCoinId": 70108,
@@ -10577,6 +10913,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-06 11:00:00",
       "SalePeriodTo": "2024-03-20 10:59:59",
       "RecruitCoinId": 70108,
@@ -10607,6 +10944,7 @@
       ],
       "LinkedRobbyBannerId": 517,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-20 11:00:00",
       "SalePeriodTo": "2024-03-27 10:59:59",
       "RecruitCoinId": 70109,
@@ -10639,6 +10977,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-20 11:00:00",
       "SalePeriodTo": "2024-03-27 10:59:59",
       "RecruitCoinId": 70109,
@@ -10671,6 +11010,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-20 11:00:00",
       "SalePeriodTo": "2024-03-27 10:59:59",
       "RecruitCoinId": 70109,
@@ -10703,6 +11043,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-20 11:00:00",
       "SalePeriodTo": "2024-03-27 10:59:59",
       "RecruitCoinId": 70109,
@@ -10733,6 +11074,7 @@
       ],
       "LinkedRobbyBannerId": 530,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-27 11:00:00",
       "SalePeriodTo": "2024-04-11 10:59:59",
       "RecruitCoinId": 70110,
@@ -10765,6 +11107,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-27 11:00:00",
       "SalePeriodTo": "2024-04-11 10:59:59",
       "RecruitCoinId": 70110,
@@ -10797,6 +11140,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-27 11:00:00",
       "SalePeriodTo": "2024-04-11 10:59:59",
       "RecruitCoinId": 70110,
@@ -10829,6 +11173,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-27 11:00:00",
       "SalePeriodTo": "2024-04-11 10:59:59",
       "RecruitCoinId": 70110,
@@ -10863,6 +11208,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-03-27 11:00:00",
       "SalePeriodTo": "2024-04-11 10:59:59",
       "RecruitCoinId": 70110,
@@ -10893,6 +11239,7 @@
       ],
       "LinkedRobbyBannerId": 535,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-11 11:00:00",
       "SalePeriodTo": "2024-04-17 10:59:59",
       "RecruitCoinId": 70111,
@@ -10925,6 +11272,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-11 11:00:00",
       "SalePeriodTo": "2024-04-17 10:59:59",
       "RecruitCoinId": 70111,
@@ -10957,6 +11305,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-11 11:00:00",
       "SalePeriodTo": "2024-04-17 10:59:59",
       "RecruitCoinId": 70111,
@@ -10991,6 +11340,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-11 11:00:00",
       "SalePeriodTo": "2024-04-17 10:59:59",
       "RecruitCoinId": 70111,
@@ -11021,6 +11371,7 @@
       ],
       "LinkedRobbyBannerId": 539,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-17 11:00:00",
       "SalePeriodTo": "2024-04-24 10:59:59",
       "RecruitCoinId": 70112,
@@ -11053,6 +11404,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-17 11:00:00",
       "SalePeriodTo": "2024-04-24 10:59:59",
       "RecruitCoinId": 70112,
@@ -11085,6 +11437,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-17 11:00:00",
       "SalePeriodTo": "2024-04-24 10:59:59",
       "RecruitCoinId": 70112,
@@ -11117,6 +11470,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-17 11:00:00",
       "SalePeriodTo": "2024-04-24 10:59:59",
       "RecruitCoinId": 70112,
@@ -11147,6 +11501,7 @@
       ],
       "LinkedRobbyBannerId": 550,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-24 11:00:00",
       "SalePeriodTo": "2024-05-08 10:59:59",
       "RecruitCoinId": 70113,
@@ -11179,6 +11534,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-24 11:00:00",
       "SalePeriodTo": "2024-05-08 10:59:59",
       "RecruitCoinId": 70113,
@@ -11211,6 +11567,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-24 11:00:00",
       "SalePeriodTo": "2024-05-08 10:59:59",
       "RecruitCoinId": 70113,
@@ -11243,6 +11600,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-04-24 11:00:00",
       "SalePeriodTo": "2024-05-08 10:59:59",
       "RecruitCoinId": 70113,
@@ -11273,6 +11631,7 @@
       ],
       "LinkedRobbyBannerId": 554,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-08 11:00:00",
       "SalePeriodTo": "2024-05-15 10:59:59",
       "RecruitCoinId": 70114,
@@ -11305,6 +11664,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-08 11:00:00",
       "SalePeriodTo": "2024-05-15 10:59:59",
       "RecruitCoinId": 70114,
@@ -11337,6 +11697,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-08 11:00:00",
       "SalePeriodTo": "2024-05-15 10:59:59",
       "RecruitCoinId": 70114,
@@ -11369,6 +11730,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-08 11:00:00",
       "SalePeriodTo": "2024-05-15 10:59:59",
       "RecruitCoinId": 70114,
@@ -11401,6 +11763,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-08 11:00:00",
       "SalePeriodTo": "2024-05-15 10:59:59",
       "RecruitCoinId": 70114,
@@ -11431,6 +11794,7 @@
       ],
       "LinkedRobbyBannerId": 559,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-15 11:00:00",
       "SalePeriodTo": "2024-05-22 10:59:59",
       "RecruitCoinId": 70115,
@@ -11463,6 +11827,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-15 11:00:00",
       "SalePeriodTo": "2024-05-22 10:59:59",
       "RecruitCoinId": 70115,
@@ -11495,6 +11860,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-15 11:00:00",
       "SalePeriodTo": "2024-05-22 10:59:59",
       "RecruitCoinId": 70115,
@@ -11527,6 +11893,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-15 11:00:00",
       "SalePeriodTo": "2024-05-22 10:59:59",
       "RecruitCoinId": 70115,
@@ -11559,6 +11926,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-15 11:00:00",
       "SalePeriodTo": "2024-05-22 10:59:59",
       "RecruitCoinId": 70115,
@@ -11589,6 +11957,7 @@
       ],
       "LinkedRobbyBannerId": 570,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-22 11:00:00",
       "SalePeriodTo": "2024-06-05 10:59:59",
       "RecruitCoinId": 70116,
@@ -11621,6 +11990,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-22 11:00:00",
       "SalePeriodTo": "2024-06-05 10:59:59",
       "RecruitCoinId": 70116,
@@ -11653,6 +12023,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-22 11:00:00",
       "SalePeriodTo": "2024-06-05 10:59:59",
       "RecruitCoinId": 70116,
@@ -11685,6 +12056,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-22 11:00:00",
       "SalePeriodTo": "2024-06-05 10:59:59",
       "RecruitCoinId": 70116,
@@ -11717,6 +12089,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-05-22 11:00:00",
       "SalePeriodTo": "2024-06-05 10:59:59",
       "RecruitCoinId": 70116,
@@ -11747,6 +12120,7 @@
       ],
       "LinkedRobbyBannerId": 575,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-05 11:00:00",
       "SalePeriodTo": "2024-06-16 10:59:59",
       "RecruitCoinId": 70117,
@@ -11779,6 +12153,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-05 11:00:00",
       "SalePeriodTo": "2024-06-16 10:59:59",
       "RecruitCoinId": 70117,
@@ -11811,6 +12186,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-05 11:00:00",
       "SalePeriodTo": "2024-06-16 10:59:59",
       "RecruitCoinId": 70117,
@@ -11843,6 +12219,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-05 11:00:00",
       "SalePeriodTo": "2024-06-16 10:59:59",
       "RecruitCoinId": 70117,
@@ -11875,6 +12252,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-05 11:00:00",
       "SalePeriodTo": "2024-06-16 10:59:59",
       "RecruitCoinId": 70117,
@@ -11905,6 +12283,7 @@
       ],
       "LinkedRobbyBannerId": 580,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-16 11:00:00",
       "SalePeriodTo": "2024-06-26 10:59:59",
       "RecruitCoinId": 70118,
@@ -11937,6 +12316,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-16 11:00:00",
       "SalePeriodTo": "2024-06-26 10:59:59",
       "RecruitCoinId": 70118,
@@ -11969,6 +12349,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-16 11:00:00",
       "SalePeriodTo": "2024-06-26 10:59:59",
       "RecruitCoinId": 70118,
@@ -12001,6 +12382,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-16 11:00:00",
       "SalePeriodTo": "2024-06-26 10:59:59",
       "RecruitCoinId": 70118,
@@ -12031,6 +12413,7 @@
       ],
       "LinkedRobbyBannerId": 590,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-26 11:00:00",
       "SalePeriodTo": "2024-07-10 10:59:59",
       "RecruitCoinId": 70119,
@@ -12063,6 +12446,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-26 11:00:00",
       "SalePeriodTo": "2024-07-10 10:59:59",
       "RecruitCoinId": 70119,
@@ -12095,6 +12479,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-06-26 11:00:00",
       "SalePeriodTo": "2024-07-10 10:59:59",
       "RecruitCoinId": 70119,
@@ -12125,6 +12510,7 @@
       ],
       "LinkedRobbyBannerId": 593,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-10 11:00:00",
       "SalePeriodTo": "2024-07-17 10:59:59",
       "RecruitCoinId": 70120,
@@ -12157,6 +12543,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-10 11:00:00",
       "SalePeriodTo": "2024-07-17 10:59:59",
       "RecruitCoinId": 70120,
@@ -12189,6 +12576,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-10 11:00:00",
       "SalePeriodTo": "2024-07-17 10:59:59",
       "RecruitCoinId": 70120,
@@ -12221,6 +12609,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-10 11:00:00",
       "SalePeriodTo": "2024-07-17 10:59:59",
       "RecruitCoinId": 70120,
@@ -12251,6 +12640,7 @@
       ],
       "LinkedRobbyBannerId": 597,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-17 11:00:00",
       "SalePeriodTo": "2024-07-22 10:59:59",
       "RecruitCoinId": 70121,
@@ -12283,6 +12673,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-17 11:00:00",
       "SalePeriodTo": "2024-07-22 10:59:59",
       "RecruitCoinId": 70121,
@@ -12315,6 +12706,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-17 11:00:00",
       "SalePeriodTo": "2024-07-22 10:59:59",
       "RecruitCoinId": 70121,
@@ -12345,6 +12737,7 @@
       ],
       "LinkedRobbyBannerId": 600,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-22 11:00:00",
       "SalePeriodTo": "2024-07-29 10:59:59",
       "RecruitCoinId": 70122,
@@ -12377,6 +12770,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-22 11:00:00",
       "SalePeriodTo": "2024-07-29 10:59:59",
       "RecruitCoinId": 70122,
@@ -12409,6 +12803,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-22 11:00:00",
       "SalePeriodTo": "2024-07-29 10:59:59",
       "RecruitCoinId": 70122,
@@ -12441,6 +12836,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-22 11:00:00",
       "SalePeriodTo": "2024-07-29 10:59:59",
       "RecruitCoinId": 70122,
@@ -12471,6 +12867,7 @@
       ],
       "LinkedRobbyBannerId": 604,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-29 11:00:00",
       "SalePeriodTo": "2024-08-07 10:59:59",
       "RecruitCoinId": 70123,
@@ -12503,6 +12900,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-29 11:00:00",
       "SalePeriodTo": "2024-08-07 10:59:59",
       "RecruitCoinId": 70123,
@@ -12535,6 +12933,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-29 11:00:00",
       "SalePeriodTo": "2024-08-07 10:59:59",
       "RecruitCoinId": 70123,
@@ -12565,6 +12964,7 @@
       ],
       "LinkedRobbyBannerId": 607,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-07 11:00:00",
       "SalePeriodTo": "2024-08-14 10:59:59",
       "RecruitCoinId": 70124,
@@ -12599,6 +12999,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-07 11:00:00",
       "SalePeriodTo": "2024-08-14 10:59:59",
       "RecruitCoinId": 70124,
@@ -12631,6 +13032,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-07 11:00:00",
       "SalePeriodTo": "2024-08-14 10:59:59",
       "RecruitCoinId": 70124,
@@ -12663,6 +13065,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-07 11:00:00",
       "SalePeriodTo": "2024-08-14 10:59:59",
       "RecruitCoinId": 70124,
@@ -12693,6 +13096,7 @@
       ],
       "LinkedRobbyBannerId": 611,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-14 11:00:00",
       "SalePeriodTo": "2024-08-21 10:59:59",
       "RecruitCoinId": 70125,
@@ -12725,6 +13129,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-14 11:00:00",
       "SalePeriodTo": "2024-08-21 10:59:59",
       "RecruitCoinId": 70125,
@@ -12757,6 +13162,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-14 11:00:00",
       "SalePeriodTo": "2024-08-21 10:59:59",
       "RecruitCoinId": 70125,
@@ -12787,6 +13193,7 @@
       ],
       "LinkedRobbyBannerId": 620,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-21 11:00:00",
       "SalePeriodTo": "2024-09-04 10:59:59",
       "RecruitCoinId": 70126,
@@ -12819,6 +13226,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-21 11:00:00",
       "SalePeriodTo": "2024-09-04 10:59:59",
       "RecruitCoinId": 70126,
@@ -12851,6 +13259,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-08-21 11:00:00",
       "SalePeriodTo": "2024-09-04 10:59:59",
       "RecruitCoinId": 70126,
@@ -12881,6 +13290,7 @@
       ],
       "LinkedRobbyBannerId": 623,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-04 11:00:00",
       "SalePeriodTo": "2024-09-18 10:59:59",
       "RecruitCoinId": 70127,
@@ -12913,6 +13323,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-04 11:00:00",
       "SalePeriodTo": "2024-09-18 10:59:59",
       "RecruitCoinId": 70127,
@@ -12945,6 +13356,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-04 11:00:00",
       "SalePeriodTo": "2024-09-18 10:59:59",
       "RecruitCoinId": 70127,
@@ -12977,6 +13389,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-04 11:00:00",
       "SalePeriodTo": "2024-09-18 10:59:59",
       "RecruitCoinId": 70127,
@@ -13009,6 +13422,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-04 11:00:00",
       "SalePeriodTo": "2024-09-18 10:59:59",
       "RecruitCoinId": 70127,
@@ -13039,6 +13453,7 @@
       ],
       "LinkedRobbyBannerId": 628,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-18 11:00:00",
       "SalePeriodTo": "2024-09-25 10:59:59",
       "RecruitCoinId": 70128,
@@ -13071,6 +13486,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-18 11:00:00",
       "SalePeriodTo": "2024-09-25 10:59:59",
       "RecruitCoinId": 70128,
@@ -13103,6 +13519,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-18 11:00:00",
       "SalePeriodTo": "2024-09-25 10:59:59",
       "RecruitCoinId": 70128,
@@ -13135,6 +13552,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-18 11:00:00",
       "SalePeriodTo": "2024-09-25 10:59:59",
       "RecruitCoinId": 70128,
@@ -13167,6 +13585,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-18 11:00:00",
       "SalePeriodTo": "2024-09-25 10:59:59",
       "RecruitCoinId": 70128,
@@ -13197,6 +13616,7 @@
       ],
       "LinkedRobbyBannerId": 640,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-25 11:00:00",
       "SalePeriodTo": "2024-10-10 10:59:59",
       "RecruitCoinId": 70129,
@@ -13229,6 +13649,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-25 11:00:00",
       "SalePeriodTo": "2024-10-10 10:59:59",
       "RecruitCoinId": 70129,
@@ -13261,6 +13682,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-25 11:00:00",
       "SalePeriodTo": "2024-10-10 10:59:59",
       "RecruitCoinId": 70129,
@@ -13295,6 +13717,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-25 11:00:00",
       "SalePeriodTo": "2024-10-10 10:59:59",
       "RecruitCoinId": 70129,
@@ -13327,6 +13750,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-09-25 11:00:00",
       "SalePeriodTo": "2024-10-10 10:59:59",
       "RecruitCoinId": 70129,
@@ -13357,6 +13781,7 @@
       ],
       "LinkedRobbyBannerId": 645,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-10 11:00:00",
       "SalePeriodTo": "2024-10-16 10:59:59",
       "RecruitCoinId": 70130,
@@ -13389,6 +13814,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-10 11:00:00",
       "SalePeriodTo": "2024-10-16 10:59:59",
       "RecruitCoinId": 70130,
@@ -13421,6 +13847,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-10 11:00:00",
       "SalePeriodTo": "2024-10-16 10:59:59",
       "RecruitCoinId": 70130,
@@ -13453,6 +13880,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-10 11:00:00",
       "SalePeriodTo": "2024-10-16 10:59:59",
       "RecruitCoinId": 70130,
@@ -13483,6 +13911,7 @@
       ],
       "LinkedRobbyBannerId": 649,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-16 11:00:00",
       "SalePeriodTo": "2024-10-23 10:59:59",
       "RecruitCoinId": 70131,
@@ -13515,6 +13944,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-16 11:00:00",
       "SalePeriodTo": "2024-10-23 10:59:59",
       "RecruitCoinId": 70131,
@@ -13547,6 +13977,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-16 11:00:00",
       "SalePeriodTo": "2024-10-23 10:59:59",
       "RecruitCoinId": 70131,
@@ -13579,6 +14010,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-16 11:00:00",
       "SalePeriodTo": "2024-10-23 10:59:59",
       "RecruitCoinId": 70131,
@@ -13609,6 +14041,7 @@
       ],
       "LinkedRobbyBannerId": 660,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-23 11:00:00",
       "SalePeriodTo": "2024-11-06 10:59:59",
       "RecruitCoinId": 70132,
@@ -13641,6 +14074,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-23 11:00:00",
       "SalePeriodTo": "2024-11-06 10:59:59",
       "RecruitCoinId": 70132,
@@ -13673,6 +14107,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-10-23 11:00:00",
       "SalePeriodTo": "2024-11-06 10:59:59",
       "RecruitCoinId": 70132,
@@ -13703,6 +14138,7 @@
       ],
       "LinkedRobbyBannerId": 663,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-06 11:00:00",
       "SalePeriodTo": "2024-11-13 10:59:59",
       "RecruitCoinId": 70133,
@@ -13735,6 +14171,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-06 11:00:00",
       "SalePeriodTo": "2024-11-13 10:59:59",
       "RecruitCoinId": 70133,
@@ -13767,6 +14204,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-06 11:00:00",
       "SalePeriodTo": "2024-11-13 10:59:59",
       "RecruitCoinId": 70133,
@@ -13797,6 +14235,7 @@
       ],
       "LinkedRobbyBannerId": 666,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-13 11:00:00",
       "SalePeriodTo": "2024-11-20 10:59:59",
       "RecruitCoinId": 70134,
@@ -13829,6 +14268,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-13 11:00:00",
       "SalePeriodTo": "2024-11-20 10:59:59",
       "RecruitCoinId": 70134,
@@ -13861,6 +14301,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-13 11:00:00",
       "SalePeriodTo": "2024-11-20 10:59:59",
       "RecruitCoinId": 70134,
@@ -13893,6 +14334,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-13 11:00:00",
       "SalePeriodTo": "2024-11-20 10:59:59",
       "RecruitCoinId": 70134,
@@ -13923,6 +14365,7 @@
       ],
       "LinkedRobbyBannerId": 670,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-20 11:00:00",
       "SalePeriodTo": "2024-12-04 10:59:59",
       "RecruitCoinId": 70135,
@@ -13955,6 +14398,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-20 11:00:00",
       "SalePeriodTo": "2024-12-04 10:59:59",
       "RecruitCoinId": 70135,
@@ -13987,6 +14431,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-20 11:00:00",
       "SalePeriodTo": "2024-12-04 10:59:59",
       "RecruitCoinId": 70135,
@@ -14019,6 +14464,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-20 11:00:00",
       "SalePeriodTo": "2024-12-04 10:59:59",
       "RecruitCoinId": 70135,
@@ -14051,6 +14497,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-11-20 11:00:00",
       "SalePeriodTo": "2024-12-04 10:59:59",
       "RecruitCoinId": 70135,
@@ -14081,6 +14528,7 @@
       ],
       "LinkedRobbyBannerId": 675,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-04 11:00:00",
       "SalePeriodTo": "2024-12-11 10:59:59",
       "RecruitCoinId": 70136,
@@ -14113,6 +14561,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-04 11:00:00",
       "SalePeriodTo": "2024-12-11 10:59:59",
       "RecruitCoinId": 70136,
@@ -14145,6 +14594,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-04 11:00:00",
       "SalePeriodTo": "2024-12-11 10:59:59",
       "RecruitCoinId": 70136,
@@ -14177,6 +14627,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-04 11:00:00",
       "SalePeriodTo": "2024-12-11 10:59:59",
       "RecruitCoinId": 70136,
@@ -14209,6 +14660,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-04 11:00:00",
       "SalePeriodTo": "2024-12-11 10:59:59",
       "RecruitCoinId": 70136,
@@ -14239,6 +14691,7 @@
       ],
       "LinkedRobbyBannerId": 680,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-11 11:00:00",
       "SalePeriodTo": "2024-12-18 10:59:59",
       "RecruitCoinId": 70137,
@@ -14271,6 +14724,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-11 11:00:00",
       "SalePeriodTo": "2024-12-18 10:59:59",
       "RecruitCoinId": 70137,
@@ -14303,6 +14757,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-11 11:00:00",
       "SalePeriodTo": "2024-12-18 10:59:59",
       "RecruitCoinId": 70137,
@@ -14335,6 +14790,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-11 11:00:00",
       "SalePeriodTo": "2024-12-18 10:59:59",
       "RecruitCoinId": 70137,
@@ -14365,6 +14821,7 @@
       ],
       "LinkedRobbyBannerId": 684,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-18 11:00:00",
       "SalePeriodTo": "2024-12-24 10:59:59",
       "RecruitCoinId": 70138,
@@ -14397,6 +14854,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-18 11:00:00",
       "SalePeriodTo": "2024-12-24 10:59:59",
       "RecruitCoinId": 70138,
@@ -14429,6 +14887,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-18 11:00:00",
       "SalePeriodTo": "2024-12-24 10:59:59",
       "RecruitCoinId": 70138,
@@ -14461,6 +14920,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-18 11:00:00",
       "SalePeriodTo": "2024-12-24 10:59:59",
       "RecruitCoinId": 70138,
@@ -14491,6 +14951,7 @@
       ],
       "LinkedRobbyBannerId": 690,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-24 11:00:00",
       "SalePeriodTo": "2025-01-08 10:59:59",
       "RecruitCoinId": 70139,
@@ -14523,6 +14984,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-24 11:00:00",
       "SalePeriodTo": "2025-01-08 10:59:59",
       "RecruitCoinId": 70139,
@@ -14555,6 +15017,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-12-24 11:00:00",
       "SalePeriodTo": "2025-01-08 10:59:59",
       "RecruitCoinId": 70139,
@@ -14585,6 +15048,7 @@
       ],
       "LinkedRobbyBannerId": 693,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-08 11:00:00",
       "SalePeriodTo": "2025-01-15 10:59:59",
       "RecruitCoinId": 70140,
@@ -14617,6 +15081,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-08 11:00:00",
       "SalePeriodTo": "2025-01-15 10:59:59",
       "RecruitCoinId": 70140,
@@ -14649,6 +15114,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-08 11:00:00",
       "SalePeriodTo": "2025-01-15 10:59:59",
       "RecruitCoinId": 70140,
@@ -14681,6 +15147,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-08 11:00:00",
       "SalePeriodTo": "2025-01-15 10:59:59",
       "RecruitCoinId": 70140,
@@ -14713,6 +15180,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-08 11:00:00",
       "SalePeriodTo": "2025-01-15 10:59:59",
       "RecruitCoinId": 70140,
@@ -14743,6 +15211,7 @@
       ],
       "LinkedRobbyBannerId": 698,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-15 11:00:00",
       "SalePeriodTo": "2025-01-20 10:59:59",
       "RecruitCoinId": 70141,
@@ -14775,6 +15244,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-15 11:00:00",
       "SalePeriodTo": "2025-01-20 10:59:59",
       "RecruitCoinId": 70141,
@@ -14807,6 +15277,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-15 11:00:00",
       "SalePeriodTo": "2025-01-20 10:59:59",
       "RecruitCoinId": 70141,
@@ -14839,6 +15310,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-15 11:00:00",
       "SalePeriodTo": "2025-01-20 10:59:59",
       "RecruitCoinId": 70141,
@@ -14871,6 +15343,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-15 11:00:00",
       "SalePeriodTo": "2025-01-20 10:59:59",
       "RecruitCoinId": 70141,
@@ -14901,6 +15374,7 @@
       ],
       "LinkedRobbyBannerId": 710,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-20 11:00:00",
       "SalePeriodTo": "2025-01-27 10:59:59",
       "RecruitCoinId": 70142,
@@ -14933,6 +15407,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-20 11:00:00",
       "SalePeriodTo": "2025-01-27 10:59:59",
       "RecruitCoinId": 70142,
@@ -14965,6 +15440,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-20 11:00:00",
       "SalePeriodTo": "2025-01-27 10:59:59",
       "RecruitCoinId": 70142,
@@ -14995,6 +15471,7 @@
       ],
       "LinkedRobbyBannerId": 713,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-27 11:00:00",
       "SalePeriodTo": "2025-02-03 10:59:59",
       "RecruitCoinId": 70143,
@@ -15027,6 +15504,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-27 11:00:00",
       "SalePeriodTo": "2025-02-03 10:59:59",
       "RecruitCoinId": 70143,
@@ -15059,6 +15537,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-27 11:00:00",
       "SalePeriodTo": "2025-02-03 10:59:59",
       "RecruitCoinId": 70143,
@@ -15091,6 +15570,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-01-27 11:00:00",
       "SalePeriodTo": "2025-02-03 10:59:59",
       "RecruitCoinId": 70143,
@@ -15121,6 +15601,7 @@
       ],
       "LinkedRobbyBannerId": 717,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-03 11:00:00",
       "SalePeriodTo": "2025-02-12 10:59:59",
       "RecruitCoinId": 70144,
@@ -15153,6 +15634,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-03 11:00:00",
       "SalePeriodTo": "2025-02-12 10:59:59",
       "RecruitCoinId": 70144,
@@ -15185,6 +15667,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-03 11:00:00",
       "SalePeriodTo": "2025-02-12 10:59:59",
       "RecruitCoinId": 70144,
@@ -15215,6 +15698,7 @@
       ],
       "LinkedRobbyBannerId": 720,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-12 11:00:00",
       "SalePeriodTo": "2025-02-26 10:59:59",
       "RecruitCoinId": 70145,
@@ -15247,6 +15731,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-12 11:00:00",
       "SalePeriodTo": "2025-02-26 10:59:59",
       "RecruitCoinId": 70145,
@@ -15279,6 +15764,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-12 11:00:00",
       "SalePeriodTo": "2025-02-26 10:59:59",
       "RecruitCoinId": 70145,
@@ -15311,6 +15797,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-12 11:00:00",
       "SalePeriodTo": "2025-02-26 10:59:59",
       "RecruitCoinId": 70145,
@@ -15341,6 +15828,7 @@
       ],
       "LinkedRobbyBannerId": 730,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-26 11:00:00",
       "SalePeriodTo": "2025-03-12 10:59:59",
       "RecruitCoinId": 70146,
@@ -15373,6 +15861,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-26 11:00:00",
       "SalePeriodTo": "2025-03-12 10:59:59",
       "RecruitCoinId": 70146,
@@ -15405,6 +15894,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-02-26 11:00:00",
       "SalePeriodTo": "2025-03-12 10:59:59",
       "RecruitCoinId": 70146,
@@ -15435,6 +15925,7 @@
       ],
       "LinkedRobbyBannerId": 733,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-12 11:00:00",
       "SalePeriodTo": "2025-03-19 10:59:59",
       "RecruitCoinId": 70147,
@@ -15467,6 +15958,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-12 11:00:00",
       "SalePeriodTo": "2025-03-19 10:59:59",
       "RecruitCoinId": 70147,
@@ -15499,6 +15991,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-12 11:00:00",
       "SalePeriodTo": "2025-03-19 10:59:59",
       "RecruitCoinId": 70147,
@@ -15529,6 +16022,7 @@
       ],
       "LinkedRobbyBannerId": 736,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-19 11:00:00",
       "SalePeriodTo": "2025-03-26 10:59:59",
       "RecruitCoinId": 70148,
@@ -15561,6 +16055,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-19 11:00:00",
       "SalePeriodTo": "2025-03-26 10:59:59",
       "RecruitCoinId": 70148,
@@ -15593,6 +16088,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-19 11:00:00",
       "SalePeriodTo": "2025-03-26 10:59:59",
       "RecruitCoinId": 70148,
@@ -15625,6 +16121,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-19 11:00:00",
       "SalePeriodTo": "2025-03-26 10:59:59",
       "RecruitCoinId": 70148,
@@ -15657,6 +16154,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-19 11:00:00",
       "SalePeriodTo": "2025-03-26 10:59:59",
       "RecruitCoinId": 70148,
@@ -15687,6 +16185,7 @@
       ],
       "LinkedRobbyBannerId": 750,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-26 11:00:00",
       "SalePeriodTo": "2025-04-09 10:59:59",
       "RecruitCoinId": 70149,
@@ -15719,6 +16218,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-26 11:00:00",
       "SalePeriodTo": "2025-04-09 10:59:59",
       "RecruitCoinId": 70149,
@@ -15751,6 +16251,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-03-26 11:00:00",
       "SalePeriodTo": "2025-04-09 10:59:59",
       "RecruitCoinId": 70149,
@@ -15781,6 +16282,7 @@
       ],
       "LinkedRobbyBannerId": 753,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-09 11:00:00",
       "SalePeriodTo": "2025-04-16 10:59:59",
       "RecruitCoinId": 70150,
@@ -15813,6 +16315,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-09 11:00:00",
       "SalePeriodTo": "2025-04-16 10:59:59",
       "RecruitCoinId": 70150,
@@ -15845,6 +16348,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-09 11:00:00",
       "SalePeriodTo": "2025-04-16 10:59:59",
       "RecruitCoinId": 70150,
@@ -15877,6 +16381,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-09 11:00:00",
       "SalePeriodTo": "2025-04-16 10:59:59",
       "RecruitCoinId": 70150,
@@ -15907,6 +16412,7 @@
       ],
       "LinkedRobbyBannerId": 757,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-16 11:00:00",
       "SalePeriodTo": "2025-04-22 10:59:59",
       "RecruitCoinId": 70151,
@@ -15939,6 +16445,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-16 11:00:00",
       "SalePeriodTo": "2025-04-22 10:59:59",
       "RecruitCoinId": 70151,
@@ -15971,6 +16478,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-16 11:00:00",
       "SalePeriodTo": "2025-04-22 10:59:59",
       "RecruitCoinId": 70151,
@@ -16001,6 +16509,7 @@
       ],
       "LinkedRobbyBannerId": 760,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-22 11:00:00",
       "SalePeriodTo": "2025-05-07 10:59:59",
       "RecruitCoinId": 70152,
@@ -16033,6 +16542,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-22 11:00:00",
       "SalePeriodTo": "2025-05-07 10:59:59",
       "RecruitCoinId": 70152,
@@ -16065,6 +16575,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-04-22 11:00:00",
       "SalePeriodTo": "2025-05-07 10:59:59",
       "RecruitCoinId": 70152,
@@ -16095,6 +16606,7 @@
       ],
       "LinkedRobbyBannerId": 763,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-07 11:00:00",
       "SalePeriodTo": "2025-05-14 10:59:59",
       "RecruitCoinId": 70153,
@@ -16127,6 +16639,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-07 11:00:00",
       "SalePeriodTo": "2025-05-14 10:59:59",
       "RecruitCoinId": 70153,
@@ -16159,6 +16672,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-07 11:00:00",
       "SalePeriodTo": "2025-05-14 10:59:59",
       "RecruitCoinId": 70153,
@@ -16191,6 +16705,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-07 11:00:00",
       "SalePeriodTo": "2025-05-14 10:59:59",
       "RecruitCoinId": 70153,
@@ -16221,6 +16736,7 @@
       ],
       "LinkedRobbyBannerId": 767,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-14 11:00:00",
       "SalePeriodTo": "2025-05-21 10:59:59",
       "RecruitCoinId": 70154,
@@ -16253,6 +16769,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-14 11:00:00",
       "SalePeriodTo": "2025-05-21 10:59:59",
       "RecruitCoinId": 70154,
@@ -16285,6 +16802,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-14 11:00:00",
       "SalePeriodTo": "2025-05-21 10:59:59",
       "RecruitCoinId": 70154,
@@ -16317,6 +16835,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-14 11:00:00",
       "SalePeriodTo": "2025-05-21 10:59:59",
       "RecruitCoinId": 70154,
@@ -16347,6 +16866,7 @@
       ],
       "LinkedRobbyBannerId": 780,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-21 11:00:00",
       "SalePeriodTo": "2025-06-04 10:59:59",
       "RecruitCoinId": 70155,
@@ -16379,6 +16899,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-21 11:00:00",
       "SalePeriodTo": "2025-06-04 10:59:59",
       "RecruitCoinId": 70155,
@@ -16411,6 +16932,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-05-21 11:00:00",
       "SalePeriodTo": "2025-06-04 10:59:59",
       "RecruitCoinId": 70155,
@@ -16441,6 +16963,7 @@
       ],
       "LinkedRobbyBannerId": 783,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-04 11:00:00",
       "SalePeriodTo": "2025-06-18 10:59:59",
       "RecruitCoinId": 70156,
@@ -16473,6 +16996,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-04 11:00:00",
       "SalePeriodTo": "2025-06-18 10:59:59",
       "RecruitCoinId": 70156,
@@ -16505,6 +17029,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-04 11:00:00",
       "SalePeriodTo": "2025-06-18 10:59:59",
       "RecruitCoinId": 70156,
@@ -16537,6 +17062,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-04 11:00:00",
       "SalePeriodTo": "2025-06-18 10:59:59",
       "RecruitCoinId": 70156,
@@ -16569,6 +17095,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-04 11:00:00",
       "SalePeriodTo": "2025-06-18 10:59:59",
       "RecruitCoinId": 70156,
@@ -16599,6 +17126,7 @@
       ],
       "LinkedRobbyBannerId": 788,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-18 11:00:00",
       "SalePeriodTo": "2025-06-25 10:59:59",
       "RecruitCoinId": 70157,
@@ -16631,6 +17159,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-18 11:00:00",
       "SalePeriodTo": "2025-06-25 10:59:59",
       "RecruitCoinId": 70157,
@@ -16663,6 +17192,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-18 11:00:00",
       "SalePeriodTo": "2025-06-25 10:59:59",
       "RecruitCoinId": 70157,
@@ -16695,6 +17225,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-18 11:00:00",
       "SalePeriodTo": "2025-06-25 10:59:59",
       "RecruitCoinId": 70157,
@@ -16727,6 +17258,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-18 11:00:00",
       "SalePeriodTo": "2025-06-25 10:59:59",
       "RecruitCoinId": 70157,
@@ -16757,6 +17289,7 @@
       ],
       "LinkedRobbyBannerId": 800,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-25 11:00:00",
       "SalePeriodTo": "2025-07-09 10:59:59",
       "RecruitCoinId": 70158,
@@ -16791,6 +17324,7 @@
         {},
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-25 11:00:00",
       "SalePeriodTo": "2025-07-09 10:59:59",
       "RecruitCoinId": 70158,
@@ -16823,6 +17357,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-06-25 11:00:00",
       "SalePeriodTo": "2025-07-09 10:59:59",
       "RecruitCoinId": 70158,
@@ -16853,6 +17388,7 @@
       ],
       "LinkedRobbyBannerId": 803,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-09 11:00:00",
       "SalePeriodTo": "2025-07-22 10:59:59",
       "RecruitCoinId": 70159,
@@ -16885,6 +17421,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-09 11:00:00",
       "SalePeriodTo": "2025-07-22 10:59:59",
       "RecruitCoinId": 70159,
@@ -16917,6 +17454,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-09 11:00:00",
       "SalePeriodTo": "2025-07-22 10:59:59",
       "RecruitCoinId": 70159,
@@ -16949,6 +17487,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-09 11:00:00",
       "SalePeriodTo": "2025-07-22 10:59:59",
       "RecruitCoinId": 70159,
@@ -16979,6 +17518,7 @@
       ],
       "LinkedRobbyBannerId": 810,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-22 11:00:00",
       "SalePeriodTo": "2025-07-30 10:59:59",
       "RecruitCoinId": 70160,
@@ -17011,6 +17551,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-22 11:00:00",
       "SalePeriodTo": "2025-07-30 10:59:59",
       "RecruitCoinId": 70160,
@@ -17043,6 +17584,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-22 11:00:00",
       "SalePeriodTo": "2025-07-30 10:59:59",
       "RecruitCoinId": 70160,
@@ -17073,6 +17615,7 @@
       ],
       "LinkedRobbyBannerId": 813,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-30 11:00:00",
       "SalePeriodTo": "2025-08-06 10:59:59",
       "RecruitCoinId": 70161,
@@ -17105,6 +17648,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-30 11:00:00",
       "SalePeriodTo": "2025-08-06 10:59:59",
       "RecruitCoinId": 70161,
@@ -17137,6 +17681,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-30 11:00:00",
       "SalePeriodTo": "2025-08-06 10:59:59",
       "RecruitCoinId": 70161,
@@ -17169,6 +17714,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-30 11:00:00",
       "SalePeriodTo": "2025-08-06 10:59:59",
       "RecruitCoinId": 70161,
@@ -17199,6 +17745,7 @@
       ],
       "LinkedRobbyBannerId": 817,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-06 11:00:00",
       "SalePeriodTo": "2025-08-13 10:59:59",
       "RecruitCoinId": 70162,
@@ -17231,6 +17778,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-06 11:00:00",
       "SalePeriodTo": "2025-08-13 10:59:59",
       "RecruitCoinId": 70162,
@@ -17263,6 +17811,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-06 11:00:00",
       "SalePeriodTo": "2025-08-13 10:59:59",
       "RecruitCoinId": 70162,
@@ -17293,6 +17842,7 @@
       ],
       "LinkedRobbyBannerId": 820,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-13 11:00:00",
       "SalePeriodTo": "2025-08-20 10:59:59",
       "RecruitCoinId": 70163,
@@ -17325,6 +17875,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-13 11:00:00",
       "SalePeriodTo": "2025-08-20 10:59:59",
       "RecruitCoinId": 70163,
@@ -17357,6 +17908,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-13 11:00:00",
       "SalePeriodTo": "2025-08-20 10:59:59",
       "RecruitCoinId": 70163,
@@ -17389,6 +17941,7 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-13 11:00:00",
       "SalePeriodTo": "2025-08-20 10:59:59",
       "RecruitCoinId": 70163,
@@ -17421,10 +17974,108 @@
       "InfoCharacterId": [
         {}
       ],
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-08-13 11:00:00",
       "SalePeriodTo": "2025-08-20 10:59:59",
       "RecruitCoinId": 70163,
       "RecruitSellectionShopId": 10533,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "IsNewbie": false,
+      "IsSelectRecruit": false,
+      "DirectPayInvisibleTokenId": 0,
+      "DirectPayAndroidShopCashId": 0,
+      "DirectPayAppleShopCashId": 0,
+      "SelectAbleGachaGroupId": 0,
+      "MaxSelectCharacterNum": 0
+    },
+    {
+      "Id": 50830,
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "OneGachaGoodsId": 30580,
+      "TenGachaGoodsId": 30581,
+      "GoodsDevName": "",
+      "DisplayTag": "None",
+      "DisplayOrder": 30,
+      "GachaBannerPath": "uis/00_images/banner/Event_Banner_50001",
+      "VideoId": [
+        {}
+      ],
+      "LinkedRobbyBannerId": 830,
+      "InfoCharacterId": null,
+      "SalePeriodVisible": true,
+      "SalePeriodFrom": "2025-08-20 11:00:00",
+      "SalePeriodTo": "2025-09-03 10:59:59",
+      "RecruitCoinId": 70164,
+      "RecruitSellectionShopId": 10540,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "IsNewbie": false,
+      "IsSelectRecruit": false,
+      "DirectPayInvisibleTokenId": 0,
+      "DirectPayAndroidShopCashId": 0,
+      "DirectPayAppleShopCashId": 0,
+      "SelectAbleGachaGroupId": 0,
+      "MaxSelectCharacterNum": 0
+    },
+    {
+      "Id": 50831,
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "OneGachaGoodsId": 36040,
+      "TenGachaGoodsId": 36041,
+      "GoodsDevName": "",
+      "DisplayTag": "None",
+      "DisplayOrder": 10,
+      "GachaBannerPath": "",
+      "VideoId": [
+        {}
+      ],
+      "LinkedRobbyBannerId": 831,
+      "InfoCharacterId": [
+        {}
+      ],
+      "SalePeriodVisible": true,
+      "SalePeriodFrom": "2025-08-20 11:00:00",
+      "SalePeriodTo": "2025-09-03 10:59:59",
+      "RecruitCoinId": 70164,
+      "RecruitSellectionShopId": 10540,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "IsNewbie": false,
+      "IsSelectRecruit": false,
+      "DirectPayInvisibleTokenId": 0,
+      "DirectPayAndroidShopCashId": 0,
+      "DirectPayAppleShopCashId": 0,
+      "SelectAbleGachaGroupId": 0,
+      "MaxSelectCharacterNum": 0
+    },
+    {
+      "Id": 50832,
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "OneGachaGoodsId": 36042,
+      "TenGachaGoodsId": 36043,
+      "GoodsDevName": "",
+      "DisplayTag": "None",
+      "DisplayOrder": 20,
+      "GachaBannerPath": "",
+      "VideoId": [
+        {}
+      ],
+      "LinkedRobbyBannerId": 832,
+      "InfoCharacterId": [
+        {}
+      ],
+      "SalePeriodVisible": true,
+      "SalePeriodFrom": "2025-08-20 11:00:00",
+      "SalePeriodTo": "2025-09-03 10:59:59",
+      "RecruitCoinId": 70164,
+      "RecruitSellectionShopId": 10540,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None",
@@ -17451,10 +18102,11 @@
       ],
       "LinkedRobbyBannerId": 1000,
       "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-07-22 11:00:00",
-      "SalePeriodTo": "2025-07-30 10:59:59",
-      "RecruitCoinId": 70160,
-      "RecruitSellectionShopId": 10530,
+      "SalePeriodVisible": true,
+      "SalePeriodFrom": "2025-08-20 11:00:00",
+      "SalePeriodTo": "2025-09-03 10:59:59",
+      "RecruitCoinId": 70164,
+      "RecruitSellectionShopId": 10540,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None",
@@ -17481,190 +18133,11 @@
       ],
       "LinkedRobbyBannerId": 1000,
       "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-07-22 11:00:00",
-      "SalePeriodTo": "2025-07-30 10:59:59",
-      "RecruitCoinId": 70160,
-      "RecruitSellectionShopId": 10530,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 60002,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 0,
-      "TenGachaGoodsId": 120002,
-      "GoodsDevName": "",
-      "DisplayTag": "ThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "uis/00_images/banner/Event_Banner_60003",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 1001,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-07-30 11:00:00",
-      "SalePeriodTo": "2025-08-06 10:59:59",
-      "RecruitCoinId": 70161,
-      "RecruitSellectionShopId": 10531,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 60003,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 0,
-      "TenGachaGoodsId": 120003,
-      "GoodsDevName": "",
-      "DisplayTag": "ThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "uis/00_images/banner/Event_Banner_60003",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 1001,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-07-30 11:00:00",
-      "SalePeriodTo": "2025-08-06 10:59:59",
-      "RecruitCoinId": 70161,
-      "RecruitSellectionShopId": 10531,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 60004,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 0,
-      "TenGachaGoodsId": 120004,
-      "GoodsDevName": "",
-      "DisplayTag": "ThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "uis/00_images/banner/Event_Banner_60003",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 1002,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-08-06 11:00:00",
-      "SalePeriodTo": "2025-08-13 10:59:59",
-      "RecruitCoinId": 70162,
-      "RecruitSellectionShopId": 10532,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 60005,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 0,
-      "TenGachaGoodsId": 120005,
-      "GoodsDevName": "",
-      "DisplayTag": "ThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "uis/00_images/banner/Event_Banner_60003",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 1002,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-08-06 11:00:00",
-      "SalePeriodTo": "2025-08-13 10:59:59",
-      "RecruitCoinId": 70162,
-      "RecruitSellectionShopId": 10532,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 60006,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 0,
-      "TenGachaGoodsId": 120006,
-      "GoodsDevName": "",
-      "DisplayTag": "ThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "uis/00_images/banner/Event_Banner_60003",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 1003,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-08-13 11:00:00",
-      "SalePeriodTo": "2025-08-20 10:59:59",
-      "RecruitCoinId": 70163,
-      "RecruitSellectionShopId": 10533,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 60007,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 0,
-      "TenGachaGoodsId": 120007,
-      "GoodsDevName": "",
-      "DisplayTag": "ThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "uis/00_images/banner/Event_Banner_60003",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 1003,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-08-13 11:00:00",
-      "SalePeriodTo": "2025-08-20 10:59:59",
-      "RecruitCoinId": 70163,
-      "RecruitSellectionShopId": 10533,
+      "SalePeriodVisible": true,
+      "SalePeriodFrom": "2025-08-20 11:00:00",
+      "SalePeriodTo": "2025-09-03 10:59:59",
+      "RecruitCoinId": 70164,
+      "RecruitSellectionShopId": 10540,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None",
@@ -17691,6 +18164,7 @@
       ],
       "LinkedRobbyBannerId": 66,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2021-07-29 12:30:00",
       "SalePeriodTo": "2021-12-12 12:00:00",
       "RecruitCoinId": 70015,
@@ -17721,6 +18195,7 @@
       ],
       "LinkedRobbyBannerId": 2000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-01-26 04:00:00",
       "SalePeriodTo": "2024-01-24 10:59:59",
       "RecruitCoinId": 0,
@@ -17751,6 +18226,7 @@
       ],
       "LinkedRobbyBannerId": 2000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-01-24 11:00:00",
       "SalePeriodTo": "2099-12-31 03:59:59",
       "RecruitCoinId": 0,
@@ -17781,6 +18257,7 @@
       ],
       "LinkedRobbyBannerId": 3000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2022-07-20 04:00:00",
       "SalePeriodTo": "2022-08-24 10:59:59",
       "RecruitCoinId": 0,
@@ -17811,6 +18288,7 @@
       ],
       "LinkedRobbyBannerId": 3000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2023-07-24 11:00:00",
       "SalePeriodTo": "2024-06-26 10:59:59",
       "RecruitCoinId": 0,
@@ -17841,6 +18319,7 @@
       ],
       "LinkedRobbyBannerId": 3000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2024-07-22 11:00:00",
       "SalePeriodTo": "2025-06-25 10:59:59",
       "RecruitCoinId": 0,
@@ -17871,6 +18350,7 @@
       ],
       "LinkedRobbyBannerId": 3000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": true,
       "SalePeriodFrom": "2025-07-22 11:00:00",
       "SalePeriodTo": "2026-06-24 10:59:59",
       "RecruitCoinId": 0,
@@ -17883,126 +18363,6 @@
       "DirectPayInvisibleTokenId": 12000003,
       "DirectPayAndroidShopCashId": 1630,
       "DirectPayAppleShopCashId": 5630,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 100000,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 123000,
-      "TenGachaGoodsId": 0,
-      "GoodsDevName": "",
-      "DisplayTag": "LimitedThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 5000,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-07-22 11:00:00",
-      "SalePeriodTo": "2025-07-30 10:59:59",
-      "RecruitCoinId": 70160,
-      "RecruitSellectionShopId": 10530,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 100001,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 123001,
-      "TenGachaGoodsId": 0,
-      "GoodsDevName": "",
-      "DisplayTag": "LimitedThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 5000,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-07-30 11:00:00",
-      "SalePeriodTo": "2025-08-06 10:59:59",
-      "RecruitCoinId": 70161,
-      "RecruitSellectionShopId": 10531,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 100002,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 123002,
-      "TenGachaGoodsId": 0,
-      "GoodsDevName": "",
-      "DisplayTag": "LimitedThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 5000,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-08-06 11:00:00",
-      "SalePeriodTo": "2025-08-13 10:59:59",
-      "RecruitCoinId": 70162,
-      "RecruitSellectionShopId": 10532,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
-      "SelectAbleGachaGroupId": 0,
-      "MaxSelectCharacterNum": 0
-    },
-    {
-      "Id": 100003,
-      "CategoryType": "TicketGacha",
-      "IsLegacy": false,
-      "OneGachaGoodsId": 123003,
-      "TenGachaGoodsId": 0,
-      "GoodsDevName": "",
-      "DisplayTag": "LimitedThreeStar",
-      "DisplayOrder": 3,
-      "GachaBannerPath": "",
-      "VideoId": [
-        {}
-      ],
-      "LinkedRobbyBannerId": 5000,
-      "InfoCharacterId": null,
-      "SalePeriodFrom": "2025-08-13 11:00:00",
-      "SalePeriodTo": "2025-08-20 10:59:59",
-      "RecruitCoinId": 70163,
-      "RecruitSellectionShopId": 10533,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None",
-      "IsNewbie": false,
-      "IsSelectRecruit": false,
-      "DirectPayInvisibleTokenId": 0,
-      "DirectPayAndroidShopCashId": 0,
-      "DirectPayAppleShopCashId": 0,
       "SelectAbleGachaGroupId": 0,
       "MaxSelectCharacterNum": 0
     },
@@ -18021,6 +18381,7 @@
       ],
       "LinkedRobbyBannerId": 6000,
       "InfoCharacterId": null,
+      "SalePeriodVisible": false,
       "SalePeriodFrom": "2025-07-22 11:00:00",
       "SalePeriodTo": "2099-12-31 03:59:59",
       "RecruitCoinId": 79000,

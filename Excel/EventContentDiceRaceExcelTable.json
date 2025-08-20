@@ -6,6 +6,14 @@
       "SkipableLap": 30,
       "DiceRacePawnPrefab": "DR0001",
       "IsUsingFixedDice": true,
+      "FixedDiceIcon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
       "DiceRaceEventType": [
         "UIDiceRaceResult",
         "UIDiceRacePlus",
@@ -19,6 +27,14 @@
       "SkipableLap": 30,
       "DiceRacePawnPrefab": "DR0002",
       "IsUsingFixedDice": true,
+      "FixedDiceIcon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
       "DiceRaceEventType": [
         "UIDiceRaceResult",
         "UIDiceRacePlus",
@@ -27,11 +43,40 @@
       ]
     },
     {
+      "EventContentId": 849,
+      "DiceCostGoodsId": 130025,
+      "SkipableLap": 30,
+      "DiceRacePawnPrefab": "DR0003",
+      "IsUsingFixedDice": true,
+      "FixedDiceIcon": [
+        "Img_DiceRace_ConfirmDice_01_849",
+        "Img_DiceRace_ConfirmDice_02_849",
+        "Img_DiceRace_ConfirmDice_03_849",
+        "Img_DiceRace_ConfirmDice_04_849",
+        "Img_DiceRace_ConfirmDice_05_849",
+        "Img_DiceRace_ConfirmDice_06_849"
+      ],
+      "DiceRaceEventType": [
+        "UIDiceRaceResult",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
+    },
+    {
       "EventContentId": 10818,
       "DiceCostGoodsId": 130009,
       "SkipableLap": 30,
       "DiceRacePawnPrefab": "DR0001",
       "IsUsingFixedDice": true,
+      "FixedDiceIcon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
       "DiceRaceEventType": [
         "UIDiceRaceResult",
         "UIDiceRacePlus",
@@ -45,6 +90,14 @@
       "SkipableLap": 30,
       "DiceRacePawnPrefab": "DR0002",
       "IsUsingFixedDice": true,
+      "FixedDiceIcon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
       "DiceRaceEventType": [
         "UIDiceRaceResult",
         "UIDiceRacePlus",

@@ -120,6 +120,46 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 201,
+      "LocalizeEtcId": 214268155,
+      "CategoryType": "CafeSummonTicket",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 1,
+      "PurchaseCountResetType": "Day",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": true,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 202,
+      "LocalizeEtcId": 2324923658,
+      "CategoryType": "CafeSummonTicket",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 1,
+      "PurchaseCountResetType": "Day",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": true,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 1000,
       "LocalizeEtcId": 1688668283,
       "CategoryType": "General",
@@ -128082,6 +128122,27 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 10540,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 19000,
       "LocalizeEtcId": 2803570054,
       "CategoryType": "RecruitSellection",
@@ -132761,6 +132822,46 @@
     {
       "Id": 20231,
       "LocalizeEtcId": 615679456,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 999,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 900,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 20232,
+      "LocalizeEtcId": 4185101560,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 999,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 900,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 20233,
+      "LocalizeEtcId": 4134412064,
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -163407,7 +163508,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8040,
+      "DisplayOrder": 8044,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163427,7 +163528,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8041,
+      "DisplayOrder": 8045,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163447,7 +163548,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8042,
+      "DisplayOrder": 8046,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163467,7 +163568,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8043,
+      "DisplayOrder": 8047,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163487,7 +163588,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8044,
+      "DisplayOrder": 8048,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163507,7 +163608,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8045,
+      "DisplayOrder": 8049,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163527,7 +163628,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8046,
+      "DisplayOrder": 8050,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163547,7 +163648,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8047,
+      "DisplayOrder": 8051,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163567,7 +163668,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8048,
+      "DisplayOrder": 8052,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163587,7 +163688,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8049,
+      "DisplayOrder": 8053,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163607,7 +163708,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8050,
+      "DisplayOrder": 8054,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163627,7 +163728,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8051,
+      "DisplayOrder": 8055,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163647,7 +163748,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8052,
+      "DisplayOrder": 8056,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163667,7 +163768,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8053,
+      "DisplayOrder": 8057,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163687,7 +163788,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8054,
+      "DisplayOrder": 8058,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163707,7 +163808,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8055,
+      "DisplayOrder": 8059,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163727,7 +163828,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8056,
+      "DisplayOrder": 8060,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163747,7 +163848,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8057,
+      "DisplayOrder": 8061,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163767,7 +163868,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8058,
+      "DisplayOrder": 8062,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163787,7 +163888,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8059,
+      "DisplayOrder": 8063,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163807,7 +163908,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8060,
+      "DisplayOrder": 8064,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163827,7 +163928,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8061,
+      "DisplayOrder": 8065,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163847,7 +163948,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8062,
+      "DisplayOrder": 8066,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163867,7 +163968,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8063,
+      "DisplayOrder": 8067,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163887,7 +163988,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8064,
+      "DisplayOrder": 8068,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163907,7 +164008,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8065,
+      "DisplayOrder": 8069,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163927,7 +164028,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8066,
+      "DisplayOrder": 8070,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163947,7 +164048,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8067,
+      "DisplayOrder": 8071,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163967,7 +164068,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8068,
+      "DisplayOrder": 8072,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -163987,7 +164088,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8069,
+      "DisplayOrder": 8073,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164007,7 +164108,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8070,
+      "DisplayOrder": 8074,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164027,7 +164128,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8071,
+      "DisplayOrder": 8075,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164047,7 +164148,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8072,
+      "DisplayOrder": 8076,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164067,7 +164168,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8073,
+      "DisplayOrder": 8077,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164087,7 +164188,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8074,
+      "DisplayOrder": 8078,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164107,7 +164208,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8075,
+      "DisplayOrder": 8079,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164127,7 +164228,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8076,
+      "DisplayOrder": 8080,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164147,7 +164248,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8077,
+      "DisplayOrder": 8081,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164167,7 +164268,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8078,
+      "DisplayOrder": 8082,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164187,7 +164288,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8079,
+      "DisplayOrder": 8083,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164207,7 +164308,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9040,
+      "DisplayOrder": 9044,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164227,7 +164328,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9041,
+      "DisplayOrder": 9045,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164247,7 +164348,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9042,
+      "DisplayOrder": 9046,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164267,7 +164368,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9043,
+      "DisplayOrder": 9047,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164287,7 +164388,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9044,
+      "DisplayOrder": 9048,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164307,7 +164408,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9045,
+      "DisplayOrder": 9049,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164327,7 +164428,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9046,
+      "DisplayOrder": 9050,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164347,7 +164448,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9047,
+      "DisplayOrder": 9051,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164367,7 +164468,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9048,
+      "DisplayOrder": 9052,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164387,7 +164488,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9049,
+      "DisplayOrder": 9053,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164407,7 +164508,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9050,
+      "DisplayOrder": 9054,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164427,7 +164528,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9051,
+      "DisplayOrder": 9055,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164447,7 +164548,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9052,
+      "DisplayOrder": 9056,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164467,7 +164568,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9053,
+      "DisplayOrder": 9057,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164487,7 +164588,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9054,
+      "DisplayOrder": 9058,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164507,7 +164608,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9055,
+      "DisplayOrder": 9059,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164527,7 +164628,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9056,
+      "DisplayOrder": 9060,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164547,7 +164648,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9057,
+      "DisplayOrder": 9061,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164567,7 +164668,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9058,
+      "DisplayOrder": 9062,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164587,7 +164688,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9059,
+      "DisplayOrder": 9063,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164607,7 +164708,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9060,
+      "DisplayOrder": 9064,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164627,7 +164728,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9061,
+      "DisplayOrder": 9065,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164647,7 +164748,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9062,
+      "DisplayOrder": 9066,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164667,7 +164768,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9063,
+      "DisplayOrder": 9067,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164687,7 +164788,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9064,
+      "DisplayOrder": 9068,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164707,7 +164808,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9065,
+      "DisplayOrder": 9069,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164727,7 +164828,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9066,
+      "DisplayOrder": 9070,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164747,7 +164848,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9067,
+      "DisplayOrder": 9071,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164767,7 +164868,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9068,
+      "DisplayOrder": 9072,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164787,7 +164888,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9069,
+      "DisplayOrder": 9073,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164807,7 +164908,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9070,
+      "DisplayOrder": 9074,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164827,7 +164928,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9071,
+      "DisplayOrder": 9075,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164847,7 +164948,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9072,
+      "DisplayOrder": 9076,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164867,7 +164968,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9073,
+      "DisplayOrder": 9077,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164887,7 +164988,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9074,
+      "DisplayOrder": 9078,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164907,7 +165008,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9075,
+      "DisplayOrder": 9079,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164927,7 +165028,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9076,
+      "DisplayOrder": 9080,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164947,7 +165048,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9077,
+      "DisplayOrder": 9081,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164967,7 +165068,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9078,
+      "DisplayOrder": 9082,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -164987,7 +165088,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9079,
+      "DisplayOrder": 9083,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -165032,6 +165133,326 @@
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201175,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8040,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201176,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8041,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201177,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8042,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201178,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8043,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201179,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9040,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 50,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201180,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9041,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201181,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9042,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201182,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9043,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201183,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8084,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201184,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8085,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201185,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8086,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201186,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8087,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201187,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9084,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 16,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201188,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9085,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201189,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9086,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 201190,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9087,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -165820,86 +166241,6 @@
     },
     {
       "Id": 210040,
-      "LocalizeEtcId": 1176159992,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8036,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210041,
-      "LocalizeEtcId": 2744210457,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8037,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 30,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210042,
-      "LocalizeEtcId": 368910839,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8038,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 25,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210043,
-      "LocalizeEtcId": 2773901191,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8039,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 6,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210044,
       "LocalizeEtcId": 2461825003,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -165919,7 +166260,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210045,
+      "Id": 210041,
       "LocalizeEtcId": 1363899497,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -165939,7 +166280,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210046,
+      "Id": 210042,
       "LocalizeEtcId": 2098079145,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -165959,7 +166300,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210047,
+      "Id": 210043,
       "LocalizeEtcId": 913043274,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -165979,7 +166320,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210048,
+      "Id": 210044,
       "LocalizeEtcId": 2354822280,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -165999,7 +166340,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210049,
+      "Id": 210045,
       "LocalizeEtcId": 2892528174,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166019,7 +166360,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210050,
+      "Id": 210046,
       "LocalizeEtcId": 3300929466,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166039,7 +166380,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210051,
+      "Id": 210047,
       "LocalizeEtcId": 2119703451,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166059,7 +166400,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210052,
+      "Id": 210048,
       "LocalizeEtcId": 745424244,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166079,7 +166420,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210053,
+      "Id": 210049,
       "LocalizeEtcId": 509805314,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166099,7 +166440,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210054,
+      "Id": 210050,
       "LocalizeEtcId": 1231105257,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166119,7 +166460,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210055,
+      "Id": 210051,
       "LocalizeEtcId": 470621344,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166139,7 +166480,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210056,
+      "Id": 210052,
       "LocalizeEtcId": 4076988875,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166159,7 +166500,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210057,
+      "Id": 210053,
       "LocalizeEtcId": 1884630595,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166179,7 +166520,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210058,
+      "Id": 210054,
       "LocalizeEtcId": 2620371142,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166199,7 +166540,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210059,
+      "Id": 210055,
       "LocalizeEtcId": 2648427324,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166219,7 +166560,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210060,
+      "Id": 210056,
       "LocalizeEtcId": 3284152598,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166239,7 +166580,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210061,
+      "Id": 210057,
       "LocalizeEtcId": 3751799311,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166259,7 +166600,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210062,
+      "Id": 210058,
       "LocalizeEtcId": 934055887,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166279,7 +166620,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210063,
+      "Id": 210059,
       "LocalizeEtcId": 2594624525,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166299,7 +166640,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210064,
+      "Id": 210060,
       "LocalizeEtcId": 793725088,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166319,7 +166660,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210065,
+      "Id": 210061,
       "LocalizeEtcId": 2509643561,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166339,7 +166680,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210066,
+      "Id": 210062,
       "LocalizeEtcId": 2798998823,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166359,7 +166700,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210067,
+      "Id": 210063,
       "LocalizeEtcId": 1768353332,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166379,7 +166720,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210068,
+      "Id": 210064,
       "LocalizeEtcId": 3068376977,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166399,7 +166740,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210069,
+      "Id": 210065,
       "LocalizeEtcId": 281502218,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166419,7 +166760,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210070,
+      "Id": 210066,
       "LocalizeEtcId": 774797002,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166439,7 +166780,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210071,
+      "Id": 210067,
       "LocalizeEtcId": 1141592261,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166459,7 +166800,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210072,
+      "Id": 210068,
       "LocalizeEtcId": 2678362351,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166479,7 +166820,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210073,
+      "Id": 210069,
       "LocalizeEtcId": 3083166601,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166499,7 +166840,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210074,
+      "Id": 210070,
       "LocalizeEtcId": 3890581009,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166519,7 +166860,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210075,
+      "Id": 210071,
       "LocalizeEtcId": 2301051284,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166539,7 +166880,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210076,
+      "Id": 210072,
       "LocalizeEtcId": 649414334,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166559,7 +166900,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210077,
+      "Id": 210073,
       "LocalizeEtcId": 1266996003,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166579,7 +166920,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210078,
+      "Id": 210074,
       "LocalizeEtcId": 2114973630,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166599,7 +166940,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210079,
+      "Id": 210075,
       "LocalizeEtcId": 632320016,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -166619,168 +166960,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210080,
-      "LocalizeEtcId": 4004238798,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9036,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210081,
-      "LocalizeEtcId": 3606195241,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9037,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210082,
-      "LocalizeEtcId": 2509946825,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9038,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 30,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210083,
-      "LocalizeEtcId": 368160868,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9039,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210085,
+      "Id": 210077,
       "LocalizeEtcId": 1159231855,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8040,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210086,
-      "LocalizeEtcId": 763938924,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8041,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 10,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210087,
-      "LocalizeEtcId": 1921674805,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8042,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 8,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210088,
-      "LocalizeEtcId": 571556135,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 8043,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 2,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210089,
-      "LocalizeEtcId": 614148181,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166799,8 +166980,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210090,
-      "LocalizeEtcId": 3735127488,
+      "Id": 210078,
+      "LocalizeEtcId": 763938924,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166819,8 +167000,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210091,
-      "LocalizeEtcId": 4168372872,
+      "Id": 210079,
+      "LocalizeEtcId": 1921674805,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166839,8 +167020,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210092,
-      "LocalizeEtcId": 2087583754,
+      "Id": 210080,
+      "LocalizeEtcId": 571556135,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166859,8 +167040,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210093,
-      "LocalizeEtcId": 3459458286,
+      "Id": 210081,
+      "LocalizeEtcId": 614148181,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166879,8 +167060,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210094,
-      "LocalizeEtcId": 2735840016,
+      "Id": 210082,
+      "LocalizeEtcId": 3735127488,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166899,8 +167080,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210095,
-      "LocalizeEtcId": 411492811,
+      "Id": 210083,
+      "LocalizeEtcId": 4168372872,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166919,8 +167100,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210096,
-      "LocalizeEtcId": 2992493523,
+      "Id": 210084,
+      "LocalizeEtcId": 2087583754,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166939,8 +167120,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210097,
-      "LocalizeEtcId": 2859688538,
+      "Id": 210085,
+      "LocalizeEtcId": 3459458286,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166959,8 +167140,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210098,
-      "LocalizeEtcId": 1069063864,
+      "Id": 210086,
+      "LocalizeEtcId": 2735840016,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166979,8 +167160,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210099,
-      "LocalizeEtcId": 2009434811,
+      "Id": 210087,
+      "LocalizeEtcId": 411492811,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -166999,8 +167180,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210100,
-      "LocalizeEtcId": 585103263,
+      "Id": 210088,
+      "LocalizeEtcId": 2992493523,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167019,8 +167200,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210101,
-      "LocalizeEtcId": 813764593,
+      "Id": 210089,
+      "LocalizeEtcId": 2859688538,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167039,8 +167220,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210102,
-      "LocalizeEtcId": 3861705294,
+      "Id": 210090,
+      "LocalizeEtcId": 1069063864,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167059,8 +167240,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210103,
-      "LocalizeEtcId": 3958214094,
+      "Id": 210091,
+      "LocalizeEtcId": 2009434811,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167079,8 +167260,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210104,
-      "LocalizeEtcId": 1251226267,
+      "Id": 210092,
+      "LocalizeEtcId": 585103263,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167099,8 +167280,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210105,
-      "LocalizeEtcId": 1471362838,
+      "Id": 210093,
+      "LocalizeEtcId": 813764593,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167119,8 +167300,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210106,
-      "LocalizeEtcId": 1473018147,
+      "Id": 210094,
+      "LocalizeEtcId": 3861705294,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167139,8 +167320,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210107,
-      "LocalizeEtcId": 1596655144,
+      "Id": 210095,
+      "LocalizeEtcId": 3958214094,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167159,8 +167340,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210108,
-      "LocalizeEtcId": 246830403,
+      "Id": 210096,
+      "LocalizeEtcId": 1251226267,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167179,8 +167360,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210109,
-      "LocalizeEtcId": 2155689153,
+      "Id": 210097,
+      "LocalizeEtcId": 1471362838,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167199,8 +167380,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210110,
-      "LocalizeEtcId": 389300387,
+      "Id": 210098,
+      "LocalizeEtcId": 1473018147,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167219,8 +167400,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210111,
-      "LocalizeEtcId": 2418871604,
+      "Id": 210099,
+      "LocalizeEtcId": 1596655144,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167239,8 +167420,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210112,
-      "LocalizeEtcId": 3326887356,
+      "Id": 210100,
+      "LocalizeEtcId": 246830403,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167259,8 +167440,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210113,
-      "LocalizeEtcId": 2851001778,
+      "Id": 210101,
+      "LocalizeEtcId": 2155689153,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167279,8 +167460,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210114,
-      "LocalizeEtcId": 1793255415,
+      "Id": 210102,
+      "LocalizeEtcId": 389300387,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167299,8 +167480,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210115,
-      "LocalizeEtcId": 4047346471,
+      "Id": 210103,
+      "LocalizeEtcId": 2418871604,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167319,8 +167500,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210116,
-      "LocalizeEtcId": 1192956262,
+      "Id": 210104,
+      "LocalizeEtcId": 3326887356,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167339,8 +167520,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210117,
-      "LocalizeEtcId": 3590732335,
+      "Id": 210105,
+      "LocalizeEtcId": 2851001778,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167359,8 +167540,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210118,
-      "LocalizeEtcId": 458185844,
+      "Id": 210106,
+      "LocalizeEtcId": 1793255415,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167379,8 +167560,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210119,
-      "LocalizeEtcId": 3134950939,
+      "Id": 210107,
+      "LocalizeEtcId": 4047346471,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167399,8 +167580,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210120,
-      "LocalizeEtcId": 2842950618,
+      "Id": 210108,
+      "LocalizeEtcId": 1192956262,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167419,8 +167600,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210121,
-      "LocalizeEtcId": 1176159992,
+      "Id": 210109,
+      "LocalizeEtcId": 3590732335,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167439,8 +167620,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210122,
-      "LocalizeEtcId": 2744210457,
+      "Id": 210110,
+      "LocalizeEtcId": 458185844,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167459,8 +167640,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210123,
-      "LocalizeEtcId": 368910839,
+      "Id": 210111,
+      "LocalizeEtcId": 3134950939,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167479,8 +167660,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210124,
-      "LocalizeEtcId": 2773901191,
+      "Id": 210112,
+      "LocalizeEtcId": 2842950618,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167499,88 +167680,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210125,
+      "Id": 210113,
       "LocalizeEtcId": 2461825003,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9040,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210126,
-      "LocalizeEtcId": 1363899497,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9041,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210127,
-      "LocalizeEtcId": 2098079145,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9042,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 10,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210128,
-      "LocalizeEtcId": 913043274,
-      "CategoryType": "EliminateRaid",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        {}
-      ],
-      "DisplayOrder": 9043,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 6,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 1
-    },
-    {
-      "Id": 210129,
-      "LocalizeEtcId": 2354822280,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167599,8 +167700,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210130,
-      "LocalizeEtcId": 2892528174,
+      "Id": 210114,
+      "LocalizeEtcId": 1363899497,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167619,8 +167720,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210131,
-      "LocalizeEtcId": 3300929466,
+      "Id": 210115,
+      "LocalizeEtcId": 2098079145,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167639,8 +167740,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210132,
-      "LocalizeEtcId": 2119703451,
+      "Id": 210116,
+      "LocalizeEtcId": 913043274,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167659,8 +167760,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210133,
-      "LocalizeEtcId": 745424244,
+      "Id": 210117,
+      "LocalizeEtcId": 2354822280,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167679,8 +167780,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210134,
-      "LocalizeEtcId": 509805314,
+      "Id": 210118,
+      "LocalizeEtcId": 2892528174,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167699,8 +167800,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210135,
-      "LocalizeEtcId": 1231105257,
+      "Id": 210119,
+      "LocalizeEtcId": 3300929466,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167719,8 +167820,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210136,
-      "LocalizeEtcId": 470621344,
+      "Id": 210120,
+      "LocalizeEtcId": 2119703451,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167739,8 +167840,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210137,
-      "LocalizeEtcId": 4076988875,
+      "Id": 210121,
+      "LocalizeEtcId": 745424244,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167759,8 +167860,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210138,
-      "LocalizeEtcId": 1884630595,
+      "Id": 210122,
+      "LocalizeEtcId": 509805314,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167779,8 +167880,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210139,
-      "LocalizeEtcId": 2620371142,
+      "Id": 210123,
+      "LocalizeEtcId": 1231105257,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167799,8 +167900,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210140,
-      "LocalizeEtcId": 2648427324,
+      "Id": 210124,
+      "LocalizeEtcId": 470621344,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167819,8 +167920,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210141,
-      "LocalizeEtcId": 3284152598,
+      "Id": 210125,
+      "LocalizeEtcId": 4076988875,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167839,8 +167940,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210142,
-      "LocalizeEtcId": 3751799311,
+      "Id": 210126,
+      "LocalizeEtcId": 1884630595,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167859,8 +167960,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210143,
-      "LocalizeEtcId": 934055887,
+      "Id": 210127,
+      "LocalizeEtcId": 2620371142,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167879,8 +167980,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210144,
-      "LocalizeEtcId": 2594624525,
+      "Id": 210128,
+      "LocalizeEtcId": 2648427324,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167899,8 +168000,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210145,
-      "LocalizeEtcId": 793725088,
+      "Id": 210129,
+      "LocalizeEtcId": 3284152598,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167919,8 +168020,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210146,
-      "LocalizeEtcId": 2509643561,
+      "Id": 210130,
+      "LocalizeEtcId": 3751799311,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167939,8 +168040,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210147,
-      "LocalizeEtcId": 2798998823,
+      "Id": 210131,
+      "LocalizeEtcId": 934055887,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167959,8 +168060,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210148,
-      "LocalizeEtcId": 1768353332,
+      "Id": 210132,
+      "LocalizeEtcId": 2594624525,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167979,8 +168080,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210149,
-      "LocalizeEtcId": 3068376977,
+      "Id": 210133,
+      "LocalizeEtcId": 793725088,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -167999,8 +168100,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210150,
-      "LocalizeEtcId": 281502218,
+      "Id": 210134,
+      "LocalizeEtcId": 2509643561,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168019,8 +168120,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210151,
-      "LocalizeEtcId": 774797002,
+      "Id": 210135,
+      "LocalizeEtcId": 2798998823,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168039,8 +168140,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210152,
-      "LocalizeEtcId": 1141592261,
+      "Id": 210136,
+      "LocalizeEtcId": 1768353332,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168059,8 +168160,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210153,
-      "LocalizeEtcId": 2678362351,
+      "Id": 210137,
+      "LocalizeEtcId": 3068376977,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168079,8 +168180,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210154,
-      "LocalizeEtcId": 3083166601,
+      "Id": 210138,
+      "LocalizeEtcId": 281502218,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168099,8 +168200,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210155,
-      "LocalizeEtcId": 3890581009,
+      "Id": 210139,
+      "LocalizeEtcId": 774797002,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168119,8 +168220,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210156,
-      "LocalizeEtcId": 2301051284,
+      "Id": 210140,
+      "LocalizeEtcId": 1141592261,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168139,8 +168240,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210157,
-      "LocalizeEtcId": 649414334,
+      "Id": 210141,
+      "LocalizeEtcId": 2678362351,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168159,8 +168260,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210158,
-      "LocalizeEtcId": 1266996003,
+      "Id": 210142,
+      "LocalizeEtcId": 3083166601,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168179,8 +168280,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210159,
-      "LocalizeEtcId": 2114973630,
+      "Id": 210143,
+      "LocalizeEtcId": 3890581009,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168199,8 +168300,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210160,
-      "LocalizeEtcId": 632320016,
+      "Id": 210144,
+      "LocalizeEtcId": 2301051284,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168219,8 +168320,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210161,
-      "LocalizeEtcId": 4004238798,
+      "Id": 210145,
+      "LocalizeEtcId": 649414334,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168239,8 +168340,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210162,
-      "LocalizeEtcId": 3606195241,
+      "Id": 210146,
+      "LocalizeEtcId": 1266996003,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168259,8 +168360,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210163,
-      "LocalizeEtcId": 2509946825,
+      "Id": 210147,
+      "LocalizeEtcId": 2114973630,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168279,8 +168380,8 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210164,
-      "LocalizeEtcId": 368160868,
+      "Id": 210148,
+      "LocalizeEtcId": 632320016,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -168299,7 +168400,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210165,
+      "Id": 210149,
       "LocalizeEtcId": 3891540835,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -168319,7 +168420,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210166,
+      "Id": 210150,
       "LocalizeEtcId": 2190707346,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -168339,7 +168440,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210167,
+      "Id": 210151,
       "LocalizeEtcId": 3973279174,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -168359,7 +168460,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210168,
+      "Id": 210152,
       "LocalizeEtcId": 2128674760,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -168379,7 +168480,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210169,
+      "Id": 210153,
       "LocalizeEtcId": 4011646913,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -168399,7 +168500,7 @@
       "ShopUpdateGroupId": 1
     },
     {
-      "Id": 210170,
+      "Id": 210154,
       "LocalizeEtcId": 2871486003,
       "CategoryType": "EliminateRaid",
       "IsLegacy": false,
@@ -168412,6 +168513,646 @@
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210155,
+      "LocalizeEtcId": 1176159992,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8036,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210156,
+      "LocalizeEtcId": 2744210457,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8037,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210157,
+      "LocalizeEtcId": 368910839,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8038,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210158,
+      "LocalizeEtcId": 2773901191,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8039,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210159,
+      "LocalizeEtcId": 4004238798,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9036,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 50,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210160,
+      "LocalizeEtcId": 3606195241,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9037,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210161,
+      "LocalizeEtcId": 2509946825,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9038,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210162,
+      "LocalizeEtcId": 368160868,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9039,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210163,
+      "LocalizeEtcId": 1176159992,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8080,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210164,
+      "LocalizeEtcId": 2744210457,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8081,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210165,
+      "LocalizeEtcId": 368910839,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8082,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210166,
+      "LocalizeEtcId": 2773901191,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8083,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210167,
+      "LocalizeEtcId": 4004238798,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9080,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 16,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210168,
+      "LocalizeEtcId": 3606195241,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9081,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210169,
+      "LocalizeEtcId": 2509946825,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9082,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210170,
+      "LocalizeEtcId": 368160868,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9083,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210171,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8040,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210172,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8041,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210173,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8042,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210174,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8043,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210175,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9040,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 50,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210176,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9041,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210177,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9042,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210178,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9043,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210179,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8084,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210180,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8085,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210181,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8086,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210182,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 8087,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210183,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9084,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 16,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210184,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9085,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210185,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9086,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 210186,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 9087,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -175567,7 +176308,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 1,
+      "DisplayOrder": 2,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175587,7 +176328,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 2,
+      "DisplayOrder": 3,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175607,7 +176348,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 3,
+      "DisplayOrder": 4,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175627,7 +176368,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 4,
+      "DisplayOrder": 5,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175647,7 +176388,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 5,
+      "DisplayOrder": 6,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175667,7 +176408,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 6,
+      "DisplayOrder": 7,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175687,7 +176428,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 7,
+      "DisplayOrder": 8,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175707,7 +176448,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8,
+      "DisplayOrder": 9,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175727,7 +176468,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9,
+      "DisplayOrder": 10,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175747,7 +176488,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 10,
+      "DisplayOrder": 11,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175767,7 +176508,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 11,
+      "DisplayOrder": 12,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175787,7 +176528,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 12,
+      "DisplayOrder": 13,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175807,7 +176548,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 13,
+      "DisplayOrder": 14,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175827,7 +176568,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 14,
+      "DisplayOrder": 15,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175847,7 +176588,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 15,
+      "DisplayOrder": 16,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175867,7 +176608,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 16,
+      "DisplayOrder": 17,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175887,7 +176628,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 17,
+      "DisplayOrder": 18,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -175907,11 +176648,31 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 18,
+      "DisplayOrder": 19,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 221018,
+      "LocalizeEtcId": 1684631727,
+      "CategoryType": "SecretStoneGrowth",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 100,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -176667,7 +177428,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 3,
+      "DisplayOrder": 4,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176687,7 +177448,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 4,
+      "DisplayOrder": 5,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176707,7 +177468,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 2,
+      "DisplayOrder": 3,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176727,7 +177488,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 6,
+      "DisplayOrder": 7,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176747,7 +177508,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 7,
+      "DisplayOrder": 8,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176767,7 +177528,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8,
+      "DisplayOrder": 9,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176787,7 +177548,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9,
+      "DisplayOrder": 10,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176807,7 +177568,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 10,
+      "DisplayOrder": 11,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176827,7 +177588,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 11,
+      "DisplayOrder": 12,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176847,7 +177608,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 12,
+      "DisplayOrder": 13,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176867,7 +177628,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 13,
+      "DisplayOrder": 14,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176887,7 +177648,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 14,
+      "DisplayOrder": 15,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176907,7 +177668,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 15,
+      "DisplayOrder": 16,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176927,7 +177688,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 16,
+      "DisplayOrder": 17,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176947,7 +177708,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 17,
+      "DisplayOrder": 18,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176967,7 +177728,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 18,
+      "DisplayOrder": 19,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -176987,7 +177748,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 19,
+      "DisplayOrder": 20,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177007,7 +177768,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 20,
+      "DisplayOrder": 21,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177027,7 +177788,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 21,
+      "DisplayOrder": 22,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177047,7 +177808,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 22,
+      "DisplayOrder": 23,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177067,7 +177828,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 23,
+      "DisplayOrder": 24,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177087,7 +177848,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 24,
+      "DisplayOrder": 25,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177107,7 +177868,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 25,
+      "DisplayOrder": 26,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177127,7 +177888,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 5,
+      "DisplayOrder": 6,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177147,7 +177908,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 26,
+      "DisplayOrder": 27,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177167,7 +177928,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 27,
+      "DisplayOrder": 28,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177187,7 +177948,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 28,
+      "DisplayOrder": 29,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177207,7 +177968,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 29,
+      "DisplayOrder": 30,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177227,7 +177988,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 30,
+      "DisplayOrder": 31,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177247,7 +178008,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 31,
+      "DisplayOrder": 32,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177267,7 +178028,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 32,
+      "DisplayOrder": 33,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177287,7 +178048,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 33,
+      "DisplayOrder": 34,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177307,7 +178068,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 34,
+      "DisplayOrder": 35,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177327,7 +178088,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 35,
+      "DisplayOrder": 36,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177347,7 +178108,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 36,
+      "DisplayOrder": 37,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177367,7 +178128,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 37,
+      "DisplayOrder": 38,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177387,7 +178148,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 38,
+      "DisplayOrder": 39,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177407,7 +178168,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 39,
+      "DisplayOrder": 40,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177427,7 +178188,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 40,
+      "DisplayOrder": 41,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177447,7 +178208,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 41,
+      "DisplayOrder": 42,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177467,7 +178228,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 42,
+      "DisplayOrder": 43,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177487,7 +178248,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 43,
+      "DisplayOrder": 44,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177507,7 +178268,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 44,
+      "DisplayOrder": 45,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177527,7 +178288,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 45,
+      "DisplayOrder": 46,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177547,7 +178308,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 46,
+      "DisplayOrder": 47,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177567,7 +178328,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 47,
+      "DisplayOrder": 48,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177587,7 +178348,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 48,
+      "DisplayOrder": 49,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -177607,7 +178368,27 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 49,
+      "DisplayOrder": 50,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 230049,
+      "LocalizeEtcId": 2984211353,
+      "CategoryType": "TimeAttack",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 2,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179607,7 +180388,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 42,
+      "DisplayOrder": 47,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179627,7 +180408,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 43,
+      "DisplayOrder": 48,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179647,7 +180428,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 44,
+      "DisplayOrder": 49,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179667,7 +180448,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 45,
+      "DisplayOrder": 50,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179687,7 +180468,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 46,
+      "DisplayOrder": 51,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179707,7 +180488,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 47,
+      "DisplayOrder": 52,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179727,7 +180508,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 48,
+      "DisplayOrder": 53,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179747,7 +180528,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 40,
+      "DisplayOrder": 45,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179767,7 +180548,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 41,
+      "DisplayOrder": 46,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179787,7 +180568,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 39,
+      "DisplayOrder": 44,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179807,7 +180588,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 37,
+      "DisplayOrder": 42,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179827,7 +180608,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 38,
+      "DisplayOrder": 43,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179847,7 +180628,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 36,
+      "DisplayOrder": 41,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179867,7 +180648,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 33,
+      "DisplayOrder": 38,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179887,7 +180668,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 34,
+      "DisplayOrder": 39,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179907,7 +180688,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 35,
+      "DisplayOrder": 40,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179927,7 +180708,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 32,
+      "DisplayOrder": 37,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179947,7 +180728,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 31,
+      "DisplayOrder": 36,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179967,7 +180748,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 29,
+      "DisplayOrder": 34,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -179987,7 +180768,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 30,
+      "DisplayOrder": 35,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180007,7 +180788,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 28,
+      "DisplayOrder": 33,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180027,7 +180808,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 27,
+      "DisplayOrder": 32,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180047,7 +180828,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 26,
+      "DisplayOrder": 31,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180067,7 +180848,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 25,
+      "DisplayOrder": 30,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180087,7 +180868,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 24,
+      "DisplayOrder": 29,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180307,7 +181088,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 22,
+      "DisplayOrder": 27,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180327,7 +181108,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 23,
+      "DisplayOrder": 28,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180347,7 +181128,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 20,
+      "DisplayOrder": 25,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180367,7 +181148,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 21,
+      "DisplayOrder": 26,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180387,7 +181168,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 19,
+      "DisplayOrder": 24,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180407,7 +181188,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 18,
+      "DisplayOrder": 23,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180427,7 +181208,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 17,
+      "DisplayOrder": 22,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180447,7 +181228,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 16,
+      "DisplayOrder": 21,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180467,7 +181248,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 15,
+      "DisplayOrder": 20,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180487,7 +181268,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 13,
+      "DisplayOrder": 18,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180507,7 +181288,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 14,
+      "DisplayOrder": 19,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180527,7 +181308,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 12,
+      "DisplayOrder": 17,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180547,7 +181328,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 11,
+      "DisplayOrder": 16,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180587,7 +181368,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 10,
+      "DisplayOrder": 15,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180607,7 +181388,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 9,
+      "DisplayOrder": 14,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180627,7 +181408,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 8,
+      "DisplayOrder": 13,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180647,7 +181428,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 7,
+      "DisplayOrder": 12,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180667,7 +181448,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 6,
+      "DisplayOrder": 11,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180687,7 +181468,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 5,
+      "DisplayOrder": 10,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180707,7 +181488,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 4,
+      "DisplayOrder": 9,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180727,7 +181508,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 3,
+      "DisplayOrder": 8,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180747,7 +181528,7 @@
       "GoodsId": [
         {}
       ],
-      "DisplayOrder": 2,
+      "DisplayOrder": 7,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -180761,6 +181542,106 @@
     {
       "Id": 240058,
       "LocalizeEtcId": 3182373347,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 6,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 240059,
+      "LocalizeEtcId": 2398470071,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 5,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 240060,
+      "LocalizeEtcId": 3724761947,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 240061,
+      "LocalizeEtcId": 4240288146,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 240062,
+      "LocalizeEtcId": 1900193082,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 1
+    },
+    {
+      "Id": 240063,
+      "LocalizeEtcId": 803823678,
       "CategoryType": "MasterCoin",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183200,7 +184081,7 @@
     },
     {
       "Id": 250000,
-      "LocalizeEtcId": 2155689153,
+      "LocalizeEtcId": 614148181,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183220,7 +184101,7 @@
     },
     {
       "Id": 250001,
-      "LocalizeEtcId": 389300387,
+      "LocalizeEtcId": 3735127488,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183240,7 +184121,7 @@
     },
     {
       "Id": 250002,
-      "LocalizeEtcId": 2418871604,
+      "LocalizeEtcId": 4168372872,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183260,7 +184141,7 @@
     },
     {
       "Id": 250003,
-      "LocalizeEtcId": 3326887356,
+      "LocalizeEtcId": 2087583754,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183280,7 +184161,7 @@
     },
     {
       "Id": 250004,
-      "LocalizeEtcId": 3459458286,
+      "LocalizeEtcId": 2853101100,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183300,7 +184181,7 @@
     },
     {
       "Id": 250005,
-      "LocalizeEtcId": 2735840016,
+      "LocalizeEtcId": 1042489897,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183320,7 +184201,7 @@
     },
     {
       "Id": 250006,
-      "LocalizeEtcId": 411492811,
+      "LocalizeEtcId": 145053104,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183340,7 +184221,7 @@
     },
     {
       "Id": 250007,
-      "LocalizeEtcId": 2992493523,
+      "LocalizeEtcId": 735383478,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183360,7 +184241,7 @@
     },
     {
       "Id": 250008,
-      "LocalizeEtcId": 3068376977,
+      "LocalizeEtcId": 2354822280,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183380,7 +184261,7 @@
     },
     {
       "Id": 250009,
-      "LocalizeEtcId": 281502218,
+      "LocalizeEtcId": 2892528174,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183400,7 +184281,7 @@
     },
     {
       "Id": 250010,
-      "LocalizeEtcId": 774797002,
+      "LocalizeEtcId": 3300929466,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183420,7 +184301,7 @@
     },
     {
       "Id": 250011,
-      "LocalizeEtcId": 1141592261,
+      "LocalizeEtcId": 2119703451,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183440,7 +184321,7 @@
     },
     {
       "Id": 250012,
-      "LocalizeEtcId": 745424244,
+      "LocalizeEtcId": 641889282,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183460,7 +184341,7 @@
     },
     {
       "Id": 250013,
-      "LocalizeEtcId": 509805314,
+      "LocalizeEtcId": 2469556226,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183480,7 +184361,7 @@
     },
     {
       "Id": 250014,
-      "LocalizeEtcId": 1231105257,
+      "LocalizeEtcId": 81940370,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183500,7 +184381,7 @@
     },
     {
       "Id": 250015,
-      "LocalizeEtcId": 470621344,
+      "LocalizeEtcId": 2464762332,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183520,7 +184401,7 @@
     },
     {
       "Id": 250016,
-      "LocalizeEtcId": 1066886482,
+      "LocalizeEtcId": 4008312686,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183540,7 +184421,7 @@
     },
     {
       "Id": 250017,
-      "LocalizeEtcId": 4263181528,
+      "LocalizeEtcId": 2742210412,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183560,7 +184441,7 @@
     },
     {
       "Id": 250018,
-      "LocalizeEtcId": 1731163637,
+      "LocalizeEtcId": 2742161069,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183580,7 +184461,7 @@
     },
     {
       "Id": 250019,
-      "LocalizeEtcId": 2042390877,
+      "LocalizeEtcId": 933585740,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183600,7 +184481,7 @@
     },
     {
       "Id": 250020,
-      "LocalizeEtcId": 890047783,
+      "LocalizeEtcId": 1770235474,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183620,7 +184501,7 @@
     },
     {
       "Id": 250021,
-      "LocalizeEtcId": 2160888131,
+      "LocalizeEtcId": 2335488326,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183640,7 +184521,7 @@
     },
     {
       "Id": 250022,
-      "LocalizeEtcId": 4072420418,
+      "LocalizeEtcId": 1872991591,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,
@@ -183660,7 +184541,7 @@
     },
     {
       "Id": 250023,
-      "LocalizeEtcId": 3540869938,
+      "LocalizeEtcId": 2649485585,
       "CategoryType": "Chaser",
       "IsLegacy": false,
       "UseBigPopup": false,

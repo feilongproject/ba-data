@@ -1958,34 +1958,34 @@
       "EventContentType": 0,
       "CostumeUniqueId": 1900939001,
       "SpineOffsetX": 1.39,
-      "SpineOffsetY": -0.4,
+      "SpineOffsetY": -0.75,
       "DialogOffsetX": 32,
-      "DialogOffsetY": 13
+      "DialogOffsetY": -22
     },
     {
       "EventContentId": 847,
       "EventContentType": 0,
       "CostumeUniqueId": 1900939101,
       "SpineOffsetX": 1.33,
-      "SpineOffsetY": -0.45,
+      "SpineOffsetY": -0.8,
       "DialogOffsetX": 46,
-      "DialogOffsetY": 24
+      "DialogOffsetY": -11
     },
     {
       "EventContentId": 847,
       "EventContentType": 0,
       "CostumeUniqueId": 1900939201,
       "SpineOffsetX": 1.25,
-      "SpineOffsetY": -0.69,
+      "SpineOffsetY": -1.04,
       "DialogOffsetX": 34,
-      "DialogOffsetY": 13
+      "DialogOffsetY": -22
     },
     {
       "EventContentId": 847,
       "EventContentType": 3,
       "CostumeUniqueId": 1900939001,
       "SpineOffsetX": -0.18,
-      "SpineOffsetY": -0.45,
+      "SpineOffsetY": -0.8,
       "DialogOffsetX": 71582.788266666666666666666667,
       "DialogOffsetY": 71582.788266666666666666666667
     },
@@ -1994,7 +1994,7 @@
       "EventContentType": 2,
       "CostumeUniqueId": 1900939201,
       "SpineOffsetX": -0.36,
-      "SpineOffsetY": -0.24,
+      "SpineOffsetY": -0.5899,
       "DialogOffsetX": 71582.788266666666666666666667,
       "DialogOffsetY": 71582.788266666666666666666667
     },
@@ -2003,9 +2003,9 @@
       "EventContentType": 28,
       "CostumeUniqueId": 1900939101,
       "SpineOffsetX": 0.36,
-      "SpineOffsetY": 0.65,
+      "SpineOffsetY": 0.3,
       "DialogOffsetX": 74,
-      "DialogOffsetY": 14
+      "DialogOffsetY": -21
     },
     {
       "EventContentId": 848,
@@ -2076,6 +2076,42 @@
       "CostumeUniqueId": 1900940401,
       "SpineOffsetX": 0.09,
       "SpineOffsetY": -0.7,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900942001,
+      "SpineOffsetX": 1.42,
+      "SpineOffsetY": -0.95,
+      "DialogOffsetX": 48,
+      "DialogOffsetY": -29
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900942101,
+      "SpineOffsetX": 1.79,
+      "SpineOffsetY": -0.45,
+      "DialogOffsetX": 80,
+      "DialogOffsetY": -17
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": 3,
+      "CostumeUniqueId": 1900942001,
+      "SpineOffsetX": -0.23,
+      "SpineOffsetY": -0.98,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": 2,
+      "CostumeUniqueId": 1900942101,
+      "SpineOffsetX": -0.2,
+      "SpineOffsetY": 0.02,
       "DialogOffsetX": 71582.788266666666666666666667,
       "DialogOffsetY": 71582.788266666666666666666667
     },
@@ -3716,6 +3752,69 @@
       "SpineOffsetY": 1.42,
       "DialogOffsetX": 71582.788266666666666666666667,
       "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900928001,
+      "SpineOffsetX": 1.7,
+      "SpineOffsetY": -1.02,
+      "DialogOffsetX": 47,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900928101,
+      "SpineOffsetX": 1.58,
+      "SpineOffsetY": -0.54,
+      "DialogOffsetX": 44,
+      "DialogOffsetY": -7
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900928201,
+      "SpineOffsetX": 1.88,
+      "SpineOffsetY": -0.69,
+      "DialogOffsetX": 63,
+      "DialogOffsetY": 15
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 0,
+      "CostumeUniqueId": 1900942201,
+      "SpineOffsetX": 1.24,
+      "SpineOffsetY": -1.23,
+      "DialogOffsetX": 73,
+      "DialogOffsetY": 4
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 3,
+      "CostumeUniqueId": 1900928101,
+      "SpineOffsetX": -0.26,
+      "SpineOffsetY": -0.55,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 71582.788266666666666666666667
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 2,
+      "CostumeUniqueId": 1900928201,
+      "SpineOffsetX": 0.15,
+      "SpineOffsetY": -0.22,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 10
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": 32,
+      "CostumeUniqueId": 1900928001,
+      "SpineOffsetX": 0.13,
+      "SpineOffsetY": -0.54,
+      "DialogOffsetX": 71582.788266666666666666666667,
+      "DialogOffsetY": 10
     },
     {
       "EventContentId": 50822,

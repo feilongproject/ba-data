@@ -2251,6 +2251,42 @@
       "IsUnnecessaryStat": false
     },
     {
+      "Id": 10125,
+      "PotentialStatGroupId": 15010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10125,
+      "PotentialStatGroupId": 15010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10125,
+      "PotentialStatGroupId": 15010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10126,
+      "PotentialStatGroupId": 27010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10126,
+      "PotentialStatGroupId": 27010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10126,
+      "PotentialStatGroupId": 27010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
       "Id": 13000,
       "PotentialStatGroupId": 13010,
       "PotentialStatBonusRateType": "MaxHP",
@@ -3723,6 +3759,24 @@
     {
       "Id": 20048,
       "PotentialStatGroupId": 12010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20049,
+      "PotentialStatGroupId": 24010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20049,
+      "PotentialStatGroupId": 24010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20049,
+      "PotentialStatGroupId": 24010,
       "PotentialStatBonusRateType": "MaxHP",
       "IsUnnecessaryStat": false
     },

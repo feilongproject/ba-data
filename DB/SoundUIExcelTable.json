@@ -29,6 +29,11 @@
       "SoundUniqueId": "UI_BUTTON_FIELD_M",
       "ID": 6,
       "Path": "Audio/SFX_UI/UI_Button_Field_M"
+    },
+    {
+      "SoundUniqueId": "TITLE_BUTTON_NOTICE",
+      "ID": 7,
+      "Path": "Audio/SFX_UI/UI_Notice"
     }
   ]
 }
