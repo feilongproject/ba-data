@@ -128143,6 +128143,52 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 10541,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 10542,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {},
+        {},
+        {}
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 19000,
       "LocalizeEtcId": 2803570054,
       "CategoryType": "RecruitSellection",
@@ -132862,6 +132908,26 @@
     {
       "Id": 20233,
       "LocalizeEtcId": 4134412064,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        {}
+      ],
+      "DisplayOrder": 999,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 900,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 20234,
+      "LocalizeEtcId": 3630389683,
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "UseBigPopup": false,

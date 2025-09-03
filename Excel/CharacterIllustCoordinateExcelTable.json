@@ -1673,6 +1673,14 @@
       "MaxScale": 1.8
     },
     {
+      "Id": 20049,
+      "CharacterBodyCenterX": 7,
+      "CharacterBodyCenterY": 7.2,
+      "DefaultScale": 1,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
       "Id": 23000,
       "CharacterBodyCenterX": 8,
       "CharacterBodyCenterY": 7.15,
