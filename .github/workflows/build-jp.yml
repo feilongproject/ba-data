@@ -62,6 +62,7 @@ jobs:
       - name: Checkout JP branch of the repository
         uses: actions/checkout@v4
         with:
+          lfs: true
           ref: JP
 
       # - name: List directories before overwriting files
@@ -70,6 +71,13 @@ jobs:
       #     dir D:/a/ba-data
       #     dir D:/a/ba-data/ba-data
       #     dir D:/a/ba-data/extData/output/table
+      - name: Enable Git LFS for large files
+        run: |
+          git lfs install
+          git lfs track "*.json"   # ✅ 追踪所有 json，大文件将自动用 LFS
+          git add .gitattributes
+          git commit -m "Configure Git LFS tracking for JSON files" || echo "No changes to commit"
+
 
       - name: Delete unless file
         run: |
