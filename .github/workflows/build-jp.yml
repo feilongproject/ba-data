@@ -15,8 +15,9 @@ jobs:
 
     steps:
       - name: Checkout the main branch of the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
+          lfs: true
           ref: main
 
       - name: Install SSH key for private repository access
@@ -59,7 +60,7 @@ jobs:
         working-directory: cloned-repo/Division
 
       - name: Checkout JP branch of the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: JP
 
