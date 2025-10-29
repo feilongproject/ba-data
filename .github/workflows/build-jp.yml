@@ -42,7 +42,7 @@ jobs:
       - name: Set up .NET environment
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: "8.0.x"
+          dotnet-version: "9.x"
           
       - name: Check .NET SDK version
         run: dotnet --version
