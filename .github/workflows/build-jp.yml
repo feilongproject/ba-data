@@ -14,17 +14,6 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Set up .NET environment
-        uses: actions/setup-dotnet@v5
-        with:
-          dotnet-version: "9.0.x"
-
-      - name: Verify .NET installation path
-        run: where dotnet
-          
-      - name: Check .NET SDK version
-        run: dotnet --version
-
       - name: Checkout the main branch of the repository
         uses: actions/checkout@v4
         with:
@@ -49,6 +38,17 @@ jobs:
           cp launchSettings.json cloned-repo/Division/Properties/launchSettings.json
           cp appsettings.json cloned-repo/Division/appsettings.json
           cp global.json cloned-repo/global.json
+
+      - name: Set up .NET environment
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: "9.0.x"
+
+      - name: Verify .NET installation path
+        run: where dotnet
+          
+      - name: Check .NET SDK version
+        run: dotnet --version
 
       - name: Restore project dependencies
         run: dotnet restore
