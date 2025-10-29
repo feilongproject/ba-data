@@ -45,7 +45,7 @@ jobs:
           dotnet-version: "9.0.x"
 
       - name: Verify .NET installation path
-        run: where dotnet
+        run: dotnet --info --list-sdks
           
       - name: Check .NET SDK version
         run: dotnet --version
