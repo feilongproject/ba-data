@@ -46,9 +46,11 @@ jobs:
 
       - name: Check .NET SDK version
         run: dotnet new globaljson --sdk-version 9 --force
+        working-directory: cloned-repo/Division
         
       - name: Verify .NET installation path
         run: dotnet --info --list-sdks
+        working-directory: cloned-repo/Division
 
       - name: Restore project dependencies
         run: dotnet restore
