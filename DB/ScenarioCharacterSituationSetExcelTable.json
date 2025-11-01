@@ -1,22 +1,3 @@
-{
-  "DataList": [
-    {
-      "Name": 1352163882,
-      "Face": "00",
-      "Behavior": "",
-      "Action": "shake",
-      "Shape": "black",
-      "Effect": 291307153,
-      "Emotion": 4248937807
-    },
-    {
-      "Name": 350601301,
-      "Face": "05",
-      "Behavior": "ar",
-      "Action": "",
-      "Shape": "sig",
-      "Effect": 0,
-      "Emotion": 658678236
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:16b444b0df52d75f23c0cee84b55c524125c97fef074890cc27227739e666a2a
+size 398

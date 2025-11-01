@@ -1,28 +1,3 @@
-{
-  "DataList": [
-    {
-      "Order": 1,
-      "Repeat": 20,
-      "PresetGroupId": 30006,
-      "AttackStrikerNum": 4,
-      "AttackSpecialNum": 2,
-      "GeasId": 1001
-    },
-    {
-      "Order": 2,
-      "Repeat": 20,
-      "PresetGroupId": 30006,
-      "AttackStrikerNum": 4,
-      "AttackSpecialNum": 2,
-      "GeasId": 1401
-    },
-    {
-      "Order": 3,
-      "Repeat": 20,
-      "PresetGroupId": 30006,
-      "AttackStrikerNum": 4,
-      "AttackSpecialNum": 2,
-      "GeasId": 2301
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a875e2455ec8f73b04b1ada6cd7d42d83c6112e32964816a91b875ee246b3d6f
+size 529

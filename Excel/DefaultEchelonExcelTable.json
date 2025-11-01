@@ -1,17 +1,3 @@
-{
-  "DataList": [
-    {
-      "EchlonId": 1,
-      "LeaderId": 13010,
-      "MainId": [
-        13010,
-        16003,
-        13003
-      ],
-      "SupportId": [
-        26000
-      ],
-      "TssId": 0
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b329b0f71de5c8d87d6050fab7f3a4475c7e5901b111cbe5456a26dbaf75fda
+size 229

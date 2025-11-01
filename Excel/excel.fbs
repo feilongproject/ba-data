@@ -1,49 +1,8 @@
-enum AccountState : int {
-    WaitingSignIn,
-    Normal,
-    Dormant,
-    Comeback,
-    Newbie
-}
-enum AimIKType : int {
-    None,
-    OneHandRight,
-    OneHandLeft,
-    TwoHandRight,
-    TwoHandLeft,
-    Tripod,
-    Dual,
-    Max
-}
 enum ArenaSimulatorServer : int {
     Preset,
     Live,
     Dev,
     QA
-}
-enum ArmorType : int {
-    LightArmor,
-    HeavyArmor,
-    Unarmed,
-    Structure,
-    Normal,
-    ElasticArmor
-}
-enum BattleCalculationStat : int {
-    FinalDamage,
-    FinalHeal,
-    FinalDamageRatio,
-    FinalDamageRatio2,
-    FinalCriticalRate
-}
-enum BulletType : int {
-    Normal,
-    Pierce,
-    Explosion,
-    Siege,
-    Mystic,
-    None,
-    Sonic
 }
 enum Club : int {
     None,
@@ -99,21 +58,9 @@ enum Club : int {
     CentralControlCenter,
     FreightLogisticsDepartment,
     OccultClub,
-    PrefectBrigade
-}
-enum CollectionUnlockType : int {
-    None,
-    ClearSpecificEventStage,
-    ClearSpecificEventScenario,
-    ClearSpecificEventMission,
-    PurchaseSpecificItemCount,
-    SpecificEventLocationRank,
-    DiceRaceConsumeDiceCount,
-    MinigameTBGThemaClear,
-    MinigameEnter,
-    MinigameDreamMakerParameter,
-    ClearSpecificScenario,
-    MinigameCCGBuyPerk
+    PrefectBrigade,
+    FreeTradeCartel,
+    NicomediasTroop
 }
 enum ContentType : int {
     None,
@@ -172,190 +119,6 @@ enum CurrencyTypes : int {
     CafeSummonTicket1,
     CafeSummonTicket2,
     Max
-}
-enum DamageAttribute : int {
-    Resist,
-    Normal,
-    Weak,
-    Effective
-}
-enum EchelonExtensionType : int {
-    Base,
-    Extension
-}
-enum EngageType : int {
-    SearchAndMove,
-    HoldPosition
-}
-enum EntityMaterialType : int {
-    Wood,
-    Stone,
-    Flesh,
-    Metal
-}
-enum EventChangeType : int {
-    MainSub,
-    SubMain
-}
-enum EventContentBuffFindRule : int {
-    None,
-    WeaponType,
-    SquadType,
-    StreetBattleAdaptation,
-    OutdoorBattleAdaptation,
-    IndoorBattleAdaptation,
-    BulletType,
-    School,
-    TacticRange
-}
-enum EventContentDiceRaceNodeType : int {
-    StartNode,
-    RewardNode,
-    MoveForwardNode,
-    SpecialRewardNode
-}
-enum EventContentDiceRaceResultType : int {
-    DiceResult1,
-    DiceResult2,
-    DiceResult3,
-    DiceResult4,
-    DiceResult5,
-    DiceResult6,
-    MoveForward,
-    LapFinish,
-    EventOccur,
-    DiceResultFixed1,
-    DiceResultFixed2,
-    DiceResultFixed3,
-    DiceResultFixed4,
-    DiceResultFixed5,
-    DiceResultFixed6,
-    SpecialReward
-}
-enum EventContentItemType : int {
-    EventPoint,
-    EventToken1,
-    EventToken2,
-    EventToken3,
-    EventToken4,
-    EventToken5,
-    EventMeetUpTicket,
-    EventEtcItem
-}
-enum EventContentReleaseType : int {
-    None,
-    Permanent,
-    MainStory,
-    PermanentSpecialOperate,
-    PermanentConquest
-}
-enum EventContentScenarioConditionType : int {
-    None,
-    DayAfter,
-    EventPoint
-}
-enum EventContentType : int {
-    Stage,
-    Gacha,
-    Mission,
-    Shop,
-    Raid,
-    Arena,
-    BoxGacha,
-    Collection,
-    Recollection,
-    MiniGameRhythm,
-    CardShop,
-    EventLocation,
-    MinigameRhythmEvent,
-    FortuneGachaShop,
-    SubEvent,
-    EventMeetup,
-    BoxGachaResult,
-    Conquest,
-    WorldRaid,
-    DiceRace,
-    MiniGameRhythmMission,
-    WorldRaidEntrance,
-    MiniEvent,
-    MiniGameShooting,
-    MiniGameShootingMission,
-    MiniGameTBG,
-    TimeAttackDungeon,
-    EliminateRaid,
-    Treasure,
-    Field,
-    MultiFloorRaid,
-    MinigameDreamMaker,
-    MiniGameDefense,
-    OpenWebView,
-    SpecialMiniEvent,
-    ScenarioCollection,
-    ScenarioShortcut,
-    SeasonalEvent,
-    MiniShop,
-    MiniGameRoad,
-    MiniGameCCG
-}
-enum EventTargetType : int {
-    WeekDungeon,
-    Chaser,
-    Campaign_Normal,
-    Campaign_Hard,
-    SchoolDungeon,
-    AcademySchedule,
-    TimeAttackDungeon,
-    AccountLevelExpIncrease,
-    Raid,
-    EliminateRaid,
-    MultiFloorRaid
-}
-enum ExternalBehavior : int {
-    UseNextExSkill,
-    ChangePhase,
-    ChangeSection,
-    AddActiveGauge,
-    UseSelectExSkill,
-    ClearNormalSkill,
-    MoveLeft,
-    MoveRight,
-    AllUseSelectExSkill,
-    ConnectCharacterToDummy,
-    ConnectExSkillToParts,
-    SetMaxHPToParts,
-    AlivePartsUseExSkill,
-    ActivatePart,
-    AddGroggy,
-    SelectTargetToUseSkillAlly,
-    ForceChangePhase,
-    ClearUseSkillEndGroupId
-}
-enum ExternalBTNodeType : int {
-    Sequence,
-    Selector,
-    Instant,
-    SubNode,
-    ExecuteAll
-}
-enum ExternalBTTrigger : int {
-    None,
-    HPUnder,
-    ApplySkillEffectCategory,
-    HaveNextExSkillActiveGauge,
-    UseNormalSkill,
-    UseExSkill,
-    CheckActiveGaugeOver,
-    CheckPeriod,
-    CheckSummonCharacterCountOver,
-    CheckSummonCharacterCountUnder,
-    ApplyGroggy,
-    ApplyLogicEffectTemplateId,
-    OnSpawned,
-    CheckActiveGaugeBetween,
-    DestroyParts,
-    CheckHallucinationCountOver,
-    CheckHallucinationCountUnder,
-    UseSkillEndGroupId
 }
 enum FieldConditionClass : int {
     AndOr,
@@ -436,232 +199,11 @@ enum MailType : int {
     FromCS,
     ExpiryChangeCurrency,
     ExpiryBattlePassItem,
-    FreeProductReward
-}
-enum MeetupConditionPrintType : int {
-    None,
-    Lock,
-    Hide
-}
-enum MeetupConditionType : int {
-    None,
-    EventContentStageClear,
-    ScenarioClear
-}
-enum MissionCategory : int {
-    Challenge,
-    Daily,
-    Weekly,
-    Achievement,
-    GuideMission,
-    All,
-    MiniGameScore,
-    MiniGameEvent,
-    EventAchievement,
-    DailySudden,
-    DailyFixed,
-    EventFixed
-}
-enum MissionCompleteConditionType : int {
-    None,
-    Reset_DailyLogin,
-    Reset_DailyLoginCount,
-    Reset_CompleteMission,
-    Achieve_EquipmentLevelUpCount,
-    Achieve_EquipmentTierUpCount,
-    Achieve_CharacterLevelUpCount,
-    Reset_CharacterTranscendenceCount,
-    Reset_ClearTaticBattleCount,
-    Achieve_ClearCampaignStageCount,
-    Reset_KillSpecificEnemyCount,
-    Reset_KillEnemyWithTagCount,
-    Reset_GetCharacterCount,
-    Reset_GetCharacterWithTagCount,
-    Reset_GetSpecificCharacterCount,
-    Reset_AccountLevelUp,
-    Reset_GetEquipmentCount,
-    Reset_GachaCount,
-    Reset_UseGem,
-    Reset_GetGem,
-    Reset_GetGemPaid,
-    Achieve_GetGold,
-    Achieve_GetItem,
-    Reset_GetFavorLevel,
-    Reset___Deprecated_EquipmentAtSpecificLevelCount,
-    Achieve_EquipmentAtSpecificTierUpCount,
-    Reset_CharacterAtSpecificLevelCount,
-    Reset_CharacterAtSpecificTranscendenceCount,
-    Achieve_CharacterSkillLevelUpCount,
-    Reset_CharacterAtSpecificSkillLevelCount,
-    Reset_CompleteScheduleCount,
-    Reset_CompleteScheduleGroupCount,
-    Reset_AcademyLocationRankSum,
-    Reset_CraftCount,
-    Achieve_GetComfortPoint,
-    Achieve_GetWeaponCount,
-    Reset_EquipWeaponCount_Obsolete,
-    Reset_CompleteScheduleWithSpecificCharacter,
-    Reset_CafeInteractionCount,
-    Reset_SpecificCharacterAtSpecificLevel,
-    Reset_SpecificCharacterAtSpecificTranscendence,
-    Reset_LobbyInteraction,
-    Achieve_ClearFindGiftAndBloodDungeonCount,
-    Reset_ClearSpecificFindGiftAndBloodDungeonCount,
-    Achieve_JoinRaidCount,
-    Reset_JoinSpecificRaidCount,
-    Achieve_JoinArenaCount,
-    Reset_ArenaVictoryCount,
-    Reset_RaidDamageAmountOnOneBattle,
-    Reset_ClearEventStageCount,
-    Reset_UseSpecificCharacterCount,
-    Achieve_UseGold,
-    Reset_UseTiket,
-    Reset_ShopBuyCount,
-    Reset_ShopBuyActionPointCount,
-    Reset_SpecificCharacterAtSpecificFavorRank,
-    Reset_ClearSpecificScenario,
-    Reset_GetSpecificItemCount,
-    Achieve_TotalGetClearStarCount,
-    Reset_CompleteCampaignStageMinimumTurn,
-    Achieve_TotalLoginCount,
-    Reset_LoginAtSpecificTime,
-    Reset_CompleteFavorSchedule,
-    Reset_CompleteFavorScheduleAtSpecificCharacter,
-    Reset_GetMemoryLobbyCount,
-    Reset_GetFurnitureGroupCount,
-    Reset_AcademyLocationAtSpecificRank,
-    Reset_ClearCampaignStageDifficultyNormal,
-    Reset_ClearCampaignStageDifficultyHard,
-    Achieve_ClearChaserDungeonCount,
-    Reset_ClearSpecificChaserDungeonCount,
-    Reset_GetCafeRank,
-    Reset_SpecificStarCharacterCount,
-    Reset_EventClearCampaignStageCount,
-    Reset_EventClearSpecificCampaignStageCount,
-    Reset_EventCompleteCampaignStageMinimumTurn,
-    Reset_EventClearCampaignStageDifficultyNormal,
-    Reset_EventClearCampaignStageDifficultyHard,
-    Reset_ClearSpecificCampaignStageCount,
-    Reset_GetItemWithTagCount,
-    Reset_GetFurnitureWithTagCount,
-    Reset_GetEquipmentWithTagCount,
-    Reset_ClearCampaignStageTimeLimitFromSecond,
-    Reset_ClearEventStageTimeLimitFromSecond,
-    Reset_ClearRaidTimeLimitFromSecond,
-    Reset_ClearBattleWithTagCount,
-    Reset_ClearFindGiftAndBloodDungeonTimeLimitFromSecond,
-    Reset_CompleteScheduleWithTagCount,
-    Reset_ClearChaserDungeonTimeLimitFromSecond,
-    Reset_GetTotalScoreRhythm,
-    Reset_GetBestScoreRhythm,
-    Reset_GetSpecificScoreRhythm,
-    Reset_ClearStageRhythm,
-    Reset_GetComboCountRhythm,
-    Reset_GetFullComboRhythm,
-    Reset_GetFeverCountRhythm,
-    Reset_UseActionPoint,
-    Achieve_ClearSchoolDungeonCount,
-    Reset_ClearSchoolDungeonTimeLimitFromSecond,
-    Reset_ClearSpecificSchoolDungeonCount,
-    Reset_GetCriticalCountRhythm,
-    Achieve_WeaponTranscendenceCount,
-    Achieve_WeaponLevelUpCount,
-    Reset_WeaponAtSpecificTranscendenceCount,
-    Reset_WeaponAtSpecificLevelUpCount,
-    Reset_BuyShopGoods,
-    Reset_ClanLogin,
-    Reset_AssistCharacterSetting,
-    Reset_DailyMissionFulfill,
-    Reset_SelectedMissionFulfill,
-    Reset_TotalDamageToWorldRaid,
-    Reset_JoinWorldRaidTypeNumber,
-    Reset_JoinWorldRaidBattleWithTagCount,
-    Reset_ClearWorldRaidTimeLimitFromSecond,
-    Achieve_KillEnemyWithDecagrammatonSPOTagCount,
-    Reset_ConquerTileCount,
-    Reset_ConquerSpecificStepTileCount,
-    Reset_ConquerSpecificStepTileAll,
-    Reset_UpgradeConquestBaseTileCount,
-    Reset_KillConquestBoss,
-    Reset_ClearEventConquestTileTimeLimitFromSecond,
-    Reset_DiceRaceUseDiceCount,
-    Reset_DiceRaceFinishLapCount,
-    Reset_FortuneGachaCount,
-    Reset_FortuneGachaCountByGrade,
-    Reset_ClearCountShooting,
-    Reset_ClearSpecificStageShooting,
-    Reset_ClearSpecificCharacterShooting,
-    Reset_ClearSpecificSectionShooting,
-    Achieve_JoinEliminateRaidCount,
-    Reset_TBGCompleteRoundCount,
-    Reset_CompleteStage,
-    Reset_TBGClearSpecificThema,
-    Reset_ClearGeneralChaserDungeonCount,
-    Reset_ClearGeneralFindGiftAndBloodDungeonCount,
-    Reset_ClearGeneralSchoolDungeonCount,
-    Reset_JoinArenaCount,
-    Reset_GetCafe2ndRank,
-    Achieve_GetComfort2ndPoint,
-    Reset_ClearSpecificTimeAttackDungeonCount,
-    Reset_GetScoreTimeAttackDungeon,
-    Reset_GetTotalScoreTimeAttackDungeon,
-    Reset_JoinRaidCount,
-    Reset_ClearTimeAttackDungeonCount,
-    Reset_JoinEliminateRaidCount,
-    Reset_FieldClearSpecificDate,
-    Reset_FieldGetEvidenceCount,
-    Reset_FieldMasteryLevel,
-    Reset_TreasureCheckedCellCount,
-    Reset_TreasureGetTreasureCount,
-    Reset_TreasureRoundRefreshCount,
-    Achieve_UseTicketCount,
-    Reset_ClearMultiFloorRaidStage,
-    Achieve_CharacterPotentialUpCount,
-    Reset_CharacterPotentialUpCount,
-    Reset_CharacterAtSpecificPotentialCount,
-    Reset_PotentialAttackPowerAtSpecificLevel,
-    Reset_PotentialMaxHPAtSpecificLevel,
-    Reset_PotentialHealPowerAtSpecificLevel,
-    Reset_DreamGetSpecificParameter,
-    Reset_DreamGetSpecificScheduleCount,
-    Reset_DreamGetScheduleCount,
-    Reset_DreamGetEndingCount,
-    Reset_DreamGetSpecificEndingCount,
-    Reset_DreamGetCollectionScenarioCount,
-    Reset_ClearCountDefense,
-    Reset_ClearSpecificDefenseStage,
-    Reset_ClearCharacterLimitDefense,
-    Reset_ClearTimeLimitDefenseFromSecond,
-    Reset_JoinMultiFloorRaidCount,
-    Reset_GivePresentCharacterCount,
-    Reset_CharacterInviteCount,
-    Reset_RoadpuzzleTileCount,
-    Reset_ClearSpecificRoundRoadpuzzle,
-    Reset_ClearCountRoadpuzzle,
-    Reset_CCGResultCount,
-    Reset_CCGCompleteCount,
-    Reset_CCGUseCostCount,
-    Reset_CCGTotalDamageCount,
-    Reset_CCGRetreatCount,
-    Reset_CCGSkillWithTagCount,
-    Reset_CCGActivatePerkCount,
-    Reset_ClearMultiFloorRaid,
-    Reset_DayCompleteMission
-}
-enum MissionResetType : int {
-    None,
-    Daily,
-    Weekly,
-    Limit
-}
-enum MissionToastDisplayConditionType : int {
-    Always,
-    Complete,
-    Never
-}
-enum MultipleConditionCheckType : int {
-    And,
-    Or
+    FreeProductReward,
+    Temp_4,
+    Temp_5,
+    Temp_6,
+    ProductGooglePointReward
 }
 enum OpenConditionContent : int {
     Shop,
@@ -752,22 +294,6 @@ enum ParcelType : int {
     SelectedCharacter,
     UnSelectedCharacter
 }
-enum PositioningType : int {
-    CloseToObstacle,
-    CloseToTarget
-}
-enum ProductionStep : int {
-    ToDo,
-    Doing,
-    Complete,
-    Release
-}
-enum PurchaseCountResetType : int {
-    None,
-    Day,
-    Week,
-    Month
-}
 enum Rarity : int {
     N,
     R,
@@ -805,25 +331,6 @@ enum ScenarioModeReplayTypes : int {
     Favor,
     Work,
     EventMeetup
-}
-enum School : int {
-    None,
-    Hyakkiyako,
-    RedWinter,
-    Trinity,
-    Gehenna,
-    Abydos,
-    Millennium,
-    Arius,
-    Shanhaijing,
-    Valkyrie,
-    WildHunt,
-    SRT,
-    SCHALE,
-    ETC,
-    Tokiwadai,
-    Sakugawa,
-    Highlander
 }
 enum ShopCategoryType : int {
     General,
@@ -866,12 +373,6 @@ enum ShopCategoryType : int {
     GemWeekly,
     CafeSummonTicket
 }
-enum SquadType : int {
-    None,
-    Main,
-    Support,
-    TSS
-}
 enum StageDifficulty : int {
     None,
     Normal,
@@ -884,138 +385,9 @@ enum StageTopography : int {
     Outdoor,
     Indoor
 }
-enum StatLevelUpType : int {
-    Standard,
-    Premature,
-    LateBloom,
-    Obstacle,
-    TimeAttack
-}
-enum StatTransType : int {
-    SpecialTransStat,
-    TSATransStat
-}
-enum StatType : int {
-    None,
-    MaxHP,
-    AttackPower,
-    DefensePower,
-    HealPower,
-    AccuracyPoint,
-    AccuracyRate,
-    DodgePoint,
-    DodgeRate,
-    CriticalPoint,
-    CriticalChanceRate,
-    CriticalResistChanceRate,
-    CriticalDamageRate,
-    MoveSpeed,
-    SightRange,
-    ActiveGauge,
-    StabilityPoint,
-    StabilityRate,
-    ReloadTime,
-    MaxBulletCount,
-    IgnoreDelayCount,
-    WeaponRange,
-    BlockRate,
-    BodyRadius,
-    ActionCount,
-    StrategyMobility,
-    StrategySightRange,
-    StreetBattleAdaptation,
-    OutdoorBattleAdaptation,
-    IndoorBattleAdaptation,
-    HealEffectivenessRate,
-    CriticalChanceResistPoint,
-    CriticalDamageResistRate,
-    LifeRecoverOnHit,
-    NormalAttackSpeed,
-    AmmoCost,
-    GroggyGauge,
-    GroggyTime,
-    DamageRatio,
-    DamagedRatio,
-    OppressionPower,
-    OppressionResist,
-    RegenCost,
-    InitialWeaponRangeRate,
-    DefensePenetration,
-    DefensePenetrationResisit,
-    ExtendBuffDuration,
-    ExtendDebuffDuration,
-    ExtendCrowdControlDuration,
-    EnhanceExplosionRate,
-    EnhancePierceRate,
-    EnhanceMysticRate,
-    EnhanceLightArmorRate,
-    EnhanceHeavyArmorRate,
-    EnhanceUnarmedRate,
-    EnhanceSiegeRate,
-    EnhanceNormalRate,
-    EnhanceStructureRate,
-    EnhanceNormalArmorRate,
-    DamageRatio2Increase,
-    DamageRatio2Decrease,
-    DamagedRatio2Increase,
-    DamagedRatio2Decrease,
-    EnhanceSonicRate,
-    EnhanceElasticArmorRate,
-    ExDamagedRatioIncrease,
-    ExDamagedRatioDecrease,
-    EnhanceExDamageRate,
-    ReduceExDamagedRate,
-    HealRate,
-    HealLightArmorRate,
-    HealHeavyArmorRate,
-    HealUnarmedRate,
-    HealElasticArmorRate,
-    HealNormalArmorRate,
-    HealedExplosionRate,
-    HealedPierceRate,
-    HealedMysticRate,
-    HealedSonicRate,
-    HealedNormalRate,
-    GrowthScore,
-    CharacterBulletTypeEnhanceRate,
-    MaxCostIncrease,
-    Max
-}
 enum StrategyEnvironment : int {
     None,
     MapFog
-}
-enum SubEventType : int {
-    None,
-    SubEvent,
-    SubEventPermanent
-}
-enum TacticEntityType : int {
-    None,
-    Student,
-    Minion,
-    Elite = 4,
-    Champion = 8,
-    Boss = 16,
-    Obstacle = 32,
-    Servant = 64,
-    Vehicle = 128,
-    Summoned = 256,
-    Hallucination = 512,
-    DestructibleProjectile = 1024
-}
-enum TacticRange : int {
-    Back,
-    Front,
-    Middle
-}
-enum TacticRole : int {
-    None,
-    DamageDealer,
-    Tanker,
-    Supporter,
-    Healer,
-    Vehicle
 }
 enum Tag : int {
     A,
@@ -4031,76 +3403,12 @@ enum TerrainAdaptationStat : int {
     S,
     SS
 }
-enum VoiceEvent : int {
-    OnTSA,
-    FormationPickUp,
-    CampaignResultDefeat,
-    CampaignResultVictory,
-    CharacterLevelUp,
-    CharacterTranscendence,
-    SkillLevelUp,
-    Formation,
-    CampaignCharacterSpawn,
-    BattleStartTimeline,
-    BattleVictoryTimeline,
-    CharacterFavor,
-    BattleMiss,
-    BattleBlock,
-    BattleCover,
-    BattleMove,
-    BattleMoveToForamtionBeacon,
-    MGS_GameStart,
-    MGS_CharacterSelect,
-    MGS_Attacking,
-    MGS_GeasGet,
-    EXSkill,
-    EXSkillLevel,
-    EXSkill2,
-    EXSkillLevel2,
-    EXSkill3,
-    EXSkillLevel3,
-    EXSkill4,
-    EXSkillLevel4,
-    PublicSkill01,
-    PublicSkill02,
-    InteractionPublicSkill01,
-    InteractionPublicSkill02,
-    FormationStyleChange,
-    BattleInteractionVictoryTimeline
-}
-enum WeaponType : int {
-    None,
-    SG,
-    SMG,
-    AR,
-    GL,
-    HG,
-    RL,
-    SR,
-    DSMG,
-    RG,
-    DSG,
-    Vulcan,
-    Missile,
-    Cannon,
-    Taser,
-    MG,
-    Binah,
-    MT,
-    Relic,
-    FT,
-    Akemi
-}
 table AniEventData {
     Name: string;
     Time: float;
     IntParam: int;
     FloatParam: float;
     StringParam: string;
-}
-table BattleLevelFactorExcel {
-    LevelDiff: int;
-    DamageRate: long;
 }
 table BlendInfo {
     From: int;
@@ -4113,11 +3421,6 @@ table BossPhaseExcel {
     NormalAttackSkillUniqueName: string;
     UseExSkill: [bool];
 }
-table CharacterCombatSkinExcel {
-    GroupId: string;
-    UniqueId: long;
-    ResourcePath: string;
-}
 table CharacterDialogEmojiExcel {
     GroupId: long;
     TargetIndex: int;
@@ -4126,65 +3429,6 @@ table CharacterDialogEmojiExcel {
     HideUI: bool;
     LocalizeKR: string;
     LocalizeJP: string;
-}
-table CharacterIllustCoordinateExcel {
-    Id: long;
-    CharacterBodyCenterX: float;
-    CharacterBodyCenterY: float;
-    DefaultScale: float;
-    MinScale: float;
-    MaxScale: float;
-}
-table CharacterLevelExcel {
-    Level: int;
-    Exp: long;
-    TotalExp: long;
-}
-table CharacterLevelStatFactorExcel {
-    Level: long;
-    CriticalFactor: long;
-    StabilityFactor: long;
-    DefenceFactor: long;
-    AccuracyFactor: long;
-}
-table CharacterSkillListExcel {
-    CharacterSkillListGroupId: long;
-    MinimumGradeCharacterWeapon: int;
-    MinimumTierCharacterGear: int;
-    FormIndex: int;
-    IsRootMotion: bool;
-    IsMoveLeftRight: bool;
-    UseRandomExSkillTimeline: bool;
-    TSAInteractionId: long;
-    NormalSkillGroupId: [string];
-    NormalSkillTimeLineIndex: [int];
-    SelectExSkillActionSkillSlot: int;
-    ExSkillGroupId: [string];
-    ExSkillCutInTimeLineIndex: [string];
-    ExSkillLevelTimeLineIndex: [string];
-    PublicSkillGroupId: [string];
-    PublicSkillTimeLineIndex: [int];
-    PassiveSkillGroupId: [string];
-    LeaderSkillGroupId: [string];
-    ExtraPassiveSkillGroupId: [string];
-    HiddenPassiveSkillGroupId: [string];
-}
-table CharacterStatsDetailExcel {
-    Id: long;
-    DetailShowStats: [int];
-    IsStatsPercent: [bool];
-}
-table CharacterTranscendenceExcel {
-    CharacterId: long;
-    MaxFavorLevel: [int];
-    StatBonusRateAttack: [long];
-    StatBonusRateHP: [long];
-    StatBonusRateHeal: [long];
-    RecipeId: [long];
-    SkillSlotA: [string];
-    SkillSlotB: [string];
-    SkillSlotC: [string];
-    MaxlevelStar: [int];
 }
 table ConstAudioExcel {
     DefaultSnapShotName: string;
@@ -4404,183 +3648,11 @@ table DefaultEchelonExcel {
     SupportId: [long];
     TssId: long;
 }
-table EventContentArchiveBannerOffsetExcel {
-    EventContentId: long;
-    OffsetX: float;
-    OffsetY: float;
-    ScaleX: float;
-    ScaleY: float;
-}
 table EventContentBoxGachaElementExcel {
     EventContentId: long;
     Id: long;
     Round: long;
     GroupId: long;
-}
-table EventContentBoxGachaManageExcel {
-    EventContentId: long;
-    Round: long;
-    GoodsId: long;
-    IsLoop: bool;
-}
-table EventContentBoxGachaShopExcel {
-    EventContentId: long;
-    GroupId: long;
-    GroupElementAmount: long;
-    Round: long;
-    IsLegacy: bool;
-    IsPrize: bool;
-    GoodsId: [long];
-    DisplayOrder: long;
-}
-table EventContentBuffGroupExcel {
-    EventContentId: long;
-    BuffContentId: long;
-    BuffGroupId: long;
-    BuffGroupNameLocalizeCodeId: string;
-    EventContentBuffId1: long;
-    BuffNameLocalizeCodeId1: string;
-    BuffDescriptionIconPath1: string;
-    EventContentBuffId2: long;
-    BuffNameLocalizeCodeId2: string;
-    BuffDescriptionIconPath2: string;
-    EventContentDebuffId: long;
-    DebuffNameLocalizeCodeId: string;
-    DeBuffDescriptionIconPath: string;
-    BuffGroupProb: long;
-}
-table EventContentCardExcel {
-    CardGroupId: int;
-    EventContentId: long;
-    LocalizeEtcId: uint;
-    IconPath: string;
-    BackIconPath: string;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-}
-table EventContentCharacterBonusExcel {
-    EventContentId: long;
-    CharacterId: long;
-    EventContentItemType: [int];
-    BonusPercentage: [long];
-}
-table EventContentDiceRaceExcel {
-    EventContentId: long;
-    DiceCostGoodsId: long;
-    SkipableLap: int;
-    DiceRacePawnPrefab: string;
-    IsUsingFixedDice: bool;
-    FixedDiceIcon: [string];
-    DiceRaceEventType: [string];
-}
-table EventContentDiceRaceTotalRewardExcel {
-    EventContentId: long;
-    RewardID: long;
-    RequiredLapFinishCount: int;
-    DisplayLapFinishCount: int;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardParcelAmount: [long];
-}
-table EventContentFortuneGachaExcel {
-    FortuneGachaGroupId: int;
-    LocalizeEtcId: uint;
-    NameImagePath: string;
-    IconPath: string;
-}
-table EventContentFortuneGachaModifyExcel {
-    EventContentId: int;
-    TargetGrade: int;
-    ProbModifyStartCount: int;
-    UsePrefabName: string;
-    BucketImagePath: string;
-    ShopBgImagePath: string;
-    TitleLocalizeKey: string;
-}
-table EventContentFortuneGachaShopExcel {
-    EventContentId: long;
-    Id: long;
-    Grade: int;
-    CostGoodsId: long;
-    IsLegacy: bool;
-    FortuneGachaGroupId: int;
-    Prob: int;
-    ProbModifyValue: int;
-    ProbModifyLimit: int;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardParcelAmount: [long];
-}
-table EventContentLocationRewardExcel {
-    Location: string;
-    ScheduleGroupId: long;
-    OrderInGroup: long;
-    Id: long;
-    ProgressTexture: string;
-    VoiceId: [uint];
-    LocalizeEtcId: uint;
-    LocationRank: long;
-    FavorExp: long;
-    SecretStoneAmount: long;
-    SecretStoneProb: long;
-    ExtraFavorExp: long;
-    ExtraFavorExpProb: long;
-    ExtraRewardParcelType: [int];
-    ExtraRewardParcelId: [long];
-    ExtraRewardAmount: [long];
-    ExtraRewardProb: [long];
-    IsExtraRewardDisplayed: [bool];
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardAmount: [long];
-}
-table EventContentMiniEventTokenExcel {
-    EventContentId: long;
-    ItemUniqueId: long;
-    MaximumAmount: long;
-}
-table EventContentPlayGuideExcel {
-    Id: long;
-    EventContentId: long;
-    DisplayOrder: int;
-    GuideTitle: string;
-    GuideImagePath: string;
-    GuideText: string;
-}
-table EventContentSpecialOperationsExcel {
-    EventContentId: long;
-    PointItemId: long;
-}
-table EventContentStageTotalRewardExcel {
-    Id: long;
-    EventContentId: long;
-    RequiredEventItemAmount: long;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardParcelAmount: [long];
-}
-table EventContentZoneExcel {
-    Id: long;
-    OriginalZoneId: long;
-    LocationId: long;
-    LocationRank: long;
-    EventPointForLocationRank: long;
-    LocalizeEtcId: uint;
-    StudentVisitProb: [long];
-    RewardGroupId: long;
-    Tags: [int];
-    WhiteListTags: [int];
-}
-table EventContentZoneVisitRewardExcel {
-    EventContentId: long;
-    EventContentLocationId: long;
-    DevName: string;
-    CharacterId: long;
-    CharacterDevName: string;
-    VisitRewardParcelType: [int];
-    VisitRewardParcelId: [long];
-    VisitRewardAmount: [long];
-    VisitRewardProb: [long];
 }
 table FieldCurtainCallFreeModeExcel {
     UniqueId: long;
@@ -4654,11 +3726,6 @@ table GachaSelectPickupGroupExcel {
     GachaGroupID: long;
     CharacterId: long;
 }
-table HpBarAbbreviationExcel {
-    MonsterLv: int;
-    StandardHpBar: int;
-    RaidBossHpBar: int;
-}
 table LimitedStageSeasonExcel {
     Id: long;
     StartDate: string;
@@ -4672,46 +3739,6 @@ table LocalizeCCGExcel {
     Kr: string;
     Jp: string;
 }
-table LocalizeCharProfileExcel {
-    CharacterId: long;
-    StatusMessageKr: string;
-    StatusMessageJp: string;
-    FullNameKr: string;
-    FullNameJp: string;
-    FamilyNameKr: string;
-    FamilyNameRubyKr: string;
-    PersonalNameKr: string;
-    PersonalNameRubyKr: string;
-    FamilyNameJp: string;
-    FamilyNameRubyJp: string;
-    PersonalNameJp: string;
-    PersonalNameRubyJp: string;
-    SchoolYearKr: string;
-    SchoolYearJp: string;
-    CharacterAgeKr: string;
-    CharacterAgeJp: string;
-    BirthDay: string;
-    BirthdayKr: string;
-    BirthdayJp: string;
-    CharHeightKr: string;
-    CharHeightJp: string;
-    DesignerNameKr: string;
-    DesignerNameJp: string;
-    IllustratorNameKr: string;
-    IllustratorNameJp: string;
-    CharacterVoiceKr: string;
-    CharacterVoiceJp: string;
-    HobbyKr: string;
-    HobbyJp: string;
-    WeaponNameKr: string;
-    WeaponDescKr: string;
-    WeaponNameJp: string;
-    WeaponDescJp: string;
-    ProfileIntroductionKr: string;
-    ProfileIntroductionJp: string;
-    CharacterSSRNewKr: string;
-    CharacterSSRNewJp: string;
-}
 table LocalizeFieldExcel {
     Key: uint;
     Kr: string;
@@ -4719,16 +3746,6 @@ table LocalizeFieldExcel {
 }
 table MinigameCardExcel {
     None: [int];
-}
-table ObstacleFireLineCheckExcel {
-    MyObstacleFireLineCheck: bool;
-    AllyObstacleFireLineCheck: bool;
-    EnemyObstacleFireLineCheck: bool;
-    EmptyObstacleFireLineCheck: bool;
-}
-table PersonalityExcel {
-    Id: long;
-    Name: string;
 }
 table ScenarioScriptField1Excel {
     GroupId: long;
@@ -4743,42 +3760,9 @@ table ScenarioScriptField1Excel {
     TextJp: string;
     VoiceJp: string;
 }
-table TacticalSupportSystemExcel {
-    Id: long;
-    SummonedTime: long;
-    DefaultPersonalityId: long;
-    CanTargeting: bool;
-    CanCover: bool;
-    ObstacleUniqueName: string;
-    ObstacleCoverRange: long;
-    SummonSkilllGroupId: string;
-    CrashObstacleOBBWidth: long;
-    CrashObstacleOBBHeight: long;
-    IsTSSBlockedNodeCheck: bool;
-    NumberOfUses: int;
-    InventoryOffsetX: float;
-    InventoryOffsetY: float;
-    InventoryOffsetZ: float;
-    InteractionChar: long;
-    CharacterInteractionStartDelay: long;
-    GetOnStartEffectPath: string;
-    GetOnEndEffectPath: string;
-    SummonerCharacterId: long;
-    InteractionFrame: int;
-    TSAInteractionAddDuration: long;
-    InteractionStudentExSkillGroupId: string;
-    InteractionSkillCardTexture: string;
-    InteractionSkillSpine: string;
-    RetreatFrame: int;
-    DestroyFrame: int;
-}
 table TacticSimulatorSettingExcel {
     GroundId: long;
     FixedEchelonId: long;
-}
-table TacticSkipExcel {
-    LevelDiff: int;
-    HPResult: long;
 }
 table TacticTimeAttackSimulatorConfigExcel {
     Order: long;
@@ -4813,73 +3797,12 @@ table AniStateData {
     IsLooping: bool;
     Events: [AniEventData];
 }
-table BattleLevelFactorExcelTable {
-    DataList: [BattleLevelFactorExcel];
-}
 table BlendData {
     Type: int;
     InfoList: [BlendInfo];
 }
-table BossExternalBTExcel {
-    ExternalBTId: long;
-    AIPhase: long;
-    ExternalBTNodeType: ExternalBTNodeType;
-    ExternalBTTrigger: ExternalBTTrigger;
-    TriggerArgument: string;
-    BehaviorRate: long;
-    ExternalBehavior: ExternalBehavior;
-    BehaviorArgument: string;
-}
-table BossExternalBTExcelTable {
-    DataList: [BossExternalBTExcel];
-}
 table BossPhaseExcelTable {
     DataList: [BossPhaseExcel];
-}
-table BulletArmorDamageFactorExcel {
-    DamageFactorGroupId: string;
-    BulletType: BulletType;
-    ArmorType: ArmorType;
-    DamageRate: long;
-    DamageAttribute: DamageAttribute;
-    MinDamageRate: long;
-    MaxDamageRate: long;
-    ShowHighlightFloater: bool;
-}
-table BulletArmorDamageFactorExcelTable {
-    DataList: [BulletArmorDamageFactorExcel];
-}
-table CharacterAIExcel {
-    Id: long;
-    EngageType: EngageType;
-    Positioning: PositioningType;
-    CheckCanUseAutoSkill: bool;
-    DistanceReduceRatioObstaclePath: long;
-    DistanceReduceObstaclePath: long;
-    DistanceReduceRatioFormationPath: long;
-    DistanceReduceFormationPath: long;
-    MinimumPositionGap: long;
-    CanUseObstacleOfKneelMotion: bool;
-    CanUseObstacleOfStandMotion: bool;
-    HasTargetSwitchingMotion: bool;
-}
-table CharacterAIExcelTable {
-    DataList: [CharacterAIExcel];
-}
-table CharacterCalculationLimitExcel {
-    Id: long;
-    TacticEntityType: TacticEntityType;
-    CalculationValue: BattleCalculationStat;
-    MinValue: long;
-    MaxValue: long;
-    LimitStartValue: [long];
-    DecreaseRate: [long];
-}
-table CharacterCalculationLimitExcelTable {
-    DataList: [CharacterCalculationLimitExcel];
-}
-table CharacterCombatSkinExcelTable {
-    DataList: [CharacterCombatSkinExcel];
 }
 table CharacterDialogEmojiExcelTable {
     DataList: [CharacterDialogEmojiExcel];
@@ -4898,235 +3821,6 @@ table CharacterDialogFieldExcel {
 }
 table CharacterDialogFieldExcelTable {
     DataList: [CharacterDialogFieldExcel];
-}
-table CharacterExcel {
-    Id: long;
-    DevName: string;
-    CostumeGroupId: long;
-    IsPlayable: bool;
-    ProductionStep: ProductionStep;
-    CollectionVisible: bool;
-    ReleaseDate: string;
-    CollectionVisibleStartDate: string;
-    CollectionVisibleEndDate: string;
-    IsPlayableCharacter: bool;
-    LocalizeEtcId: uint;
-    Rarity: Rarity;
-    IsNPC: bool;
-    TacticEntityType: TacticEntityType;
-    CanSurvive: bool;
-    IsDummy: bool;
-    SubPartsCount: int;
-    TacticRole: TacticRole;
-    WeaponType: WeaponType;
-    TacticRange: TacticRange;
-    BulletType: BulletType;
-    ArmorType: ArmorType;
-    AimIKType: AimIKType;
-    School: School;
-    Club: Club;
-    DefaultStarGrade: int;
-    MaxStarGrade: int;
-    StatLevelUpType: StatLevelUpType;
-    SquadType: SquadType;
-    Jumpable: bool;
-    PersonalityId: long;
-    CharacterAIId: long;
-    ExternalBTId: long;
-    MainCombatStyleId: long;
-    CombatStyleIndex: int;
-    ScenarioCharacter: string;
-    SpawnTemplateId: uint;
-    FavorLevelupType: int;
-    EquipmentSlot: [int];
-    WeaponLocalizeId: uint;
-    DisplayEnemyInfo: bool;
-    BodyRadius: long;
-    RandomEffectRadius: long;
-    HPBarHide: bool;
-    HpBarHeight: float;
-    HighlightFloaterHeight: float;
-    EmojiOffsetX: float;
-    EmojiOffsetY: float;
-    MoveStartFrame: int;
-    MoveEndFrame: int;
-    JumpMotionFrame: int;
-    AppearFrame: int;
-    CanMove: bool;
-    CanFix: bool;
-    CanCrowdControl: bool;
-    CanBattleItemMove: bool;
-    IgnoreObstacle: bool;
-    IsAirUnit: bool;
-    AirUnitHeight: long;
-    Tags: [int];
-    SecretStoneItemId: long;
-    SecretStoneItemAmount: int;
-    CharacterPieceItemId: long;
-    CharacterPieceItemAmount: int;
-    CombineRecipeId: long;
-}
-table CharacterExcelTable {
-    DataList: [CharacterExcel];
-}
-table CharacterIllustCoordinateExcelTable {
-    DataList: [CharacterIllustCoordinateExcel];
-}
-table CharacterLevelExcelTable {
-    DataList: [CharacterLevelExcel];
-}
-table CharacterLevelStatFactorExcelTable {
-    DataList: [CharacterLevelStatFactorExcel];
-}
-table CharacterSkillListExcelTable {
-    DataList: [CharacterSkillListExcel];
-}
-table CharacterStatExcel {
-    CharacterId: long;
-    StabilityRate: long;
-    StabilityPoint: long;
-    AttackPower1: long;
-    AttackPower100: long;
-    MaxHP1: long;
-    MaxHP100: long;
-    DefensePower1: long;
-    DefensePower100: long;
-    HealPower1: long;
-    HealPower100: long;
-    DodgePoint: long;
-    AccuracyPoint: long;
-    CriticalPoint: long;
-    CriticalResistPoint: long;
-    CriticalDamageRate: long;
-    CriticalDamageResistRate: long;
-    BlockRate: long;
-    HealEffectivenessRate: long;
-    OppressionPower: long;
-    OppressionResist: long;
-    DefensePenetration1: long;
-    DefensePenetration100: long;
-    DefensePenetrationResist1: long;
-    DefensePenetrationResist100: long;
-    EnhanceExplosionRate: long;
-    EnhancePierceRate: long;
-    EnhanceMysticRate: long;
-    EnhanceSonicRate: long;
-    EnhanceSiegeRate: long;
-    EnhanceNormalRate: long;
-    EnhanceLightArmorRate: long;
-    EnhanceHeavyArmorRate: long;
-    EnhanceUnarmedRate: long;
-    EnhanceElasticArmorRate: long;
-    EnhanceStructureRate: long;
-    EnhanceNormalArmorRate: long;
-    ExtendBuffDuration: long;
-    ExtendDebuffDuration: long;
-    ExtendCrowdControlDuration: long;
-    AmmoCount: long;
-    AmmoCost: long;
-    IgnoreDelayCount: long;
-    NormalAttackSpeed: long;
-    Range: long;
-    InitialRangeRate: long;
-    MoveSpeed: long;
-    SightPoint: long;
-    ActiveGauge: long;
-    GroggyGauge: int;
-    GroggyTime: int;
-    StrategyMobility: long;
-    ActionCount: long;
-    StrategySightRange: long;
-    DamageRatio: long;
-    DamagedRatio: long;
-    DamageRatio2Increase: long;
-    DamageRatio2Decrease: long;
-    DamagedRatio2Increase: long;
-    DamagedRatio2Decrease: long;
-    ExDamagedRatioIncrease: long;
-    ExDamagedRatioDecrease: long;
-    EnhanceExDamageRate: long;
-    ReduceExDamagedRate: long;
-    HealRate: long;
-    HealLightArmorRate: long;
-    HealHeavyArmorRate: long;
-    HealUnarmedRate: long;
-    HealElasticArmorRate: long;
-    HealNormalArmorRate: long;
-    HealedExplosionRate: long;
-    HealedPierceRate: long;
-    HealedMysticRate: long;
-    HealedSonicRate: long;
-    HealedNormalRate: long;
-    StreetBattleAdaptation: TerrainAdaptationStat;
-    OutdoorBattleAdaptation: TerrainAdaptationStat;
-    IndoorBattleAdaptation: TerrainAdaptationStat;
-    RegenCost: long;
-}
-table CharacterStatExcelTable {
-    DataList: [CharacterStatExcel];
-}
-table CharacterStatLimitExcel {
-    Id: long;
-    TacticEntityType: TacticEntityType;
-    StatType: StatType;
-    StatMinValue: long;
-    StatMaxValue: long;
-    StatRatioMinValue: long;
-    StatRatioMaxValue: long;
-}
-table CharacterStatLimitExcelTable {
-    DataList: [CharacterStatLimitExcel];
-}
-table CharacterStatsDetailExcelTable {
-    DataList: [CharacterStatsDetailExcel];
-}
-table CharacterStatsTransExcel {
-    TransSupportStats: StatType;
-    EchelonExtensionType: EchelonExtensionType;
-    TransSupportStatsFactor: int;
-    StatTransType: StatTransType;
-}
-table CharacterStatsTransExcelTable {
-    DataList: [CharacterStatsTransExcel];
-}
-table CharacterTranscendenceExcelTable {
-    DataList: [CharacterTranscendenceExcel];
-}
-table CharacterVictoryInteractionExcel {
-    InteractionId: long;
-    CostumeId01: long;
-    PositionIndex01: int;
-    VictoryStartAnimationPath01: string;
-    VictoryEndAnimationPath01: string;
-    VoiceEvent01: VoiceEvent;
-    CostumeId02: long;
-    PositionIndex02: int;
-    VictoryStartAnimationPath02: string;
-    VictoryEndAnimationPath02: string;
-    VoiceEvent02: VoiceEvent;
-    CostumeId03: long;
-    PositionIndex03: int;
-    VictoryStartAnimationPath03: string;
-    VictoryEndAnimationPath03: string;
-    VoiceEvent03: VoiceEvent;
-    CostumeId04: long;
-    PositionIndex04: int;
-    VictoryStartAnimationPath04: string;
-    VictoryEndAnimationPath04: string;
-    VoiceEvent04: VoiceEvent;
-    CostumeId05: long;
-    PositionIndex05: int;
-    VictoryStartAnimationPath05: string;
-    VictoryEndAnimationPath05: string;
-    VoiceEvent05: VoiceEvent;
-    CostumeId06: long;
-    PositionIndex06: int;
-    VictoryStartAnimationPath06: string;
-    VictoryEndAnimationPath06: string;
-    VoiceEvent06: VoiceEvent;
-}
-table CharacterVictoryInteractionExcelTable {
-    DataList: [CharacterVictoryInteractionExcel];
 }
 table ClearDeckRuleExcel {
     ContentType: ContentType;
@@ -5370,6 +4064,8 @@ table ConstCommonExcel {
     BattlePassExpIconPath: string;
     CafeCameraDragThreshold: float;
     CafeSummonTicketBuyLimitForValidate: int;
+    AutoCraftPresetCountLimit: int;
+    AutoCraftNodeSelectCount: int;
 }
 table ConstCommonExcelTable {
     DataList: [ConstCommonExcel];
@@ -5443,44 +4139,6 @@ table ConstStrategyExcel {
 table ConstStrategyExcelTable {
     DataList: [ConstStrategyExcel];
 }
-table CostumeExcel {
-    CostumeGroupId: long;
-    CostumeUniqueId: long;
-    DevName: string;
-    ProductionStep: ProductionStep;
-    IsDefault: bool;
-    CollectionVisible: bool;
-    ReleaseDate: string;
-    CollectionVisibleStartDate: string;
-    CollectionVisibleEndDate: string;
-    Rarity: Rarity;
-    CharacterSkillListGroupId: long;
-    SpineResourceName: string;
-    SpineResourceNameDiorama: string;
-    SpineResourceNameDioramaForFormConversion: [string];
-    EntityMaterialType: EntityMaterialType;
-    ModelPrefabName: string;
-    AnimatorName: string;
-    CafeModelPrefabName: string;
-    EchelonModelPrefabName: string;
-    StrategyModelPrefabName: string;
-    TextureDir: string;
-    CollectionTexturePath: string;
-    CollectionBGTexturePath: string;
-    CombatStyleTexturePath: string;
-    UseObjectHPBAR: bool;
-    TextureBoss: string;
-    TextureSkillCard: [string];
-    InformationPacel: string;
-    AnimationSSR: string;
-    EnterStrategyAnimationName: string;
-    AnimationValidator: bool;
-    CharacterVoiceGroupId: long;
-    ShowObjectHpStatus: bool;
-}
-table CostumeExcelTable {
-    DataList: [CostumeExcel];
-}
 table CouponStuffExcel {
     StuffId: long;
     ParcelType: ParcelType;
@@ -5528,485 +4186,8 @@ table DefaultParcelExcel {
 table DefaultParcelExcelTable {
     DataList: [DefaultParcelExcel];
 }
-table EchelonConstraintExcel {
-    GroupId: long;
-    IsWhiteList: bool;
-    CharacterId: [long];
-    PersonalityId: [long];
-    WeaponType: WeaponType;
-    School: School;
-    Club: Club;
-    Role: TacticRole;
-}
-table EchelonConstraintExcelTable {
-    DataList: [EchelonConstraintExcel];
-}
-table EventContentArchiveBannerOffsetExcelTable {
-    DataList: [EventContentArchiveBannerOffsetExcel];
-}
 table EventContentBoxGachaElementExcelTable {
     DataList: [EventContentBoxGachaElementExcel];
-}
-table EventContentBoxGachaManageExcelTable {
-    DataList: [EventContentBoxGachaManageExcel];
-}
-table EventContentBoxGachaShopExcelTable {
-    DataList: [EventContentBoxGachaShopExcel];
-}
-table EventContentBuffExcel {
-    EventContentBuffId: long;
-    IsBuff: bool;
-    CharacterTag: Tag;
-    EnumType: EventContentBuffFindRule;
-    EnumTypeValue: [string];
-    SkillGroupId: string;
-    IconPath: string;
-    SpriteName: string;
-    BuffDescriptionLocalizeCodeId: string;
-}
-table EventContentBuffExcelTable {
-    DataList: [EventContentBuffExcel];
-}
-table EventContentBuffGroupExcelTable {
-    DataList: [EventContentBuffGroupExcel];
-}
-table EventContentCardExcelTable {
-    DataList: [EventContentCardExcel];
-}
-table EventContentCardShopExcel {
-    EventContentId: long;
-    Id: long;
-    Rarity: Rarity;
-    CostGoodsId: long;
-    CardGroupId: int;
-    IsLegacy: bool;
-    RefreshGroup: int;
-    Prob: int;
-    ProbWeight1: int;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardParcelAmount: [long];
-}
-table EventContentCardShopExcelTable {
-    DataList: [EventContentCardShopExcel];
-}
-table EventContentChangeExcel {
-    EventContentId: long;
-    ChangeCount: long;
-    IsLast: bool;
-    RewardParcelType: ParcelType;
-    RewardId: long;
-    RewardAmount: int;
-    ChangeCostType: ParcelType;
-    ChangeCostId: long;
-    ChangeCostAmount: int;
-}
-table EventContentChangeExcelTable {
-    DataList: [EventContentChangeExcel];
-}
-table EventContentChangeScenarioExcel {
-    EventContentId: long;
-    ChangeType: EventChangeType;
-    ChangeCount: long;
-    ScenarioGroupId: long;
-}
-table EventContentChangeScenarioExcelTable {
-    DataList: [EventContentChangeScenarioExcel];
-}
-table EventContentCharacterBonusExcelTable {
-    DataList: [EventContentCharacterBonusExcel];
-}
-table EventContentCollectionExcel {
-    Id: long;
-    EventContentId: long;
-    GroupId: long;
-    UnlockConditionType: CollectionUnlockType;
-    UnlockConditionParameter: [long];
-    MultipleConditionCheckType: MultipleConditionCheckType;
-    UnlockConditionCount: long;
-    IsObject: bool;
-    IsObjectOnFullResource: bool;
-    IsHorizon: bool;
-    EmblemResource: string;
-    ThumbResource: string;
-    FullResource: string;
-    Decoration: string;
-    LocalizeEtcId: uint;
-    SubNameLocalizeCodeId: string;
-}
-table EventContentCollectionExcelTable {
-    DataList: [EventContentCollectionExcel];
-}
-table EventContentCurrencyItemExcel {
-    EventContentId: long;
-    EventContentItemType: EventContentItemType;
-    ItemUniqueId: long;
-    UseShortCutContentType: string;
-}
-table EventContentCurrencyItemExcelTable {
-    DataList: [EventContentCurrencyItemExcel];
-}
-table EventContentDebuffRewardExcel {
-    EventContentId: long;
-    EventStageId: long;
-    EventContentItemType: EventContentItemType;
-    RewardPercentage: long;
-}
-table EventContentDebuffRewardExcelTable {
-    DataList: [EventContentDebuffRewardExcel];
-}
-table EventContentDiceRaceEffectExcel {
-    EventContentId: long;
-    EventContentDiceRaceResultType: EventContentDiceRaceResultType;
-    IsDiceResult: bool;
-    AniClip: string;
-    VoiceId: [uint];
-}
-table EventContentDiceRaceEffectExcelTable {
-    DataList: [EventContentDiceRaceEffectExcel];
-}
-table EventContentDiceRaceExcelTable {
-    DataList: [EventContentDiceRaceExcel];
-}
-table EventContentDiceRaceNodeExcel {
-    EventContentId: long;
-    NodeId: long;
-    EventContentDiceRaceNodeType: EventContentDiceRaceNodeType;
-    MoveForwardTypeArg: int;
-    RewardParcelType: [int];
-    RewardParcelId: [long];
-    RewardAmount: [long];
-}
-table EventContentDiceRaceNodeExcelTable {
-    DataList: [EventContentDiceRaceNodeExcel];
-}
-table EventContentDiceRaceProbExcel {
-    EventContentId: long;
-    EventContentDiceRaceResultType: EventContentDiceRaceResultType;
-    CostItemId: long;
-    CostItemAmount: int;
-    DiceResult: int;
-    Prob: int;
-}
-table EventContentDiceRaceProbExcelTable {
-    DataList: [EventContentDiceRaceProbExcel];
-}
-table EventContentDiceRaceTotalRewardExcelTable {
-    DataList: [EventContentDiceRaceTotalRewardExcel];
-}
-table EventContentFortuneGachaExcelTable {
-    DataList: [EventContentFortuneGachaExcel];
-}
-table EventContentFortuneGachaModifyExcelTable {
-    DataList: [EventContentFortuneGachaModifyExcel];
-}
-table EventContentFortuneGachaShopExcelTable {
-    DataList: [EventContentFortuneGachaShopExcel];
-}
-table EventContentLobbyMenuExcel {
-    EventContentId: long;
-    EventContentType: EventContentType;
-    IconSpriteName: string;
-    ButtonText: string;
-    DisplayOrder: int;
-    IconOffsetX: float;
-    IconOffsetY: float;
-    ReddotSpriteName: string;
-}
-table EventContentLobbyMenuExcelTable {
-    DataList: [EventContentLobbyMenuExcel];
-}
-table EventContentLocationExcel {
-    EventContentId: long;
-    Id: long;
-    LocalizeEtcId: uint;
-    PrefabPath: string;
-    LocationResetScheduleCount: int;
-    ScheduleEventPointCostParcelType: ParcelType;
-    ScheduleEventPointCostParcelId: long;
-    ScheduleEventPointCostParcelAmount: long;
-    RewardParcelType: ParcelType;
-    RewardParcelId: long;
-    InformationGroupId: long;
-}
-table EventContentLocationExcelTable {
-    DataList: [EventContentLocationExcel];
-}
-table EventContentLocationRewardExcelTable {
-    DataList: [EventContentLocationRewardExcel];
-}
-table EventContentMeetupExcel {
-    Id: long;
-    EventContentId: long;
-    CharacterId: long;
-    ConditionScenarioGroupId: long;
-    ConditionType: MeetupConditionType;
-    ConditionParameter: [long];
-    ConditionPrintType: MeetupConditionPrintType;
-}
-table EventContentMeetupExcelTable {
-    DataList: [EventContentMeetupExcel];
-}
-table EventContentMeetupInfoExcel {
-    EventContentId: long;
-    CostParcelType: ParcelType;
-    CostId: long;
-    CostAmount: int;
-}
-table EventContentMeetupInfoExcelTable {
-    DataList: [EventContentMeetupInfoExcel];
-}
-table EventContentMiniEventShortCutExcel {
-    Id: int;
-    LocalizeEtcId: uint;
-    ShorcutContentType: EventTargetType;
-    ShortcutUI: string;
-}
-table EventContentMiniEventShortCutExcelTable {
-    DataList: [EventContentMiniEventShortCutExcel];
-}
-table EventContentMiniEventTokenExcelTable {
-    DataList: [EventContentMiniEventTokenExcel];
-}
-table EventContentMissionExcel {
-    Id: long;
-    EventContentId: long;
-    GroupId: long;
-    GroupName: string;
-    Category: MissionCategory;
-    Description: uint;
-    ResetType: MissionResetType;
-    ToastDisplayType: MissionToastDisplayConditionType;
-    ToastImagePath: string;
-    ViewFlag: bool;
-    DisplayOrder: long;
-    PreMissionId: [long];
-    AccountType: AccountState;
-    AccountLevel: long;
-    ShortcutUI: [string];
-    ChallengeStageShortcut: long;
-    CompleteConditionType: MissionCompleteConditionType;
-    IsCompleteExtensionTime: bool;
-    CompleteConditionCount: long;
-    CompleteConditionParameter: [long];
-    CompleteConditionParameterTag: [int];
-    RewardIcon: string;
-    CompleteConditionMissionId: [long];
-    CompleteConditionMissionCount: long;
-    MissionRewardParcelType: [int];
-    MissionRewardParcelId: [long];
-    MissionRewardAmount: [int];
-    ConditionRewardParcelType: [int];
-    ConditionRewardParcelId: [long];
-    ConditionRewardAmount: [int];
-}
-table EventContentMissionExcelTable {
-    DataList: [EventContentMissionExcel];
-}
-table EventContentPlayGuideExcelTable {
-    DataList: [EventContentPlayGuideExcel];
-}
-table EventContentScenarioExcel {
-    Id: long;
-    EventContentId: long;
-    ReplayDisplayGroup: int;
-    Order: long;
-    RecollectionNumber: long;
-    IsRecollection: bool;
-    IsMeetup: bool;
-    IsOmnibus: bool;
-    ScenarioGroupId: [long];
-    ScenarioConditionType: EventContentScenarioConditionType;
-    ConditionAmount: long;
-    ConditionEventContentId: long;
-    ClearedScenarioGroupId: long;
-    RecollectionSummaryLocalizeScenarioId: uint;
-    RecollectionResource: string;
-    IsRecollectionHorizon: bool;
-    RewardParcelType: [int];
-    RewardId: [long];
-    RewardAmount: [int];
-}
-table EventContentScenarioExcelTable {
-    DataList: [EventContentScenarioExcel];
-}
-table EventContentSeasonExcel {
-    EventContentId: long;
-    OriginalEventContentId: long;
-    IsReturn: bool;
-    Name: string;
-    EventContentType: EventContentType;
-    OpenConditionContent: OpenConditionContent;
-    EventDisplay: bool;
-    IconOrder: int;
-    SubEventType: SubEventType;
-    SubEvent: bool;
-    EventItemId: long;
-    MainEventId: long;
-    EventChangeOpenCondition: long;
-    BeforehandExposedTime: string;
-    EventContentOpenTime: string;
-    EventContentCloseTime: string;
-    ExtensionTime: string;
-    MainIconParcelPath: string;
-    SubIconParcelPath: string;
-    BeforehandBgImagePath: string;
-    MinigamePrologScenarioGroupId: long;
-    BeforehandScenarioGroupId: [long];
-    MainBannerImagePath: string;
-    MainBgImagePath: string;
-    ShiftTriggerStageId: long;
-    ShiftMainBgImagePath: string;
-    MinigameLobbyPrefabName: string;
-    MinigameVictoryPrefabName: string;
-    MinigameMissionBgPrefabName: string;
-    MinigameMissionBgImagePath: string;
-    CardBgImagePath: string;
-    EventAssist: bool;
-    EventContentReleaseType: EventContentReleaseType;
-    EventContentStageRewardIdPermanent: long;
-    RewardTagPermanent: RewardTag;
-    MiniEventShortCutScenarioModeId: long;
-    ScenarioContentCollectionGroupId: long;
-}
-table EventContentSeasonExcelTable {
-    DataList: [EventContentSeasonExcel];
-}
-table EventContentShopExcel {
-    EventContentId: long;
-    Id: long;
-    LocalizeEtcId: uint;
-    CategoryType: ShopCategoryType;
-    IsLegacy: bool;
-    GoodsId: [long];
-    DisplayOrder: long;
-    SalePeriodFrom: string;
-    SalePeriodTo: string;
-    PurchaseCooltimeMin: long;
-    PurchaseCountLimit: long;
-    PurchaseCountResetType: PurchaseCountResetType;
-    BuyReportEventName: string;
-    RestrictBuyWhenInventoryFull: bool;
-}
-table EventContentShopExcelTable {
-    DataList: [EventContentShopExcel];
-}
-table EventContentShopInfoExcel {
-    EventContentId: long;
-    CategoryType: ShopCategoryType;
-    LocalizeCode: uint;
-    CostParcelType: [int];
-    CostParcelId: [long];
-    IsRefresh: bool;
-    IsSoldOutDimmed: bool;
-    AutoRefreshCoolTime: long;
-    RefreshAbleCount: long;
-    GoodsId: [long];
-    OpenPeriodFrom: string;
-    OpenPeriodTo: string;
-    ShopProductUpdateDate: string;
-}
-table EventContentShopInfoExcelTable {
-    DataList: [EventContentShopInfoExcel];
-}
-table EventContentShopRefreshExcel {
-    EventContentId: long;
-    Id: long;
-    LocalizeEtcId: uint;
-    IsLegacy: bool;
-    GoodsId: long;
-    DisplayOrder: long;
-    CategoryType: ShopCategoryType;
-    RefreshGroup: int;
-    Prob: int;
-    BuyReportEventName: string;
-}
-table EventContentShopRefreshExcelTable {
-    DataList: [EventContentShopRefreshExcel];
-}
-table EventContentSpecialOperationsExcelTable {
-    DataList: [EventContentSpecialOperationsExcel];
-}
-table EventContentSpineDialogOffsetExcel {
-    EventContentId: long;
-    EventContentType: EventContentType;
-    CostumeUniqueId: long;
-    SpineOffsetX: float;
-    SpineOffsetY: float;
-    DialogOffsetX: float;
-    DialogOffsetY: float;
-}
-table EventContentSpineDialogOffsetExcelTable {
-    DataList: [EventContentSpineDialogOffsetExcel];
-}
-table EventContentStageExcel {
-    Id: long;
-    Name: string;
-    EventContentId: long;
-    StageDifficulty: StageDifficulty;
-    StageNumber: string;
-    StageDisplay: int;
-    PrevStageId: long;
-    OpenDate: long;
-    OpenEventPoint: long;
-    OpenConditionScenarioPermanentSubEventId: long;
-    PrevStageSubEventId: long;
-    OpenConditionScenarioId: long;
-    OpenConditionContentType: EventContentType;
-    OpenConditionContentId: long;
-    BattleDuration: long;
-    StageEnterCostType: ParcelType;
-    StageEnterCostId: long;
-    StageEnterCostAmount: int;
-    StageEnterEchelonCount: int;
-    StarConditionTacticRankSCount: long;
-    StarConditionTurnCount: long;
-    EnterScenarioGroupId: [long];
-    ClearScenarioGroupId: [long];
-    StrategyMap: string;
-    StrategyMapBG: string;
-    EventContentStageRewardId: long;
-    MaxTurn: int;
-    StageTopography: StageTopography;
-    RecommandLevel: int;
-    BgmId: string;
-    StrategyEnvironment: StrategyEnvironment;
-    GroundID: long;
-    ContentType: ContentType;
-    BGMId: long;
-    InstantClear: bool;
-    BuffContentId: long;
-    FixedEchelonId: long;
-    ChallengeDisplay: bool;
-    StarGoal: [int];
-    StarGoalAmount: [int];
-    IsDefeatBattle: bool;
-    StageHint: uint;
-    EchelonExtensionType: EchelonExtensionType;
-}
-table EventContentStageExcelTable {
-    DataList: [EventContentStageExcel];
-}
-table EventContentStageRewardExcel {
-    GroupId: long;
-    RewardTag: RewardTag;
-    RewardProb: int;
-    RewardParcelType: ParcelType;
-    RewardId: long;
-    RewardAmount: int;
-    IsDisplayed: bool;
-}
-table EventContentStageRewardExcelTable {
-    DataList: [EventContentStageRewardExcel];
-}
-table EventContentStageTotalRewardExcelTable {
-    DataList: [EventContentStageTotalRewardExcel];
-}
-table EventContentZoneExcelTable {
-    DataList: [EventContentZoneExcel];
-}
-table EventContentZoneVisitRewardExcelTable {
-    DataList: [EventContentZoneVisitRewardExcel];
 }
 table FieldContentStageExcel {
     Id: long;
@@ -6183,22 +4364,8 @@ table FieldWorldMapZoneExcel {
 table FieldWorldMapZoneExcelTable {
     DataList: [FieldWorldMapZoneExcel];
 }
-table FloaterCommonExcel {
-    Id: long;
-    TacticEntityType: TacticEntityType;
-    FloaterOffsetPosX: int;
-    FloaterOffsetPosY: int;
-    FloaterRandomPosRangeX: int;
-    FloaterRandomPosRangeY: int;
-}
-table FloaterCommonExcelTable {
-    DataList: [FloaterCommonExcel];
-}
 table GachaSelectPickupGroupExcelTable {
     DataList: [GachaSelectPickupGroupExcel];
-}
-table HpBarAbbreviationExcelTable {
-    DataList: [HpBarAbbreviationExcel];
 }
 table LimitedStageExcel {
     Id: long;
@@ -6255,20 +4422,11 @@ table LimitedStageSeasonExcelTable {
 table LocalizeCCGExcelTable {
     DataList: [LocalizeCCGExcel];
 }
-table LocalizeCharProfileExcelTable {
-    DataList: [LocalizeCharProfileExcel];
-}
 table LocalizeFieldExcelTable {
     DataList: [LocalizeFieldExcel];
 }
 table MinigameCardExcelTable {
     DataList: [MinigameCardExcel];
-}
-table ObstacleFireLineCheckExcelTable {
-    DataList: [ObstacleFireLineCheckExcel];
-}
-table PersonalityExcelTable {
-    DataList: [PersonalityExcel];
 }
 table ProtocolSettingExcel {
     Protocol: string;
@@ -6305,9 +4463,6 @@ table SystemMailExcel {
 }
 table SystemMailExcelTable {
     DataList: [SystemMailExcel];
-}
-table TacticalSupportSystemExcelTable {
-    DataList: [TacticalSupportSystemExcel];
 }
 table TacticArenaSimulatorSettingExcel {
     Order: long;
@@ -6354,9 +4509,6 @@ table TacticDamageSimulatorSettingExcelTable {
 table TacticSimulatorSettingExcelTable {
     DataList: [TacticSimulatorSettingExcel];
 }
-table TacticSkipExcelTable {
-    DataList: [TacticSkipExcel];
-}
 table TacticTimeAttackSimulatorConfigExcelTable {
     DataList: [TacticTimeAttackSimulatorConfigExcel];
 }
@@ -6366,16 +4518,4 @@ table TagExcel {
 }
 table TagExcelTable {
     DataList: [TagExcel];
-}
-table TerrainAdaptationFactorExcel {
-    TerrainAdaptation: StageTopography;
-    TerrainAdaptationStat: TerrainAdaptationStat;
-    ShotFactor: long;
-    BlockFactor: long;
-    AccuracyFactor: long;
-    DodgeFactor: long;
-    AttackPowerFactor: long;
-}
-table TerrainAdaptationFactorExcelTable {
-    DataList: [TerrainAdaptationFactorExcel];
 }

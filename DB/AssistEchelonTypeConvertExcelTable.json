@@ -1,28 +1,3 @@
-{
-  "DataList": [
-    {
-      "Contents": "WorldRaid",
-      "ConvertTo": "Raid"
-    },
-    {
-      "Contents": "EliminateRaid01",
-      "ConvertTo": "Raid"
-    },
-    {
-      "Contents": "EliminateRaid02",
-      "ConvertTo": "Raid"
-    },
-    {
-      "Contents": "EliminateRaid03",
-      "ConvertTo": "Raid"
-    },
-    {
-      "Contents": "Conquest",
-      "ConvertTo": "EventContent"
-    },
-    {
-      "Contents": "ConquestManage",
-      "ConvertTo": "EventContent"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0312f689cbfee56ddc44eceaac720dd3b7699c2a3e2c33f522b9fd5d1e9bdf3c
+size 507

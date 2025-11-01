@@ -1,20 +1,3 @@
-{
-  "DataList": [
-    {
-      "Id": 1,
-      "LocalizeCodeId": 2701768717,
-      "MailType": 13,
-      "MailSendPeriodFrom": "2021-06-23 14:01:00",
-      "MailSendPeriodTo": "2999-12-31 14:00:59",
-      "RewardParcelType": [
-        2
-      ],
-      "RewardParcelId": [
-        3
-      ],
-      "RewardParcelAmount": [
-        1200
-      ]
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ccc1f0307e11e0470c1fa0da49b02acd28d3f17215a525d8fc6bb8c29817406
+size 370

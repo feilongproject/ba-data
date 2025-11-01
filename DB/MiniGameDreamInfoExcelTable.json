@@ -1,34 +1,3 @@
-{
-  "DataList": [
-    {
-      "EventContentId": 836,
-      "DreamMakerMultiplierCondition": "EndingCount",
-      "DreamMakerMultiplierConditionValue": 2,
-      "DreamMakerMultiplierMax": 20,
-      "DreamMakerDays": 7,
-      "DreamMakerActionPoint": 4,
-      "DreamMakerParcelType": "Item",
-      "DreamMakerParcelId": 80420,
-      "DreamMakerDailyPointParcelType": "Item",
-      "DreamMakerDailyPointId": 80423,
-      "DreamMakerParameterTransfer": 4000,
-      "ScheduleCostGoodsId": 130014,
-      "LobbyBGMChangeScenarioId": 11434020
-    },
-    {
-      "EventContentId": 10836,
-      "DreamMakerMultiplierCondition": "EndingCount",
-      "DreamMakerMultiplierConditionValue": 2,
-      "DreamMakerMultiplierMax": 20,
-      "DreamMakerDays": 7,
-      "DreamMakerActionPoint": 4,
-      "DreamMakerParcelType": "Item",
-      "DreamMakerParcelId": 86310,
-      "DreamMakerDailyPointParcelType": "Item",
-      "DreamMakerDailyPointId": 86313,
-      "DreamMakerParameterTransfer": 4000,
-      "ScheduleCostGoodsId": 130023,
-      "LobbyBGMChangeScenarioId": 11434020
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab83d22aa8f79b84211983e38945b1fc97178ad9f8f55d6ee675a0da369d592
+size 1105

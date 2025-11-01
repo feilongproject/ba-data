@@ -1,18 +1,3 @@
-{
-  "DataList": [
-    {
-      "EventContentId": 838,
-      "DefenseBattleParcelType": "Item",
-      "DefenseBattleParcelId": 80450,
-      "DefenseBattleMultiplierMax": 99,
-      "DisableRootMotion": true
-    },
-    {
-      "EventContentId": 10838,
-      "DefenseBattleParcelType": "Item",
-      "DefenseBattleParcelId": 85330,
-      "DefenseBattleMultiplierMax": 99,
-      "DisableRootMotion": true
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b37368e71113c677c549eb4d0038a087f83401ae2326382002d801cd1f1412
+size 427

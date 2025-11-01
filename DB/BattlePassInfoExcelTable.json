@@ -1,27 +1,3 @@
-{
-  "DataList": [
-    {
-      "Id": 1,
-      "FreeRewardGroupID": 10,
-      "PurchaseRewardGroupID": 11,
-      "NormalProductGroupID": 101,
-      "PremiumProductGroupID": 102,
-      "DiscountPremiumProductGroupID": 103,
-      "NextLvNeedExp": 1000,
-      "PassLvUpGoodsID": 300,
-      "BuyPremiumLvUpAmount": 10,
-      "SalePeriodFrom": "2025-07-22 11:00:00",
-      "SalePeriodTo": "2025-08-20 10:59:59",
-      "VideoId": [
-        {}
-      ],
-      "FlavorTextGroupID": 1,
-      "ExclusiveRewardID": 241,
-      "ExclusiveEmblemID": 9100000,
-      "PassExpLocalizeEtcId": 324653115,
-      "LobbyBannerPath": "UIs/00_Images/Common_Icon_BattlePass",
-      "MainIconParcelPath": "UIs/00_Images/BattlePass/BattlePass_Title_1",
-      "PurchaseStepProductImagePath": "UIs/00_Images/BattlePass/TotalReward_Image_BattlePass_S1"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:abf0b4e91222cd203b4fecf1975434769aa788391b522e27c3bd4c513e2bc9b5
+size 857

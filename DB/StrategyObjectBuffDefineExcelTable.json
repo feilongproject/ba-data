@@ -1,32 +1,3 @@
-{
-  "DataList": [
-    {
-      "StrategyObjectBuffID": 10101,
-      "StrategyObjectTurn": 2,
-      "SkillGroupId": "StrategyObject_Buff_StatChange_Attack01",
-      "LocalizeCodeId": 2786542764,
-      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Attack"
-    },
-    {
-      "StrategyObjectBuffID": 10102,
-      "StrategyObjectTurn": 2,
-      "SkillGroupId": "StrategyObject_Buff_StatChange_Attack01",
-      "LocalizeCodeId": 2786542764,
-      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Attack"
-    },
-    {
-      "StrategyObjectBuffID": 10201,
-      "StrategyObjectTurn": 2,
-      "SkillGroupId": "StrategyObject_Buff_StatChange_Defense01",
-      "LocalizeCodeId": 807660114,
-      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Defense"
-    },
-    {
-      "StrategyObjectBuffID": 10202,
-      "StrategyObjectTurn": 2,
-      "SkillGroupId": "StrategyObject_Buff_StatChange_Defense01",
-      "LocalizeCodeId": 807660114,
-      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Defense"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:61dbf33b945f2e3e68bed4333e5f5829f90333aa319fa54440cfee4705dd770a
+size 1071

@@ -1,32 +1,3 @@
-{
-  "DataList": [
-    {
-      "Id": 1000,
-      "TimeAttackDungeonType": "Shooting",
-      "LocalizeEtcKey": 1223379449,
-      "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Boxcat_Terror",
-      "InformationGroupID": 125002
-    },
-    {
-      "Id": 2000,
-      "TimeAttackDungeonType": "Defense",
-      "LocalizeEtcKey": 546386169,
-      "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Decagram_Taser_White",
-      "InformationGroupID": 125003
-    },
-    {
-      "Id": 3000,
-      "TimeAttackDungeonType": "Destruction",
-      "LocalizeEtcKey": 1467902802,
-      "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem03_TimeAttack",
-      "InformationGroupID": 125004
-    },
-    {
-      "Id": 4000,
-      "TimeAttackDungeonType": "Escort",
-      "LocalizeEtcKey": 1161026647,
-      "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Avantgardekun_Millenium_AR",
-      "InformationGroupID": 125005
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fbea3a99c3e5b995a74daa235e9bc12f176d59c7ef6450bb429de3c3e270ea5
+size 953

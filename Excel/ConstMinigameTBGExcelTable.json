@@ -1,27 +1,3 @@
-{
-  "DataList": [
-    {
-      "ConquestMapBoundaryOffsetLeft": 1.1,
-      "ConquestMapBoundaryOffsetRight": 1.1,
-      "ConquestMapBoundaryOffsetTop": 0.7,
-      "ConquestMapBoundaryOffsetBottom": 0.5,
-      "ConquestMapCenterOffsetX": 0,
-      "ConquestMapCenterOffsetY": -1.1,
-      "CameraAngle": -40,
-      "CameraZoomMax": 6.3,
-      "CameraZoomMin": 5,
-      "CameraZoomDefault": 6.3,
-      "ThemaLoadingProgressTime": 3,
-      "MapAllyRotation": 90,
-      "AniAllyBattleAttack": "Normal_Attack_Start;Normal_Attack_Ing;Normal_Attack_End",
-      "EffectAllyBattleAttack": "",
-      "EffectAllyBattleDamage": "",
-      "AniEnemyBattleAttack": "Normal_Attack_Start;Normal_Attack_Ing;Normal_Attack_End",
-      "EffectEnemyBattleAttack": "",
-      "EffectEnemyBattleDamage": "",
-      "EncounterAllyRotation": -45,
-      "EncounterEnemyRotation": 45,
-      "EncounterRewardReceiveIndex": 1
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8f22687554d3c55845b132f1c10e1fa106faa07bfbc5c70cebc0a854fce9cd
+size 928

@@ -1,14 +1,3 @@
-{
-  "DataList": [
-    {
-      "GroupId": 1012223000,
-      "SelectableExSkillGroupId": "CH0294Ex02",
-      "SkillUseConditionLocalizeId": "UI_SelectExSkill_UseCondition_Enemy"
-    },
-    {
-      "GroupId": 1012223000,
-      "SelectableExSkillGroupId": "CH0294Ex02",
-      "SkillUseConditionLocalizeId": "UI_SelectExSkill_UseCondition_Enemy"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3163ca958d236af670147545a79744a07276709535d67d92436176813a8e6ea
+size 705

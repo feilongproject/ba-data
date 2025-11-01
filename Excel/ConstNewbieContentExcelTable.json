@@ -1,12 +1,3 @@
-{
-  "DataList": [
-    {
-      "NewbieGachaReleaseDate": "2024-01-24 04:00:00",
-      "NewbieGachaCheckDays": 28,
-      "NewbieGachaTokenGraceTime": 876000,
-      "NewbieAttendanceReleaseDate": "2022-01-26 04:00:00",
-      "NewbieAttendanceStartableEndDay": 28,
-      "NewbieAttendanceEndDay": 20
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bd110dd769c56c4028552bb67ba571d71d771536316cc200bae95ecd85a87fe
+size 318

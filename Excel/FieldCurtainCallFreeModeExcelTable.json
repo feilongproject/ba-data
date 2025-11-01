@@ -1,34 +1,3 @@
-{
-  "DataList": [
-    {
-      "UniqueId": 1,
-      "OpenDate": 10,
-      "SetFieldDateID": 83306,
-      "SetFieldQuestOpenDate": 4
-    },
-    {
-      "UniqueId": 2,
-      "OpenDate": 11,
-      "SetFieldDateID": 83306,
-      "SetFieldQuestOpenDate": 5
-    },
-    {
-      "UniqueId": 3,
-      "OpenDate": 12,
-      "SetFieldDateID": 83306,
-      "SetFieldQuestOpenDate": 6
-    },
-    {
-      "UniqueId": 4,
-      "OpenDate": 13,
-      "SetFieldDateID": 83306,
-      "SetFieldQuestOpenDate": 7
-    },
-    {
-      "UniqueId": 5,
-      "OpenDate": 14,
-      "SetFieldDateID": 83306,
-      "SetFieldQuestOpenDate": 8
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:92774b1d23dfa26b9ad846ec6078ce4f80d00b5c5ea1d90554805c9522e0b5a0
+size 655

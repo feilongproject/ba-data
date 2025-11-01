@@ -1,36 +1,3 @@
-{
-  "DataList": [
-    {
-      "ContentType": 17,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 9,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 3,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 19,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 8,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 7,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 20,
-      "SizeLimit": 100
-    },
-    {
-      "ContentType": 21,
-      "SizeLimit": 100
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7509d1427d6fe7db0498272474bd8e845963498c0c365b5ea03749fa683dbb65
+size 541
