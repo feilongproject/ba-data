@@ -70,22 +70,6 @@ jobs:
           lfs: true
           ref: JP
 
-      # - name: List directories before overwriting files
-      #   run: |
-      #     dir D:/a/
-      #     dir D:/a/ba-data
-      #     dir D:/a/ba-data/ba-data
-      #     dir D:/a/ba-data/extData/output/table
-      - name: Enable Git LFS for large files
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git lfs install
-          git lfs track "*.json"   # ✅ 追踪所有 json，大文件将自动用 LFS
-          git add .gitattributes
-          git commit -m "Configure Git LFS tracking for JSON files" || echo "No changes to commit"
-
-
       - name: Delete unless file
         run: |
           del -Include *.bytes,*.bytes.d -Recurse *
@@ -113,6 +97,8 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git lfs install
+          git lfs track "*.json"
 
           if (git status --porcelain) {
             Write-Host "Changes detected. Proceeding with commit."
