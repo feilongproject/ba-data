@@ -60,7 +60,8 @@ enum Club : int {
     OccultClub,
     PrefectBrigade,
     FreeTradeCartel,
-    NicomediasTroop
+    NicomediasTroop,
+    PublishingDepartment
 }
 enum ContentType : int {
     None,
@@ -3540,6 +3541,13 @@ table ConstFieldExcel {
     IdleThinkDelayMin: int;
     IdleThinkDelayMax: int;
 }
+table ConstKeyMappingExcel {
+    DragSensitivity: float;
+    PcInformationGroupID: long;
+    ScrollWheelFactor: float;
+    RemoveKeycodeWord: string;
+    TutorialDialogTouchKey: string;
+}
 table ConstMinigameCCGExcel {
     TurnDrawCount: int;
     ConquestMapBoundaryOffsetRight: float;
@@ -3939,7 +3947,6 @@ table ConstCommonExcel {
     BeforehandGachaShopId: int;
     TutorialGachaGoodsId: int;
     EquipmentSlotOpenLevel: [int];
-    ScenarioAutoDelayMillisec: float;
     JoinOrCreateClanCoolTimeFromHour: long;
     ClanMaxMember: long;
     ClanSearchResultCount: long;
@@ -4066,6 +4073,14 @@ table ConstCommonExcel {
     CafeSummonTicketBuyLimitForValidate: int;
     AutoCraftPresetCountLimit: int;
     AutoCraftNodeSelectCount: int;
+    CraftPresetNameMaxLength: int;
+    SelectionWaitTime: long;
+    RewardWaitTime: long;
+    EpisodeContinueWaitTime: long;
+    ScenarioAutoDelayMillisecLong: float;
+    ScenarioAutoDelayMillisec: float;
+    ScenarioAutoDelayMillisecShort: float;
+    ScenarioAutoDelayMillisecVeryShort: float;
 }
 table ConstCommonExcelTable {
     DataList: [ConstCommonExcel];
@@ -4094,6 +4109,9 @@ table ConstEventCommonExcelTable {
 }
 table ConstFieldExcelTable {
     DataList: [ConstFieldExcel];
+}
+table ConstKeyMappingExcelTable {
+    DataList: [ConstKeyMappingExcel];
 }
 table ConstMinigameCCGExcelTable {
     DataList: [ConstMinigameCCGExcel];
