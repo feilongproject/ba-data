@@ -57,11 +57,11 @@ jobs:
         working-directory: cloned-repo/Division
 
       - name: Build the project in Debug mode
-        run: dotnet build --property WarningLevel=0 --configuration Debug --no-restore
+        run: dotnet build --property WarningLevel=0 --property NoWarn=CA2252 --configuration Debug --no-restore
         working-directory: cloned-repo/Division
 
       - name: Run the project executable
-        run: dotnet run --property WarningLevel=0 --configuration Debug
+        run: dotnet run --property WarningLevel=0 --property NoWarn=CA2252 --configuration Debug
         working-directory: cloned-repo/Division
 
       - name: Checkout JP branch of the repository
