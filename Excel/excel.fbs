@@ -61,7 +61,9 @@ enum Club : int {
     PrefectBrigade,
     FreeTradeCartel,
     NicomediasTroop,
-    PublishingDepartment
+    PublishingDepartment,
+    FoxSquad,
+    DivingClub
 }
 enum ContentType : int {
     None,
@@ -86,7 +88,10 @@ enum ContentType : int {
     Chaser,
     FieldContentStage,
     MultiFloorRaid,
-    MinigameDefense
+    MinigameDefense,
+    InteractiveWorldRaid,
+    PermanentRaid,
+    TacticalRelay
 }
 enum CurrencyTypes : int {
     Invalid,
@@ -136,7 +141,13 @@ enum FieldConditionType : int {
     HasKeyword,
     HasEvidence,
     OpenDate,
-    OpenDateAfter
+    OpenDateAfter,
+    Scenario,
+    Timeline
+}
+enum FieldContentType : int {
+    Event,
+    Narrative
 }
 enum FieldDialogType : int {
     None,
@@ -157,7 +168,20 @@ enum FieldDialogType : int {
     Keyword,
     Evidence,
     Chat,
-    Keyword_843
+    Keyword_843,
+    Angry_Nobubble,
+    Sad_Nobubble,
+    Steam_Nobubble,
+    Respond_Nobubble,
+    Sweat_Nobubble,
+    Twinkle_Nobubble,
+    ZZZ_Nobubble,
+    Chat_Nobubble,
+    Keyword_90101000,
+    SNS,
+    ItemSack,
+    ItemFlyer,
+    ItemDocument
 }
 enum FieldWorldMapButtonType : int {
     DefaultMode,
@@ -204,7 +228,15 @@ enum MailType : int {
     Temp_4,
     Temp_5,
     Temp_6,
-    ProductGooglePointReward
+    ProductGooglePointReward,
+    PaymentCenterProduct,
+    PaymentCenterMonthly,
+    PaymentCenterBattlePass,
+    PaymentCenterDailyRecord,
+    ExpiryProductDailyRecordItem,
+    ExpiryStreakRecordItem,
+    ExpirySeasonRecordItem,
+    PaymentCenterStreakRecord
 }
 enum OpenConditionContent : int {
     Shop,
@@ -264,7 +296,13 @@ enum OpenConditionContent : int {
     StrategySkip,
     MinigameDreamMaker,
     MiniGameDefense,
-    MiniGameCCG
+    MiniGameCCG,
+    Main_L_1_5,
+    Main_SNS,
+    PermanentRaid,
+    MinigameJanken,
+    TacticalRelay,
+    Engrave
 }
 enum ParcelType : int {
     None,
@@ -293,7 +331,12 @@ enum ParcelType : int {
     PossessionCheck,
     BattlePassExp,
     SelectedCharacter,
-    UnSelectedCharacter
+    UnSelectedCharacter,
+    ProductBattlePass,
+    ProductSelect,
+    SNSPost,
+    ProductDailyRecord,
+    StudentFrame
 }
 enum Rarity : int {
     N,
@@ -324,7 +367,9 @@ enum RewardTag : int {
     ConquestErosionPenalty,
     GemBonus,
     GemPaid,
-    ConquestTileConquer
+    ConquestTileConquer,
+    Mileage,
+    TacticalRelayWave
 }
 enum ScenarioModeReplayTypes : int {
     None,
@@ -372,7 +417,9 @@ enum ShopCategoryType : int {
     SelectPickupGacha,
     GemDaily,
     GemWeekly,
-    CafeSummonTicket
+    CafeSummonTicket,
+    SelectPickupFesGacha,
+    SelectPickupLimitedGacha
 }
 enum StageDifficulty : int {
     None,
@@ -3446,6 +3493,7 @@ table ConstCombatExcel {
     ShowBufficonExtraPassiveSkill: bool;
     ShowBufficonLeaderSkill: bool;
     ShowBufficonGroundPassiveSkill: bool;
+    ShowBufficonApcSynergyPassiveSkill: bool;
     SuppliesConditionStringId: string;
     PublicSpeechBubbleOffsetX: float;
     PublicSpeechBubbleOffsetY: float;
@@ -3463,6 +3511,7 @@ table ConstCombatExcel {
     EnemyRegenCost: long;
     ChampionRegenCost: long;
     PlayerRegenCostDelay: long;
+    PlayerAutoUseStartDelay: long;
     CrowdControlFactor: long;
     RaidOpenScenarioId: string;
     EliminateRaidOpenScenarioId: string;
@@ -3525,6 +3574,9 @@ table ConstCombatExcel {
     ExcessiveTouchCheckCount: int;
     CampaignAlertPopupLevelGap: int;
     MoveCorrectionSkipRatio: int;
+    ObstacleColliderHeightJumpable: float;
+    ObstacleColliderHeightNotJumpable: float;
+    CheckCheaterMaxUseCostTacticalRelay: int;
 }
 table ConstConquestExcel {
     ManageUnitChange: int;
@@ -3533,6 +3585,12 @@ table ConstConquestExcel {
     AnimationUnitAmountMin: int;
     AnimationUnitAmountMax: int;
     AnimationUnitDelay: float;
+}
+table ConstContentsExcel {
+    UseSearchFieldOptimize: bool;
+    SearchUpdateTime: float;
+    LobbyDayTimeFrom: int;
+    LobbyNightTimeFrom: int;
 }
 table ConstFieldExcel {
     DialogSmoothTime: int;
@@ -3543,10 +3601,22 @@ table ConstFieldExcel {
 }
 table ConstKeyMappingExcel {
     DragSensitivity: float;
-    PcInformationGroupID: long;
     ScrollWheelFactor: float;
     RemoveKeycodeWord: string;
     TutorialDialogTouchKey: string;
+    PcInformationGroupID: long;
+    PcControllerInformationGroupID: long;
+    ControllerCursorFactorSlow: int;
+    ControllerCursorFactor: int;
+    ControllerCursorFactorFast: int;
+    VibrationSec: float;
+    VibrationPower: float;
+    ControllerScrollWheelFactor: float;
+    ControllerZoomSensitivity: float;
+    ControllerDpadMoveCheckRangeX: float;
+    ControllerDpadMoveCheckRangeY: float;
+    ControllerCursorClickScale: float;
+    ControllerScrollSensitivity: float;
 }
 table ConstMinigameCCGExcel {
     TurnDrawCount: int;
@@ -3573,6 +3643,23 @@ table ConstMinigameCCGExcel {
     BaseRewardRerollPoint: int;
     SelectRewardOptionCount: int;
     AlternativeCardImagePath: string;
+}
+table ConstMinigameJankenExcel {
+    TimeLimitPerTurn: int;
+    MaxDamageRate: int;
+    DamageCurveCoefficient: float;
+    DrawConstantAttack: int;
+    DrawConstantBlock: int;
+    WinSceneRate: int;
+    LoseSceneRate: int;
+    EnemyAppearRate: int;
+    PlayerSpAtkConditionRate: int;
+    EnemySpAtkConditionRate: int;
+    ATGGroggyFixedDamage: int;
+    MaxSkillCost: int;
+    TimeLimitQTE: int;
+    StageOutroTimeOffset: int;
+    UIBossHpBarCount: int;
 }
 table ConstMinigameRoadPuzzleExcel {
     RoadPuzzleMapBoundaryOffsetLeft: float;
@@ -3702,6 +3789,7 @@ table FieldQuestExcel {
     IsDaily: bool;
     FieldDateId: long;
     Opendate: long;
+    QuestGroupId: long;
     AssetPath: string;
     RewardId: long;
     Prob: int;
@@ -3748,6 +3836,16 @@ table LocalizeCCGExcel {
     Jp: string;
 }
 table LocalizeFieldExcel {
+    Key: uint;
+    Kr: string;
+    Jp: string;
+}
+table LocalizeKeyMappingExcel {
+    Key: uint;
+    Kr: string;
+    Jp: string;
+}
+table LocalizeSNSExcel {
     Key: uint;
     Kr: string;
     Jp: string;
@@ -3905,7 +4003,6 @@ table ConstCommonExcel {
     HardStageCount: int;
     TacticRankClearTime: int;
     BaseTimeScale: long;
-    GachaPercentage: int;
     AcademyFavorZoneId: long;
     CafePresetSlotCount: int;
     CafeMonologueIntervalMillisec: long;
@@ -3973,7 +4070,6 @@ table ConstCommonExcel {
     PostExpiredDayInventoryOverflow: int;
     PostExpiredDayGameManager: int;
     UILabelCharacterWrap: string;
-    RequestTimeOut: float;
     MailStorageSoftCap: int;
     MailStorageHardCap: int;
     ClearDeckStorageSize: int;
@@ -4009,6 +4105,10 @@ table ConstCommonExcel {
     MonthlyProductRepurchasePopupLimit: int;
     CommonFavorItemTags: [int];
     MaxApMasterCoinPerWeek: long;
+    PlusMaxApMasterCoinPerWeekProductMonthlyId1: [long];
+    PlusMaxApMasterCoinPerWeek1: long;
+    PlusMaxApMasterCoinPerWeekProductMonthlyId2: [long];
+    PlusMaxApMasterCoinPerWeek2: long;
     CraftOpenExpTier1: long;
     CraftOpenExpTier2: long;
     CraftOpenExpTier3: long;
@@ -4039,6 +4139,7 @@ table ConstCommonExcel {
     BeforehandGachaGroupId: int;
     RenewalDisplayOrderDay: int;
     EmblemDefaultId: long;
+    StudentFrameDefaultId: long;
     BirthdayMailStartDate: string;
     BirthdayMailRemainDate: int;
     BirthdayMailParcelType: ParcelType;
@@ -4081,12 +4182,30 @@ table ConstCommonExcel {
     ScenarioAutoDelayMillisec: float;
     ScenarioAutoDelayMillisecShort: float;
     ScenarioAutoDelayMillisecVeryShort: float;
+    PcBuildEnterInformation: int;
+    ComebackUserStandardDay: int;
+    ComebackUserLogSaveDay: int;
+    ComeBackActivateCooldown: int;
+    CafeCopyPresetSlotCount: int;
+    ExpiryProductDailyRecordItemReceiveDay: int;
+    NewbieUserStandardDay: int;
+    NewbieStateHoldDay: int;
+    ClearDeckEchelonShowMaxCount: int;
+    ExpiryStreakRecordItemReceiveDay: int;
+    ExpirySeasonRecordItemReceiveDay: int;
+    EngraveContentsIsOpen: bool;
+    TacticalRelayContentsIsOpen: bool;
+    ExSkillLevelMaxByEngrave: int;
+    ExSkillUpgradeLevelMax: int;
 }
 table ConstCommonExcelTable {
     DataList: [ConstCommonExcel];
 }
 table ConstConquestExcelTable {
     DataList: [ConstConquestExcel];
+}
+table ConstContentsExcelTable {
+    DataList: [ConstContentsExcel];
 }
 table ConstEventCommonExcel {
     EventContentHardStageCount: int;
@@ -4115,6 +4234,9 @@ table ConstKeyMappingExcelTable {
 }
 table ConstMinigameCCGExcelTable {
     DataList: [ConstMinigameCCGExcel];
+}
+table ConstMinigameJankenExcelTable {
+    DataList: [ConstMinigameJankenExcel];
 }
 table ConstMinigameRoadPuzzleExcelTable {
     DataList: [ConstMinigameRoadPuzzleExcel];
@@ -4153,6 +4275,7 @@ table ConstStrategyExcel {
     MultiSweepPresetSelectStageMaxCount: int;
     MultiSweepPresetMaxSweepCount: int;
     MultiSweepPresetSelectParcelMaxCount: int;
+    TacticalRelayEchelonCount: int;
 }
 table ConstStrategyExcelTable {
     DataList: [ConstStrategyExcel];
@@ -4332,6 +4455,7 @@ table FieldSceneExcelTable {
 }
 table FieldSeasonExcel {
     UniqueId: long;
+    FieldContentType: FieldContentType;
     EventContentId: long;
     EntryDateId: long;
     InstantEntryDateId: long;
@@ -4443,6 +4567,12 @@ table LocalizeCCGExcelTable {
 table LocalizeFieldExcelTable {
     DataList: [LocalizeFieldExcel];
 }
+table LocalizeKeyMappingExcelTable {
+    DataList: [LocalizeKeyMappingExcel];
+}
+table LocalizeSNSExcelTable {
+    DataList: [LocalizeSNSExcel];
+}
 table MinigameCardExcelTable {
     DataList: [MinigameCardExcel];
 }
@@ -4475,6 +4605,8 @@ table ScenarioScriptField1ExcelTable {
 }
 table SystemMailExcel {
     MailType: MailType;
+    IsProductMail: bool;
+    IsVariableExpiredDay: bool;
     ExpiredDay: long;
     Sender: string;
     Comment: string;
