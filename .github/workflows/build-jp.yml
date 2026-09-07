@@ -36,7 +36,6 @@ jobs:
         run: |
           mkdir extData
           cp launchSettings.json cloned-repo/Division/Properties/launchSettings.json
-          cp appsettings.json cloned-repo/Division/appsettings.json
           cp global.json cloned-repo/global.json
 
       - name: Set up .NET environment
